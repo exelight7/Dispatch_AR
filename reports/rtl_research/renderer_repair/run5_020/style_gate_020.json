@@ -1,0 +1,81 @@
+{
+  "status": "R8B_STYLE_TABLE_REJECTED_BY_URICHTEXTBLOCK",
+  "exe_sha256": "365637a77d4b74a61d198a9927e3dcd437bf3be2247b96fcbe5c2e851ac14923",
+  "ProtoRichTextStyleRow": {
+    "params_rva": "0x400b3b0",
+    "size_of": 664,
+    "properties": [
+      "TextStyle",
+      "PrintLetterAnimationTime",
+      "PrintLetterInterval",
+      "UseAdvancedPrintIntervals",
+      "CommaInterval",
+      "SentenceInterval",
+      "EllipsisInterval",
+      "MidWordDashInterval",
+      "SpaceInterval"
+    ],
+    "super_func_rva": "0x28123b0",
+    "super": "TableRowBase"
+  },
+  "RichTextStyleRow": {
+    "params_rva": "0x4062250",
+    "size_of": 632,
+    "properties": [
+      "TextStyle"
+    ],
+    "super_func_rva": "0x28123b0",
+    "super": "TableRowBase"
+  },
+  "rebuild_style_instance": {
+    "function_rva": "0x1ec95e0",
+    "size": 363,
+    "RichTextStyleRow_registrar_rva": "0x6dc7f0",
+    "gate_instructions": [
+      "1ec96fa mov rax, qword ptr [r13 + 0x140]",
+      "1ec9701 test rax, rax",
+      "1ec9704 je 0x141ec9954",
+      "1ec970a mov rdi, qword ptr [rax + 0x28]",
+      "1ec970e call 0x141f10390",
+      "1ec9713 test rax, rax",
+      "1ec9716 je 0x141ec9954",
+      "1ec971c lea rdx, [rax + 0x30]",
+      "1ec9720 movsxd rax, dword ptr [rax + 0x38]",
+      "1ec9724 cmp eax, dword ptr [rdi + 0x38]",
+      "1ec9727 jg 0x141ec973a",
+      "1ec9729 mov rcx, rax",
+      "1ec972c mov rax, qword ptr [rdi + 0x30]",
+      "1ec9730 cmp qword ptr [rax + rcx*8], rdx",
+      "1ec9734 jne 0x141ec973a",
+      "1ec9736 mov al, 1",
+      "1ec9738 jmp 0x141ec973c"
+    ]
+  },
+  "installed_tables_row_struct": {
+    "DT_AR_Fill": {
+      "ProtoRichTextStyleRow": true,
+      "/Script/ProtoAnimatedText": true,
+      "exact RichTextStyleRow name": false,
+      "/Script/UMG": false
+    },
+    "DT_AR_Fill_Large": {
+      "ProtoRichTextStyleRow": true,
+      "/Script/ProtoAnimatedText": true,
+      "exact RichTextStyleRow name": false,
+      "/Script/UMG": false
+    },
+    "DT_AR_Outline": {
+      "ProtoRichTextStyleRow": true,
+      "/Script/ProtoAnimatedText": true,
+      "exact RichTextStyleRow name": false,
+      "/Script/UMG": false
+    },
+    "DT_AR_Outline_Large": {
+      "ProtoRichTextStyleRow": true,
+      "/Script/ProtoAnimatedText": true,
+      "exact RichTextStyleRow name": false,
+      "/Script/UMG": false
+    }
+  },
+  "conclusion": "Both row structs derive directly from FTableRowBase, so DT_AR_* (ProtoRichTextStyleRow) fail IsChildOf(FRichTextStyleRow); URichTextBlock keeps an empty style set: no Default and no u0..u36 rows."
+}

@@ -1,0 +1,300 @@
+1000 104:Line:80B9419D9D0E459290159F505A65533E [Robert]
+EN I don’t know, but that doesn’t really concern you anymore. |You can’t just force your way back into her life.
+AR لا أعرف، لكن ذلك لم يعد شأنك. |لا يمكنك اقتحام حياتها عنوة.
+1001 104:Line:10076E4E261D417E862719D6F398B88F [Flambae]
+EN I don’t know. I don’t think about that cause it won’t happen. |'cause I’m not a fuckin’ idiot food thrower awayer. 
+AR لا أعرف. لا أفكر في هذا لأنه لن يحدث. |لأنني لست أحمق لعينا يرمي الطعام. 
+1002 104:Line:450D7F3B55674111B99E0672033131B3 [Blonde Blazer]
+EN I don’t know... it’s probably healthier if I don’t. 
+AR لا أدري... ربما الأفضل لصحتي ألا أفعل. 
+1003 104:Line:16B23502AA924EF2BCEA595E6EACD2CF [Robert]
+EN I don’t know... maybe it was a mistake. |Maybe we should’ve given ‘em more of a shot. 
+AR لا أدري... ربما كان خطأ. |ربما كان علينا منحهما فرصة أكبر. 
+1004 104:Line:36F16F48894C431B835CF1A2FAB833CA [Robert]
+EN I don’t need to hear your sex stories. 
+AR لا أحتاج لسماع قصصك الجنسية. 
+1005 104:Line:571A76788D3245938A7CBCA688D85D76 [Robert]
+EN I don’t think it’s a stutter.
+AR لا أظنها تلعثما.
+1006 104:Line:8B570817A0144CE0969F837609CC83FE [Robert]
+EN I don’t think that’s healthy. |You should have more loves in the world. 
+AR لا أظن هذا صحيا. |يجب أن تحب أشياء أكثر في العالم. 
+1007 104:Line:5C7B2E4102114327894B95C2986B1FCA [Robert]
+EN I don’t think you have a stutter. |I think you have a confidence issue. |You’re worried you’re gonna say the wrong thing, |so you won’t finish a sentence. |I’m blowing your mind?
+AR لا أظن أنك تعاني تلعثما. |أظن مشكلتك في الثقة. |تخاف أن تقول شيئا خاطئا، |فلا تنهي جملك. |هل أذهلتك؟
+1008 104:Line:D3028D1B45A04D9BA1C500AC19C6DBD6 [Robert]
+EN I don’t totally know what you mean, but, okay?
+AR لا أفهم تماما ما تقصده، لكن، حسنا؟
+1009 104:Line:7383DCBB095943B185719B5FACA37D7B [Robert]
+EN I don’t wanna be a snitch, but Flambae accidentally made a mess.
+AR لا أريد الوشاية، لكن فلامباي أحدث فوضى بالخطأ.
+1010 104:Line:917E4F7685E9436CB2FCBD6CEFDADC48 [Robert]
+EN I don’t wanna be a snitch, but Flambae was really hungry. |I mean look at him.
+AR لا أريد الوشاية، لكن فلامباي كان جائعا جدا. |أعني، انظر إليه.
+1011 104:Line:1EC6BC7103EC48659332D6FBB2B63CB3 [Flambae]
+EN I don’t-- want the-- fuckin’ trash noodles-- Wetfartboy.
+AR لا أريد-- نودلز القمامة-- اللعينة-- يا فتى الضراط المبلل.
+1012 104:Line:34B9EB3372894DA88010C24784F7756F [Phenomaman]
+EN I feel great. I doubted Earthlings capability for advanced medical science. You're so underdeveloped in countless other ways.
+AR أشعر بروعة. شككت في قدرة الأرضيين على الطب المتقدم. أنتم متخلفون في نواح لا تحصى.
+1013 104:Line:5B61C94D2D274D54B89306A0A518B4AA [Malevola]
+EN I feel like working at a gas station would be pretty chill.
+AR أظن العمل بمحطة وقود سيكون مريحا.
+1014 104:Line:454364748E8E400885C8D000B7FF1C9A [Sonar]
+EN I feel like you didn't look.
+AR أشعر بأنك لم تنظر.
+1015 104:Line:36679D23056C4F819B9A5D71A1AA2EBB [Robert]
+EN I felt the same.
+AR شعرت بالمثل.
+1016 104:Line:99772AC191D24C0A8CD4E1F3E01019A0 [Phenomaman]
+EN I float.
+AR أنا أطفو.
+1017 104:Line:41E703733F4C49E9A7EAE19B31397FCA [Invisigal]
+EN I fuckin' love Sour Patch Kids.
+AR أحب ساور باتش كيدز اللعينة.
+1018 104:Line:49E05B7A32B4435785ACE86D2F47F687 [Robert]
+EN I guess that's good.
+AR أظن هذا جيد.
+1019 104:Line:10815DACA57F400A965160A21B223903 [Invisigal]
+EN I had a dream last night that we were fucking.
+AR حلمت الليلة الماضية بأننا نمارس الجنس.
+1020 104:Line:2FC4613A36AD4751A64E1BA46783E271 [Invisigal]
+EN I had no idea Blazer was such a heartbreaker.
+AR لم أكن أعرف أن بليزر تحطم القلوب هكذا.
+1021 104:Line:2A1E84B03E0A4227A43276747D0752D7 [Prism]
+EN I hate pets with bad attitudes.
+AR أكره الحيوانات الأليفة سيئة الطباع.
+1022 104:Line:182A6E6078F340F4B6E42B198551F308 [Robert]
+EN I have a lot of follow up questions, but... I don't care about the answers.
+AR لدي أسئلة كثيرة أخرى، لكن... لا أهتم بإجاباتها.
+1023 104:Line:A8EA1FD5C18A4599AC905A0B3CB5E726 [Phenomaman]
+EN I have been better, Robert Robertson. |The Blonde Blazer and I have ended our relationship. 
+AR سبق أن كنت أفضل يا روبرت روبرتسون. |أنهينا أنا وبلوند بليزر علاقتنا. 
+1024 104:Line:089F40F2DC0F486994D175D007330D1F [Phenoma-Man]
+EN I have been punched harder than expected.
+AR تلقيت لكمة أقوى مما توقعت.
+1025 104:Line:17062E4884B7472BA74C44D7B2A5BF20 [Phenoma-Man]
+EN I have now reached my true potential. Perhaps there is meaning to be found in suffering.
+AR بلغت الآن كامل إمكاناتي. ربما يوجد معنى في المعاناة.
+1026 104:Line:5E7C1D50DA1A47BAA26F2CBC4DC469FC [Phenomaman]
+EN I have procured a new green/blue deck. Shall we play after work?
+AR حصلت على مجموعة أوراق جديدة خضراء وزرقاء. أنلعب بعد العمل؟
+1027 104:Line:01617D5405B042168B2C354DC810C0B2 [Phenomaman]
+EN I have returned victorious yet again!
+AR عدت منتصرا مرة أخرى!
+1028 104:Line:664A5B8DF5FE4CF1A20BEF5F503B1D8E [Robert]
+EN I have that one too. 
+AR لدي هذه أيضا. 
+1029 104:Line:2357A83DC25C4601B8DA9AFA034D75EF [Punch-Up]
+EN I have thick skin, metaphorically and uh, literally.
+AR جلدي سميك، مجازيا وحرفيا.
+1030 104:Line:3184B5FD4E404687AC6A93C16FAF1BF4 [Punch Up]
+EN I have thick skin, metaphorically and uh, literally.
+AR جلدي سميك، مجازيا وحرفيا.
+1031 104:Line:19EAA3BAC7BB40AE87A788FDC828599E [Prism]
+EN I haven't played a mall in years.
+AR لم أقدم عرضا في مركز تسوق منذ سنوات.
+1032 104:Line:D464FBC6C97146B0A2430356D8AD3BBE [Invisigal]
+EN I haven’t decided yet.
+AR لم أقرر بعد.
+1033 104:Line:43A504BAF8CA40E1A9465EB646F6C93E [Blonde Blazer]
+EN I hear ya. |Uhm, I might have him take care of this mess before he starts but, yeah. |Let’s go with it. I’ll let him know. He really looks up to you. 
+AR أفهمك. |ربما أجعله ينظف هذه الفوضى قبل أن يبدأ، لكن، أجل. |لنعتمد ذلك. سأخبره. إنه يعتبرك قدوة حقا. 
+1034 104:Line:432E05DC16F54BE6AC7D24B2C261B848 [Sonar]
+EN I imagine Coop and Visi all the time... 
+AR أتخيل كوب وفيزي طوال الوقت... 
+1035 104:Line:17DC0D926DE9424CA86E19C23F13D4EB [Sonar]
+EN I just wanna make sure it's there. It's a nice stapler.
+AR أريد فقط التأكد من وجودها. إنها دباسة جميلة.
+1036 104:Line:B22FDDE0614C4F5CBF60CC6268BE2CB9 [Robert]
+EN I just wanted to hear you say it.
+AR أردت سماعك تقولها فقط.
+1037 104:Line:215CBD7284BE4DC7AF1E424FFBA62253 [Prism]
+EN I know I didn't just get ditched.
+AR لا أصدق أنني تركت هكذا.
+1038 104:Line:2BB9719FAFB049179D3F080ECF7DE395 [Robert]
+EN I know a way to cool them off.
+AR أعرف كيف أبرد غضبهم.
+1039 104:Line:4E960165EF024A38B9C30E7292FCE2AA [Robert]
+EN I know, it’s crazy.
+AR أعرف، إنه جنون.
+1040 104:Line:2AD52FBDF3C0412FA83252BE3BF5445F [Sonar]
+EN I left it in a locker at the gym.
+AR تركته في خزانة الصالة الرياضية.
+1041 104:Line:1B058352F4484B04BBCC274B0C71ADFA [Golem]
+EN I like the mall.
+AR أحب مركز التسوق.
+1042 104:Line:21ED547E49484D778FB379E9D5A4CFAD [Robert]
+EN I like to bust after every big bust, you know? |And I was pretty successful, so, you can imagine.  
+AR أحب القذف بعد كل قضية كبيرة، تفهم؟ |وقد نجحت جدا، فتخيل.  
+1043 104:Line:5610D9DCA1C94E54A53908D9065EDCA1 [Flambae]
+EN I like to think it's because the guy who invented them was an alcoholic.
+AR أحب أن أظن أن مخترعها كان مدمنا للكحول.
+1044 104:Line:2267BF3CB61444E1951CB6C8AAC41B7C [Phenomaman]
+EN I love the city of Greater Los Angeles, and all of the cities inside of that city.
+AR أحب مدينة لوس أنجلوس الكبرى وكل المدن داخل تلك المدينة.
+1045 104:Line:308008581C3A46548326C2BB42505AA3 [Malevola]
+EN I mean, I do know where their church is located. I could snoop around.
+AR أعني، أعرف أين تقع كنيستهم. يمكنني التسلل للتفتيش.
+1046 104:Line:45CB15869DEE4381804694A8D836D454 [Blonde Blazer]
+EN I mean, he’s already hanging around, |so he may as well be doing some good. |Instead of moping around the parking lot, crushing cars.
+AR أعني، هو هنا بالفعل، |فليقم بشيء مفيد. |بدلا من الكآبة في الموقف وسحق السيارات.
+1047 104:Line:57ECD47CED864103B3814290C329E6BC [Invisigal]
+EN I mean, obviously you have, right? |I should really be asking how often?
+AR أعني، طبعا فعلت ذلك، صحيح؟ |الأولى أن أسأل: كم مرة؟
+1048 104:Line:273272DB96454437B308E192E769B1A8 [Phenomaman]
+EN I must excuse myself to cry... again.
+AR علي الاستئذان لأبكي... مجددا.
+1049 104:Line:27A366FD873E4E999AA720C00B54F896 [Phenoma-Man]
+EN I must rest.
+AR يجب أن أرتاح.
+1050 104:Line:63C6BB3D29714DCCA6DE0C6F4AD92A52 [Phenoma-Man]
+EN I now believe that you had nothing to do with our breakup.
+AR أصدق الآن أنك لم تكن سبب انفصالنا.
+1051 104:Line:84F20B4778994E1EB7582DA0DEBED6E3 [Phenoma-Man]
+EN I now see that there is value in that.
+AR أرى الآن أن لذلك قيمة.
+1052 104:Line:163BDB957792406C836FF5D126A81BC1 [Phenomaman]
+EN I now understand the true power of work-life balance.
+AR أفهم الآن القوة الحقيقية للتوازن بين العمل والحياة.
+1053 104:Line:AA61E2351B594082A35BF8BDAA10BF3B [Phenoma-Man]
+EN I prefer when problems have solutions. 
+AR أفضل أن تكون للمشكلات حلول. 
+1054 104:Line:0BCCCF1DA38D41A1B2534A2607223337 [Punch-Up]
+EN I say we let 'em fight it out.
+AR أقترح أن ندعهم يتقاتلون حتى يحسموها.
+1055 104:Line:340A8927EF2944A19576E508813FB49A [Coupe]
+EN I see how it is.
+AR هكذا إذن.
+1056 104:Line:2D69E6D45C5E4C2394BE8F898465B253 [Phenomaman]
+EN I see.
+AR فهمت.
+1057 104:Line:055DA27738574E5CB2CFE72B357993EF [Phenomaman]
+EN I see...
+AR فهمت...
+1058 104:Line:01DBBF5764A94BC68474B57BE4FDFF2B [Phenomaman]
+EN I shall attempt to console them with my newfound understanding of emotional pain.
+AR سأحاول مواساتهم بفهمي الجديد للألم النفسي.
+1059 104:Line:56390AC0589E460C908ED84F79262ED4 [Phenoma-Man]
+EN I should have seen this one coming.
+AR كان علي توقع هذا.
+1060 104:Line:1305A948C39F4CA4A885301C006ECDB2 [Punch-Up]
+EN I showed them "the sheep herder," works every time.
+AR أريتهم "راعي الغنم"، تنجح دائما.
+1061 104:Line:2CFA4B1C955E40009A709B117934D2DF [Malevola]
+EN I think I'm done here.
+AR أظنني انتهيت هنا.
+1062 104:Line:099F7EEA87954F34BC1F650B19778380 [Robert]
+EN I think we’re getting there, don’t you?
+AR أظننا نحرز تقدما، ألا ترى؟
+1063 104:Line:05CDAA5A8E7C4159AB959C2A921D690A [Golem]
+EN I think you've got it backwards, bro.
+AR أظنك فهمتها بالعكس يا أخي.
+1064 104:Line:D8BC1538F0C94FB6AD6F716C4E956439 [Robert]
+EN I think you... look incredible. 
+AR أظنك... تبدين مذهلة. 
+1065 104:Line:25DA9163AB6541A7884EB63F64688F16 [Punch Up]
+EN I thought we were supposed to be getting help.
+AR ظننت أننا سنحصل على مساعدة.
+1066 104:Line:0F7DCB8986E14E068BC279CBF1EC66E1 [Golem]
+EN I understand.
+AR أفهم.
+1067 104:Line:59D67BD61DDC44A9BE0BC7CB9BCD7E94 [Waterboy]
+EN I understand...
+AR أفهم...
+1068 104:Line:861BC23786454226BC1CD84DFA60DFFE [Chase]
+EN I was gonna go with wet baby bitch boy. |But yeah, we can go with yours.
+AR كنت سأقول طفل مبلل جبان. |لكن أجل، لنعتمد تسميتك.
+1069 104:Line:8FD3BA467ACE41C7B38ED6D65BB9C443 [Chase]
+EN I was gonna say sad sack sonuvabitch. |But yeah, let’s go with yours.
+AR كنت سأقول ابن كلب بائس. |لكن أجل، لنعتمد تسميتك.
+1070 104:Line:190B455EC5C243E8B0A0D0B4A2CF3F1E [Blonde Blazer]
+EN I was supposed to be going with him |but I don’t think he’s gonna be making it. 
+AR كان يفترض أن أذهب معه، |لكنني لا أظنه سيتمكن من الحضور. 
+1071 104:Line:2F27804C3FCF44ECA99906AA7D532945 [Sonar]
+EN I wasn't sure about it either.
+AR لم أكن واثقا منه أيضا.
+1072 104:Line:2A7674CE6D23448E9ECBFE3ACF29E86F [Blonde Blazer]
+EN I wasn’t fishing for compliments. I was asking about the dress. 
+AR لم أكن أستجدي المديح. كنت أسأل عن الفستان. 
+1073 104:Line:599BA081A85C4C368C747928BDE0A826 [Phenomaman]
+EN I will be going now.
+AR سأذهب الآن.
+1074 104:Line:2BC89C3D9BF445D6B28FE3679BB274B3 [Coupe]
+EN I will lend the woman a knife.
+AR سأعير المرأة سكينا.
+1075 104:Line:08A5FBA71B804BA1A5F0CEB05F091740 [Phenoma-Man]
+EN I will never forget the care you have showed me this day.
+AR لن أنسى أبدا العناية التي أبديتها لي اليوم.
+1076 104:Line:127DB012AEDF4C908723EBC8BEDCFC3A [Phenoma-Man]
+EN I will not retreat! There's evil afoot.
+AR لن أنسحب! الشر يتربص.
+1077 104:Line:0006D1ADB8444E76BEDCF3E60B57DAAB [Waterboy]
+EN I will warm the bench!
+AR سألازم دكة البدلاء!
+1078 104:Line:111728B525D54BB08255C47F72BBFC54 [Robert]
+EN I worry the answer might be... sad.
+AR أخشى أن تكون الإجابة... محزنة.
+1079 104:Line:4030150BF9E74995AF9BE7119A0C96CD [Phenoma-Man]
+EN I would like some stitches. Please.
+AR أريد بعض الغرز. رجاء.
+1080 104:Line:B687EE8992884894868957F73ACB7C91 [Robert]
+EN I would love that.
+AR يسعدني ذلك.
+1081 104:Line:35B8079BB2B64CAFB07A1499168496D6 [Golem]
+EN I would've done a good job though.
+AR لكنني كنت سأبلي جيدا.
+1082 104:Line:4ECE47A7322746468563A687B8C21E7A [Punch-Up]
+EN I'd be right quick about it if I was you.
+AR لو كنت مكانك لأسرعت.
+1083 104:Line:330BCCE4028C442D8456D1B0805E980C [Prism]
+EN I'd fuck with a pet store.
+AR قد يعجبني العمل في متجر حيوانات.
+1084 104:Line:14C78F502AB340B9A6982768D83E48FB [Punch-Up]
+EN I'd rather dip my fists in a bowl of fire ants.
+AR أفضل غمس قبضتي في وعاء نمل ناري.
+1085 104:Line:30A79BD1912A4F51A4716FF22D2E6585 [Punch-Up]
+EN I'll be here.
+AR سأكون هنا.
+1086 104:Line:393A91A0160943A48B6CE1D98F823D6B [Prism]
+EN I'll be in my trailer.
+AR سأكون في مقطورتي.
+1087 104:Line:4BF119CFB7F6481180B2DF2F049DE1AF [Invisigal]
+EN I'll be ready for the next one.
+AR سأكون جاهزة للتالية.
+1088 104:Line:1179A1CD6AE3451FAE9031F548D5AB3C [Coupe]
+EN I'll be waiting.
+AR سأنتظر.
+1089 104:Line:492C60887B7C42038BB48D1CFAD28918 [Invisigal]
+EN I'll bring popcorn... <Italic>kidding</>.
+AR سأحضر الفشار... <Italic>أمزح</>.
+1090 104:Line:46070314BE6C41BD8779EE94F721B8D0 [Waterboy]
+EN I'll do it! Yep, I'm there!
+AR سأفعلها! أجل، أنا قادم!
+1091 104:Line:4AD3256A846A4A268A5BA2D0EA2E0193 [Golem]
+EN I'll hang back.
+AR سأبقى في الخلف.
+1092 104:Line:08D668F196D642FFBFAE8FA751426785 [Coupe]
+EN I'll take this one.
+AR سأتولى هذه.
+1093 104:Line:2F3E126CFC6B43139AFBD85391D5508C [Sonar]
+EN I'll try not to read into it.
+AR سأحاول ألا أفسره كثيرا.
+1094 104:Line:1D294D3ABF9F405F904437A96554CC6C [Golem]
+EN I'm a dad now.
+AR أصبحت أبا الآن.
+1095 104:Line:4B554C36A893412FB90D1B409581269D [Waterboy]
+EN I'm getting the hang-- I'm getting better at this.
+AR بدأت أتقن-- أتحسن في هذا.
+1096 104:Line:0616BC775E6E46558E10F006C4481587 [Invisigal]
+EN I'm guessing P-Man doesn't <Italic>also</> turn invisible...
+AR أفترض أن بي مان لا يصبح خفيا <Italic>أيضا</>...
+1097 104:Line:18DAF25F91CC420B952E4DDBA3EC88D4 [Invisigal]
+EN I'm just impressed. Didn't think she had it in her.
+AR أنا منبهرة فحسب. لم أظنها قادرة على ذلك.
+1098 104:Line:60171EFB37A34A37BD661508EBFE53F7 [Invisigal]
+EN I'm not gonna fuck you just cause you bought me a bucket of corn.
+AR لن أضاجعك لمجرد أنك اشتريت لي دلوا من الذرة.
+1099 104:Line:4EA885363C1640FAAC68ADDCC42FF76E [Waterboy]
+EN I'm out.
+AR أنا خارج.

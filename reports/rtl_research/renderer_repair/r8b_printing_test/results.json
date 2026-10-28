@@ -1,0 +1,865 @@
+{
+	"environment":
+	{
+		"engine_version": "5.8.4-58902052+++UE5+Release-5.8",
+		"rhi": "D3D12",
+		"label": "UE ISOLATED TEST (UE 5.8.4, NOT 4.27) - NOT DISPATCH"
+	},
+	"R8_retainer_no_requestrender_stale_steps_speaker": 2,
+	"R8_retainer_no_requestrender_stale_steps_long_wrap": 36,
+	"R8_lines": [
+		{
+			"id": "salam",
+			"markup": "<u0>السلام</> <u1>عليكم</>",
+			"foreground":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1354,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1354,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2991,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 955,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "salam_marks",
+			"markup": "<u0>السَّلَامُ</> <u1>عَلَيْكُمْ</>",
+			"foreground":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1540,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1540,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 3493,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 1143,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "lam_alef",
+			"markup": "<u0>لا</> <u1>إله</> <u2>إلا</> <u3>الله</>",
+			"foreground":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1168,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1168,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2633,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 912,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "mixed_test42",
+			"markup": "<u0>مرحبا</> <u1>TEST-42</> <u2>بالعالم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2556,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2556,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 5597,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 1854,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "version",
+			"markup": "<u0>الإصدار</> <u1>v1.02</> <u2>متاح</> <u3>الآن</>",
+			"foreground":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2552,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2552,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 5568,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 1770,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "price_usd",
+			"markup": "<u0>السعر 50</> <u1>USD</> <u2>اليوم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2463,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2463,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 5276,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 1663,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "speaker",
+			"markup": "<u0>المحقق:</> <u1>مرحبا</> <u2>بالعالم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2210,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2210,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4862,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 1555,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "paren_test42",
+			"markup": "<u0>مرحبا</> <u1>(TEST-42)</> <u2>بالعالم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2899,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2899,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 6307,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 1932,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "multiline",
+			"markup": "<u0>السطر</> <u1>الأول</> <u2>من</> <u3>الترجمة</>\n<u4>وهذا</> <u5>هو</> <u6>السطر</> <u7>الثاني</>",
+			"foreground":
+			{
+				"units": 8,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4619,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 8,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4619,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 8,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 10310,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 3394,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "multi_space",
+			"markup": "<u0>كلمة</>   <u1>ثانية</>    <u2>ثالثة</>  <u3>رابعة</>",
+			"foreground":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2129,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2129,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4821,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 1554,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "punctuation",
+			"markup": "<u0>حقاً؟</> <u1>نعم،</> <u2>بالتأكيد!</> <u3>«اقتباس</> <u4>قصير»</> <u5>ثم</> <u6>نهاية.</>",
+			"foreground":
+			{
+				"units": 7,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4477,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 7,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4477,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 7,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 9773,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 3006,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		},
+		{
+			"id": "long_wrap",
+			"markup": "<u0>رأيت</> <u1>رجالا</> <u2>مخيفين</> <u3>ومريبين</> <u4>يغادرون</> <u5>دار</> <u6>السينما</> <u7>القديمة</> <u8>ليلة</> <u9>أمس،</> <u10>وكانوا</> <u11>يحملون</> <u12>صناديق</> <u13>ثقيلة</> <u14>إلى</> <u15>شاحنة</> <u16>سوداء</> <u17>بلا</> <u18>لوحات،</> <u19>ثم</> <u20>اختفوا</> <u21>في</> <u22>الشارع</> <u23>الخلفي</> <u24>قبل</> <u25>أن</> <u26>يصل</> <u27>أي</> <u28>شرطي</> <u29>إلى</> <u30>المكان،</> <u31>ولم</> <u32>يتحدث</> <u33>أحد</> <u34>منهم</> <u35>بكلمة</> <u36>واحدة طوال الوقت.</>",
+			"foreground":
+			{
+				"units": 37,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 22998,
+				"pass": true
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 37,
+				"first_final_capture_px_stale": 22998,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 22998,
+				"pass": true
+			},
+			"outline":
+			{
+				"units": 37,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"revealed_max_abs_diff_any_channel": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 51696,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"full_reveal_px_differing_from_untagged_text": 0,
+			"full_reveal_max_abs_diff_from_untagged_text": 0,
+			"outline_only_dark_px": 20927,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0,
+			"pass_within_1e-6": true,
+			"pass_bit_exact": true
+		}
+	],
+	"R8_concurrent_blocks":
+	{
+		"solo_a_pass": true,
+		"solo_b_pass": true,
+		"cases": [
+			{
+				"threshold_a": 1,
+				"threshold_b": 3,
+				"px_wrong": 0
+			},
+			{
+				"threshold_a": 4,
+				"threshold_b": 0,
+				"px_wrong": 0
+			},
+			{
+				"threshold_a": -1,
+				"threshold_b": 6,
+				"px_wrong": 0
+			},
+			{
+				"threshold_a": 7,
+				"threshold_b": -1,
+				"px_wrong": 0
+			},
+			{
+				"threshold_a": 2,
+				"threshold_b": 2,
+				"px_wrong": 0
+			}
+		],
+		"pass": true
+	},
+	"R8_pool":
+	{
+		"log": [
+			{
+				"step": "A_set",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_reveal_t1",
+				"threshold": 1,
+				"fg_visible_px": 1295,
+				"shadow_visible_px": 1295,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_skip",
+				"threshold": 4,
+				"fg_visible_px": 2604,
+				"shadow_visible_px": 2604,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_finish",
+				"threshold": 4,
+				"fg_visible_px": 2604,
+				"shadow_visible_px": 2604,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_reset",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "B_set",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "B_reveal_t1",
+				"threshold": 1,
+				"fg_visible_px": 1825,
+				"shadow_visible_px": 1825,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "B_reset",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "C_reveal_t0",
+				"threshold": 0,
+				"fg_visible_px": 192,
+				"shadow_visible_px": 192,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "C_finish",
+				"threshold": 3,
+				"fg_visible_px": 1168,
+				"shadow_visible_px": 1168,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "C_stop_displaying_line",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			}
+		],
+		"failed_checks": 0,
+		"pass": true
+	},
+	"first_paints": 55,
+	"first_paints_empty_then_visible": 4,
+	"settext_calls_after_assets": 61,
+	"scheme": "R8b: M_SubtitlePrinting mirror, B = K^(t-i), K=10.5, max 37 units",
+	"R8_all_pass": true
+}

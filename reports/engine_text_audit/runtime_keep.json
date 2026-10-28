@@ -1,0 +1,478 @@
+[
+  {
+    "index": 41,
+    "namespace": "FInputChord",
+    "key": "ModAppender",
+    "en": "+",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  {
+    "index": 42,
+    "namespace": "FInputChord",
+    "key": "KeyName_Alt",
+    "en": "Alt",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  {
+    "index": 43,
+    "namespace": "FInputChord",
+    "key": "KeyName_Command",
+    "en": "Cmd",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  {
+    "index": 44,
+    "namespace": "FInputChord",
+    "key": "KeyName_Control",
+    "en": "Ctrl",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  {
+    "index": 45,
+    "namespace": "FInputChord",
+    "key": "KeyName_Shift",
+    "en": "Shift",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  {
+    "index": 46,
+    "namespace": "FInputChord",
+    "key": "FourModifiers",
+    "en": "{Mod1}{Appender1}{Mod2}{Appender2}{Mod3}{Appender3}{Mod4}{Appender4}{Key}",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  {
+    "index": 54,
+    "namespace": "InputKeys",
+    "key": "AndroidSubCateogry",
+    "en": "Android",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 63,
+    "namespace": "InputKeys",
+    "key": "BackSpace",
+    "en": "Backspace",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 64,
+    "namespace": "InputKeys",
+    "key": "CapsLockShort",
+    "en": "Caps",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 65,
+    "namespace": "InputKeys",
+    "key": "CapsLock",
+    "en": "Caps Lock",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 79,
+    "namespace": "InputKeys",
+    "key": "DeleteShort",
+    "en": "Del",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 80,
+    "namespace": "InputKeys",
+    "key": "Delete",
+    "en": "Delete",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 83,
+    "namespace": "InputKeys",
+    "key": "End",
+    "en": "End",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 84,
+    "namespace": "InputKeys",
+    "key": "Enter",
+    "en": "Enter",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 86,
+    "namespace": "InputKeys",
+    "key": "EscapeShort",
+    "en": "Esc",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 87,
+    "namespace": "InputKeys",
+    "key": "Escape",
+    "en": "Escape",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 89,
+    "namespace": "InputKeys",
+    "key": "F1",
+    "en": "F1",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 90,
+    "namespace": "InputKeys",
+    "key": "F10",
+    "en": "F10",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 91,
+    "namespace": "InputKeys",
+    "key": "F11",
+    "en": "F11",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 92,
+    "namespace": "InputKeys",
+    "key": "F12",
+    "en": "F12",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 93,
+    "namespace": "InputKeys",
+    "key": "F2",
+    "en": "F2",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 94,
+    "namespace": "InputKeys",
+    "key": "F3",
+    "en": "F3",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 95,
+    "namespace": "InputKeys",
+    "key": "F4",
+    "en": "F4",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 96,
+    "namespace": "InputKeys",
+    "key": "F5",
+    "en": "F5",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 97,
+    "namespace": "InputKeys",
+    "key": "F6",
+    "en": "F6",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 98,
+    "namespace": "InputKeys",
+    "key": "F7",
+    "en": "F7",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 99,
+    "namespace": "InputKeys",
+    "key": "F8",
+    "en": "F8",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 100,
+    "namespace": "InputKeys",
+    "key": "F9",
+    "en": "F9",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 102,
+    "namespace": "InputKeys",
+    "key": "ForwardDelete",
+    "en": "Fn+Delete",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 162,
+    "namespace": "InputKeys",
+    "key": "DaydreamSubCategory",
+    "en": "Google Daydream",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 164,
+    "namespace": "InputKeys",
+    "key": "ViveSubCategory",
+    "en": "HTC Vive",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 165,
+    "namespace": "InputKeys",
+    "key": "Home",
+    "en": "Home",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 167,
+    "namespace": "InputKeys",
+    "key": "InsertShort",
+    "en": "Ins",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 168,
+    "namespace": "InputKeys",
+    "key": "Insert",
+    "en": "Insert",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 225,
+    "namespace": "InputKeys",
+    "key": "Multiply",
+    "en": "Num *",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 226,
+    "namespace": "InputKeys",
+    "key": "Add",
+    "en": "Num +",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 227,
+    "namespace": "InputKeys",
+    "key": "Subtract",
+    "en": "Num -",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 228,
+    "namespace": "InputKeys",
+    "key": "Decimal",
+    "en": "Num .",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 229,
+    "namespace": "InputKeys",
+    "key": "Divide",
+    "en": "Num /",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 230,
+    "namespace": "InputKeys",
+    "key": "NumPadZero",
+    "en": "Num 0",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 231,
+    "namespace": "InputKeys",
+    "key": "NumPadOne",
+    "en": "Num 1",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 232,
+    "namespace": "InputKeys",
+    "key": "NumPadTwo",
+    "en": "Num 2",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 233,
+    "namespace": "InputKeys",
+    "key": "NumPadThree",
+    "en": "Num 3",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 234,
+    "namespace": "InputKeys",
+    "key": "NumPadFour",
+    "en": "Num 4",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 235,
+    "namespace": "InputKeys",
+    "key": "NumPadFive",
+    "en": "Num 5",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 236,
+    "namespace": "InputKeys",
+    "key": "NumPadSix",
+    "en": "Num 6",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 237,
+    "namespace": "InputKeys",
+    "key": "NumPadSeven",
+    "en": "Num 7",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 238,
+    "namespace": "InputKeys",
+    "key": "NumPadEight",
+    "en": "Num 8",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 239,
+    "namespace": "InputKeys",
+    "key": "NumPadNine",
+    "en": "Num 9",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 240,
+    "namespace": "InputKeys",
+    "key": "NumLock",
+    "en": "Num Lock",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 241,
+    "namespace": "InputKeys",
+    "key": "OculusTouchSubCategory",
+    "en": "Oculus Touch",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 278,
+    "namespace": "InputKeys",
+    "key": "PS4SubCategory",
+    "en": "PS4",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 281,
+    "namespace": "InputKeys",
+    "key": "PS4_Special",
+    "en": "PS4_Special",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 282,
+    "namespace": "InputKeys",
+    "key": "PageDown",
+    "en": "Page Down",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 283,
+    "namespace": "InputKeys",
+    "key": "PageUp",
+    "en": "Page Up",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 284,
+    "namespace": "InputKeys",
+    "key": "Pause",
+    "en": "Pause",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 286,
+    "namespace": "InputKeys",
+    "key": "PageDownShort",
+    "en": "PgDn",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 287,
+    "namespace": "InputKeys",
+    "key": "PageUpShort",
+    "en": "PgUp",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 300,
+    "namespace": "InputKeys",
+    "key": "ScrollLock",
+    "en": "Scroll Lock",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 303,
+    "namespace": "InputKeys",
+    "key": "SpaceBarShort",
+    "en": "Space",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 304,
+    "namespace": "InputKeys",
+    "key": "SpaceBar",
+    "en": "Space Bar",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 305,
+    "namespace": "InputKeys",
+    "key": "SteamSubCateogry",
+    "en": "Steam",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 312,
+    "namespace": "InputKeys",
+    "key": "Tab",
+    "en": "Tab",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  {
+    "index": 320,
+    "namespace": "InputKeys",
+    "key": "ValveIndexSubCategory",
+    "en": "Valve Index",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 401,
+    "namespace": "InputKeys",
+    "key": "MixedRealitySubCategory",
+    "en": "Windows Mixed Reality",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 402,
+    "namespace": "InputKeys",
+    "key": "XBoxOneSubCateogry",
+    "en": "XBox One",
+    "reason": "Platform, device or framework brand/name."
+  },
+  {
+    "index": 403,
+    "namespace": "InputKeySelector",
+    "key": "DefaultKeySelectionText",
+    "en": "...",
+    "reason": "Pure punctuation."
+  },
+  {
+    "index": 426,
+    "namespace": "SlateAccessibility",
+    "key": "Slate",
+    "en": "Slate",
+    "reason": "Platform, device or framework brand/name."
+  }
+]

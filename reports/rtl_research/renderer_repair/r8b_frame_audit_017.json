@@ -1,0 +1,1891 @@
+{
+ "layouts": {
+  "On Text Finished Letter by Letter Print": {
+   "properties": [
+    {
+     "name": "StoppedEarly",
+     "type": "BoolProperty",
+     "offset": 0,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_BlueprintVisible, CPF_BlueprintReadOnly, CPF_Parm"
+    }
+   ],
+   "PropertiesSize": 1,
+   "ParmsSize": 1,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Set Displayed Line": {
+   "properties": [
+    {
+     "name": "Subtitle Display Info",
+     "type": "StructProperty",
+     "offset": 0,
+     "runtimeSize": 184,
+     "serializedElementSize": 184,
+     "arrayDim": 1,
+     "flags": "CPF_BlueprintVisible, CPF_BlueprintReadOnly, CPF_Parm"
+    },
+    {
+     "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue",
+     "type": "ObjectProperty",
+     "offset": 184,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_GetCloudSettings_ReturnValue",
+     "type": "ObjectProperty",
+     "offset": 192,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_Conv_ColorToLinearColor_ReturnValue",
+     "type": "StructProperty",
+     "offset": 200,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_GetOptionValue_ReturnValue",
+     "type": "FloatProperty",
+     "offset": 216,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_Dispatch_Filter_Text_Profanity_Potentially_Censored_Text",
+     "type": "TextProperty",
+     "offset": 224,
+     "runtimeSize": 24,
+     "serializedElementSize": 24,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_GetOptionValue_ReturnValue_1",
+     "type": "BoolProperty",
+     "offset": 248,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue_1",
+     "type": "ObjectProperty",
+     "offset": 256,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Temp_byte_Variable",
+     "type": "EnumProperty",
+     "offset": 264,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_GetCloudSettings_ReturnValue_1",
+     "type": "ObjectProperty",
+     "offset": 272,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Temp_byte_Variable_1",
+     "type": "EnumProperty",
+     "offset": 280,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_GetOptionValue_ReturnValue_2",
+     "type": "BoolProperty",
+     "offset": 281,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "K2Node_CreateDelegate_OutputDelegate",
+     "type": "DelegateProperty",
+     "offset": 284,
+     "runtimeSize": 16,
+     "serializedElementSize": 20,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_ProcessLocalizedTextWithCallback_ReturnValue",
+     "type": "TextProperty",
+     "offset": 304,
+     "runtimeSize": 24,
+     "serializedElementSize": 24,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_Apply_Speaker_Name_if_Needed_Processed_Text",
+     "type": "TextProperty",
+     "offset": 328,
+     "runtimeSize": 24,
+     "serializedElementSize": 24,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Temp_bool_Variable",
+     "type": "BoolProperty",
+     "offset": 352,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "K2Node_Select_Default",
+     "type": "EnumProperty",
+     "offset": 353,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARLanguage",
+     "type": "StrProperty",
+     "offset": 360,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARPlain",
+     "type": "StrProperty",
+     "offset": 376,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARSpeaker",
+     "type": "StrProperty",
+     "offset": 392,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARMarkup",
+     "type": "StrProperty",
+     "offset": 408,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARLarge",
+     "type": "BoolProperty",
+     "offset": 424,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARText",
+     "type": "TextProperty",
+     "offset": 432,
+     "runtimeSize": 24,
+     "serializedElementSize": 24,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARForegroundStyle",
+     "type": "ObjectProperty",
+     "offset": 456,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARSpeaker_CallFunc_GetGameInstanceSubsystem_ReturnValue",
+     "type": "ObjectProperty",
+     "offset": 464,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARSpeaker_CallFunc_GetCloudSettings_ReturnValue",
+     "type": "ObjectProperty",
+     "offset": 472,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARSpeaker_CallFunc_GetOptionValue_ReturnValue",
+     "type": "BoolProperty",
+     "offset": 480,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 481,
+   "ParmsSize": 184,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 8
+  },
+  "Stop Displaying Line": {
+   "properties": [],
+   "PropertiesSize": 0,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Set Has Outline": {
+   "properties": [
+    {
+     "name": "Has Outline",
+     "type": "BoolProperty",
+     "offset": 0,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_BlueprintVisible, CPF_BlueprintReadOnly, CPF_Parm"
+    },
+    {
+     "name": "Temp_byte_Variable",
+     "type": "EnumProperty",
+     "offset": 1,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Temp_byte_Variable_1",
+     "type": "EnumProperty",
+     "offset": 2,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "CallFunc_Not_PreBool_ReturnValue",
+     "type": "BoolProperty",
+     "offset": 3,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Temp_bool_Variable",
+     "type": "BoolProperty",
+     "offset": 4,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "K2Node_Select_Default",
+     "type": "EnumProperty",
+     "offset": 5,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 6,
+   "ParmsSize": 1,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "ChangeTextToLarge": {
+   "properties": [],
+   "PropertiesSize": 0,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Set Wrap Text At": {
+   "properties": [
+    {
+     "name": "Wrap Text At",
+     "type": "FloatProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_BlueprintVisible, CPF_BlueprintReadOnly, CPF_Parm"
+    }
+   ],
+   "PropertiesSize": 4,
+   "ParmsSize": 4,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 4
+  },
+  "Format As Arabic Plain": {
+   "properties": [
+    {
+     "name": "string",
+     "type": "StrProperty",
+     "offset": 0,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_ConstParm, CPF_BlueprintVisible, CPF_BlueprintReadOnly, CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "StrProperty",
+     "offset": 16,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    }
+   ],
+   "PropertiesSize": 32,
+   "ParmsSize": 32,
+   "ReturnValueOffset": 16,
+   "return": {
+    "offset": 16,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "minAlignment": 8
+  },
+  "AR Escape": {
+   "properties": [
+    {
+     "name": "Input",
+     "type": "StrProperty",
+     "offset": 0,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "StrProperty",
+     "offset": 16,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    }
+   ],
+   "PropertiesSize": 32,
+   "ParmsSize": 32,
+   "ReturnValueOffset": 16,
+   "return": {
+    "offset": 16,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "minAlignment": 8
+  },
+  "AR Is Separator": {
+   "properties": [
+    {
+     "name": "Character",
+     "type": "StrProperty",
+     "offset": 0,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "BoolProperty",
+     "offset": 16,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    }
+   ],
+   "PropertiesSize": 17,
+   "ParmsSize": 17,
+   "ReturnValueOffset": 16,
+   "return": {
+    "offset": 16,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "minAlignment": 8
+  },
+  "AR Is Letter Code": {
+   "properties": [
+    {
+     "name": "Code",
+     "type": "IntProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "BoolProperty",
+     "offset": 4,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    }
+   ],
+   "PropertiesSize": 5,
+   "ParmsSize": 5,
+   "ReturnValueOffset": 4,
+   "return": {
+    "offset": 4,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "minAlignment": 4
+  },
+  "Build Arabic Markup": {
+   "properties": [
+    {
+     "name": "Content",
+     "type": "StrProperty",
+     "offset": 0,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "Speaker",
+     "type": "StrProperty",
+     "offset": 16,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "StrProperty",
+     "offset": 32,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    },
+    {
+     "name": "Input",
+     "type": "StrProperty",
+     "offset": 48,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Lead",
+     "type": "StrProperty",
+     "offset": 64,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Token",
+     "type": "StrProperty",
+     "offset": 80,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Gap",
+     "type": "StrProperty",
+     "offset": 96,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Pending",
+     "type": "StrProperty",
+     "offset": 112,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "PendingGap",
+     "type": "StrProperty",
+     "offset": 128,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Output",
+     "type": "StrProperty",
+     "offset": 144,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Character",
+     "type": "StrProperty",
+     "offset": 160,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Phase",
+     "type": "IntProperty",
+     "offset": 176,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Cursor",
+     "type": "IntProperty",
+     "offset": 180,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Length",
+     "type": "IntProperty",
+     "offset": 184,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Scan",
+     "type": "IntProperty",
+     "offset": 188,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Count",
+     "type": "IntProperty",
+     "offset": 192,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "RawCount",
+     "type": "IntProperty",
+     "offset": 196,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "SpeakerCount",
+     "type": "IntProperty",
+     "offset": 200,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "PreviousInSegment",
+     "type": "BoolProperty",
+     "offset": 204,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "HasLetter",
+     "type": "BoolProperty",
+     "offset": 205,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 206,
+   "ParmsSize": 48,
+   "ReturnValueOffset": 32,
+   "return": {
+    "offset": 32,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "minAlignment": 8
+  },
+  "Set Threshold Arabic": {
+   "properties": [
+    {
+     "name": "Threshold",
+     "type": "IntProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "Blue",
+     "type": "FloatProperty",
+     "offset": 4,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 8,
+   "ParmsSize": 4,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 4
+  },
+  "Arabic Finish": {
+   "properties": [
+    {
+     "name": "StoppedEarly",
+     "type": "BoolProperty",
+     "offset": 0,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    }
+   ],
+   "PropertiesSize": 1,
+   "ParmsSize": 1,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Arabic Step": {
+   "properties": [],
+   "PropertiesSize": 0,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Arabic Advance Budget": {
+   "properties": [
+    {
+     "name": "DeltaSeconds",
+     "type": "FloatProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "Generation",
+     "type": "IntProperty",
+     "offset": 4,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "Due",
+     "type": "FloatProperty",
+     "offset": 8,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 12,
+   "ParmsSize": 8,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 4
+  },
+  "Arabic Advance Clocks": {
+   "properties": [
+    {
+     "name": "WorldDelta",
+     "type": "FloatProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "PausedDelta",
+     "type": "FloatProperty",
+     "offset": 4,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "Generation",
+     "type": "IntProperty",
+     "offset": 8,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    }
+   ],
+   "PropertiesSize": 12,
+   "ParmsSize": 12,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 4
+  },
+  "Arabic Cancel": {
+   "properties": [],
+   "PropertiesSize": 0,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Arabic Skip": {
+   "properties": [],
+   "PropertiesSize": 0,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "AR Is Combining Code": {
+   "properties": [
+    {
+     "name": "Code",
+     "type": "IntProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "BoolProperty",
+     "offset": 4,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    }
+   ],
+   "PropertiesSize": 5,
+   "ParmsSize": 5,
+   "ReturnValueOffset": 4,
+   "return": {
+    "offset": 4,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "minAlignment": 4
+  },
+  "AR Timing Characters": {
+   "properties": [
+    {
+     "name": "Input",
+     "type": "StrProperty",
+     "offset": 0,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "IntProperty",
+     "offset": 16,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    },
+    {
+     "name": "Cursor",
+     "type": "IntProperty",
+     "offset": 20,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Code",
+     "type": "IntProperty",
+     "offset": 24,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Low",
+     "type": "IntProperty",
+     "offset": 28,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Count",
+     "type": "IntProperty",
+     "offset": 32,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Length",
+     "type": "IntProperty",
+     "offset": 36,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 40,
+   "ParmsSize": 20,
+   "ReturnValueOffset": 16,
+   "return": {
+    "offset": 16,
+    "type": "IntProperty",
+    "size": 4
+   },
+   "minAlignment": 8
+  },
+  "Build Arabic Timing": {
+   "properties": [
+    {
+     "name": "Content",
+     "type": "StrProperty",
+     "offset": 0,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "Speaker",
+     "type": "StrProperty",
+     "offset": 16,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "StrProperty",
+     "offset": 32,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm"
+    },
+    {
+     "name": "Input",
+     "type": "StrProperty",
+     "offset": 48,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Lead",
+     "type": "StrProperty",
+     "offset": 64,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Token",
+     "type": "StrProperty",
+     "offset": 80,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Gap",
+     "type": "StrProperty",
+     "offset": 96,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Pending",
+     "type": "StrProperty",
+     "offset": 112,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "PendingGap",
+     "type": "StrProperty",
+     "offset": 128,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Output",
+     "type": "StrProperty",
+     "offset": 144,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Character",
+     "type": "StrProperty",
+     "offset": 160,
+     "runtimeSize": 16,
+     "serializedElementSize": 16,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Phase",
+     "type": "IntProperty",
+     "offset": 176,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Cursor",
+     "type": "IntProperty",
+     "offset": 180,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Length",
+     "type": "IntProperty",
+     "offset": 184,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Scan",
+     "type": "IntProperty",
+     "offset": 188,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Count",
+     "type": "IntProperty",
+     "offset": 192,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "RawCount",
+     "type": "IntProperty",
+     "offset": 196,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "SpeakerCount",
+     "type": "IntProperty",
+     "offset": 200,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "PreviousInSegment",
+     "type": "BoolProperty",
+     "offset": 204,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "HasLetter",
+     "type": "BoolProperty",
+     "offset": 205,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "UnitDelay",
+     "type": "FloatProperty",
+     "offset": 208,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "DiscardedArrayIndex",
+     "type": "IntProperty",
+     "offset": 212,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 216,
+   "ParmsSize": 48,
+   "ReturnValueOffset": 32,
+   "return": {
+    "offset": 32,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "minAlignment": 8
+  },
+  "Arabic Apply Style": {
+   "properties": [
+    {
+     "name": "ARLarge",
+     "type": "BoolProperty",
+     "offset": 0,
+     "runtimeSize": 1,
+     "serializedElementSize": 1,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "ARForegroundStyle",
+     "type": "ObjectProperty",
+     "offset": 8,
+     "runtimeSize": 8,
+     "serializedElementSize": 8,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 16,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 8
+  },
+  "Arabic Apply Wrap": {
+   "properties": [],
+   "PropertiesSize": 0,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Arabic Begin Reveal": {
+   "properties": [],
+   "PropertiesSize": 0,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 1
+  },
+  "Arabic Arm Clock": {
+   "properties": [
+    {
+     "name": "Due",
+     "type": "FloatProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 4,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 4
+  },
+  "Arabic Clock Fired": {
+   "properties": [
+    {
+     "name": "Gen",
+     "type": "IntProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Delta",
+     "type": "FloatProperty",
+     "offset": 4,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 8,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 4
+  },
+  "Arabic Paused Clock": {
+   "properties": [
+    {
+     "name": "Gen",
+     "type": "IntProperty",
+     "offset": 0,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "Delta",
+     "type": "FloatProperty",
+     "offset": 4,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    },
+    {
+     "name": "El",
+     "type": "FloatProperty",
+     "offset": 8,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_None"
+    }
+   ],
+   "PropertiesSize": 12,
+   "ParmsSize": 0,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 4
+  },
+  "Tick": {
+   "properties": [
+    {
+     "name": "MyGeometry",
+     "type": "StructProperty",
+     "offset": 0,
+     "runtimeSize": 56,
+     "serializedElementSize": 56,
+     "arrayDim": 1,
+     "flags": "CPF_BlueprintVisible, CPF_BlueprintReadOnly, CPF_Parm"
+    },
+    {
+     "name": "InDeltaTime",
+     "type": "FloatProperty",
+     "offset": 56,
+     "runtimeSize": 4,
+     "serializedElementSize": 4,
+     "arrayDim": 1,
+     "flags": "CPF_BlueprintVisible, CPF_BlueprintReadOnly, CPF_Parm"
+    }
+   ],
+   "PropertiesSize": 60,
+   "ParmsSize": 60,
+   "ReturnValueOffset": "MAX_uint16",
+   "return": null,
+   "minAlignment": 8
+  }
+ },
+ "callSites": [
+  {
+   "caller": "On Text Finished Letter by Letter Print",
+   "instruction": 3,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Cancel",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 18,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Build Arabic Markup",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": {
+    "offset": 32,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "returnContext": "BOUND_Let",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 35,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 65,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 66,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Build Arabic Timing",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": {
+    "offset": 32,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "returnContext": "BARE_STATEMENT_INTO_VM_SCRATCH_NONTRIVIAL",
+   "verdict": "FRAME_LAYOUT_INVALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 67,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Wrap",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 68,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Begin Reveal",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 73,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Stop Displaying Line",
+   "instruction": 2,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Stop Displaying Line",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Cancel",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Has Outline",
+   "instruction": 9,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Style",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 7,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Style",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Wrap Text At",
+   "instruction": 4,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Wrap",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Markup",
+   "instruction": 20,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Separator",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Markup",
+   "instruction": 30,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Separator",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Markup",
+   "instruction": 36,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Separator",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Markup",
+   "instruction": 43,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Letter Code",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 4,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Markup",
+   "instruction": 55,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Escape",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "returnContext": "BOUND_arg",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Markup",
+   "instruction": 71,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Escape",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "returnContext": "BOUND_arg",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Finish",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Step",
+   "instruction": 4,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Step",
+   "instruction": 6,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Budget",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Step",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Budget",
+   "instruction": 10,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Clocks",
+   "instruction": 1,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Clocks",
+   "instruction": 3,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 9,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Skip",
+   "instruction": 0,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "AR Timing Characters",
+   "instruction": 12,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Combining Code",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 4,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_arg",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 21,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Separator",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 31,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Separator",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 37,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Separator",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 44,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Is Letter Code",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 4,
+    "type": "BoolProperty",
+    "size": 1
+   },
+   "returnContext": "BOUND_JumpIfNot_bool",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 58,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Timing Characters",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "IntProperty",
+    "size": 4
+   },
+   "returnContext": "BOUND_arg",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 60,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Escape",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "returnContext": "BOUND_arg",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 78,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Timing Characters",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "IntProperty",
+    "size": 4
+   },
+   "returnContext": "BOUND_arg",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Build Arabic Timing",
+   "instruction": 80,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "AR Escape",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": {
+    "offset": 16,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "returnContext": "BOUND_arg",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Begin Reveal",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Begin Reveal",
+   "instruction": 6,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Arm Clock",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Begin Reveal",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "args": 1,
+   "calleeParams": 1,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Clock Fired",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Clock Fired",
+   "instruction": 7,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Arm Clock",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Paused Clock",
+   "instruction": 6,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Paused Clock",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Arm Clock",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Tick",
+   "instruction": 0,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Paused Clock",
+   "args": 0,
+   "calleeParams": 0,
+   "calleeReturn": null,
+   "returnContext": "NO_RETURN",
+   "verdict": "FRAME_LAYOUT_VALID"
+  }
+ ],
+ "invalid": [
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 66,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Build Arabic Timing",
+   "args": 2,
+   "calleeParams": 2,
+   "calleeReturn": {
+    "offset": 32,
+    "type": "StrProperty",
+    "size": 16
+   },
+   "returnContext": "BARE_STATEMENT_INTO_VM_SCRATCH_NONTRIVIAL",
+   "verdict": "FRAME_LAYOUT_INVALID"
+  }
+ ]
+}

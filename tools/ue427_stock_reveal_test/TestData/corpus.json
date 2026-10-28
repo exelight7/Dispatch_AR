@@ -1,0 +1,24 @@
+{
+  "note": "UE4.27 ISOLATED TEST - NOT DISPATCH. Units are split at whitespace by the harness; a token with no letter is merged into the previous unit.",
+  "lines": [
+    { "id": "salam", "text": "السلام عليكم" },
+    { "id": "salam_marks", "text": "السَّلَامُ عَلَيْكُمْ" },
+    { "id": "lam_alef", "text": "لا إله إلا الله" },
+    { "id": "mixed_test42", "text": "مرحبا TEST-42 بالعالم" },
+    { "id": "version", "text": "الإصدار v1.02 متاح الآن" },
+    { "id": "price_usd", "text": "السعر 50 USD اليوم" },
+    { "id": "speaker", "text": "المحقق: مرحبا بالعالم" },
+    { "id": "paren_test42", "text": "مرحبا (TEST-42) بالعالم" },
+    { "id": "multiline", "text": "السطر الأول من الترجمة\nوهذا هو السطر الثاني" },
+    { "id": "multi_space", "text": "كلمة   ثانية    ثالثة  رابعة" },
+    { "id": "punctuation", "text": "حقاً؟ نعم، بالتأكيد! «اقتباس قصير» ثم نهاية." },
+    { "id": "long_wrap", "text": "رأيت رجالا مخيفين ومريبين يغادرون دار السينما القديمة ليلة أمس، وكانوا يحملون صناديق ثقيلة إلى شاحنة سوداء بلا لوحات، ثم اختفوا في الشارع الخلفي قبل أن يصل أي شرطي إلى المكان، ولم يتحدث أحد منهم بكلمة واحدة طوال الوقت." }
+  ],
+  "negative_controls": [
+    { "id": "NEG_midword_cut", "plain": "مرحبا بالعالم", "markup": "<u0>مرح</><u1>با</> <u2>بالعالم</>" },
+    { "id": "NEG_token_punct_cut", "plain": "مرحبا TEST-42 بالعالم", "markup": "<u0>مرحبا</> <u1>TEST</><u2>-42</> <u3>بالعالم</>" },
+    { "id": "NEG_version_cut", "plain": "الإصدار v1.02 متاح", "markup": "<u0>الإصدار</> <u1>v1</><u2>.02</> <u3>متاح</>" }
+  ],
+  "stress_word": "كلمة",
+  "stress_units": 255
+}

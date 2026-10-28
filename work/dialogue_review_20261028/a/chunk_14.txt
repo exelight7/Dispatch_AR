@@ -1,0 +1,300 @@
+1400 104:Line:5D73B9302F7146E587055D26E96A7F9A [Punch Up]
+EN Quite the odd couple.
+AR ثنائي غريب حقا.
+1401 104:Line:3CE962999D9641E6828405E9AD06826F [Waterboy]
+EN R-roger that Mr. Punch Up uh, sir.
+AR ع-علم يا سيد بانش أب، آه، سيدي.
+1402 104:Line:2C90BAF8FF7149B7B9EF9399B0CB3422 [Malevola]
+EN Reading minds is more of a curse than being part-demon...
+AR قراءة الأفكار لعنة أشد من كون المرء نصف شيطان...
+1403 104:Line:28788D15C34B4A398AFD949EEE73C38A [Waterboy]
+EN Ready for-- to go do more work.
+AR جاهز لـ-- للذهاب للعمل أكثر.
+1404 104:Line:127BBAE9947B447ABC525D995CA9957D [Robert]
+EN Really?
+AR حقا؟
+1405 104:Line:1F563D73F958401A98F57E1DF1395D06 [Blonde Blazer]
+EN Really?
+AR حقا؟
+1406 104:Line:4D38BB87DEFB441EA7D9CCC5A52A6D31 [Blonde Blazer]
+EN Really?
+AR حقا؟
+1407 104:Line:1926977618E04CDFA3ADB80B133AFCEF [Flambae]
+EN Really? This guy?
+AR حقا؟ هذا الرجل؟
+1408 104:Line:0346C9E2798B479781052CB5452C3321 [Coupe]
+EN Repose.
+AR راحة.
+1409 104:Line:2105510D3F784E899702522212D4D10C [Malevola]
+EN Riding the struggle bus there eh mate?
+AR تتعثر في الحياة يا صاح، ها؟
+1410 104:Line:116BBD3CEA6147648247A30B7E84E14F [Malevola]
+EN Right back atcha mate.
+AR وأنت أيضا يا صاح.
+1411 104:Line:59BA776EB545416BA343EDA271833557 [Punch-Up]
+EN Right. You're the boss.
+AR حسنا. أنت الرئيس.
+1412 104:Line:3BD8969BD02D42E7B92CF6A7F89CFC91 [Sonar]
+EN Robert I found my stapler.
+AR روبرت، وجدت دباستي.
+1413 104:Line:83F4CEF81E834BF487DD9CA9B0DA4B01 [Invisigal]
+EN Robert was just leaving. 
+AR كان روبرت يغادر للتو. 
+1414 104:Line:061DC20AC22B46AE9B17CD1192502201 [Phenoma-Man]
+EN Robert, I am sensing dissatisfaction amongst my new companions.
+AR روبرت، أشعر باستياء بين رفاقي الجدد.
+1415 104:Line:4D58E36C00D04A528467C85F05535618 [Malevola]
+EN Robert, you cut Sonar and replaced him with the wet guy?
+AR روبرت، طردت سونار واستبدلته بالرجل المبلل؟
+1416 104:Line:2420F56649634B0295015F68FE186B7A [Sonar]
+EN Robert, you were the last one to see my stapler.
+AR روبرت، كنت آخر من رأى دباستي.
+1417 104:Line:206C283B7BDE43738B190D100F7BB83A [Punch-Up]
+EN Robert, you've gotta be fucking kidding me with this, right?
+AR روبرت، لا بد أنك تمزح معي بحق اللعنة، صحيح؟
+1418 104:Line:41E0A46DCCD847E5AC880BC60525666D [Sonar]
+EN Robert. Do you have eyes on my stapler? I think I left it at your desk.
+AR روبرت. هل ترى دباستي؟ أظنني تركتها على مكتبك.
+1419 104:Line:5512EE1E7D66422CB69CDC4B7B426507 [Robert]
+EN Robert... it’s really nice to meet you, Mandy.
+AR روبرت... تشرفت جدا بلقائك يا ماندي.
+1420 104:Line:0E1ED6CEA2F248628F9046F025F0C103 [Robert]
+EN Rough night.
+AR ليلة عصيبة.
+1421 104:Line:3E98F26BCF7B4B30854B851F009F0633 [Robert]
+EN Royd, what is all this stuff?
+AR رويد، ما كل هذه الأشياء؟
+1422 104:Line:0658081461564BB097C549C5BAD6507C [Punch-Up]
+EN S'pose I'll wait.
+AR أظنني سأنتظر.
+1423 104:Line:55BF1A08D601487D87DF8355A9D54114 [Waterboy]
+EN S- safety in numbers!
+AR ا-السلامة في العدد!
+1424 104:Line:3ABFCC2F362E4593BCE68DD984D94176 [Waterboy]
+EN S-s-so... Any we-weekend plans?
+AR إ-إ-إذن... أية خطط لع-لعطلة الأسبوع؟
+1425 104:Line:4F2BC373D33F450F97B5C795C9BFC59D [Waterboy]
+EN S-s-so... Any we-weekend plans?
+AR إ-إ-إذن... أية خطط لع-لعطلة الأسبوع؟
+1426 104:Line:1FC70EC4F51349698011359EA4DA77C2 [Waterboy]
+EN S-s-sorry, I'm... Apologize. I... It's my fault-- Mistake. I get w-wet wh-when nerv... nerv... ous...
+AR آ-آ-آسف، أنا... أعتذر. أنا... خطئي-- غلطة. أ-أبتل ح-حين أتو... أتو... تر...
+1427 104:Line:0672EE68F0D84FD8B4145510C584EA40 [Waterboy]
+EN S-sharp objects, they-they-- N-not safe.
+AR أ-أدوات حادة، إنها-- غ-غير آمنة.
+1428 104:Line:3F5E4CB635E146B5BEA2584DD5108E39 [Waterboy]
+EN S-sorry I'm like really nervous, heh.
+AR آ-آسف، أنا متوتر جدا، هه.
+1429 104:Line:DBA00AD4EAD548AF99776F67B9069F2E [Waterboy]
+EN S-still working on that?
+AR م-ما زلت تعمل على ذلك؟
+1430 104:Line:AEC80A4B94B94F55AABC356D9AE89535 [Blonde Blazer]
+EN SDN’s sponsoring a dinner, gala thing. |Radiant Valor: A Night of Triumph. 
+AR ترعى SDN حفل عشاء، سهرة أو ما شابه. |بسالة متألقة: ليلة انتصار. 
+1431 104:Line:EB9D39A374594081912E01EE863D90AF [Robert]
+EN Same. You goin’ solo?
+AR وأنا أيضا. أتذهب وحدك؟
+1432 104:Line:587DA2EACFA5447F87B501510D0E0B18 [Prism]
+EN Say less baby, I got you.
+AR لا تقل المزيد يا عزيزي، فهمتك.
+1433 104:Line:34B9F5035DF14EDE901B605542A15296 [Prism]
+EN See this is why people think you're a bitch.
+AR أترين، لهذا يظنونك حقيرة.
+1434 104:Line:8033D99B78AD48759701123F87AAD51E [Robert]
+EN See ya tomorrow. No spoilers.
+AR أراك غدا. بلا حرق للأحداث.
+1435 104:Line:BF68C0B7EE094B098172C9CA075D9C1F [Robert]
+EN See? They say that all the time. |You worrying about it didn’t stop a thing. |So fuck 'em. Fuck me. Fuck everybody. |From now on, stop caring what anyone else thinks. 
+AR أترى؟ يقولون ذلك طوال الوقت. |قلقك لم يمنع شيئا. |فتبا لهم. تبا لي. تبا للجميع. |من الآن، لا تهتم بآراء أحد. 
+1436 104:Line:10FE8D556FF04FFBB106D62630B03328 [Invisigal]
+EN Seriously dude? What the fuck?
+AR بجدية يا صاح؟ ما هذا بحق اللعنة؟
+1437 104:Line:482E43BE6B00488BB4D22D4D9DA6F14D [Phenomaman]
+EN She was the only thing I was passionate about. |Her voice. Her eyes. Her disposition... |her whole of her remarkable corporeal form.
+AR كانت شغفي الوحيد. |صوتها. عيناها. طبعها... |كامل هيئتها الجسدية المذهلة.
+1438 104:Line:2BCCCE0DD2BB4058A2D989EEED0657B8 [Chase]
+EN She was tight with Sonar. 
+AR كانت مقربة من سونار. 
+1439 104:Line:0D7ACB97360C40B3B6BFBE07C04DD0A6 [Robert]
+EN She’s joking, Royd, |in her very specific, off-putting, way that she jokes.
+AR إنها تمزح يا رويد، |بطريقتها الخاصة والمنفرة في المزاح.
+1440 104:Line:1D57D7B3C20E4282958AE0905DA6687B [Prism]
+EN Shiiiiit, how'd that work anyways?
+AR تبــــا، كيف نجح ذلك أصلا؟
+1441 104:Line:4AF6E4F52F2F4B2AB211082DF07F3ED9 [Golem]
+EN Shit y'all, I can barely be at one place.
+AR تبا يا جماعة، بالكاد أستطيع الوجود في مكان واحد.
+1442 104:Line:33ECA89A7DF84B1A95E1586ACBA25D0B [Waterboy]
+EN Shit's dumb.
+AR هراء غبي.
+1443 104:Line:DFEB58293F684375B8B51A03A9ECE0E1 [Robert]
+EN Shit, Blazer-- sorry, umm you know what I can come back. 
+AR تبا، بليزر-- آسف، أتعلمين، يمكنني العودة لاحقا. 
+1444 104:Line:4946A024BA5B45089655FBD005836A4E [Coupe]
+EN Shit, didn't realize my old syndicate was tracking me. Some people are just obsessed. I get it.
+AR تبا، لم أعرف أن منظمتي القديمة تتعقبني. بعض الناس مهووسون. أتفهم ذلك.
+1445 104:Line:1002CF5B080849F481F61DE62F67BB77 [Sonar]
+EN Shit.
+AR تبا.
+1446 104:Line:32117784A57D497FA5C72571C04004B2 [Waterboy]
+EN Shit.
+AR تبا.
+1447 104:Line:3D21723BDD144F058D85382D0A43707D [Robert]
+EN Shit. He looks rough. 
+AR تبا. حاله يرثى لها. 
+1448 104:Line:47E0B4274FB34D8A84861786858D980B [Waterboy]
+EN Shut up.
+AR اخرس.
+1449 104:Line:0EA34A9F27E0426198360F2CA53DA881 [Punch-Up]
+EN Shut your hole.
+AR أغلق فمك.
+1450 104:Line:53092779A6D94C7693E2FBE5511F08B4 [Robert]
+EN Simple locomotion.
+AR حركة بسيطة.
+1451 104:Line:35DA318FCD0F4C9EA94FBC0FF17790EE [Sonar]
+EN Skill issue.
+AR قلة مهارة.
+1452 104:Line:2481523FFF804C9F824925BD03586584 [Waterboy]
+EN Slipped, but, uh, I'm fine.
+AR انزلقت، لكنني بخير.
+1453 104:Line:2C09784F5CD44E74BF1254D33ED62EEB [Coupe]
+EN Slipping in a puddle is the most foolish way to hurt oneself... and yet here I am.
+AR الانزلاق في بركة أغبى طريقة لإيذاء النفس... ومع ذلك ها أنا ذا.
+1454 104:Line:19F5D36149BE4D35AB4C19C9E8613553 [Prism]
+EN Snakes. They're just chilling.
+AR الثعابين. هادئة فحسب.
+1455 104:Line:23DF831DAFA3477BAF773E69A668A659 [Phenomaman]
+EN So a break room is not where people go to break things.
+AR إذن غرفة الاستراحة ليست مكانا لكسر الأشياء.
+1456 104:Line:195C3D1C37C54827B44EB60D005412A5 [Flambae]
+EN So just to be clear - no torching the teens, right?
+AR للتوضيح فقط، لا نحرق المراهقين، صحيح؟
+1457 104:Line:17027BD6830D49ED9D2E56ABF57EBE1D [Invisigal]
+EN So we're screwed.
+AR إذن نحن في ورطة.
+1458 104:Line:3BD8C382675E4644B31D6ED0C6446367 [Sonar]
+EN So what you're saying is now you have two staplers.
+AR إذن تقصد أن لديك دباستين الآن.
+1459 104:Line:384D9364757C44BEB043D3C693834C49 [Robert]
+EN So, it won’t be weird with your ex-boyfriend hanging around?
+AR ألن يكون غريبا أن يتسكع حبيبك السابق هنا؟
+1460 104:Line:0D65266EE7CB43F6AAEAA34755D35821 [Phenoma-Man]
+EN So, more girlfriends?
+AR إذن، مزيد من الحبيبات؟
+1461 104:Line:EE1F210A234549B78B5482E35EB09F4C [Robert]
+EN So, this is why you’ve been acting so weird all day?
+AR إذن، لهذا تتصرف بغرابة طوال اليوم؟
+1462 104:Line:5F58FF8973A24D319DE829FF08BBB8AD [Invisigal]
+EN So, what’re we like, friends now?
+AR إذن، هل أصبحنا أصدقاء الآن؟
+1463 104:Line:8A7F52A1536E45D5A113C875A88488A1 [Phenoma-Man]
+EN So, you are to blame for my sadness?
+AR إذن، أنت المسؤول عن حزني؟
+1464 104:Line:381E6CC3109248C5883678459B494051 [Punch-Up]
+EN Some things you just can't teach.
+AR بعض الأمور لا يمكن تعليمها.
+1465 104:Line:1A156535D53140EDA34D084631D37E88 [Punch-Up]
+EN Someone's gotta go check on Coop.
+AR على أحد الاطمئنان على كوب.
+1466 104:Line:0F7C3D30DC2949E5B75FA90DEC964074 [Phenoma-Man]
+EN Something is very wrong.
+AR ثمة خطب فادح.
+1467 104:Line:307FEEB7A99C4839953A6D9A172881F2 [Chase]
+EN Sometimes it’s more about the person than the powers... |and good thing 'cause it’s the only reason anyone gave your sorry ass a job. 
+AR أحيانا يتعلق الأمر بالشخص أكثر من قواه... |وهذا جيد، فهو السبب الوحيد لتوظيف حقير مثلك. 
+1468 104:Line:20EE6F3A40C24CA2B92A40379BF5BD7B [Malevola]
+EN Sonar could turn into a bat.
+AR كان سونار يتحول إلى خفاش.
+1469 104:Line:42E20CBD9A824FADA85ABE507220F522 [Waterboy]
+EN Sorry!
+AR آسف!
+1470 104:Line:58D52D6E8FCE409CBE4D92FB0663DF4F [Waterboy]
+EN Sorry!
+AR آسف!
+1471 104:Line:C819BBACC08F4047BF46F584C2F51013 [Robert]
+EN Sorry, I just have a thing against obviously gorgeous women fishing for compliments. 
+AR آسف، لكنني لا أطيق النساء الجميلات جدا وهن يستجدين المديح. 
+1472 104:Line:403561743B324813A6607544F2AA071B [Robert]
+EN Sorry, can't tonight. Rain check?
+AR آسف، لا أستطيع الليلة. نؤجلها؟
+1473 104:Line:B9A1A94C6E8C4CD5B76A5028676681DF [Waterboy]
+EN Sorry-- I uh--  for interrupting your uhm, meeting with Invisi--
+AR آسف-- أنا-- لمقاطعة، آه، اجتماعك مع إنفيزي--
+1474 104:Line:97A322A5E72C4D9EB44B9D394BD45B47 [Waterboy]
+EN Sorry-- I’m. I tried-- I tried not to do that.
+AR آسف-- أنا. حاولت-- حاولت ألا أفعل ذلك.
+1475 104:Line:2F37D320731B4E72B1E39FD3F7FB878F [Waterboy]
+EN Sorry.
+AR آسف.
+1476 104:Line:377520ED67484E69909CA7B020D5A192 [Coupe]
+EN Sounds like a challenge. I accept.
+AR يبدو تحديا. أقبل.
+1477 104:Line:60FF7630C54E43AB88F84727A379AB94 [Invisigal]
+EN Sounds like... loads of fun.
+AR يبدو... ممتعا للغاية.
+1478 104:Line:12E8C906902B49A79B7D8B0800A8D051 [Phenomaman]
+EN Speaking of pets, I have recently learned of the American opossum. I find it fascinating how it carries its children on its back. Much like a bus.
+AR بذكر الحيوانات الأليفة، تعرفت مؤخرا على الأبوسوم الأمريكي. يبهرني حمله لصغاره على ظهره. كالحافلة تماما.
+1479 104:Line:14693DA0B5F849DDB18E119A84AB75C4 [Blazer]
+EN Still at the office? Up for a late dinner?
+AR ما زلت في المكتب؟ أتود عشاء متأخرا؟
+1480 104:Line:20220CC866E64BE2B79B6DA0E9F1E5D4 [Phenomaman]
+EN Strangely, that's not the first time I've heard that.
+AR الغريب أن هذه ليست أول مرة أسمعها.
+1481 104:Line:5965090F5D8C40C6B713F2C27368D6D0 [Waterboy]
+EN Sup!
+AR مرحبا!
+1482 104:Line:1DB67BA0BA264206AFB05958DC49583D [Waterboy]
+EN Sup.
+AR مرحبا.
+1483 104:Line:0CEF3D1FCE75410FA11D4FC1B2886EB1 [Malevola]
+EN Sure, I'll hang back.
+AR بالتأكيد، سأبقى في الخلف.
+1484 104:Line:52ABFB9B44F44E5B92C6268B88D20CEA [Waterboy]
+EN Sure.
+AR بالتأكيد.
+1485 104:Line:E45812F148FC489EBDAB1E0A3C09DB99 [Robert]
+EN Sure... What’s up?
+AR بالتأكيد... ما الأمر؟
+1486 104:Line:0DBA3B1FC88C45DABB075D016882A9E8 [Robert]
+EN System power.
+AR طاقة النظام.
+1487 104:Line:3161C93683694CCDAE6C38DD16B94E44 [Waterboy]
+EN T-tada!
+AR ت-تادا!
+1488 104:Line:0FAD26E87CAC4085A5BBEE28EE3BEAC9 [Waterboy]
+EN T-the bench is p-plenty warmed up. Time to- gotta stretch my legs!
+AR ا-الدكة د-دافئة بما يكفي. حان وقت-- علي تحريك ساقي!
+1489 104:Line:280A98A99F57433CBFFEC6BCC24378E4 [Waterboy]
+EN T-top of the morn-
+AR ص-صباح الخـ--
+1490 104:Line:289DF4BAA05F4536B3C781B37EA5342D [Coupe]
+EN Ta-ta.
+AR إلى اللقاء.
+1491 104:Line:29D9B38D5F8E41EBA40DEA880FD2138A [Prism]
+EN Take a beat.
+AR تمهل قليلا.
+1492 104:Line:B82038A57DF546F5A508EE97F8D92CA6 [Robert]
+EN Technically you’re still on the clock. |Didn’t peg you as a rom-com fan.
+AR تقنيا ما زلت في الدوام. |لم أتوقعك من محبي الكوميديا الرومانسية.
+1493 104:Line:C0158FECD2AC4C5D84C8C79C5B0FBD3D [Blonde Blazer]
+EN Temper your expectations.
+AR خفف توقعاتك.
+1494 104:Line:06D81C76F1CF499DA8358994C79567AC [Waterboy]
+EN Th-that re-really smarts. I'm okay though!
+AR ه-هذا يؤ-يؤلم حقا. لكنني بخير!
+1495 104:Line:35B6C8CBD73B48BAB257626675891E35 [Waterboy]
+EN Th-that’s not-- you- I’m-- I'm gonna go rinse off. 
+AR ه-هذا ليس-- أنت-- أنا-- سأذهب لأغتسل. 
+1496 104:Line:0B948C0E1A1341B0A993314077800EC0 [Waterboy]
+EN Th-this is my job-- Day job...
+AR ه-هذه وظيفتي-- اليومية...
+1497 104:Line:8495A7803368480CBEC742175902AB3D [Phenomaman]
+EN Thank you for sharing that. You are sad enough to understand.
+AR شكرا لمشاركتي ذلك. أنت حزين بما يكفي لتفهم.
+1498 104:Line:56A02BF9AE9446DFB1C6268024163ACB [Waterboy]
+EN Thank you so much!
+AR شكرا جزيلا!
+1499 104:Line:432E26693E5843D5A660F5193B59AF58 [Phenoma-Man]
+EN Thank you.
+AR شكرا لك.

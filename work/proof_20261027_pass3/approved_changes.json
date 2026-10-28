@@ -1,0 +1,326 @@
+[
+  {
+    "target": "101",
+    "index": 364,
+    "id": "101:Line:089B93CCC0154BB0A0C700F7BF72CD5D",
+    "en": "Loved.",
+    "before": "كنت أحبه.",
+    "after": "كنت تحبه.",
+    "reason": "تصحيح ضمير المخاطب؛ صوت المعالج يصحح قول روبرت أحب أبي إلى الماضي، كما تؤكد جملة You said love في السطر 633."
+  },
+  {
+    "target": "102",
+    "index": 490,
+    "id": "102:Line:316CF34EA0C3483FAE5E05F0B7D16629",
+    "en": "Don't worry. I've been stabbed before.",
+    "before": "لا تقلق. لقد طعنت من قبل.",
+    "after": "لا تقلق. لقد طُعنت من قبل.",
+    "reason": "توضيح المبني للمجهول بما يطابق تعرض المتحدثة للطعن."
+  },
+  {
+    "target": "102",
+    "index": 760,
+    "id": "102:Line:F4DA9D2AA5D34267B0CCF7EEDEE9C7DB",
+    "en": "Huh? |Hell no bruddah. No. No. No, no cuz. Listen, listen-- |They’re tree uddah guys here go by the name Roy. |So I tink it’s like you know we go scrap, we go ground, I buss you up |and then you know, you got Roy’d. |You know what I'm saying bruh. That’s... what I...that's what I think...",
+    "before": "هاه؟ |كلا يا أخي. لا. لا. لا لا يا صاح. اسمع، اسمع-- |هناك ثلاثة رجال آخرين هنا اسمهم روي. |لذا أظن أننا نتعارك ونتصارع وأسحقك، |ثم، كما تعرف، تكون قد ترويت. |أتفهمني يا أخي؟ هذا... ما... هذا ما أظنه...",
+    "after": "هاه؟ |كلا يا أخي. لا. لا. لا لا يا صاح. اسمع، اسمع-- |هناك ثلاثة رجال آخرون هنا اسمهم روي. |لذا أظن أننا نتعارك ونتصارع وأسحقك، |ثم، كما تعرف، تكون قد ترويت. |أتفهمني يا أخي؟ هذا... ما... هذا ما أظنه...",
+    "reason": "مطابقة نعت رجال المرفوع: آخرون بدل آخرين."
+  },
+  {
+    "target": "102",
+    "index": 1061,
+    "id": "102:Line:48E655AFCCE4488E951758BF4EF2BC6D",
+    "en": "Let's show these molehills a mountain.",
+    "before": "لنر هذه التلال جبلا.",
+    "after": "لنُرِ هذه التلال جبلا.",
+    "reason": "تمييز نُري بمعنى نظهر لهم من نرى بمعنى نشاهد، بما يوافق show."
+  },
+  {
+    "target": "102",
+    "index": 1199,
+    "id": "102:Line:67AA0DFAAC2C411DB590316DB9078CCE",
+    "en": "Now could you step back? |The power of my launch has been to known to stun small beings. |Phenomenal.",
+    "before": "والآن، هل تتراجع قليلا؟ |عرف عن قوة إقلاعي أنها تصعق الكائنات الصغيرة. |مذهل.",
+    "after": "والآن، هل تتراجع قليلا؟ |عُرف عن قوة إقلاعي أنها تصعق الكائنات الصغيرة. |مذهل.",
+    "reason": "توضيح صيغة المبني للمجهول has been known."
+  },
+  {
+    "target": "102",
+    "index": 1370,
+    "id": "102:Line:056105D838514F1CBCDA98BE0435CEB7",
+    "en": "Restroom. I mean. It’s right over there. |Sorry. At work I tend to get a little... ",
+    "before": "دورة المياه. أقصد. إنها هناك. |آسفة. في العمل أميل لأن أكون قليلا... ",
+    "after": "دورة المياه. أقصد. إنها هناك. |آسفة. في العمل أميل إلى أن أكون قليلا... ",
+    "reason": "تصحيح تعدية أميل إلى مع إبقاء العبارة المقطوعة."
+  },
+  {
+    "target": "102",
+    "index": 1488,
+    "id": "102:Line:3563F8AFCB934273943CB1FCAD66B172",
+    "en": "Stolen art is stolen again. Whoop-de-fuckin'-do.",
+    "before": "سرق الفن المسروق مجددا. يا للإنجاز اللعين.",
+    "after": "سُرق الفن المسروق مجددا. يا للإنجاز اللعين.",
+    "reason": "توضيح المبني للمجهول؛ الأعمال المسروقة سُرقت من جديد."
+  },
+  {
+    "target": "103",
+    "index": 591,
+    "id": "103:Line:5F65DED13D0A4B7891567BE43F3A1234",
+    "en": "I'm flying blind here. I can't see anything.",
+    "before": "أعمل عميانا هنا. لا أرى شيئا.",
+    "after": "أعمل على غير هدى هنا. لا أرى شيئا.",
+    "reason": "تصحيح استعمال جمع عميان حالا للمتكلم المفرد مع الحفاظ على معنى العمل بلا رؤية."
+  },
+  {
+    "target": "103",
+    "index": 745,
+    "id": "103:Line:B79B39DD20524966995E0CCB45EE91CC",
+    "en": "Okay team, I know Blazer mentioned someone’s getting cut, |but don’t let that distract you from doing a good job out there. |That’s what you’ll be judged on. ",
+    "before": "حسنا يا فريق، أعرف أن بليزر ذكرت أن أحدا سيطرد، |لكن لا تدعوا ذلك يشتتكم عن العمل الجيد. |هذا ما ستقيمون عليه. ",
+    "after": "حسنا يا فريق، أعرف أن بليزر ذكرت أن أحدا سيطرد، |لكن لا تدعوا ذلك يشتتكم عن العمل الجيد. |هذا ما ستُقيَّمون على أساسه. ",
+    "reason": "توضيح معنى التقييم لا الإقامة وتصحيح تركيب أساس الحكم."
+  },
+  {
+    "target": "103",
+    "index": 1011,
+    "id": "103:Line:5E0F1777F62A40C29C6A08685364313A",
+    "en": "Yeah, I'm pretty sure it's a punishment. But hey, now you can get a better <Italic>stab</> at me with your sword... Get it?",
+    "before": "أجل، أظنه عقابا. لكن الآن فرصتك <Italic>للطعن</> بي أفضل بسيفك... أفهمت؟",
+    "after": "أجل، أظنه عقابا. لكن فرصتك <Italic>لطعني</> بسيفك أفضل الآن... أفهمت؟",
+    "reason": "تصحيح تعدية الطعن بالسيف إلى المفعول مباشرة مع الحفاظ على الوسم."
+  },
+  {
+    "target": "103",
+    "index": 1067,
+    "id": "103:Line:76A4029C0D0F4ED3847D246B592D5331",
+    "en": "You. Every single one of you, are those flaming piles of burnt shit. |You especially. |Now. You can stay piles of shit, like you’ve been your whole life... |or we can turn this thing around.",
+    "before": "أنتم. كل واحد منكم، أكوام الخراء المحترق المشتعلة تلك. |أنت خصوصا. |الآن، يمكنكم البقاء أكوام خراء كما كنتم طوال حياتكم... |أو يمكننا تغيير المسار.",
+    "after": "أنتم. أنتم جميعا أكوام الخراء المحترق المشتعلة تلك. |أنت خصوصا. |الآن، يمكنكم البقاء أكوام خراء كما كنتم طوال حياتكم... |أو يمكننا تغيير المسار.",
+    "reason": "إصلاح توافق المبتدأ والخبر؛ لا يوصف كل واحد بمفرده بأنه أكوام."
+  },
+  {
+    "target": "104",
+    "index": 570,
+    "id": "104:Line:1AFDDDCC93AF41BDAB9F893A792244A3",
+    "en": "Far from it. I’m actually trying to subtly tell you that, you know... ",
+    "before": "بعيدا عن ذلك. أحاول إخبارك بتلميح لطيف، أتعلمين... ",
+    "after": "على العكس تماما. أحاول إخبارك بتلميح لطيف، أتعلمين... ",
+    "reason": "تصحيح ترجمة التعبير Far from it الدال على النفي أو العكس؛ بعيدا عن ذلك تفيد الانتقال إلى موضوع آخر."
+  },
+  {
+    "target": "105",
+    "index": 256,
+    "id": "105:Line:D8B42098FC924E3A9389C6FF4FA39738",
+    "en": "And that’s not a trap. I’m both of them. |That sounded weird out loud but you know what I mean.",
+    "before": "وهذا ليس فخا. أنا الاثنان. |بدا ذلك غريبا جهرا، لكنكم تفهمون قصدي.",
+    "after": "وهذا ليس فخا. أنا الاثنان. |بدا ذلك غريبا جهرا، لكنك تفهم قصدي.",
+    "reason": "مطابقة ضمير المخاطب مع روبرت المفرد، كما يثبت سياق الحوار."
+  },
+  {
+    "target": "105",
+    "index": 333,
+    "id": "105:Line:541F7437956D4D8D9F6D436F89D840E0",
+    "en": "Five fancy whiskies?",
+    "before": "خمسة كؤوس ويسكي فاخر؟",
+    "after": "خمس كؤوس ويسكي فاخر؟",
+    "reason": "تصحيح مخالفة العدد للمعدود؛ كأس مؤنثة."
+  },
+  {
+    "target": "105",
+    "index": 390,
+    "id": "105:Line:5F83242473244D02AE055C570C47DF7B",
+    "en": "Hey, like you said, they’re both you. |And you know what, you are who I like. |So, I’ll be happy either way.",
+    "before": "كما قلت، كلاهما أنت. |وأتعلم، أنت من يعجبني. |لذا سأكون سعيدا في الحالتين.",
+    "after": "كما قلت، كلاهما أنت. |وأتعلمين، أنت من يعجبني. |لذا سأكون سعيدا في الحالتين.",
+    "reason": "تأنيث الخطاب في رد روبرت على بليزر التي قالت أنا الاثنان (105/256)."
+  },
+  {
+    "target": "105",
+    "index": 416,
+    "id": "105:Line:3568B577C6FD4DFEBB3C9FA0353D2BB8",
+    "en": "I did not really want to leave, but I expressed the danger the city was in and I was given a caramel as a token of gratitude.",
+    "before": "لم أرد المغادرة حقا، لكنني شرحت خطر المدينة، فأعطوني حلوى كراميل تعبيرا عن الامتنان.",
+    "after": "لم أرد المغادرة حقا، لكنني شرحت الخطر الذي يهدد المدينة، فأعطوني حلوى كراميل تعبيرا عن الامتنان.",
+    "reason": "توضيح أن المدينة في خطر لا أنها مصدر الخطر."
+  },
+  {
+    "target": "105",
+    "index": 421,
+    "id": "105:Line:4D8DC647683D4BD0AFE2458C0ECE133B",
+    "en": "I doubt Deirdre's the only victim of his. Let's delete all the files on his laptop.",
+    "before": "أشك أن ديردري ضحيته الوحيدة. لنحذف جميع ملفات حاسوبه المحمول.",
+    "after": "أشك في أن ديردري ضحيته الوحيدة. لنحذف جميع ملفات حاسوبه المحمول.",
+    "reason": "تصحيح تعدية أشك في."
+  },
+  {
+    "target": "105",
+    "index": 440,
+    "id": "105:Line:767A2E91056C41928D185BB71619DEFF",
+    "en": "I mean the Sardine’s a villain bar. Not sure I’d fit in.",
+    "before": "أعني، السردين حانة أشرار. لست واثقا أنني سأنسجم.",
+    "after": "أعني، السردين حانة أشرار. لست واثقا من أنني سأنسجم.",
+    "reason": "تصحيح تعدية واثق من."
+  },
+  {
+    "target": "105",
+    "index": 441,
+    "id": "105:Line:D072538F846143DF8BDBD69FE94949E8",
+    "en": "I mean we’re friends, right? Make your friends some money.",
+    "before": "نحن أصدقاء، صحيح؟ اكسب أصدقاءك بعض المال.",
+    "after": "نحن أصدقاء، صحيح؟ أكسب أصدقاءك بعض المال.",
+    "reason": "همزة القطع في أمر الفعل أكسب المتعدي."
+  },
+  {
+    "target": "105",
+    "index": 488,
+    "id": "105:Line:2D2E4422E53B46E1979D3A0DE22F7E86",
+    "en": "I-I'm not sure this guy knows what he's doing.",
+    "before": "ل-لست واثقا أن هذا الرجل يعرف ما يفعل.",
+    "after": "ل-لست واثقا من أن هذا الرجل يعرف ما يفعل.",
+    "reason": "تصحيح تعدية واثق من مع إبقاء التلعثم."
+  },
+  {
+    "target": "105",
+    "index": 592,
+    "id": "105:Line:1FC9D9CE45834236B4D6BE49CC98C830",
+    "en": "No. Um. Nine shitty whiskies.",
+    "before": "لا. أم. تسعة كؤوس ويسكي رديء.",
+    "after": "لا. أم. تسع كؤوس ويسكي رديء.",
+    "reason": "تصحيح مخالفة العدد للمعدود؛ كأس مؤنثة."
+  },
+  {
+    "target": "105",
+    "index": 615,
+    "id": "105:Line:5548D559E91343DDBE3812AD39C76177",
+    "en": "Oh, uh, I don’t know... which would you prefer?",
+    "before": "آه، لا أدري... أيهما تفضلين؟",
+    "after": "آه، لا أدري... أيهما تفضل؟",
+    "reason": "تصحيح جنس المخاطب؛ بليزر تتحدث إلى روبرت، وفق قاعدة المشروع."
+  },
+  {
+    "target": "105",
+    "index": 726,
+    "id": "105:Line:5FC467677EFE4D42BF9095784A27CEBF",
+    "en": "The fuck you mean I'm not what you're looking for? I'm what EVERYONE is looking for.",
+    "before": "ماذا تقصد بأنني لست المطلوب؟ أنا مطلوب الجميع.",
+    "after": "ماذا تقصد بأنني لست ما تبحث عنه؟ أنا ما يبحث عنه الجميع.",
+    "reason": "تصحيح تركيب المطلوب وتجنب تذكير المتحدثة بريزم."
+  },
+  {
+    "target": "105",
+    "index": 874,
+    "id": "105:Line:E0D92EF240B84BA6A52AF74696A68881",
+    "en": "You know that’s not true... |I’m not sure your Dad would want it that way.",
+    "before": "تعرف أن هذا غير صحيح... |لست واثقا أن أباك سيريد هذا.",
+    "after": "تعرف أن هذا غير صحيح... |لست واثقا من أن أباك سيريد هذا.",
+    "reason": "تصحيح تعدية واثق من."
+  },
+  {
+    "target": "106",
+    "index": 257,
+    "id": "106:Line:49828BF059C543A5A98A1D0F5DF7775D",
+    "en": "Can’t shoot what you can’t see.",
+    "before": "لا تطلق النار على ما لا ترى.",
+    "after": "لا يمكنك إطلاق النار على ما لا تراه.",
+    "reason": "الأصل يقرر عدم القدرة على إصابة غير المرئي، بينما النص السابق أمر بالنهي عن إطلاق النار."
+  },
+  {
+    "target": "106",
+    "index": 315,
+    "id": "106:Line:1F31244E626E4E7DAFE702E5D6227E59",
+    "en": "Good, |yeah, uhm, challenging. |Made worse by all the enhanced villains we’re dealing with lately. |I have a whole new appreciation for you. |I’m sorry about the pulse. |Give us some time. Royd’s a little down, but |I’m sure we can come up with alternate power sources.",
+    "before": "بخير، |أجل، أم، الأمر صعب. |وزادته صعوبة كثرة الأشرار المعززين مؤخرا. |صرت أقدرك أكثر بكثير. |آسفة بشأن النبضة. |أمهلنا وقتا. رويد محبط قليلا، لكن |أنا واثقة أننا سنجد مصادر طاقة بديلة.",
+    "after": "بخير، |أجل، أم، الأمر صعب. |وزادته صعوبة كثرة الأشرار المعززين مؤخرا. |صرت أقدرك أكثر بكثير. |آسفة بشأن النبضة. |أمهلنا وقتا. رويد محبط قليلا، لكن |أنا واثقة من أننا سنجد مصادر طاقة بديلة.",
+    "reason": "تصحيح تعدية واثقة بحرف الجر من."
+  },
+  {
+    "target": "106",
+    "index": 700,
+    "id": "106:Line:1BC058A0DF42489993B20FCEEA8F1B0E",
+    "en": "Yeah, I'm with the big guy on this one. I think it was both.",
+    "before": "أجل، أنا مع الضخم هنا. أظنهما السببان معا.",
+    "after": "أجل، أنا مع الضخم هنا. أظنهما السببين معا.",
+    "reason": "نصب المفعول الثاني بعد ظن؛ علامة نصب المثنى الياء."
+  },
+  {
+    "target": "107",
+    "index": 413,
+    "id": "107:Line:3FB80185EC1647FD958F6BBCE7A6C6BE",
+    "en": "Okay, so, we've got a super down here who controls bugs. Apparently they have beef with one of our farmers using pesticides. It's getting real biblical down here.",
+    "before": "حسنًا، لدينا هنا صاحب قوى يتحكم بالحشرات. يبدو أنه ناقم على أحد مزارعينا لاستخدامه المبيدات. الوضع هنا أشبه بالطوفان والجراد.",
+    "after": "حسنًا، لدينا هنا صاحبة قوى تتحكم بالحشرات. يبدو أنها ناقمة على أحد مزارعينا لاستخدامه المبيدات. الوضع هنا أشبه بالطوفان والجراد.",
+    "reason": "تصحيح الجنس إلى المؤنث: السجل الموازي 598 في SC_05__38 يتحدث عنها بالمؤنث، والنتيجة 599 تسمي الشخصية Bug Lady؛ جنسها المؤنث مثبت في دليل الأسلوب."
+  },
+  {
+    "target": "107",
+    "index": 415,
+    "id": "107:Line:5525E65FBCA942DAA3931A95027A2FDD",
+    "en": "Okay, we’re out of here. |Take your piss soaked pants out the back please. |Don't wanna tempt this tiger.",
+    "before": "حسنًا، سنغادر. |خذ سروالك المبلل بالبول واخرج من الخلف، رجاء. |لا نريد إغراء هذا النمر.",
+    "after": "حسنًا، سنغادر. |خذ سروالك المبلل بالبول واخرج من الخلف، رجاء. |لا نريد استفزاز هذا النمر.",
+    "reason": "تصحيح التعبير السياقي tempt this tiger إلى استفزاز النمر الذي يهددهم؛ إغراؤه لا ينقل المعنى هنا."
+  },
+  {
+    "target": "107",
+    "index": 562,
+    "id": "107:Line:2AB9E0EEA6E44F7886B4E752594817C7",
+    "en": "You made them nervous.",
+    "before": "أنت أوترتهم.",
+    "after": "أنت جعلتهم يتوترون.",
+    "reason": "تصحيح صياغة تسبب التوتر بما يطابق You made them nervous؛ أوترتهم ملتبسة ولا تعبر طبيعيًا عن المعنى."
+  },
+  {
+    "target": "108",
+    "index": 853,
+    "id": "108:Line:0278DFAB6FA243DD9C05572EF5ED0D4E",
+    "en": "I wouldn’t have put my money on this team being the one to save SDN |but here we are.",
+    "before": "ما كنت لأراهن أن هذا الفريق سينقذ SDN |لكن ها نحن ذا.",
+    "after": "ما كنت لأراهن على أن هذا الفريق سينقذ SDN |لكن ها نحن ذا.",
+    "reason": "تصحيح تعدية أراهن بحرف الجر على."
+  },
+  {
+    "target": "108",
+    "index": 890,
+    "id": "108:Line:565259BA80034F9FB2F08B03DD0E61AD",
+    "en": "I'm sure I won't lose sleep over this.",
+    "before": "أنا متأكدة أن هذا لن يؤرقني.",
+    "after": "أنا متأكدة من أن هذا لن يؤرقني.",
+    "reason": "تصحيح تعدية متأكدة بحرف الجر من."
+  },
+  {
+    "target": "108",
+    "index": 981,
+    "id": "108:Line:16C5441C59084E668885BF354A862984",
+    "en": "Let's fucking go.",
+    "before": "هيا بنا اللعنة.",
+    "after": "هيا بنا، اللعنة.",
+    "reason": "فصل جملة اللعن الاعتراضية بعلامة ترقيم."
+  },
+  {
+    "target": "108",
+    "index": 1318,
+    "id": "108:Line:56383F8ECF9341CB84D3A4D9B9AFFC22",
+    "en": "Sure you don’t want that spray?",
+    "before": "متأكد أنك لا تريد ذلك الرذاذ؟",
+    "after": "متأكد من أنك لا تريد ذلك الرذاذ؟",
+    "reason": "تصحيح تعدية متأكد بحرف الجر من دون تغيير جنس المخاطب."
+  },
+  {
+    "target": "108",
+    "index": 1359,
+    "id": "108:Line:57FAF795AA9D4C0FA7DF17466C137F0E",
+    "en": "That’s not... I mean. I don’t do-- what if somebody spills-- |or mess up, I would mess up other people. ",
+    "before": "هذا ليس... أعني. أنا لا أفعل-- ماذا لو سكب أحدهم-- |أو أخطأت، قد أفسد الآخرين. ",
+    "after": "هذا ليس... أعني. أنا لا أفعل-- ماذا لو سكب أحدهم-- |أو أخطأت، فقد أفسد الأمور على الآخرين. ",
+    "reason": "تصحيح معنى mess up other people؛ المقصود إفساد الأمور عليهم لا إفساد أشخاصهم."
+  },
+  {
+    "target": "108",
+    "index": 1408,
+    "id": "108:Line:2BA84339B64049FAAD2EC3A3ACBE4448",
+    "en": "This is what Shroud does. |He knows our procedure so he’s predicting our moves. |So, we need to switch it up and be less predictable.",
+    "before": "هذا أسلوب شراود. |يعرف إجراءاتنا، لذا يتنبأ بخطواتنا. |علينا تغيير أسلوبنا والتصرف بطريقة أقل توقعًا.",
+    "after": "هذا أسلوب شراود. |يعرف إجراءاتنا، لذا يتنبأ بخطواتنا. |علينا تغيير أسلوبنا والتصرف بطريقة يصعب توقعها.",
+    "reason": "تصحيح معنى less predictable؛ المقصود صعوبة توقع أفعالنا لا أن نتوقع نحن أقل."
+  }
+]

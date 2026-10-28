@@ -1,0 +1,425 @@
+[
+  {
+    "target": "104",
+    "index": 436,
+    "id": "104:Line:4CDD4FBC993B4273B4AE1D655703D037",
+    "en": "Alright sonny, let's show em together.",
+    "before": "حسنا يا بني، لنرهم معا.",
+    "after": "حسنا يا بني، لنُرِهم معا.",
+    "reason": "ضبط فعل الأمر لتمييزه عن الرؤية."
+  },
+  {
+    "target": "104",
+    "index": 559,
+    "id": "104:Line:368290CB49594EF3AF003D6B05106838",
+    "en": "Drive better next time.",
+    "before": "قد بشكل أفضل المرة المقبلة.",
+    "after": "قُد بشكل أفضل المرة المقبلة.",
+    "reason": "ضبط فعل الأمر لتمييزه عن قد."
+  },
+  {
+    "target": "104",
+    "index": 576,
+    "id": "104:Line:07E06A6776E9446F91EBB9820122121B",
+    "en": "Fly them to the hospital.",
+    "before": "طر بهم إلى المستشفى.",
+    "after": "طِر بهم إلى المستشفى.",
+    "reason": "ضبط فعل الأمر لتمييزه عن غيره."
+  },
+  {
+    "target": "104",
+    "index": 599,
+    "id": "104:Line:4766CE25AE4241028B98F8DDCA1CAC9C",
+    "en": "Great feeling, great feeling. I'll try not to get used to it. I've been hurt before.",
+    "before": "شعور رائع، رائع. سأحاول ألا أعتاد عليه. لقد خذلت من قبل.",
+    "after": "شعور رائع، رائع. سأحاول ألا أعتاد عليه. لقد خُذلت من قبل.",
+    "reason": "ضبط المبني للمجهول لتجنب عكس المعنى."
+  },
+  {
+    "target": "104",
+    "index": 671,
+    "id": "104:Line:5EFC0A5DB29D4BCC94D0192D9306D7FD",
+    "en": "I am A-O-good! All-kay. A-O-kay!",
+    "before": "أنا ب-خير تمام! كله ج-تمام. كله تمام!",
+    "after": "أنا ب-خير تماما! كله ج-تمام. كله تمام!",
+    "reason": "تصحيح كتابة الحال مع الحفاظ على التلعثم."
+  },
+  {
+    "target": "104",
+    "index": 872,
+    "id": "104:Line:10E1060ABFEA4B019392E3B9B4445677",
+    "en": "Is there a return policy on this motherfucker?",
+    "before": "هل يمكن إرجاع هذا ابن الكلب؟",
+    "after": "هل يمكن إرجاع ابن الكلب هذا؟",
+    "reason": "تصحيح موضع اسم الإشارة."
+  },
+  {
+    "target": "104",
+    "index": 941,
+    "id": "104:Line:ECF3ED9845604C9EBCBECBEE3A8D6B7C",
+    "en": "Look, Phenomaman... |I’m only telling you this because I don’t want you hearing it from someone else... |I kissed Blazer.",
+    "before": "اسمع يا فينومامان... |أخبرك فقط لأنني لا أريدك أن تسمع من غيري... |لقد قبلت بليزر.",
+    "after": "اسمع يا فينومامان... |أخبرك فقط لأنني لا أريدك أن تسمع من غيري... |لقد قبّلت بليزر.",
+    "reason": "تمييز فعل التقبيل من القبول."
+  },
+  {
+    "target": "104",
+    "index": 996,
+    "id": "104:Line:5165F0D496FC44CF86984FA50921F164",
+    "en": "No, hold on. She didn’t kiss me. |She didn’t do anything wrong. I kissed her. ",
+    "before": "لا، لحظة. هي لم تقبلني. |لم تفعل شيئا خطأ. أنا من قبلها. ",
+    "after": "لا، لحظة. هي لم تقبّلني. |لم تفعل شيئا خطأ. أنا من قبّلها. ",
+    "reason": "تمييز فعل التقبيل من القبول."
+  },
+  {
+    "target": "104",
+    "index": 1263,
+    "id": "104:Line:2323DEECED084569925A0526425EE958",
+    "en": "They used to date. |My last girlfriend was taller than me. |She used to kiss me on my forehead a lot. It was nice.|What were we talking about? Oh, right. |Watch out for that salty little nutcracking motherfucker.",
+    "before": "كانا يتواعدان. |حبيبتي السابقة كانت أطول مني. |كانت تقبل جبيني كثيرا. كان ذلك جميلا.|عما كنا نتحدث؟ آه، صحيح. |احذر ذلك الوغد الصغير الناقم كسارة البندق.",
+    "after": "كانا يتواعدان. |حبيبتي السابقة كانت أطول مني. |كانت تقبّل جبيني كثيرا. كان ذلك جميلا.|عما كنا نتحدث؟ آه، صحيح. |احذر ذلك الوغد الصغير الناقم كسارة البندق.",
+    "reason": "تمييز فعل التقبيل من القبول."
+  },
+  {
+    "target": "104",
+    "index": 1483,
+    "id": "104:Line:4A93655FFB8A48AD8796823DD259E8E5",
+    "en": "You handle this one then, takes an asshole to know an asshole.",
+    "before": "تول هذه إذن، فلا يعرف الوغد إلا وغد مثله.",
+    "after": "تولَّ هذه إذن، فلا يعرف الوغد إلا وغد مثله.",
+    "reason": "ضبط فعل الأمر."
+  },
+  {
+    "target": "104",
+    "index": 1493,
+    "id": "104:Line:84E10AD8819742D2BF9BA93428873AFC",
+    "en": "You look fully tucked in, which, I think we can agree, is the most important thing. ",
+    "before": "يبدو أن كل شيء مستور، ونتفق أن هذا الأهم. ",
+    "after": "يبدو أن كل شيء مستور، ونتفق على أن هذا الأهم. ",
+    "reason": "تصحيح تعدية الفعل اتفق."
+  },
+  {
+    "target": "104",
+    "index": 1682,
+    "id": "104:NodeTitle:FACFE31893E7465EA81818C3E01CFE84",
+    "en": "I kissed her.",
+    "before": "لقد قبلتها.",
+    "after": "لقد قبّلتها.",
+    "reason": "تمييز فعل التقبيل من القبول."
+  },
+  {
+    "target": "104",
+    "index": 1709,
+    "id": "104:NodeTitle:DC5109152B104B8DAA9FBFFC039269E3",
+    "en": "[Kiss Her]",
+    "before": "[قبلها]",
+    "after": "[قبّلها]",
+    "reason": "تمييز فعل التقبيل من القبول."
+  },
+  {
+    "target": "105",
+    "index": 4,
+    "id": "105::9D740BED41405F32C364CA88A0B55B1F",
+    "en": "\"Mr. Cat is out there all alone... So scared, so hungry... Please find my baby!\" ",
+    "before": "\"السيد قط وحده هناك... خائف وجائع جدا... أرجوكم جدوا صغيري!\" ",
+    "after": "\"السيد قط وحده هناك... خائف وجائع جدا... أرجوكم اعثروا على صغيري!\" ",
+    "reason": "توضيح فعل الأمر الذي يلتبس بكلمة جدوا."
+  },
+  {
+    "target": "105",
+    "index": 8,
+    "id": "105::953A8BF24A8980B0BC35F6861BB6CCB2",
+    "en": "\"TMS is hosting an anti-bullying seminar and it would mean a lot if a hero could talk to them.\" ",
+    "before": "\"تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لهم الكثير أن يحدثهم بطل.\" ",
+    "after": "\"تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لهم الكثير أن يحدّثهم بطل.\" ",
+    "reason": "ضبط فعل التحدث لتمييزه عن حدوث الشيء."
+  },
+  {
+    "target": "105",
+    "index": 229,
+    "id": "105:Line:15258CBFFCD44BE3B1EB0CBAD35468C9",
+    "en": "<Italic>I’m a bitch, my name's Robert, such a bitch whose name is Robert,</>|<Italic>I'm a bitch yeah I'm a bitch, I'm such a fucking bitch, </>|<Italic>I have no hopes, I have no dreams, and a tiny little peen,</>|<Italic>and it doesn't even function anyway because I have erectile dysfunction,</>|<Italic>so take me as I am, just a tiny little bitch of a man...</>",
+    "before": "<Italic>أنا حقير، اسمي روبرت، حقير اسمه روبرت،</>|<Italic>أنا حقير أجل أنا حقير، حقير لعين جدا،</>|<Italic>لا آمال لدي ولا أحلام، وقضيبي صغير ضئيل،</>|<Italic>ولا يعمل حتى لأنني مصاب بضعف الانتصاب،</>|<Italic>فتقبلوني كما أنا، مجرد رجل حقير صغير...</>",
+    "after": "<Italic>أنا حقير، اسمي روبرت، حقير اسمه روبرت،</>|<Italic>أنا حقير أجل أنا حقير، حقير لعين جدا،</>|<Italic>لا آمال لدي ولا أحلام، وقضيبي صغير ضئيل،</>|<Italic>ولا يعمل حتى لأنني مصاب بضعف الانتصاب،</>|<Italic>فتقبّلوني كما أنا، مجرد رجل حقير صغير...</>",
+    "reason": "ضبط فعل التقبل لتمييزه عن التقبيل."
+  },
+  {
+    "target": "105",
+    "index": 350,
+    "id": "105:Line:12C8410E946549FDB64FA3EC148FA753",
+    "en": "Get dusted.",
+    "before": "تحول لغبار.",
+    "after": "تحوّل إلى غبار.",
+    "reason": "تصحيح فعل الأمر وحرف الجر."
+  },
+  {
+    "target": "105",
+    "index": 387,
+    "id": "105:Line:396BA0DDBAE3479F864E68F4DB8D4AC0",
+    "en": "Hey, bud. Lemme buy ya a drink--",
+    "before": "مرحبا يا صاح. دعني أشتر لك شرابا--",
+    "after": "مرحبا يا صاح. دعني أشترِ لك شرابا--",
+    "reason": "ضبط فعل الشراء المجزوم."
+  },
+  {
+    "target": "105",
+    "index": 496,
+    "id": "105:Line:3B97EC2342704D0094074B40F27EC012",
+    "en": "If you've seen one graffiti dick, you've seen em all.",
+    "before": "إن رأيت قضيب جرافيتي واحدا، فقد رأيتها كلها.",
+    "after": "إن رأيت قضيب جرافيتي واحدا، فقد رأيت البقية كلها.",
+    "reason": "تصحيح مرجع الضمير والحفاظ على المعنى."
+  },
+  {
+    "target": "105",
+    "index": 540,
+    "id": "105:Line:55B9F2C7B61E4AFAA0C0B47EC826D53F",
+    "en": "Looks like Red Ring was behind this. But what are they up to?",
+    "before": "يبدو أن الحلقة الحمراء وراء هذا. لكن ماذا يخططون؟",
+    "after": "يبدو أن الحلقة الحمراء وراء هذا. لكن ما الذي يخططون له؟",
+    "reason": "تصحيح تعدية يخطط."
+  },
+  {
+    "target": "105",
+    "index": 557,
+    "id": "105:Line:4AE342C25B4D49ADBBC9E8DFA2A75119",
+    "en": "Mr. Cat is out there all alone... So scared, so hungry... Please find my baby!",
+    "before": "السيد قط وحده هناك... خائف وجائع جدا... أرجوكم جدوا صغيري!",
+    "after": "السيد قط وحده هناك... خائف وجائع جدا... أرجوكم اعثروا على صغيري!",
+    "reason": "توضيح فعل الأمر الذي يلتبس بكلمة جدوا."
+  },
+  {
+    "target": "105",
+    "index": 720,
+    "id": "105:Line:3C092EDAF4D646DD99E0F58D2DECBA09",
+    "en": "That’s fuckin’ right. |And you, it’s time for you to accept that you don’t got it anymore.|And pretending you still do is bumming people the fuck out.",
+    "before": "صحيح بحق اللعنة. |وأنت، حان وقت تقبل أنك فقدت قدرتك.|والتظاهر بالعكس يضايق الجميع بشدة.",
+    "after": "صحيح بحق اللعنة. |وأنت، حان وقت تقبّل أنك فقدت قدرتك.|والتظاهر بالعكس يضايق الجميع بشدة.",
+    "reason": "ضبط فعل التقبل لتمييزه عن التقبيل."
+  },
+  {
+    "target": "105",
+    "index": 755,
+    "id": "105:Line:56E83C37BD2149E1B42AC9F344B09AA4",
+    "en": "Three triple crunch tacos, yeah. You’ve muttered it fifty times. Just |eat that. It’s the same shit anyway. |Literally everything at this place is just a remix of the same five ingredients. |Hot sauce?",
+    "before": "ثلاث تاكوهات ثلاثية القرمشة، أجل. تمتمت بها خمسين مرة. فقط |كل هذه. كلها الشيء نفسه. |كل طبق هنا مجرد إعادة خلط للمكونات الخمسة نفسها حرفيا. |صلصة حارة؟",
+    "after": "ثلاث تاكوهات ثلاثية القرمشة، أجل. تمتمت بها خمسين مرة. فقط |كُل هذه. كلها الشيء نفسه. |كل طبق هنا مجرد إعادة خلط للمكونات الخمسة نفسها حرفيا. |صلصة حارة؟",
+    "reason": "ضبط فعل الأمر من الأكل لتمييزه عن كل."
+  },
+  {
+    "target": "105",
+    "index": 796,
+    "id": "105:Line:3FB8703A4000469DB2DA0DCC7AC14789",
+    "en": "We know you don’t have plans.",
+    "before": "نعرف أنه ليست لديك خطط.",
+    "after": "نعرف أنه لا توجد لديك خطط.",
+    "reason": "تصحيح تركيب النفي دون افتراض جنس المخاطب."
+  },
+  {
+    "target": "105",
+    "index": 862,
+    "id": "105:Line:F21142BF664243DFA059E5DBBD2DDFC6",
+    "en": "You can buy them drinks. You can make sure they don’t get fired. |You can line them up and blow ‘em one by one -- |but they're still gonna think you might be the hero that fucked up their life.",
+    "before": "يمكنك شراء الشراب لهم وضمان ألا يطردوا. |يمكنك صفهم ومصهم واحدا واحدا-- |لكنهم سيظنونك ربما البطل الذي دمر حياتهم.",
+    "after": "يمكنك شراء الشراب لهم وضمان ألا يطردوا. |يمكنك صفهم ومصهم واحدا واحدا-- |لكنهم سيظنون أنك ربما تكون البطل الذي دمر حياتهم.",
+    "reason": "تصحيح تركيب الجملة بعد ظن."
+  },
+  {
+    "target": "105",
+    "index": 873,
+    "id": "105:Line:24AD783A382540A08C7E9DFB4AE337BF",
+    "en": "You jealous or something? Look, if you wanted to grab dinner all you had to do was ask.",
+    "before": "أتغار أو شيء؟ إن أردت العشاء معي، كان يكفي أن تسأل.",
+    "after": "أتغار أو ما شابه؟ إن أردت العشاء معي، كان يكفي أن تسأل.",
+    "reason": "إكمال تركيب السؤال."
+  },
+  {
+    "target": "105",
+    "index": 1065,
+    "id": "105:NodeTitle:28E0A9AA23784C76AB8E79F2A15B6D42",
+    "en": "Let me buy you a drink.",
+    "before": "دعني أشتر لك شرابا.",
+    "after": "دعني أشترِ لك شرابا.",
+    "reason": "ضبط فعل الشراء المجزوم."
+  },
+  {
+    "target": "106",
+    "index": 224,
+    "id": "106:Line:34E1E35AD1104738938F5BAC103995DF",
+    "en": "Almost isn't good enough.",
+    "before": "كدت لا تكفي.",
+    "after": "«كدت» لا تكفي.",
+    "reason": "تمييز الكلمة المقتبسة في الجملة."
+  },
+  {
+    "target": "106",
+    "index": 244,
+    "id": "106:Line:14D4A3C65DFA4D84A859B689D4A2DBED",
+    "en": "At the tower! Do your thing.",
+    "before": "عند البرج! افعل ما تجيد.",
+    "after": "عند البرج! افعل ما تجيده.",
+    "reason": "إكمال ضمير المفعول للوضوح."
+  },
+  {
+    "target": "106",
+    "index": 275,
+    "id": "106:Line:3967F3EF70D94E6EA9D1A638954A7753",
+    "en": "Don’t think I don’t see it. It’s all over your stupid face. |You like her. So I gotta hate her for the both of us.",
+    "before": "لا تظنني لا أرى. واضح على وجهك الغبي. |أنت معجب بها. لذا علي كرهها عنا معا.",
+    "after": "لا تظنني لا أرى. الأمر واضح على وجهك الغبي. |أنت معجب بها. لذا علي كرهها عنا معا.",
+    "reason": "إكمال الجملة الاسمية بالمسند إليه."
+  },
+  {
+    "target": "106",
+    "index": 320,
+    "id": "106:Line:1623CE0B05224CB1AC2F4F37839B2F86",
+    "en": "Happy housewarming, bitch. Your place fucking sucks.",
+    "before": "منزل مبارك يا حقير. مسكنك مزر بحق اللعنة.",
+    "after": "منزل مبارك يا حقير. مسكنك مزرٍ بحق اللعنة.",
+    "reason": "ضبط الاسم المنقوص."
+  },
+  {
+    "target": "106",
+    "index": 324,
+    "id": "106:Line:38004CCD43A344AD877B8DF52DC89E4F",
+    "en": "He's not. He's just been gone all day so it seems like he is.",
+    "before": "ليس كذلك. غاب طوال اليوم فقط، فيبدو كأنه هنا.",
+    "after": "ليس كذلك. غاب طوال اليوم فقط، فيبدو كأنه كذلك.",
+    "reason": "إزالة تناقض «كأنه هنا» الذي لم يرد في الأصل."
+  },
+  {
+    "target": "106",
+    "index": 339,
+    "id": "106:Line:3E2C7ECA170D4314B905F0061D018E08",
+    "en": "Hey, really looking forward to tonight. Perfect timing.",
+    "before": "أتطلع لليلة حقا. توقيت مثالي.",
+    "after": "أتطلع لهذه الليلة حقا. توقيت مثالي.",
+    "reason": "توضيح المقصود بالليلة القادمة."
+  },
+  {
+    "target": "106",
+    "index": 371,
+    "id": "106:Line:462C9EFDE18F4FC4BD044BED18578D6D",
+    "en": "I guess I’m coming around on her?",
+    "before": "أظنني بدأت أتقبلها؟",
+    "after": "أظنني بدأت أتقبّلها؟",
+    "reason": "تمييز التقبل من التقبيل."
+  },
+  {
+    "target": "106",
+    "index": 414,
+    "id": "106:Line:4A48BB28F3484509A737A5565B2C2427",
+    "en": "If you want to set one up, don't use the company one. I know a guy. Not strictly legal, but a juicy rate of return.",
+    "before": "إن أردت فتح حساب، لا تستخدم حساب الشركة. أعرف شخصا. ليس قانونيا تماما، لكن عائده مغر.",
+    "after": "إن أردت فتح حساب، لا تستخدم حساب الشركة. أعرف شخصا. ليس قانونيا تماما، لكن عائده مغرٍ.",
+    "reason": "ضبط الاسم المنقوص."
+  },
+  {
+    "target": "106",
+    "index": 435,
+    "id": "106:Line:3A6DF9A06D0B4B7D83B24F868B3F3549",
+    "en": "I’m coming -- Jesus Christ. I’m warming up to her. Okay? |Our relationship started out rocky, but it’s gotten better. |Were you able to follow that, ya old fuckin’ pervert?",
+    "before": "أنا أتقبل-- يا إلهي. بدأت أتقبلها. مفهوم؟ |بدأت علاقتنا بصعوبة، لكنها تحسنت. |هل فهمت ذلك يا عجوز يا منحرف لعين؟",
+    "after": "أنا أتقبّل-- يا إلهي. بدأت أتقبّلها. مفهوم؟ |بدأت علاقتنا بصعوبة، لكنها تحسنت. |هل فهمت ذلك يا عجوز يا منحرف لعين؟",
+    "reason": "تمييز التقبل من التقبيل."
+  },
+  {
+    "target": "106",
+    "index": 510,
+    "id": "106:Line:3A8CD62F040D45F992B5ACDE168FE501",
+    "en": "Okay, were the tacos actually good or was it just 3am?",
+    "before": "هل كانت التاكو لذيذة فعلا أم أن الساعة الثالثة فجرا؟",
+    "after": "هل كانت التاكو لذيذة فعلا أم لأن الساعة كانت الثالثة فجرا؟",
+    "reason": "تصحيح زمن السؤال والمحافظة على المعنى."
+  },
+  {
+    "target": "106",
+    "index": 512,
+    "id": "106:Line:5C7ABD87824F4F5BB63419277B40125A",
+    "en": "Okay, yeah, so like I thought, this lady is just crazy. There is nobody haunting her. It's just some randos living in the sewers.",
+    "before": "حسنا، كما ظننت، هذه السيدة مجنونة فحسب. لا أحد يسكنها. مجرد غرباء يعيشون في المجاري.",
+    "after": "حسنا، كما ظننت، هذه السيدة مجنونة فحسب. لا شبح يلاحقها. مجرد غرباء يعيشون في المجاري.",
+    "reason": "توضيح أن الحديث عن شبح يطاردها، لا شخص يسكنها."
+  },
+  {
+    "target": "106",
+    "index": 517,
+    "id": "106:Line:4E884BF4626F4DC0812FC140C16EA182",
+    "en": "Onya for coming clean about being Mecha Man, dude.",
+    "before": "أحسنت اعترافك بأنك ميكا مان يا صاح.",
+    "after": "أحسنت حين اعترفت بأنك ميكا مان يا صاح.",
+    "reason": "تصحيح تركيب الإشادة بالاعتراف."
+  },
+  {
+    "target": "106",
+    "index": 527,
+    "id": "106:Line:4B4D6B699C2A411DA7E37319EA81A8D0",
+    "en": "Rahja dat. ",
+    "before": "علم. ",
+    "after": "مفهوم. ",
+    "reason": "توضيح الرد بدل «علم» الملتبسة."
+  },
+  {
+    "target": "106",
+    "index": 641,
+    "id": "106:Line:0163C04972C3461BAA023E69D2C65070",
+    "en": "Visi, cover your ears!",
+    "before": "فيزي، غطي أذنيك!",
+    "after": "فيزي، غطّي أذنيك!",
+    "reason": "ضبط فعل الأمر للمؤنث."
+  },
+  {
+    "target": "106",
+    "index": 650,
+    "id": "106:Line:09D3A634E0694C668D7BA5BD6BCFA6D1",
+    "en": "Wait... wait, wait, wait. It’s not destroyed?",
+    "before": "لحظة... لحظة، لحظة. لم تدمر؟",
+    "after": "لحظة... لحظة، لحظة. لم تُدمّر؟",
+    "reason": "ضبط المبني للمجهول لتمييزه عن مخاطبة الفاعل."
+  },
+  {
+    "target": "106",
+    "index": 720,
+    "id": "106:Line:5978D3F6AF544A928A6B2047BFAFC34D",
+    "en": "You jealous, old man?",
+    "before": "أتغار يا عجوز؟",
+    "after": "أتشعر بالغيرة يا عجوز؟",
+    "reason": "توضيح فعل الغيرة دون التباس."
+  },
+  {
+    "target": "106",
+    "index": 785,
+    "id": "106:LV_Shift06.Scenario_SC_06__39:VOTranscription",
+    "en": "\"The Faction of Light needs your help to overtake the Faction of Darkness.\"",
+    "before": "\"يحتاج فصيل النور مساعدتكم للتغلب على فصيل الظلام.\"",
+    "after": "\"يحتاج فصيل النور إلى مساعدتكم للتغلب على فصيل الظلام.\"",
+    "reason": "تصحيح تعدية يحتاج، كما في الحوار المرتبط."
+  },
+  {
+    "target": "106",
+    "index": 788,
+    "id": "106:LV_Shift06.Scenario_SC_07_c:VOTranscription",
+    "en": "\"Vanderstenk wants them destroyed but... I think there's a way to reprogram them.\"",
+    "before": "\"يريد فاندرستنك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.\"",
+    "after": "\"يريد فاندرستنك تدميرها، لكن... أظن أن هناك طريقة لإعادة برمجتها.\"",
+    "reason": "إكمال تركيب ظن، كما في الحوار المرتبط."
+  },
+  {
+    "target": "106",
+    "index": 830,
+    "id": "106:NodeTitle:18789E6906EB4523B1F357EAD6B0A8D2",
+    "en": "I'm warming up to her.",
+    "before": "بدأت أتقبلها.",
+    "after": "بدأت أتقبّلها.",
+    "reason": "تمييز التقبل من التقبيل."
+  },
+  {
+    "target": "106",
+    "index": 855,
+    "id": "106:NodeTitle:26D46B37C1C8411CAA2E0DFEA0C1BED1",
+    "en": "You're sure this'll work?",
+    "before": "أأنت واثق أنه سينجح؟",
+    "after": "أأنت واثق من أنه سينجح؟",
+    "reason": "تصحيح تعدية واثق، كما في الحوار المرتبط."
+  }
+]

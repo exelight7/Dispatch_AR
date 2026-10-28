@@ -1,0 +1,142 @@
+[
+  {
+    "name": "pakchunk0-WindowsNoEditor.pak",
+    "bytes": 485235655,
+    "file_count": 15175,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle ,Zlib\npath hash seed: Some(B4704C74)\n15175 file entries\n"
+  },
+  {
+    "name": "pakchunk1-WindowsNoEditor.pak",
+    "bytes": 721815259,
+    "file_count": 64,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/Content/Movies/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(EE73ECBB)\n64 file entries\n"
+  },
+  {
+    "name": "pakchunk10-WindowsNoEditor.pak",
+    "bytes": 22123143,
+    "file_count": 5411,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(5A22F0BD)\n5411 file entries\n"
+  },
+  {
+    "name": "pakchunk100-WindowsNoEditor.pak",
+    "bytes": 8020797750,
+    "file_count": 1763,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/Content/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(05D9EEF5)\n1763 file entries\n"
+  },
+  {
+    "name": "pakchunk11-WindowsNoEditor.pak",
+    "bytes": 1657583836,
+    "file_count": 258,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(00215072)\n258 file entries\n"
+  },
+  {
+    "name": "pakchunk12-WindowsNoEditor.pak",
+    "bytes": 101947143,
+    "file_count": 4789,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(EE25B123)\n4789 file entries\n"
+  },
+  {
+    "name": "pakchunk13-WindowsNoEditor.pak",
+    "bytes": 1434742247,
+    "file_count": 243,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(B42611EC)\n243 file entries\n"
+  },
+  {
+    "name": "pakchunk14-WindowsNoEditor.pak",
+    "bytes": 27281921,
+    "file_count": 3911,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(E95D75C0)\n3911 file entries\n"
+  },
+  {
+    "name": "pakchunk15-WindowsNoEditor.pak",
+    "bytes": 1344501191,
+    "file_count": 196,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(B35ED50F)\n196 file entries\n"
+  },
+  {
+    "name": "pakchunk16-WindowsNoEditor.pak",
+    "bytes": 156471671,
+    "file_count": 9357,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(5D5A345E)\n9357 file entries\n"
+  },
+  {
+    "name": "pakchunk17-WindowsNoEditor.pak",
+    "bytes": 4566501895,
+    "file_count": 345,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(07599491)\n345 file entries\n"
+  },
+  {
+    "name": "pakchunk18-WindowsNoEditor.pak",
+    "bytes": 216959,
+    "file_count": 88,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/Content/Shared/DebugTools/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(E7ACFC06)\n88 file entries\n"
+  },
+  {
+    "name": "pakchunk2-WindowsNoEditor.pak",
+    "bytes": 17895591,
+    "file_count": 3631,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(00770DEA)\n3631 file entries\n"
+  },
+  {
+    "name": "pakchunk3-WindowsNoEditor.pak",
+    "bytes": 1173253991,
+    "file_count": 167,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(5A74AD25)\n167 file entries\n"
+  },
+  {
+    "name": "pakchunk4-WindowsNoEditor.pak",
+    "bytes": 167892855,
+    "file_count": 6347,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(070FC909)\n6347 file entries\n"
+  },
+  {
+    "name": "pakchunk5-WindowsNoEditor.pak",
+    "bytes": 917097623,
+    "file_count": 116,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(5D0C69C6)\n116 file entries\n"
+  },
+  {
+    "name": "pakchunk6-WindowsNoEditor.pak",
+    "bytes": 31109191,
+    "file_count": 5069,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(B3088897)\n5069 file entries\n"
+  },
+  {
+    "name": "pakchunk7-WindowsNoEditor.pak",
+    "bytes": 912686119,
+    "file_count": 181,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(E90B2858)\n181 file entries\n"
+  },
+  {
+    "name": "pakchunk8-WindowsNoEditor.pak",
+    "bytes": 132958311,
+    "file_count": 5643,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(09FE40CF)\n5643 file entries\n"
+  },
+  {
+    "name": "pakchunk9-WindowsNoEditor.pak",
+    "bytes": 725355136,
+    "file_count": 107,
+    "index_sha1_verified": true,
+    "info": "mount point: ../../../Dispatch/\nversion: V11\nversion major: Fnv64BugFix\nencrypted index: true\nencrytion guid: Some(00000000000000000000000000000000)\ncompression: Oodle\npath hash seed: Some(53FDE000)\n107 file entries\n"
+  }
+]

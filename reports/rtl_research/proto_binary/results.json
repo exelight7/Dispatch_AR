@@ -1,0 +1,102 @@
+{
+  "exe_sha256": "365637a77d4b74a61d198a9927e3dcd437bf3be2247b96fcbe5c2e851ac14923",
+  "image_base": "0x140000000",
+  "paint_model": "PAINT_MODEL_LOGICAL_PEN",
+  "zero_interval": "ZERO_INTERVAL_BATCHES_CHARACTERS",
+  "timing_only_word_reveal": "WORD_REVEAL_REJECTED",
+  "arabic_isolation": "ARABIC_ISOLATION_NOT_PROVEN",
+  "runtime": "NOT_RUN",
+  "tested_in_game": 0,
+  "final": 0,
+  "evidence_instruction_guards": 13,
+  "reflection_fields_verified": 8,
+  "function_spans_decoded": 21,
+  "fields": [
+    {
+      "field": "PrintLetterAnimationTime",
+      "row_offset": "0x278",
+      "descriptor_rva": "0x31cbfd0",
+      "file_offset": "0x31ca7d0",
+      "string_rva": "0x31cc168",
+      "bool_setter_rva": null,
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    },
+    {
+      "field": "PrintLetterInterval",
+      "row_offset": "0x27c",
+      "descriptor_rva": "0x31cbff8",
+      "file_offset": "0x31ca7f8",
+      "string_rva": "0x31cc188",
+      "bool_setter_rva": null,
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    },
+    {
+      "field": "UseAdvancedPrintIntervals",
+      "row_offset": "0x280",
+      "descriptor_rva": "0x31cc020",
+      "file_offset": "0x31ca820",
+      "string_rva": "0x31cc1a0",
+      "bool_setter_rva": "0x8cdf60",
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    },
+    {
+      "field": "CommaInterval",
+      "row_offset": "0x284",
+      "descriptor_rva": "0x31cc058",
+      "file_offset": "0x31ca858",
+      "string_rva": "0x31cc1c0",
+      "bool_setter_rva": null,
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    },
+    {
+      "field": "SentenceInterval",
+      "row_offset": "0x288",
+      "descriptor_rva": "0x31cc080",
+      "file_offset": "0x31ca880",
+      "string_rva": "0x31cc1d0",
+      "bool_setter_rva": null,
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    },
+    {
+      "field": "EllipsisInterval",
+      "row_offset": "0x28c",
+      "descriptor_rva": "0x31cc0a8",
+      "file_offset": "0x31ca8a8",
+      "string_rva": "0x31cc1e8",
+      "bool_setter_rva": null,
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    },
+    {
+      "field": "MidWordDashInterval",
+      "row_offset": "0x290",
+      "descriptor_rva": "0x31cc0d0",
+      "file_offset": "0x31ca8d0",
+      "string_rva": "0x31cc200",
+      "bool_setter_rva": null,
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    },
+    {
+      "field": "SpaceInterval",
+      "row_offset": "0x294",
+      "descriptor_rva": "0x31cc0f8",
+      "file_offset": "0x31ca8f8",
+      "string_rva": "0x31cc218",
+      "bool_setter_rva": null,
+      "evidence": "CONFIRMED_FROM_BINARY",
+      "confidence": "HIGH"
+    }
+  ],
+  "limitations": [
+    "No execution/emulation of the game",
+    "No exact C++ symbol names recovered",
+    "Batching proves control flow; does not certify Paint ordering or reentrant callbacks",
+    "Word-reveal rejected for timing-only approach; other implementations not assessed"
+  ]
+}

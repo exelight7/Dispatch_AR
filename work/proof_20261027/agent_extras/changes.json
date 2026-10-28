@@ -1,0 +1,47 @@
+[
+  {
+    "target": "106",
+    "index": 5,
+    "id": "106::5D055FCA492A21868E988EAC8645D9BE",
+    "en": "\"Let me fry them. The ice, I mean. Not the people. Send me. I promise I won't barbeque anyone.\"",
+    "before": "\"دعني أقلهم. أقصد الجليد، لا الناس. أرسلني. أعدك ألا أشوي أحدا.\"",
+    "after": "\"دعني أقليهم. أقصد الجليد، لا الناس. أرسلني. أعدك ألا أشوي أحدا.\"",
+    "reason": "تصحيح كتابة الفعل أقلي مع ضمير المفعول."
+  },
+  {
+    "target": "106",
+    "index": 745,
+    "id": "106:LV_Shift06.Scenario_SC_00:VOTranscription",
+    "en": "\"I need someone to wait in line for this really cool game that I'm totally old enough to play...\"",
+    "before": "\"أحتاج شخصا ينتظر بالطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها تماما...\"",
+    "after": "\"أحتاج شخصا ينتظر في الطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها تماما...\"",
+    "reason": "تصحيح حرف الجر مع الطابور."
+  },
+  {
+    "target": "106",
+    "index": 850,
+    "id": "106:NodeTitle:4742072E0CDF44EAA0EE567334159721",
+    "en": "Why'd you do all this?",
+    "before": "لم فعلت كل هذا؟",
+    "after": "لماذا فعلت كل هذا؟",
+    "reason": "توضيح أداة الاستفهام وتجنب التباسها بالنفي."
+  },
+  {
+    "target": "107",
+    "index": 0,
+    "id": "107::621B73E345F0621DDB10579C5C77D6A0",
+    "en": "\"Bone Zone pissed off the wrong gang and they're holding him hostage! ... Can you please rescue him?\"",
+    "before": "\"أغضب بون زون العصابة الخطأ واحتجزته رهينة! ... هل يمكنكم إنقاذه، رجاء؟\"",
+    "after": "\"أغضب بون زون العصابة الخاطئة واحتجزته رهينة! ... هل يمكنكم إنقاذه، رجاء؟\"",
+    "reason": "تصحيح النعت المؤنث."
+  },
+  {
+    "target": "107",
+    "index": 3,
+    "id": "107::FE0D0F1E40DFC12C791FD5AB1FE9BAC2",
+    "en": "\"Hey Robert... With everything going on, maybe you should send some of the team to counseling.\"",
+    "before": "\"مرحبًا روبرت... بعد كل ما يجري، ربما عليك إرسال بعض أفراد الفريق إلى جلسات إرشاد نفسي.\"",
+    "after": "\"مرحبًا روبرت... في ظل كل ما يجري، ربما عليك إرسال بعض أفراد الفريق إلى جلسات إرشاد نفسي.\"",
+    "reason": "تصحيح دلالة الزمن اتساقا مع الحدث الجاري."
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "OtherContent::347271B044E8201319FDD6A45A9502B8",
+    "index": 0,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "347271B044E8201319FDD6A45A9502B8",
+    "source_hash": 1450702627,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_HeroUtility.WBP_HeroUtility_C:WidgetTree.TextBlock_378.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "+",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::EF9E9AE642E5E8A5D95CE39DA4637267",
+    "index": 1,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "EF9E9AE642E5E8A5D95CE39DA4637267",
+    "source_hash": 1931258111,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_HeroUtility.WBP_HeroUtility_C:WidgetTree.TextBlock_257.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "-",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::CC4580E341982ACCB2A57EA430738ED9",
+    "index": 2,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "CC4580E341982ACCB2A57EA430738ED9",
+    "source_hash": 1912642797,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_HeroUtility.WBP_HeroUtility_C:WidgetTree.TextBlock.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Add learned ability:",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::A1395C2A49F972C9E095CDADEDFEE2A8",
+    "index": 3,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "A1395C2A49F972C9E095CDADEDFEE2A8",
+    "source_hash": 1135666065,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_HeroUtility.WBP_HeroUtility_C:WidgetTree.TextBlock_77.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Add stat point:",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::2FD77F9641935400429157A7C484D789",
+    "index": 4,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "2FD77F9641935400429157A7C484D789",
+    "source_hash": 1154576369,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_PlayMenu.WBP_PlayMenu_C:WidgetTree.BackButton.Text"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "Back",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::4658607447F1A07C026922A2C5B6B19A",
+    "index": 5,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "4658607447F1A07C026922A2C5B6B19A",
+    "source_hash": 949252438,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_RewindToSavePointPlayOption.WBP_RewindToSavePointPlayOption_C:Get Prompt Info [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "Cancel",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::48C909B14026954C29F472AC383197DE",
+    "index": 6,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "48C909B14026954C29F472AC383197DE",
+    "source_hash": 949252438,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_PlayEpisodeButton.WBP_PlayEpisodeButton_C:Get Prompt Info [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "Cancel",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::95E42096417D9BBE19135DA61216E678",
+    "index": 7,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "95E42096417D9BBE19135DA61216E678",
+    "source_hash": 1271410414,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_5.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Distance from start of ribbon that the particle lies.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::D66C48CF4B335787C7C52798B6FF3B59",
+    "index": 8,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "D66C48CF4B335787C7C52798B6FF3B59",
+    "source_hash": 855158948,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_PlayEpisodeButton.WBP_PlayEpisodeButton_C:Get Play Button Text [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "Episode Locked",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::C0D869284959874D8D25F7A633CC5ADD",
+    "index": 9,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "C0D869284959874D8D25F7A633CC5ADD",
+    "source_hash": 3320893095,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_67.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Explicit order for linking particles within a ribbon. Particles of the same ribbon id will be connected into a ribbon in incrementing order of this attribute value.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::70CB3B974E9079E9024DAEA035E40E00",
+    "index": 10,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "70CB3B974E9079E9024DAEA035E40E00",
+    "source_hash": 3730466095,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Core/Blueprints/EditorUtilities/EUW_TextureUtilities.EUW_TextureUtilities_C:WidgetTree.TextBlock.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Export non mult 4",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::7A25325C4E36897962AF939EA85388DA",
+    "index": 11,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "7A25325C4E36897962AF939EA85388DA",
+    "source_hash": 2194414945,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_HeroUtility.WBP_HeroUtility_C:WidgetTree.TextBlock_69.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Hero Utility",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::DBC12AA84442F1B34A45E1A94D4AFE13",
+    "index": 12,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "DBC12AA84442F1B34A45E1A94D4AFE13",
+    "source_hash": 3826167199,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:HexGrid_0.NiagaraEmitterEditorData_0.StackEditorData.StackEntryKeyToDisplayName(1 - Value).StackEntryKeyToDisplayName"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Hero_Hexregion",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::604224054A31EEE7ACF360B5132A1998",
+    "index": 13,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "604224054A31EEE7ACF360B5132A1998",
+    "source_hash": 794127845,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:Grid_0.NiagaraEmitterEditorData_0.StackEditorData.StackEntryKeyToDisplayName(1 - Value).StackEntryKeyToDisplayName"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Hex region",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::B574EE014672796392CC8E9C3775809E",
+    "index": 14,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "B574EE014672796392CC8E9C3775809E",
+    "source_hash": 3523726375,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:Grid_0.NiagaraEmitterEditorData_0.StackEditorData.StackEntryKeyToDisplayName(0 - Value).StackEntryKeyToDisplayName"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Hex remap",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::9EC4B8D94A853E06B12EAB9053378896",
+    "index": 15,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "9EC4B8D94A853E06B12EAB9053378896",
+    "source_hash": 1884079496,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:Grid_0.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_106.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Imagine the texture having an arrow pointing up, this attribute makes the arrow point towards the alignment axis. Must be used with the SpriteRenderer's CustomAlignment Alignment option.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::867AAF604116630C1E71D5B0429F78E4",
+    "index": 16,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "867AAF604116630C1E71D5B0429F78E4",
+    "source_hash": 1172154138,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:HexGrid_0.NiagaraEmitterEditorData_0.StackEditorData.StackEntryKeyToDisplayName(5 - Value).StackEntryKeyToDisplayName"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "LockIn_Wave",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::A77F793A473389785A66B2B9FF262BFD",
+    "index": 17,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "A77F793A473389785A66B2B9FF262BFD",
+    "source_hash": 3412873362,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_MaintenanceUtility.WBP_MaintenanceUtility_C:WidgetTree.TextBlock_69.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Maintenance Utility",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::29483CB44D4F33964391ED855A5120F7",
+    "index": 18,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "29483CB44D4F33964391ED855A5120F7",
+    "source_hash": 536668568,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:Grid_0.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_107.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Makes the surface of the sprite face towards a custom vector. Must be used with the SpriteRenderer's CustomFacingVector FacingMode option.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::1F09338F4D35C76074A719BBC6110181",
+    "index": 19,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "1F09338F4D35C76074A719BBC6110181",
+    "source_hash": 2410437508,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_9.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Mass is factored into the Solver Calculations (Solve Forces and Solve Rotational Forces) where forces are converted into a final velocity. The more massive a particle, the more force is required to move it. ",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::66285CC54420A7FB109003B186115ECB",
+    "index": 20,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "66285CC54420A7FB109003B186115ECB",
+    "source_hash": 3649753108,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_PlayEpisodeButton.WBP_PlayEpisodeButton_C:Get Prompt Info [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "OK",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::BE579FE14E65B3F3D60A07857541EA30",
+    "index": 21,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "BE579FE14E65B3F3D60A07857541EA30",
+    "source_hash": 3649753108,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_RewindToSavePointPlayOption.WBP_RewindToSavePointPlayOption_C:Get Prompt Info [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "OK",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::C6019BA443063E74DD524D87EA5D9023",
+    "index": 22,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "C6019BA443063E74DD524D87EA5D9023",
+    "source_hash": 1524551355,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Core/Blueprints/EditorUtilities/EUW_TextureUtilities.EUW_TextureUtilities_C:WidgetTree.TextBlock_88.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Print non mult 4",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::DD106F88471FF75536DF5C92CAE4D57A",
+    "index": 23,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "DD106F88471FF75536DF5C92CAE4D57A",
+    "source_hash": 3246550157,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/E_EpisodePlayOptionType.E_EpisodePlayOptionType.DisplayNameMap(1 - Value).DisplayNameMap"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "Rewind",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::9339694542B0865BFFE5E4B1B2D38F9C",
+    "index": 24,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "9339694542B0865BFFE5E4B1B2D38F9C",
+    "source_hash": 3145603767,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_ScenarioUtility.WBP_ScenarioUtility_C:WidgetTree.TextBlock_69.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Scenario Utility",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::6601F30B48BBCE7ABA7D5AA6D7F9EC9E",
+    "index": 25,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "6601F30B48BBCE7ABA7D5AA6D7F9EC9E",
+    "source_hash": 1080678686,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Core/Blueprints/EditorUtilities/EUW_TextureUtilities.EUW_TextureUtilities_C:WidgetTree.TextBlock_1.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "Set All UserInterface2D to BC7",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::A4EA74CB4000E70CCA576790A5A69145",
+    "index": 26,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "A4EA74CB4000E70CCA576790A5A69145",
+    "source_hash": 1777749922,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_51.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Sets the ribbon width for a particle, in UE4 units.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::B25FEBDC449DB8003D0A5C8E2ABB313E",
+    "index": 27,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "B25FEBDC449DB8003D0A5C8E2ABB313E",
+    "source_hash": 1269738510,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/E_EpisodePlayOptionType.E_EpisodePlayOptionType.DisplayNameMap(2 - Value).DisplayNameMap"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "SkipAhead",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::83F6AF1D4176D8372C7F3AA5769D1A82",
+    "index": 28,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "83F6AF1D4176D8372C7F3AA5769D1A82",
+    "source_hash": 1971594676,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:Grid_0.NiagaraEmitterEditorData_0.StackEditorData.StackEntryKeyToDisplayName(2 - Value).StackEntryKeyToDisplayName"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Sphere",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::6DCC33DA40B750965FD9B79BFA63A585",
+    "index": 29,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "6DCC33DA40B750965FD9B79BFA63A585",
+    "source_hash": 2500101207,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/E_EpisodePlayOptionType.E_EpisodePlayOptionType.DisplayNameMap(0 - Value).DisplayNameMap"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "Standard",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::26CB8CC04A0CF16CB113A69743A40D61",
+    "index": 30,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "26CB8CC04A0CF16CB113A69743A40D61",
+    "source_hash": 3894484732,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_PlayEpisodeButton.WBP_PlayEpisodeButton_C:Get Prompt Info [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "Starting this episode will skip unfinished episodes. Choices for skipped episodes will be randomly generated. This is not recommended for a first-time play experience!",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::8720B6D34617438BFB3658AEA59B5904",
+    "index": 31,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "8720B6D34617438BFB3658AEA59B5904",
+    "source_hash": 2749233688,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Gameplay/Blueprints/MapDynamicVisuals/NE_BirdEmmiter.NE_BirdEmmiter:NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_58.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "The XYZ scale of the non-sprite based particle.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::AAF8B08F46862195289405B0BD5759BA",
+    "index": 32,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "AAF8B08F46862195289405B0BD5759BA",
+    "source_hash": 736075097,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_84.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "The age in seconds divided by lifetime in seconds. Useful for animation as the value is between 0 and 1.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::3AA73A6E4CE2E543D73EF1A9F7799447",
+    "index": 33,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "3AA73A6E4CE2E543D73EF1A9F7799447",
+    "source_hash": 3846124719,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Gameplay/Blueprints/MapDynamicVisuals/NE_BirdEmmiter.NE_BirdEmmiter:NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_464.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "The axis-angle rotation to be applied to the mesh particle.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::B4ADE0C44EF2C8C81194739FC6E4ECBC",
+    "index": 34,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "B4ADE0C44EF2C8C81194739FC6E4ECBC",
+    "source_hash": 3672935255,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_50.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "The color of the particle.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::88FAD3CF4942E69C61C64D979120A8EE",
+    "index": 35,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "88FAD3CF4942E69C61C64D979120A8EE",
+    "source_hash": 2477995870,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_39.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "The lifetime of a particle in seconds.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::A0BFD936491FC0E8C483CEB1D3126471",
+    "index": 36,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "A0BFD936491FC0E8C483CEB1D3126471",
+    "source_hash": 3720824172,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_14.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "The position of the particle.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::DD9000804C89D94928CE1DB3F7CFE9A4",
+    "index": 37,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "DD9000804C89D94928CE1DB3F7CFE9A4",
+    "source_hash": 981498969,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:Grid_0.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_64.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "The screen aligned roll of the particle in degrees.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::B11AFBEF4D4966FDC4B52286BF0224BF",
+    "index": 38,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "B11AFBEF4D4966FDC4B52286BF0224BF",
+    "source_hash": 148409901,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_53.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "The size of the sprite quad.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::41AF3FCB4EC2369F0BF21AB5FD536D62",
+    "index": 39,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "41AF3FCB4EC2369F0BF21AB5FD536D62",
+    "source_hash": 1404721678,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_8.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "The velocity in cm/s of the particle.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::908CF9CA4AF63E42C7EBEC816FB3C5D9",
+    "index": 40,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "908CF9CA4AF63E42C7EBEC816FB3C5D9",
+    "source_hash": 58493862,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_PlayEpisodeButton.WBP_PlayEpisodeButton_C:Get Prompt Info [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "To rewind to this episode, please select a new save slot to copy into.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::4D59E5E44A4DE0D71479B4A981728AA1",
+    "index": 41,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "4D59E5E44A4DE0D71479B4A981728AA1",
+    "source_hash": 2244308389,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Menu/Widgets/PlayMenu/WBP_RewindToSavePointPlayOption.WBP_RewindToSavePointPlayOption_C:Get Prompt Info [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "Menus",
+    "en": "To rewind to this scene, please select a new save slot to copy into.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::2B154E2F42B135FFBAB5AFAC92F9B995",
+    "index": 42,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "2B154E2F42B135FFBAB5AFAC92F9B995",
+    "source_hash": 1222824106,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Antivirus/Tail/NS_Tentacle.NS_Tentacle:Empty.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraScriptVariable_12.Metadata.Description"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "Used to drive the Particle Random node in the Material Editor. Without this set, any Particle Randoms will get 0.0.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::AEFD17604852F7EDA41BAAB144D427CD",
+    "index": 43,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "AEFD17604852F7EDA41BAAB144D427CD",
+    "source_hash": 1969326421,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_VOUtility.WBP_VOUtility_C:WidgetTree.TextBlock_69.Text"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "VO Utility",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::230F43B341ECC76336847E8A1DC9D5D1",
+    "index": 44,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "230F43B341ECC76336847E8A1DC9D5D1",
+    "source_hash": 3711334148,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Hacking/Blueprints/Users/fx/NS_HackingGrid.NS_HackingGrid:Grid_0.NiagaraEmitterEditorData_0.StackEditorData.StackEntryKeyToDisplayName(3 - Value).StackEntryKeyToDisplayName"
+    ],
+    "speaker": "",
+    "category": "Phone / Computer UI",
+    "en": "debug wave",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::3BDFB3754A2366BACBE53484AFC2D578",
+    "index": 45,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "3BDFB3754A2366BACBE53484AFC2D578",
+    "source_hash": 153547577,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_MaintenanceUtility.WBP_MaintenanceUtility_C:ExecuteUbergraph_WBP_MaintenanceUtility [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "{0}: Refreshed all nodes.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::C29D043D41D7DF977BB622BDC6FD4D7E",
+    "index": 46,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "C29D043D41D7DF977BB622BDC6FD4D7E",
+    "source_hash": 709669792,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_MaintenanceUtility.WBP_MaintenanceUtility_C:ExecuteUbergraph_WBP_MaintenanceUtility [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "{0}: Refreshed variables.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::E3CD529A4797B1E73FF475959396D189",
+    "index": 47,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "E3CD529A4797B1E73FF475959396D189",
+    "source_hash": 1770568269,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_MaintenanceUtility.WBP_MaintenanceUtility_C:ExecuteUbergraph_WBP_MaintenanceUtility [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "{0}: compiled.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::A211185D45878F6C90F90CA431B12422",
+    "index": 48,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "A211185D45878F6C90F90CA431B12422",
+    "source_hash": 474476154,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_MaintenanceUtility.WBP_MaintenanceUtility_C:ExecuteUbergraph_WBP_MaintenanceUtility [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "{0}: removed unused nodes.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OtherContent::3D5CC7324C2D296CB6D2C9B1536ABCF3",
+    "index": 49,
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "3D5CC7324C2D296CB6D2C9B1536ABCF3",
+    "source_hash": 2288740414,
+    "source_file": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "context": [
+      "/Game/Shared/Shifts/Editor/WBP_MaintenanceUtility.WBP_MaintenanceUtility_C:ExecuteUbergraph_WBP_MaintenanceUtility [Script Bytecode]"
+    ],
+    "speaker": "",
+    "category": "UI/Other (review context)",
+    "en": "{0}: removed {1} unused variables.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  }
+]

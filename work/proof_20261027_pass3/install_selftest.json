@@ -1,0 +1,10 @@
+{
+  "passed": [
+    "adoption, scoped update, receipt and idempotency",
+    "existing receipt refused",
+    "foreign_text refused before mutation",
+    "other_mod refused before mutation",
+    "bad_source refused before mutation"
+  ],
+  "game_files_used": false
+}

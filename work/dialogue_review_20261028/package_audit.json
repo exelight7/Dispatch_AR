@@ -1,0 +1,68 @@
+[
+  {
+    "check": "zip members allow-list",
+    "status": "STATIC_PASS",
+    "detail": [
+      "Dispatch_AR_Texts_P.pak",
+      "README_AR.txt",
+      "compatibility/game_build.json",
+      "docs/INSTALL.md",
+      "manifest.json",
+      "scripts/install.py"
+    ]
+  },
+  {
+    "check": "zip timestamps normalized",
+    "status": "STATIC_PASS",
+    "detail": [
+      [
+        1980,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "check": "no AES key in package",
+    "status": "STATIC_PASS",
+    "detail": "searched raw, hex, upper-hex and UTF-16 forms (key itself not printed)"
+  },
+  {
+    "check": "no absolute local paths",
+    "status": "STATIC_PASS",
+    "detail": "regex drive:\\Users|filessss|SteamLibrary"
+  },
+  {
+    "check": "no forbidden members",
+    "status": "STATIC_PASS",
+    "detail": "EXE, original paks, AES files, extracted assets, reports, temp"
+  },
+  {
+    "check": "manifest labels",
+    "status": "STATIC_PASS",
+    "detail": [
+      "STATIC",
+      "EXPERIMENTAL",
+      "NOT_INSTALL_TESTED",
+      "NO_RTL_FIX"
+    ]
+  },
+  {
+    "check": "pak hash matches manifest",
+    "status": "STATIC_PASS",
+    "detail": "1893e962132c9ae832e8fdb0de06389b7d5c34acfd68da08a8ae61c3a3d7953d"
+  },
+  {
+    "check": "zip pak equals build folder pak",
+    "status": "STATIC_PASS",
+    "detail": "byte compare"
+  },
+  {
+    "check": "pak contains only ar locres",
+    "status": "STATIC_PASS",
+    "detail": "14 entries"
+  }
+]

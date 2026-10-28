@@ -1,0 +1,300 @@
+1700 104:Line:1CFBDED9F990444EA51EE539939EEEEA [Robert]
+EN Would’ve been nice to know before I spent eighty six bucks. 
+AR كان من اللطيف معرفة ذلك قبل إنفاق 86 دولارا. 
+1701 104:Line:4E7D3BBB2C1A49DF92DF13B5614ECF06 [Waterboy]
+EN Wow! Okay, that felt great. Thank you, thank you.
+AR واو! حسنا، هذا شعور رائع. شكرا، شكرا.
+1702 104:Line:1D9F38FC49D34AD89CEE29B0B7F686B1 [Malevola]
+EN Wow, great. The teens have organized.
+AR رائع. المراهقون نظموا صفوفهم.
+1703 104:Line:0C77C5333E8645E3BF9E874CE332FDB2 [Blazer]
+EN Wow, these one-on-ones seem to be really working out. I think I could make this training a regular thing, y'know?
+AR واو، هذه الجلسات الفردية تؤتي ثمارها. أظنني سأجعل هذا التدريب دوريا، أتعلم؟
+1704 104:Line:527A2C5CABC94C1BAA31E3C77A3815E4 [Waterboy]
+EN Wow-- I-I mean-- heh. I'm not-- surprised!
+AR واو-- أ-أعني-- هه. لست-- متفاجئا!
+1705 104:Line:5F8DD2F99050479C986FB8F4E3493395 [Golem]
+EN Wow. That's five this month.
+AR واو. هذه الخامسة هذا الشهر.
+1706 104:Line:391A0D9A3D6F4DF1BC563C932FDF7BB1 [Waterboy]
+EN Y-yes, sir. Uh, man.
+AR ن-نعم سيدي. آه، يا رجل.
+1707 104:Line:239E257231744AA88ED1FA270B74D85A [Robert]
+EN Yeah I actually came here tonight to ask you to dye your hair. 
+AR أجل، أتيت الليلة لأطلب منك صبغ شعرك. 
+1708 104:Line:161C6B8C64FB44D88F7DE363D7F5DCC7 [Malevola]
+EN Yeah I can't believe Sweetalker went with Emily last season. Him and Carla seemed perfect for each other.
+AR أجل، لا أصدق أن سويت توكر اختار إيميلي الموسم الماضي. بدا هو وكارلا مثاليين لبعضهما.
+1709 104:Line:AC6DC498BF2847AD91E5391FD507C61D [Robert]
+EN Yeah I’m... sure some human person would say that, yeah.
+AR أجل، أنا... متأكد أن إنسانا بشريا سيقول ذلك، أجل.
+1710 104:Line:279824505B6445238CF15A2DC284419D [Flambae]
+EN Yeah right. You hate pets.
+AR أجل طبعا. أنت تكره الحيوانات الأليفة.
+1711 104:Line:17F4DA194E344BD3A710306B1657D024 [Malevola]
+EN Yeah, I got this.
+AR أجل، سأتولى الأمر.
+1712 104:Line:2B33328E47004D25A4CEEDB2183E868B [Robert]
+EN Yeah, I heard about that. I’m sorry for your... y'know, your loss. 
+AR أجل، سمعت. آسف على... كما تعلم، خسارتك. 
+1713 104:Line:515B3A6906ED4A9B8069D194889416E8 [Golem]
+EN Yeah, I meant like metaphorically, dog.
+AR أجل، قصدت مجازيا يا صاح.
+1714 104:Line:0F4BEB26484A49FE988EC5C2AB3D695B [Malevola]
+EN Yeah, I'm gone.
+AR أجل، أنا راحلة.
+1715 104:Line:A33CD203ACFD4C8593EA972E66BB655C [Invisigal]
+EN Yeah, actually. You did.
+AR أجل، في الواقع. فعلت.
+1716 104:Line:54C755F0458144C2964CEC8107DE6BA2 [Prism]
+EN Yeah, alright, I'll bite. The people love me.
+AR حسنا، سأقبل. الناس يحبونني.
+1717 104:Line:5698C9BE75E24E108658542C43E2FBD5 [Waterboy]
+EN Yeah, goodbye.
+AR أجل، وداعا.
+1718 104:Line:058AFD9788184E1A83751768E833F7B7 [Prism]
+EN Yeah, it don't work that way boy. Trust me.
+AR أجل، لا تجري الأمور هكذا يا فتى. صدقني.
+1719 104:Line:9F3E862FB646454CABC9ED3696D67A4B [Robert]
+EN Yeah, listen. Um, y'know what, while we’re at it, |no more Edible Arrangements. |They’re just stinking up the break room. 
+AR أجل، اسمع. بما أننا نتكلم، |لا مزيد من تنسيقات الفواكه. |رائحتها تخنق غرفة الاستراحة. 
+1720 104:Line:3F05EA174A2041AFB1A068A41AE67089 [Flambae]
+EN Yeah, maybe not.
+AR أجل، ربما لا.
+1721 104:Line:2A02E3BFB1C442CA837D9684816FA2A2 [Malevola]
+EN Yeah, maybe we get someone who doesn't suck instead?
+AR أجل، ربما نحضر شخصا غير فاشل؟
+1722 104:Line:4B11521383054432AA6CF3F55D251058 [Blazer]
+EN Yeah, no worries!
+AR أجل، لا تقلق!
+1723 104:Line:1D9E7639DE8642919C9747BA9C8251E8 [Robert]
+EN Yeah, no. It’s probably fine though.
+AR أجل، لا. لكن غالبا لا بأس.
+1724 104:Line:A5B4960A2DC34EF2808B7BF74ED96604 [Robert]
+EN Yeah, that’s gonna clog.
+AR أجل، سيسد المصرف.
+1725 104:Line:563CD02ADF01475EA507D092AC5F89B8 [Blonde Blazer]
+EN Yeah, the only candidates that make sense are him or Waterboy |and, at the moment, it's close.
+AR أجل، المرشحان المنطقيان الوحيدان هما هو وووتربوي، |وحاليا هما متقاربان.
+1726 104:Line:29D97927F8EF4AB7BF60AB8DC25A7C7C [Robert]
+EN Yeah, well. If they keep it up, they'll join ‘em. 
+AR إن واصلوا هذا، سيلحقون بهم. 
+1727 104:Line:0A55E2740DD14C82A2A7814C189B301D [Waterboy]
+EN Yeah, yeah, I understand, I get it.
+AR أجل، أجل، أفهم، فهمت.
+1728 104:Line:5CD3F1D2B92A4AEDAFE204D93CA8312E [Flambae]
+EN Yeah, yeah, the best at crying in the locker room.
+AR أجل، أجل، الأفضل في البكاء بغرفة الخزائن.
+1729 104:Line:342480496E8E4BCD96C501989ECA8FA9 [Waterboy]
+EN Yeah.
+AR أجل.
+1730 104:Line:52A936D778B8418CA8E0870982D57B44 [Robert]
+EN Yeah.
+AR أجل.
+1731 104:Line:5FF67825B9904FC59A2ADF43877CDFB7 [Blazer]
+EN Yeah... Listen, I know... things have been... difficult for him lately, but Robert and I believe he will make a great addition to the team.
+AR أجل... اسمع، أعلم أن الأمور... صعبة عليه مؤخرا، لكن روبرت وأنا نؤمن بأنه إضافة رائعة للفريق.
+1732 104:Line:5306D3680F9C4412852B9FD33E4E9823 [Blonde Blazer]
+EN Yeah... but he said he won’t tell anyone.
+AR أجل... لكنه قال إنه لن يخبر أحدا.
+1733 104:Line:5004B14D20B04DD58E7512BC6FBDC077 [Robert]
+EN Yeah... let’s go with mine.
+AR أجل... لنعتمد تسميتي.
+1734 104:Line:369893ADA5794B9ABB0765AC90D71DA1 [Malevola]
+EN Yeah? Alright.
+AR حقا؟ حسنا.
+1735 104:Line:16B20163D2A14627B9C8D690F657BB33 [Malevola]
+EN Yeahhh... I don't think I'll be able to sneak in.
+AR أجـل... لا أظنني سأستطيع التسلل.
+1736 104:Line:2E01822C89714863BF746A03C5D6D3B0 [Phenoma-Man]
+EN Yep, that makes sense.
+AR أجل، هذا منطقي.
+1737 104:Line:05B3344D5D7D45748FFAE8F582E2867A [Robert]
+EN Yes and yes.
+AR نعم ونعم.
+1738 104:Line:17488FB4F5C94E70B411F4616F9713B2 [Brainteaser]
+EN Yes! The Wolves Inside Us was so sweet. Although the choices didn't seem to matter much...
+AR نعم! الذئاب التي فينا كانت رائعة. رغم أن الخيارات لم تبد مهمة كثيرا...
+1739 104:Line:307C13EAD17A4F579FD6DA075D6F7971 [Flambae]
+EN Yes.
+AR نعم.
+1740 104:Line:323F5684EFA14669BCBC666EFFB35CD6 [Phenoma-Man]
+EN Yes.
+AR نعم.
+1741 104:Line:46880738312443F9B64E1A8E5EE75C96 [Malevola]
+EN Yes.
+AR نعم.
+1742 104:Line:5ED77D42B4234015827B02B5796BB54F [Waterboy]
+EN Yes.
+AR نعم.
+1743 104:Line:6D5F6BC730EF40B48F8EA7C6A738838A [Flambae]
+EN Yes.
+AR نعم.
+1744 104:Line:885DBCFE4C654FB2A2C9EA166899196E [Flambae]
+EN Yes.
+AR نعم.
+1745 104:Line:F9CF970706664C4BB2F695EB9ACBF844 [Flambae]
+EN Yes.
+AR نعم.
+1746 104:Line:1FA3D9F249304281AD6F4A38EF0737FA [Blonde Blazer]
+EN Yes. I’m not running a sweatshop. Hey. Waterboy! Go home!
+AR نعم. لا أدير مصنعا لاستغلال العمال. يا ووتربوي! اذهب إلى بيتك!
+1747 104:Line:019E6F25458040FF8F9C6683CEC1B542 [Waterboy]
+EN Yes?
+AR نعم؟
+1748 104:Line:2D7E3C8ADF0F40469AA25A2C536A9C2F [Prism]
+EN Yo, Punch Up, you and Coop used to date?
+AR يا بانش أب، أكنت تواعد كوب؟
+1749 104:Line:074969F1583D472AA0813BDCCE1A7508 [Prism]
+EN Yo, Punch-Up, you and Coop used to date?
+AR يا بانش أب، أكنت تواعد كوب؟
+1750 104:Line:5DF8934D8E22492596C16714BCCD3975 [Waterboy]
+EN Yo.
+AR مرحبا.
+1751 104:Line:11E61484FB3041ABB58F6756524A3158 [Phenomaman]
+EN You are no longer in mortal danger, Malevola.
+AR لم تعودي في خطر مميت يا ماليفولا.
+1752 104:Line:36F9F92978E9454386F2B31BB6857FC2 [Phenomaman]
+EN You are quite an intimidating specimen.
+AR أنت عينة مخيفة حقا.
+1753 104:Line:38A86E37E5C54CF8B05879BC06FBA40D [Robert]
+EN You calling me a heartbreaker?
+AR أتصفني بمحطم القلوب؟
+1754 104:Line:2FB543C97B8048F48F59DDE2068CCB0D [Flambae]
+EN You calling us quitters?
+AR أتتهمنا بالاستسلام؟
+1755 104:Line:4642DD4EBF594144B9399113BAA87919 [Robert]
+EN You can talk. I can hear you.
+AR يمكنك الكلام. أسمعك.
+1756 104:Line:2C6CC7702B4D493388708235DA1E9965 [Phenoma-Man]
+EN You cannot make a bone omelette without breaking some bones, which I have.
+AR لا تصنع عجة عظام دون كسر بعض العظام، وقد كسرتها.
+1757 104:Line:3E7813FDFDDD4B56A6C51A7C414B96B2 [Prism]
+EN You could try charming them with your winning personality.
+AR يمكنك محاولة سحرهم بشخصيتك الفاتنة.
+1758 104:Line:4A03A1D499B84A90B6E6A715EC8653F3 [Invisigal]
+EN You did that on purpose.
+AR فعلت ذلك عمدا.
+1759 104:Line:334749C623D148319A50001CA9BA9B86 [Malevola]
+EN You didn't think this through did you Robert?
+AR لم تفكر في عواقب هذا يا روبرت، صحيح؟
+1760 104:Line:75939E92544B40038443BC9727B94E87 [Invisigal]
+EN You didn’t hear any of that?
+AR ألم تسمع أي شيء من هذا؟
+1761 104:Line:1E90C1CFA06C40338B3BAA42E17A095D [Punch Up]
+EN You don't know when to quit do you boy? Last time you made it about four seconds.
+AR لا تعرف متى تستسلم يا فتى؟ صمدت أربع ثوان تقريبا المرة الماضية.
+1762 104:Line:4EC7D4D599AA4D749ABBF3E935BF1FD1 [Royd]
+EN You evah do dat move in a fight?
+AR هل تفعل هذه الحركة في القتال؟
+1763 104:Line:0F6FA993CA404B06A622198C290F6E0A [Invisigal]
+EN You ever jerk off in this thing?
+AR هل سبق أن استمنيت داخل هذا؟
+1764 104:Line:1D430DAC616345F198AC3D78C75B9101 [Robert]
+EN You fancy.
+AR أنت راق.
+1765 104:Line:65ECE30D4F9B4C629CE3F0E8730BC8D4 [Robert]
+EN You first. 
+AR أنت أولا. 
+1766 104:Line:1FF84150A6BB44C09CF99E4DA7DC0DD5 [Phenoma-Man]
+EN You gave me hope. Now it's gone.
+AR منحتني أملا. والآن زال.
+1767 104:Line:4A93655FFB8A48AD8796823DD259E8E5 [Malevola]
+EN You handle this one then, takes an asshole to know an asshole.
+AR تولَّ هذه إذن، فلا يعرف الوغد إلا وغد مثله.
+1768 104:Line:13282EA4B5824952A962BABEE35C6821 [Phenomaman]
+EN You have indeed been rescued by me!
+AR لقد أنقذتك بالفعل!
+1769 104:Line:2DB8F36416CC4242B681E75144076A6B [Phenoma-Man]
+EN You have unwounded me. Thank you.
+AR لقد أزلت جروحي. شكرا لك.
+1770 104:Line:1EFFAA55CF224B1BA12C745F59DEF621 [Phenoma-Man]
+EN You honor me.
+AR تشرفني.
+1771 104:Line:1E31104A34E84BD295BB8B2E8CF721CB [Sonar]
+EN You joke about eating one kid and everyone gets all weird about it.
+AR تمزح بشأن أكل طفل واحد فيتصرف الجميع بغرابة.
+1772 104:Line:40877651BEC0486AAC57EC444790559B [Invisigal]
+EN You just wanted to see them in wet clothes, perv.
+AR أردت رؤيتهم بملابس مبللة فحسب أيها المنحرف.
+1773 104:Line:246BDDD041384B439C70C9A7C7407035 [Golem]
+EN You know what I think? No fighting there.
+AR أتعرف رأيي؟ لا شجار هناك.
+1774 104:Line:5692B06D7F924EA2BBAD4AC400DE42DF [Coupe]
+EN You know what? I did not need Phenomaman's assistance.
+AR أتعلم؟ لم أحتج مساعدة فينومامان.
+1775 104:Line:4B90ACDE289B4D6E90E85B83C0654454 [Robert]
+EN You know, just to ease the transition. 
+AR كما تعلم، لتسهيل الانتقال فحسب. 
+1776 104:Line:05E9F3CE1EBE4710959E1CCDAA154711 [Royd]
+EN You lolo, Visi.
+AR أنت مجنونة يا فيزي.
+1777 104:Line:84E10AD8819742D2BF9BA93428873AFC [Robert]
+EN You look fully tucked in, which, I think we can agree, is the most important thing. 
+AR يبدو أن كل شيء مستور، ونتفق على أن هذا الأهم. 
+1778 104:Line:434599D4D15F497C877CC75B39BD1566 [Robert]
+EN You look great, yeah. It’s nice.
+AR تبدين رائعة، أجل. جميل.
+1779 104:Line:6AF55CCD0E6C486CB83A2904B041D843 [Robert]
+EN You look kinda medium pretty, I guess.
+AR تبدين جميلة نوعا ما، أظن.
+1780 104:Line:075DE63A41EE4AF49D0A957F4D6E18FD [Robert]
+EN You make a good point.
+AR كلامك وجيه.
+1781 104:Line:45D8FD48286746168F8B1A8D86B9F2FF [Coupe]
+EN You may not.
+AR لا يجوز لك.
+1782 104:Line:5C0DC0D3B29C4383986BC60720236C61 [Invisigal]
+EN You owe me an apology.
+AR أنت مدين لي باعتذار.
+1783 104:Line:46235DD18B69443AB06CCFA2F64E28DF [Punch-Up]
+EN You replaced Coop with a fucking wet janitor?!
+AR استبدلت كوب بعامل نظافة مبلل لعين؟!
+1784 104:Line:5FC01CE0ABCA481A9FEE99E4D220E6FF [Invisigal]
+EN You ruined this for me.
+AR أفسدت هذا علي.
+1785 104:Line:35D81483D2C443669DB3600716FA513D [Prism]
+EN You sound like my first manager. I fired his ass.
+AR تتكلم كمدير أعمالي الأول. طردت ذلك الوغد.
+1786 104:Line:59A39CC4387143498A5A2EBC64F46C11 [Prism]
+EN You sound like my first manager. I fired his ass.
+AR تتكلم كمدير أعمالي الأول. طردت ذلك الوغد.
+1787 104:Line:095CA21DA30D490F8E6A6BE80B862C2B [Royd]
+EN You two got one weird energy going on, huh?
+AR بينكما أجواء غريبة، ها؟
+1788 104:Line:1CD95F358FCB42EF92B12953467F121B [Robert]
+EN You were there?
+AR كنت هناك؟
+1789 104:Line:1EEFB7C7EE9F4324AF907A73374DE8C2 [Flambae]
+EN You'll call me again when they fuck up.
+AR ستتصل بي مجددا حين يفشلون.
+1790 104:Line:3A2998E8E01642A8AE89670BC78ACDF5 [Punch Up]
+EN You're a glutton for punishment, aren't yah?
+AR تحب تعذيب نفسك، أليس كذلك؟
+1791 104:Line:30B3C0BECC694D78B6896901500D8615 [Punch-Up]
+EN You're an unfortunate coincidence.
+AR أنت مصادفة مؤسفة.
+1792 104:Line:53CF13F823344CDA9C2C452A5A376B32 [Robert]
+EN You're clocking out early?
+AR ستنهي الدوام مبكرا؟
+1793 104:Line:0751C4FE8A4A47B9A5E6C47CA630018D [Waterboy]
+EN You're good at this. You're a hero. You're available to help.
+AR أنت بارع. أنت بطل. وأنت متاح للمساعدة.
+1794 104:Line:11152B19AA9246CB8C1224268FFC5A33 [Waterboy]
+EN You're hurt! H-hold still-- I mean-- if you want.
+AR أنت مصاب! ا-اثبت-- أعني-- إن أردت.
+1795 104:Line:4C2803BA1F18460FB06CB31D50B71AC9 [Prism]
+EN You're missing out.
+AR يفوتك الكثير.
+1796 104:Line:331AF8B423BD4702BC469E529995535B [Sonar]
+EN You're playing with my emotions.
+AR تتلاعب بمشاعري.
+1797 104:Line:2F9D1E1E3E5A44E98F7FD32CFADFB78E [Malevola]
+EN You're sweating again.
+AR تتعرق مجددا.
+1798 104:Line:4FDEA8B53B2846C29E5083FDFA7D6876 [Sonar]
+EN You're the prime suspect.
+AR أنت المشتبه الأول.
+1799 104:Line:2B11725678FD4CB0A88487B5216056A7 [Waterboy]
+EN You... are the boss-man!
+AR أنت... الرئيس!

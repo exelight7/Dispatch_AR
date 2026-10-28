@@ -1,0 +1,300 @@
+1200 104:Line:546B146D50C548C4A5B9E74343717317 [Waterboy]
+EN Janitor coming through. I sort of know the ins and outs of stuff like this. I've been to some dark places.
+AR عامل نظافة يمر. أعرف خفايا هذه الأمور نوعا ما. دخلت أماكن مظلمة.
+1201 104:Line:3C087EDC96404381950B38A35281C58B [Robert]
+EN Jazzed. The word is jazzed. And we’re jazzed to have you too, bud. |I’m even reasonably optimistic that you deserve it. |See you next shift.
+AR مبتهج. الكلمة هي مبتهج. ونحن مبتهجون بانضمامك أيضا يا صاح. |أنا متفائل إلى حد معقول بأنك تستحق ذلك. |أراك في المناوبة القادمة.
+1202 104:Line:14AA57F553944DD8895E7E6D4254685F [Blonde Blazer]
+EN Jesus. Anyway, you talked to Chase. |Who’s it gonna be? Phenomaman or Waterboy? 
+AR يا إلهي. على أي حال، تحدثت مع تشيس. |من ستختار؟ فينومامان أم ووتربوي؟ 
+1203 104:Line:35E1EE56C3C34BE295FBA27EEFC754AB [Invisigal]
+EN Just a cog in a wheel.
+AR مجرد ترس في آلة.
+1204 104:Line:31801861A01C45CA9EBEA2C10C1A75FC [Waterboy]
+EN Just a wound-- a small wound.
+AR مجرد جرح-- جرح صغير.
+1205 104:Line:5766C85BCD784CBF8A73E5659E7EA6D1 [Invisigal]
+EN Just keep fuckin' with me.
+AR واصل استفزازي فحسب.
+1206 104:Line:9B9BE245238F4B7B925EA79D9C1BDF44 [Invisigal]
+EN Just wanna know why the buttons are sticky.
+AR أريد معرفة سبب لزوجة الأزرار فقط.
+1207 104:Line:23E64FBA97034BDB9E37CE6529A5A23F [Malevola]
+EN Karma's a bitch huh Robert?
+AR الجزاء من جنس العمل يا روبرت، ها؟
+1208 104:Line:27F6089195E148E6A4F096E9FC4E0E5F [Punch Up]
+EN Keep lookin' at me like that and I'll punch you back to space.
+AR واصل النظر إلي هكذا وسألكمك إلى الفضاء.
+1209 104:Line:FFCD59D5824B402EBD359B056774EBEB [Blonde Blazer]
+EN Kinda medium pretty? You sonuvabitch. |That’s the meanest thing anyone’s ever said to me. 
+AR جميلة نوعا ما؟ يا ابن الكلب. |هذا أقسى كلام قاله لي أحد. 
+1210 104:Line:4F78383627DF42B69CE3E2B405EF1854 [Waterboy]
+EN L-let's wash that pain away lickety split!
+AR ل-لنغسل هذا الألم في طرفة عين!
+1211 104:Line:52BEEAB850664A52AFA1764B27A229CD [Waterboy]
+EN Learning from the best!
+AR أتعلم من الأفضل!
+1212 104:Line:37B6D17C5DD34DD6B613E81830A68C69 [Coupe]
+EN Let me handle this.
+AR دعني أتولى هذا.
+1213 104:Line:56DCA8E9B0BF4244BB8A161D98340EB8 [Phenomaman]
+EN Let's get back out there into the fray!
+AR لنعد إلى قلب المعركة!
+1214 104:Line:2ACCE4B6CDB54E47A1ED14DD14F5527D [Galen]
+EN Let's maybe not start a war here with an elite assassin organization. Try asking them to leave nicely?
+AR دعونا لا نشعل حربا مع منظمة اغتيالات نخبوية. جربوا طلب مغادرتهم بلطف؟
+1215 104:Line:294F61620CEC432693D8FA44CA96D5ED [Robert]
+EN Let's see if I can get into this laptop.
+AR لنر إن كنت أستطيع اختراق هذا الحاسوب المحمول.
+1216 104:Line:0BC3F2154AB54C7684346FF886A2D317 [Robert]
+EN Let’s go with Waterboy. |I think he deserves a shot and he seems, shockingly, |more stable than Phenomaman at the moment.
+AR لنختر ووتربوي. |أظنه يستحق فرصة، ويبدو، للمفاجأة، |أكثر استقرارا من فينومامان حاليا.
+1217 104:Line:2A53682FE32847808081CE1366AD0052 [Royd]
+EN Levels are stable. We on to something, brah. This is it. |This is gonna be it.
+AR المستويات مستقرة. وصلنا لشيء يا أخي. هذا هو. |سينجح هذه المرة.
+1218 104:Line:47730804A3144AF3854C9F255AE943DE [Robert]
+EN Like, perspective to join the Z-Team? Chase mentioned it.
+AR تقصد منظور الانضمام لفريق Z؟ ذكر تشيس ذلك.
+1219 104:Line:6674D2F506AE439BAA381AA1D28F07F5 [Blonde Blazer]
+EN Likewise, would you like to have dinner with me, Robert?
+AR وأنت، أتود تناول العشاء معي يا روبرت؟
+1220 104:Line:08CC9DD108B84DDA93C2EBA2317357BB [Flambae]
+EN Listen, you tried and you suck. It happens. The important thing is you suck. And you know it now.
+AR اسمع، حاولت وفشلت. يحدث هذا. المهم أنك فاشل. وصرت تعرف ذلك.
+1221 104:Line:C856BDD3EA9541E48B1F3E520BF06965 [Blonde Blazer]
+EN Little bit... 
+AR قليلا... 
+1222 104:Line:3E8E652102C0469693970291770FA116 [Malevola]
+EN Little ones like this are all talk.
+AR الصغار أمثال هذا ثرثرة بلا فعل.
+1223 104:Line:045D28E367BF455CA6DE6790176DCB3D [Robert]
+EN Look, I actually prefer brunettes, so this is great.
+AR اسمعي، أفضل ذوات الشعر البني أصلا، لذا هذا رائع.
+1224 104:Line:44561E552DB34A91945EBB713EBB4FF2 [Robert]
+EN Look, I don’t think there is, but even if there was, wouldn’t that just make you feel worse?
+AR لا أظن أن هناك أحدا، لكن حتى لو وجد، ألن يزيدك ذلك حزنا؟
+1225 104:Line:ECF3ED9845604C9EBCBECBEE3A8D6B7C [Robert]
+EN Look, Phenomaman... |I’m only telling you this because I don’t want you hearing it from someone else... |I kissed Blazer.
+AR اسمع يا فينومامان... |أخبرك فقط لأنني لا أريدك أن تسمع من غيري... |لقد قبّلت بليزر.
+1226 104:Line:150BCC6FAAF94342BDEC58F8221D832E [Robert]
+EN Looks like there’s no wrong answer. 
+AR يبدو أنه لا توجد إجابة خاطئة. 
+1227 104:Line:562D56473FFB43FF8A927F64ADAFE718 [Sonar]
+EN Looting is so... Gen X. They should really get into crypto.
+AR النهب تصرف... من جيل إكس. عليهم دخول عالم العملات الرقمية.
+1228 104:Line:53D4FEDE44144D02930CE3455AE13408 [Waterboy]
+EN Lots of-- Need some wet out there?
+AR الكثير من-- تحتاجون بعض البلل هناك؟
+1229 104:Line:BB2D1B23FC7D44619A1CC446EF999760 [Chase]
+EN Love ya.
+AR أحبك.
+1230 104:Line:43E6D6416A4F46678CF30C07D61584BE [Robert]
+EN Love you too, Unc.
+AR وأنا أحبك يا عمي.
+1231 104:Line:39956EDCEACE4AA690BD100F08708BE0 [Waterboy]
+EN M-Malevola. P-pleased to, uh, go team with. Um. Glad to be here.
+AR م-ماليفولا. س-سعيد بأن، آه، أعمل معك بالفريق. أم. سعيد بوجودي هنا.
+1232 104:Line:2B5B3B9E332941FA99EF1FF5AE08D879 [Waterboy]
+EN M-m-ma'am.
+AR س-س-سيدتي.
+1233 104:Line:0DFD10413C9F4DECA25728E1E1394E94 [Waterboy]
+EN M-maybe I'm not c-cut out for this.
+AR ر-ربما لست م-مؤهلا لهذا.
+1234 104:Line:325511C0AA7D46EBB57E717676C5EABD [Prism]
+EN Make up your mind.
+AR احسم أمرك.
+1235 104:Line:3D9CA3E3EC564931BB3282F47F95C313 [Sonar]
+EN Malevola's right, if you hadn't cut Coop this would be a breeze.
+AR ماليفولا محقة، لو لم تطرد كوب لكان هذا سهلا.
+1236 104:Line:1D45BABBF527468E8BDAAB0185F01738 [Robert]
+EN Malevola, do you know where this church is located? You can take a look and--
+AR ماليفولا، أتعرفين أين تقع الكنيسة؟ يمكنك إلقاء نظرة و--
+1237 104:Line:0DA1F7B60D9B439584674CBBB3E63CC2 [Golem]
+EN Man, I hope they fuck with nature.
+AR يا رجل، أتمنى أن يحبوا الطبيعة.
+1238 104:Line:1E066880E6384F6DB7EB4C7DC979AAC3 [Malevola]
+EN Mate, cut me if you want. But I'm out.
+AR يا صاح، اطردني إن شئت. لكنني منسحبة.
+1239 104:Line:79984CCD7D6B4F509C5C69910F65551B [Robert]
+EN Maybe I have, maybe I haven’t. What's it to you?
+AR ربما فعلت وربما لا. وما شأنك؟
+1240 104:Line:E3926F5DBEC442F4A1E1EEF83CE9627F [Phenomaman]
+EN Maybe she met a person. An actual person. |I am not a person. I just resemble one anatomically.
+AR ربما قابلت بشريا. بشريا فعلا. |أنا لست بشريا. أشبههم تشريحيا فقط.
+1241 104:Line:9AD6431ADD5A4AC3B74E59F7D41FABDA [Phenomaman]
+EN Maybe then I would be free of the torment in my soul. |Maybe then, I could quiet my mind to these destructive thoughts.
+AR ربما حينها أتحرر من عذاب روحي. |ربما حينها أسكت هذه الأفكار المدمرة في عقلي.
+1242 104:Line:374EF166F59B411A8C89F039EE862F17 [Galen]
+EN Maybe we can send someone in, have them pretend to be interested in joining the cult?
+AR ربما نرسل شخصا يتظاهر برغبته في الانضمام إلى الطائفة؟
+1243 104:Line:231F02FA81FF4DBF8BD1B4E4B9FC9DAE [Robert]
+EN Maybe you shouldn't be so quick to judge people.
+AR ربما عليك ألا تتسرع في الحكم على الناس.
+1244 104:Line:130A94C08AF54F20A48D4C8030F72DE8 [Robert]
+EN Maybe, but I doubt it. |I’d guess this is something she was thinking about for a while. |I’m not that good of a kisser. 
+AR ربما، لكنني أشك. |أظن أنها كانت تفكر في هذا منذ مدة. |لست بتلك البراعة في التقبيل. 
+1245 104:Line:0CF4CA7B8FD44A0482149CEAB7543E04 [Chase]
+EN Me, motherfucker. Don’t even think about it.
+AR أنا يا ابن الكلب. إياك أن تفكر في ذلك.
+1246 104:Line:57D08D9A70654D79A496D77391AC5C8F [Prism]
+EN Me, really? Okay...
+AR أنا، حقا؟ حسنا...
+1247 104:Line:30CDA0A3A0CF48719C8438C83246D677 [Robert]
+EN Me? Why me?
+AR أنا؟ لماذا أنا؟
+1248 104:Line:38D392A77FB64F5AB4A4726A10311CC2 [Robert]
+EN Mediate the argument.
+AR توسط في الشجار.
+1249 104:Line:20300B95B11A49938A89A13554F2F69D [Waterboy]
+EN Mm-my uh, sorry f-for the puddles. It's i-involuntary.
+AR آه، أ-آسف ع-على البرك. إنه لا-إرادي.
+1250 104:Line:42B1BE84551F464BAF64E2F5BF3B3FF8 [Waterboy]
+EN Morning.
+AR صباح الخير.
+1251 104:Line:456A85B0DF924C1790571939032D2D61 [Blonde Blazer]
+EN Mostly I’d like you to get him out of the parking lot... |oh, and tell him to stop with the Edible Arrangements. |He keeps sending them but with all melon? 
+AR أريد منك بالأساس إخراجه من الموقف... |وأخبره أن يتوقف عن إرسال تنسيقات الفواكه. |يواصل إرسالها لكنها كلها شمام؟ 
+1252 104:Line:346F9487BEE045708927A7E06F7FFD32 [Robert]
+EN My best subject.
+AR مادتي المفضلة.
+1253 104:Line:29A68A455B6F45DEBF70812238417D85 [Phenoma-Man]
+EN My body has sustained critical damage.
+AR تعرض جسدي لأضرار جسيمة.
+1254 104:Line:3AACE971134C4A65A22F8A4733F2F99F [Phenoma-Man]
+EN My body has sustained minor damage.
+AR تعرض جسدي لأضرار طفيفة.
+1255 104:Line:3176C39C648645BF9E160C668AE18B29 [Phenomaman]
+EN My hug of gratitude seems to have reopened your chest wounds.
+AR يبدو أن عناق امتناني أعاد فتح جروح صدرك.
+1256 104:Line:42EBC9274ED7418A88F9E728B664A292 [Phenomaman]
+EN My might is your might.
+AR قوتي قوتك.
+1257 104:Line:0A064021EC99474F9C33C16680004D59 [Blonde Blazer]
+EN My nipple’s out.
+AR حلمتي ظاهرة.
+1258 104:Line:54D0AA96435E4B37BB0ACE141577980A [Waterboy]
+EN N-need a wet, sweaty hand?
+AR ت-تحتاج يدا مبللة متعرقة؟
+1259 104:Line:30ADFE5B480943F094B66D24EDCA47E9 [Waterboy]
+EN N-no, j-just water from... my body... I don't think it's... piss.
+AR ل-لا، م-مجرد ماء من... جسدي... لا أظنه... بولا.
+1260 104:Line:36EC6255AA8F4B56A56B7CD05764546C [Chase]
+EN Nah. They’re all soft.
+AR لا. كلهم رقيقون.
+1261 104:Line:34CF885FBACC43898AEB7E88FA5573D6 [Waterboy]
+EN Need something moist-- wetter?
+AR تحتاج شيئا رطبا-- أكثر بللا؟
+1262 104:Line:1101184F473B48CB83F08B256DA25320 [Robert]
+EN Never a doubt. 
+AR لم أشك لحظة. 
+1263 104:Line:4A7D6BF883754C93A76C716666A5D9A1 [Prism]
+EN Never understood why they called them that.
+AR لم أفهم سبب تسميتها هكذا.
+1264 104:Line:2131CEB801D44D7B897DD75F138D0D12 [Chase]
+EN Never understood why, but then again, |I don’t know a whole lot about demonic shit. |Bats are a thing, right? Like, witchy stuff?|I don’t know what I’m talking about. |Anyway, best keep an eye on her.
+AR لم أفهم السبب، لكن مجددا، |لا أعرف الكثير عن الشياطين. |للخفافيش شأن، صحيح؟ مع السحر وكذا؟|لا أعرف عما أتكلم. |على أي حال، الأفضل مراقبتها.
+1265 104:Line:29BB59B3AC004CB39D72D980B600477B [Punch-Up]
+EN Next one then.
+AR التالية إذن.
+1266 104:Line:1EC879CA7A3A463E85369A7373FEBE8A [Prism]
+EN Next time.
+AR في المرة المقبلة.
+1267 104:Line:29713853B5D648C7BD60DD9C2CA75A8F [Waterboy]
+EN Night.
+AR تصبح على خير.
+1268 104:Line:4F13D9B20DDD43B6AADBE5C7CFB4E048 [Robert]
+EN No cause for alarm, but a little bit of your areola is out. |It’s like a slight hue shift. 
+AR لا داعي للذعر، لكن جزءا من هالة حلمتك ظاهر. |مجرد فرق بسيط في اللون. 
+1269 104:Line:A7BDE8C88B7E4AEABCE4938EC1CE54C0 [Robert]
+EN No need. You’re a legend. You should be out doing good.
+AR لا داعي. أنت أسطورة. يجب أن تخرج لفعل الخير.
+1270 104:Line:349502D302BC45629DECC4BC989369D1 [Golem]
+EN No prob.
+AR لا مشكلة.
+1271 104:Line:24213EC669174E068EF1257AB38206AF [Flambae]
+EN No promises Roberto...
+AR لا أعدك يا روبرتو...
+1272 104:Line:4E116412D0AE476199E523E7C5F179B3 [Invisigal]
+EN No wonder Blazer dumped you.
+AR لا عجب أن بليزر تركتك.
+1273 104:Line:3DE8979A6D0E4BD4AA3210BE7964C950 [Golem]
+EN No worries.
+AR لا تقلق.
+1274 104:Line:4E3507858F9D4F7D9EDC97EF4E7503EF [Sonar]
+EN No worries.
+AR لا تقلق.
+1275 104:Line:1F2EFAAB8C614F2CA507F92993E878AF [Royd]
+EN No worries. We'll get der.
+AR لا تقلق. سنصل.
+1276 104:Line:57B6D01A290547E39E812D3B48A17DB5 [Malevola]
+EN No, I think Coop's got this all on her own.
+AR لا، أظن كوب قادرة على هذا بمفردها.
+1277 104:Line:85919E3F6968438998E376904DC60546 [Robert]
+EN No, I was usually pretty busy using it to, you know, fight crime.
+AR لا، كنت منشغلا باستخدامه لمحاربة الجريمة، كما تعلم.
+1278 104:Line:2B1DA52257B94E7EB53A94CB26445755 [Phenomaman]
+EN No, I'm not flexing. That's how my body looks all the time.
+AR لا، لا أشد عضلاتي. هكذا يبدو جسدي دائما.
+1279 104:Line:2D1F8FEA9EBC48D2B45C49B6A79CAC8E [Blazer]
+EN No, Waterboy. It's not a joke.
+AR لا يا ووتربوي. ليست مزحة.
+1280 104:Line:5165F0D496FC44CF86984FA50921F164 [Robert]
+EN No, hold on. She didn’t kiss me. |She didn’t do anything wrong. I kissed her. 
+AR لا، لحظة. هي لم تقبّلني. |لم تفعل شيئا خطأ. أنا من قبّلها. 
+1281 104:Line:3539C662C0774409985935CE3BDA1A07 [Blonde Blazer]
+EN No, no, I don't regret it. I know that for sure.
+AR لا، لا، لست نادمة. هذا أعرفه يقينا.
+1282 104:Line:361D244C6762490093094078ABB81438 [Waterboy]
+EN No.
+AR لا.
+1283 104:Line:F30635BCA9A84FC29A510317060DDEE8 [Phenoma-Man]
+EN No.
+AR لا.
+1284 104:Line:D6E5C68C90FE4E9FBA741F84A52F4443 [Waterboy]
+EN No. No, I do this-- see?
+AR لا. لا، أنا أفعل هذا-- أترى؟
+1285 104:Line:52A8B8BB379C4E879BC68978A2E4844D [Waterboy]
+EN No. No. No. No. No. No!
+AR لا. لا. لا. لا. لا. لا!
+1286 104:Line:585985894FD147E282836296BBF9539F [Robert]
+EN No. Well, maybe? That’s not my point.
+AR لا. حسنا، ربما؟ ليس هذا قصدي.
+1287 104:Line:587AA638EC2242BFBDB6C17D4CA7E925 [Coupe]
+EN No... Do you?
+AR لا... وأنت؟
+1288 104:Line:1C8C42B4633F4FE6815EF4A4F7F90656 [Robert]
+EN Nope I don't see it.
+AR لا، لا أراه.
+1289 104:Line:02B272942BA149BCB34CD49E8E4D59C2 [Robert]
+EN Nope. Budget cuts.
+AR لا. تخفيضات الميزانية.
+1290 104:Line:7796A2D371544775AE7F39039DC6955D [Blonde Blazer]
+EN Not bad.
+AR لا بأس.
+1291 104:Line:47E9EA4E4F734400A1B9991D1D36928E [Phenomaman]
+EN Not in a very long time.
+AR ليس منذ زمن طويل.
+1292 104:Line:3728623D44E74FEA8457F99A7B73C89B [Malevola]
+EN Not interested.
+AR غير مهتمة.
+1293 104:Line:4F78AE2AEA9540988E1C194EF59CAF6E [Malevola]
+EN Not interested.
+AR غير مهتمة.
+1294 104:Line:E7D22F7508374FF7AF074902DDE4A4EA [Chase]
+EN Not only did you cut one of their dumbshit criminal buddies, |you’re also forcing them to work with...
+AR لم تكتف بطرد أحد أصدقائهم المجرمين الحمقى، |بل تجبرهم أيضا على العمل مع...
+1295 104:Line:313C9C34B8344CB2953D261E811C6123 [Phenomaman]
+EN Not to worry. Together we will be phenomenal!
+AR لا تقلق. معا سنكون مذهلين!
+1296 104:Line:D5C93DE8441A46E9B5DC478AC9740C2E [Robert]
+EN Not what I asked. |We’re talking about me.
+AR ليس هذا سؤالي. |نحن نتحدث عني.
+1297 104:Line:10BE9325F69644FA8B05D27382EDEC62 [Sonar]
+EN Noted.
+AR مفهوم.
+1298 104:Line:14A837792CF04F0198D64BACC6B9FEEC [Robert]
+EN Noted. Can you just... hang in there a little longer. I'll see what I can do.
+AR مفهوم. هلا... تصمد مدة أطول قليلا؟ سأرى ما بوسعي فعله.
+1299 104:Line:452E5559C3D040968CABE6D148FA49D0 [Robert]
+EN Noted. Can you just... hang in there a little longer. I'll see what I can do.
+AR مفهوم. هلا... تصمد مدة أطول قليلا؟ سأرى ما بوسعي فعله.

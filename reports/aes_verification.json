@@ -1,0 +1,6 @@
+{
+  "executable_offset": 14492073,
+  "index_sha1_verified": true,
+  "pak": "pakchunk0-WindowsNoEditor.pak",
+  "method": "ordered x86 MOV imm32 stores; AES-256-ECB; full index SHA1"
+}

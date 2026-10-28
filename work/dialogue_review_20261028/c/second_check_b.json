@@ -1,0 +1,37 @@
+{
+  "reviewed_count": 20,
+  "accepted_ids": [
+    "102:Line:27D89C8C44A741E39C5CE03983F149E0",
+    "102:Line:553F0067A2F74CC187454D367100D079",
+    "102:Line:141998052C204BD0B593C3D4D953B5AE",
+    "102:Line:9A86B327749D46B09B4D48FF24D2CFD1",
+    "102:Line:655536147AF04FDBA0672776D1EBCA73",
+    "102:Line:CB521F7C60694ED7AAF065B64600B976",
+    "102:Line:56F6111601354AD2862F7725E853932E",
+    "102:Line:4F46CAEF1EB6493EA8929E7C2AFBB81E",
+    "105:Line:149B587CF38E4E6B839858D56152B73C",
+    "105:Line:41C5944545434B51A460F6EFB7A039EE",
+    "105:Line:0774FCA4BBDC4EF3BC181D8FA852F1A9",
+    "105:Line:E2CD75FF8AF94834922FB7CCD2464CAE",
+    "105:Line:3AC7F3B798904E60A8BFD5AAF534FC51",
+    "Shared:Line:272F84B9F89343F0AC03AD5D9A417390",
+    "Shared:Line:5502C9A6B3D045DF96901B076292D44C",
+    "Shared:Line:4A19C4A70D594C8D93BDF681A4576309",
+    "Shared:Line:509529EA939443EE81AB7313FC8B60E1",
+    "Shared:Line:237A7DE17DF14BA4B954C727E03B15E6",
+    "Shared:Line:5F4DB6ADFC2549B6A8760933AADAD48E",
+    "Shared:Line:3A28B2EBCA984FCA8023EAECB480E95A"
+  ],
+  "notes": {
+    "102:Line:56F6111601354AD2862F7725E853932E": "Accepted: idiomatic slang for behavior/mindset, drug use not established.",
+    "102:Line:655536147AF04FDBA0672776D1EBCA73": "Accepted: relationship conversation with Blazer, feminine address supported by adjoining English lines.",
+    "102:Line:CB521F7C60694ED7AAF065B64600B976": "Accepted: relationship conversation with Blazer, feminine address supported.",
+    "105:Line:0774FCA4BBDC4EF3BC181D8FA852F1A9": "Accepted: Sonar invites Robert to drinks with group; singular fits scene.",
+    "105:Line:E2CD75FF8AF94834922FB7CCD2464CAE": "Accepted: neutral babysitting wording avoids wrong gender.",
+    "105:Line:3AC7F3B798904E60A8BFD5AAF534FC51": "Accepted semantically; proposed صياغة accurate though slightly wordy."
+  },
+  "own_uncertainties": [
+    "103::65818F694187F7E308626893EA8D33A8: clay-bodied Golem could have literal chair penetration; defer without scene proof.",
+    "106:Line:180D420940FA48DFA0D6993262F2D919: finger me could be sexual or identify/accuse; defer without scene proof."
+  ]
+}

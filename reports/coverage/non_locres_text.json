@@ -1,0 +1,280 @@
+{
+ "items": [
+  {
+   "source": "String tables (ST_*)",
+   "kind": "StringTable",
+   "records": 40,
+   "class": "LOCALIZED_ALREADY",
+   "evidence": "Entries are gathered into locres under the table namespace; ST_DispatchSettings, ST_TutorialText, ST_Hacky104/105Names and ST_HackyHeroNames were exported with UAssetAPI and every entry matched a translated identity; the other tables are referenced by manifest contexts of translated records.",
+   "action": "None",
+   "examples": [
+    "ST_EpisodeBlurbs.uasset",
+    "ST_EpisodeTitles.uasset",
+    "ST_AdStrings.uasset",
+    "ST_CommonEndOfEpisodeStatStrings.uasset",
+    "ST_ExtrasStrings.uasset",
+    "ST_HRViolationPack.uasset",
+    "ST_InputBindingPresets.uasset",
+    "ST_MenuTitles.uasset"
+   ]
+  },
+  {
+   "source": "Localizable FText serialized in cooked WBP/DA/DT/BP packages",
+   "kind": "FText (Base history)",
+   "records": 783,
+   "class": "LOCALIZED_ALREADY",
+   "evidence": "783/801 distinct namespace/key/source triples found in 1,642 cooked UI/data packages have a translated identity.",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Localizable FText without a locres identity",
+   "kind": "FText (Base history)",
+   "records": 18,
+   "class": "EDITOR_ONLY",
+   "evidence": "All owners are DebugTools/ or Sandbox/ widgets (debug menus, playtest configurators, QTE prototypes); none is in any shipped culture's locres.",
+   "action": "No translation",
+   "examples": [
+    "INPUT SEQUENCE (WBP_CommandInput_QTE.uexp)",
+    ">> EXECUTING PAYLOAD...  \r\n>> SYSTEM GAT (WBP_HackingText.uexp)",
+    "Question (WBP_PlayMenuChoiceSimulator.uexp)",
+    "Skip Adjusting Save (WBP_ShiftPlaytestConfigurator.uexp)",
+    "Career Rank (WBP_ShiftPlaytestGlobalProgressionConfig.uexp)",
+    "\r\n-------------------------------------- (WBP_HackingText.uexp)",
+    "Play! (WBP_ShiftPlaytestConfigurator.uexp)",
+    "VS3 (Jewelry Store) (WBP_DemosMenu.uexp)"
+   ]
+  },
+  {
+   "source": "Culture-invariant FText in cooked widgets",
+   "kind": "FText (CultureInvariant)",
+   "records": 69,
+   "class": "EDITOR_ONLY",
+   "evidence": "Culture-invariant FText owned by debug/sandbox widgets.",
+   "action": "None",
+   "examples": [
+    " | Shift X (WBP_VersionDisplay.uexp)",
+    "(DEBUG ONLY) Skip to episode 8 completed (WBP_EpisodesMenu.uexp)",
+    "101 Hacking (WBP_HackingMenu.uexp)",
+    "102 Hacking (WBP_HackingMenu.uexp)",
+    "103 Hacking (WBP_HackingMenu.uexp)",
+    "106 Hacking (WBP_HackingMenu.uexp)",
+    "Active Blocking Sections: 0 (WBP_DebugStoryHUD.uexp)",
+    "Adjust First Encountered Shift Save (WBP_DebugStoryNodePicker.uexp)"
+   ]
+  },
+  {
+   "source": "Culture-invariant FText in cooked widgets",
+   "kind": "FText (CultureInvariant)",
+   "records": 80,
+   "class": "TECHNICAL_NOT_USER_VISIBLE",
+   "evidence": "Culture-invariant designer preview/placeholder text (replaced at runtime) or symbols/numbers.",
+   "action": "None",
+   "examples": [
+    "  (BP_Banner_Commentary.uexp)",
+    "! (WBP_AwarenessStart.uexp)",
+    "* / (WBP_Shifts_ScenarioDetailsPanel.uexp)",
+    "+ (WBP_SaveSlotButton.uexp)",
+    "+999 (WBP_Shift_HeroCard_Slot_New.uexp)",
+    "- (WBP_HeroTeamWidget.uexp)",
+    "- - - - - - - - - - - - - - - - - - - -  (WBP_HeroTeamWidget.uexp)",
+    "---------------------------------------- (WBP_StackCounter.uexp)"
+   ]
+  },
+  {
+   "source": "Culture-invariant FText in cooked widgets",
+   "kind": "FText (CultureInvariant)",
+   "records": 91,
+   "class": "UNKNOWN",
+   "evidence": "Culture-invariant FText (ETextFlag::CultureInvariant) in shipping widgets: it can never be localized through locres. Whether it is overwritten at runtime or visible is not statically known; the same English shows in all 16 shipped cultures.",
+   "action": "In-game observation; a visible case needs a WBP edit (REQUIRES_UNSUPPORTED_EDIT with current tooling)",
+   "examples": [
+    "- Waterboy succeeded on a mission he sho (WBP_EndOfShiftPopup.uexp)",
+    "- none - (DA_PhenomaMan.uexp)",
+    "178charactersallowed (WBP_ScenarioAssignment_AudioLogPanel.uexp)",
+    "< Previous Audio Log > (WBP_ScenarioAssignment_PreviousChoice.uexp)",
+    "<BulletPointDefault>Bullet </><BulletPoi (WBP_ScenarioBulletPoint.uexp)",
+    "<BulletPointDefault>Choose one hero to r (WBP_EndOfShift_StatUpgrade.uexp)",
+    "<PopupBold>CATEGORY: </><PopupDefault>Co (WBP_HeroDatabase_Categories.uexp)",
+    "<PopupDefault>By inputting the sequence  (WBP_HackingTutorial_3.uexp)"
+   ]
+  },
+  {
+   "source": "DefaultGame.ini [DispatchCommentarySettings] NSLOCTEXT speaker names/titles",
+   "kind": "Config FText",
+   "records": 13,
+   "class": "LOCALIZED_ALREADY",
+   "evidence": "Package namespace [/Script/Dispatch] is stripped in locres (e.g. key 5524BBF0... 'Coupé' is translated in 101).",
+   "action": "None",
+   "examples": [
+    "Robert",
+    "Malevola",
+    "Blonde Blazer",
+    "Waterboy",
+    "Flambae",
+    "Invisigal",
+    "Shroud",
+    "Coupé"
+   ]
+  },
+  {
+   "source": "DefaultGame.ini commentary speaker real-person names",
+   "kind": "Config FText",
+   "records": 35,
+   "class": "RETAINED_PROPER_NAME",
+   "evidence": "No locres identity in any of the 17 shipped cultures; these are names of the real cast/crew (and the group THOT SQUAD). Kept in their original Latin spelling by project policy (STYLE_GUIDE).",
+   "action": "None (policy)",
+   "examples": [
+    "Anastasiia Kovaleva",
+    "Andrew Arcadi",
+    "Ashley Jeffalone",
+    "Austen Gralheer",
+    "Bruno Cecconi",
+    "Chad Rhiness",
+    "Charles Marcolim",
+    "Chris Rebbert"
+   ]
+  },
+  {
+   "source": "Config LOCTABLE references",
+   "kind": "StringTable reference",
+   "records": 35,
+   "class": "LOCALIZED_ALREADY",
+   "evidence": "References ST_CommentarySpeakerTitles and ST_InputBindingPresets, whose entries are translated.",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Engine BaseEngine.ini [Core.System] serialization error texts",
+   "kind": "Config FText",
+   "records": 2,
+   "class": "LOCALIZED_ALREADY",
+   "evidence": "Added to translation/engine_scope.json this round (RUNTIME_CONFIRMED).",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Engine/Niagara ini LOD-group, buffer-visualization and quality-level names",
+   "kind": "Config FText",
+   "records": 20,
+   "class": "EDITOR_ONLY",
+   "evidence": "Editor/developer setting lists (see reports/coverage/engine_classification.json).",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Profanity filter DataTables",
+   "kind": "DataTable",
+   "records": 16,
+   "class": "TECHNICAL_NOT_USER_VISIBLE",
+   "evidence": "Word lists for the subtitle profanity filter, one per shipped language; there is no Arabic list, so Arabic subtitles cannot be filtered by this mechanism (behaviour for an unknown culture is NOT_PROVEN).",
+   "action": "Optional future: an Arabic word list requires a new DataTable (cook) and Blueprint routing",
+   "examples": [
+    "DT_ProfanitiesChineseSimplified.uasset",
+    "DT_ProfanitiesChineseTraditional.uasset",
+    "DT_ProfanitiesEnglish.uasset",
+    "DT_ProfanitiesFrench.uasset",
+    "DT_ProfanitiesGerman.uasset",
+    "DT_ProfanitiesItalian.uasset",
+    "DT_ProfanitiesJapanese.uasset",
+    "DT_ProfanitiesKorean.uasset"
+   ]
+  },
+  {
+   "source": "Rich-text style DataTables",
+   "kind": "DataTable",
+   "records": 9,
+   "class": "TECHNICAL_NOT_USER_VISIBLE",
+   "evidence": "Font/style rows, no display text; relevant to font and RTL work, not to translation.",
+   "action": "See reports/fonts/",
+   "examples": [
+    "DT_SubtitlesProtoRichText.uasset",
+    "DT_SubtitlesProtoRichText_Large.uasset",
+    "DT_RichTextStyles.uasset",
+    "DT_RichTextStylesLarge.uasset",
+    "DT_ScenarioRichText.uasset",
+    "DT_ScenarioRichText_Large.uasset",
+    "DT_TutorialRichText.uasset",
+    "DT_RichTextIcons.uasset"
+   ]
+  },
+  {
+   "source": "Plugin descriptors (.uplugin)",
+   "kind": "JSON descriptor",
+   "records": 63,
+   "class": "EDITOR_ONLY",
+   "evidence": "FriendlyName/Description are shown only in the editor plugin browser.",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Story .playstats files",
+   "kind": "Binary data",
+   "records": 47,
+   "class": "TECHNICAL_NOT_USER_VISIBLE",
+   "evidence": "Choice-statistics data; the displayed sentences are ChoiceStat locres records (translated).",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "ICU data (icudt64l)",
+   "kind": "ICU resource",
+   "records": 3463,
+   "class": "TECHNICAL_NOT_USER_VISIBLE",
+   "evidence": "Locale data incl. ar*.res (culture names, plural rules, number formats) and line-break rules; language-neutral engine data.",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Online plugin messages",
+   "kind": "locres",
+   "records": 46,
+   "class": "LOCALIZED_ALREADY",
+   "evidence": "OnlineSubsystem/Steam/Utils locres translated.",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Steam overlay / platform service UI",
+   "kind": "External",
+   "records": 0,
+   "class": "TECHNICAL_NOT_USER_VISIBLE",
+   "evidence": "Rendered by Steam, not by game resources; out of the mod's reach.",
+   "action": "None",
+   "examples": []
+  },
+  {
+   "source": "Credits",
+   "kind": "Video",
+   "records": 15,
+   "class": "UNKNOWN",
+   "evidence": "Credits are webm movies (see VIDEO_LOCALIZATION).",
+   "action": "See video report",
+   "examples": []
+  },
+  {
+   "source": "Licenses / Terms of Service body text",
+   "kind": "Runtime-supplied text",
+   "records": 2,
+   "class": "UNKNOWN",
+   "evidence": "WBP_UI_Settings_Permissions+Licenses holds culture-invariant placeholders '[Licenses Text]' and '[Terms of Service Text]'; the real text is supplied at runtime by code or a platform API not visible in locres.",
+   "action": "In-game observation",
+   "examples": []
+  }
+ ],
+ "summary": {
+  "LOCALIZED_ALREADY": 6,
+  "EDITOR_ONLY": 4,
+  "TECHNICAL_NOT_USER_VISIBLE": 6,
+  "UNKNOWN": 3,
+  "RETAINED_PROPER_NAME": 1
+ },
+ "counts_by_class": {
+  "RETAINED_PROPER_NAME": 35,
+  "UNKNOWN": 108,
+  "TECHNICAL_NOT_USER_VISIBLE": 3615,
+  "EDITOR_ONLY": 170,
+  "LOCALIZED_ALREADY": 919
+ },
+ "note": "RETAINED_PROPER_NAME extends the five requested classes for real-person names; it is not a translation gap."
+}

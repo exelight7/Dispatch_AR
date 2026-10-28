@@ -1,0 +1,2251 @@
+{
+ "packages_scanned": 27365,
+ "hits": {
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Art/UI/ButtonPrompts/KeyboardMouse/Font_Keycap.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/",
+    "/Game/Shared/Core/Art/UI/ButtonPrompts/KeyboardMouse/Font_Keycap"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/DT_SubtitlesProtoRichText.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/DT_SubtitlesProtoRichText_Large.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_CommonButtonWithText.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Blueprints/WBP_HackingMessage.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Blueprints/WBP_HackingUserHighlight.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Materials/DefaultTextMaterialEmissive.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto",
+    "/Engine/EngineFonts/RobotoDistanceField"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/Tutorials/WBP_HackingTutorial_1.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/WBP_CommandInput_PopUp_Input.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/WBP_CommandInput_PopUp_Key.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/WBP_Hacking_AltHudTop.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/WBP_HkPromptAntivirusMode.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/WBP_PasswordInput.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/WBP_StackCounter.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Hacking/Widgets/WBP_WaveContainer.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/Elements/WBP_StandardMenuOption.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/EpisodesMenu/WBP_EpisodeButton.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/EpisodesMenu/WBP_EpisodesMenu.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/EpisodesMenu/WBP_ScenesMenu.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/WBP_ExtrasMenuBase.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/WBP_ExtrasMenuOption.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/WBP_ExtrasMenu_DeluxeSell.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/WBP_ExtrasMenu_NewBar.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/FTUE/WBP_DeluxeEdition_FTUE.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/FTUE/WBP_FTUE.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/FTUE/WBP_FTUE_QTEButton.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/FTUE/WBP_FTUE_SettingSpinner_Image.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/FTUE/WBP_FTUE_WindowContainer.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/Pause/WBP_PauseMenu.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable",
+    "/Game/Shared/Shifts/Art/Fonts/schaboxcondensed/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SaveMenu/WBP_SaveMenu.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SaveMenu/WBP_SaveSlotButton.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable",
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/SidePanel/WBP_SettingsSidePanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel_Arrows.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_ListItemBacker.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_SliderSettingBacker.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SidePanel_Button.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsCategoryTabContent.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsMenu.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsSubcategoryHeader.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/Stats/Assets/DT_DeluxeEdition_TextSTyle.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Barlow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/Styles/TS_PauseMenuButtonDisabled.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/Styles/TS_PauseMenuButtonNormal.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_ClickToContinue.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_ConsentScreen.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_MainMenu.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_MainMenuBase.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_MenuButton.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_MenuButton_ActionButtonVariant.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_MenuButton_Extras.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_MenuCheckBox.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_MenuSubPageBase.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_Options.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_Prompt.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_UI_MainMenu_Upsell_Ad_Banner.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/WBP_UI_Settings_Permissions+Licenses.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Sandbox/HackingAssets/WBP_HackingOutcomeInternal.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Sandbox/HackingAssets/WBP_HackingText.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Sandbox/QTEs/WBP_FluxPointsBase.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Sandbox/QTEs/WBP_ShrinkingCircleQTE.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Aktiv_Grotesk_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Aktiv_Grotesk_Font"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/ChiKareGo/ChiKareGo2_FontBig.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/ChiKareGo/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Input/Input-Bold__InputMono-Bold_.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Input/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Input/Input-Bold__InputMono-Bold__Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Input/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Mono/RobotoMono-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Mono/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Mono/RobotoMono-Bold_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Mono/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-BoldItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-BoldItalic_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Medium_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Regular_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/SourceCodePro/SourceCodePro-Light.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/SourceCodePro/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/SourceCodePro/SourceCodePro-Light_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/SourceCodePro/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/schaboxcondensed/SCHABO-XCondensed.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/schaboxcondensed/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/Fonts/schaboxcondensed/SCHABO-XCondensed_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/schaboxcondensed/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/DT_HeroDatabase_Category.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/DT_RichTextStyles.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable",
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Mono/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/DT_RichTextStylesLarge.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable",
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Mono/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/DT_ScenarioRichText.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/DT_ScenarioRichText_Large.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/DT_TutorialRichText.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Black_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Bold_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Medium_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Regular_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-SemiBold.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-SemiBold_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Hacking/WBP_AwarenessStart.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Hacking/WBP_HackingTutorial00.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Hacking/WBP_HackingTutorial01.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Hacking/WBP_Hacking_HUD.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Hacking/WBP_SL_LevelUpChoice.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Hacking/WBP_SL_ResultScreen.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/DossierUnique/WBP_SDNLoading.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/Info/WBP_HeroDatabaseCategory.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/SonarGraph/WBP_UI_HeroDatabase_SonarGraphToggle.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/SonarGraph/WBP_UI_SonarGraph_Chunk.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/Synergy/WBP_SynergyPopUpPiece.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/Synergy/WBP_UI_HeroDatabase_Synergy.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/Synergy/WBP_UI_SynergyLevel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/UpgradeStats/WBP_UpgradeWindow.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/UpgradeStats/WBP_UpgradeWindow_Line.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/WBP_UI_HeroDatabase_CenterPanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/WBP_UI_HeroDatabase_GraphPanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/SubWidgets/WBP_UI_HeroDatabase_Keyword.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/WBP_HeroDatabase.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/HeroDatabase/WBP_HeroDatabase_Shift.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Bases/WBP_HeroTeamWidget.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Bases/WBP_Item.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Bases/WBP_ItemBag.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Bases/WBP_Map_AnimOn.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/Shift_HeroCard_SubWidgets/WBP_DebuffTag.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/Shift_HeroCard_SubWidgets/WBP_LevelUpBubble.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/Shift_HeroCard_SubWidgets/WBP_LevelUpBubble_Tooltip.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/Shift_HeroCard_SubWidgets/WBP_PopUpTag_New.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/Shift_HeroCard_SubWidgets/WBP_Shift_HeroCard_Slot_New.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/Shift_HeroCard_SubWidgets/WBP_UI_HeroCard_Status_New.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/WBP_HeroCard.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/WBP_HeroCard_Temp.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_HeroCards/WBP_Shift_HeroCard_Slot.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/StatsGraph/WBP_StatsGraph.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_CommentaryNotification.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_Database_Trait.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_DispatchTooltip.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_ScenarioHoverInfo.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_ButtonStyleA.uasset": {
+   "fonts": [],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_ButtonStyleA_Dark.uasset": {
+   "fonts": [],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_ButtonStyleA_Hacking.uasset": {
+   "fonts": [],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_ButtonStyleA_IconAndText_Dark.uasset": {
+   "fonts": [],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_ButtonStyleB.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_ButtonStyleFoundHimself.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_ButtonStylePharmacy.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_UI_HackingButton.uasset": {
+   "fonts": [],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Assets/EndOfShiftPopup/DT_EndOfShift.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/EndOfShift/WBP_EndOfShiftBonusIndicator.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/EndOfShift/WBP_EndOfShift_PerfBonus.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/EndOfShift/WBP_EndOfShift_PerfBonus_TextBox.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/EndOfShift/WBP_EndOfShift_PerfReview.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/EndOfShift/WBP_EndOfShift_StatUpgrade.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/DT_AudioLogTranscriptTextStyle.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/AssignmentPanel/WBP_AssignmentPanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/AssignmentPanel/WBP_StatValueToggle.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/AssignmentPanel/WBP_UI_HackingAssignmentPanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/AudioPanel/WBP_AudioLogText.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/SourceCodePro/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/AudioPanel/WBP_ScenarioAssignment_AudioLogPanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/AudioPanel/WBP_ScenarioAssignment_AudioLogPanel_PreviousCall.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/AudioPanel/WBP_ScenarioAssignment_PreviousChoice.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/Old/WBP_ScenarioHoverSlot.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/RequirementsPanel/WBP_Requirements_Tag.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/RequirementsPanel/WBP_ScenarioBulletPoint.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/SubWidgets/RequirementsPanel/WBP_Shifts_ScenarioDetailsPanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable",
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/ScenarioAssignment_Overlay/WBP_ScenarioPopup.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_Choice/SubWIdgets/WBP_UI_AssignedHeroes.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_Choice/SubWIdgets/WBP_UI_HeroesMobilizing.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_Choice/WBP_UI_Choice_Option.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_Choice/WBP_UI_Choice_Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_HeroTraining/SubWidgets/WBP_HeroTraining_FlightLicense.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_HeroTraining/SubWidgets/WBP_PowerUnlocked_ButtonPrompt.uasset": {
+   "fonts": [],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_HeroTraining/SubWidgets/WBP_ScenarioAssignment_HeroTraining_PowerPreview.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_HeroTraining/WBP_HeroTraining_Choice.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_HeroTraining/WBP_HeroTraining_Reveal.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_HeroTraining/WBP_Power.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_HeroTraining/WBP_ScenarioAssignment_HeroTraining.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/SubWidgets/WBP_UI_HackingOutcomePanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/SubWidgets/WBP_UI_OutcomeCenterPanel.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/SubWidgets/WBP_UI_OutcomeTextPopups.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/WBP_OutcomePopup.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/WBP_OutcomeText.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/WBP_Shifts_Outcome_InjuryOverlay.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/WBP_Shifts_Outcome_Review.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_OutcomeOverlay/WBP_Shifts_Outcome_SuccessChanceBar.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/Shift_Sabotage/WBP_UI_Shift_Sabotage_Base.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Overlays/WBP_EndOfShiftPopup.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/UI/Fonts/Tomorrow/",
+    "/Game/Shared/Shifts/Art/Fonts/Input/",
+    "/Game/Shared/Shifts/Art/Fonts/ChiKareGo/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Tutorial/TutorialComponents/WBP_TutorialOverlay_Temp.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Tutorial/TutorialComponents/WBP_TutorialPlaceholderShift2.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Tutorial/TutorialComponents/WBP_TutorialPopUp_NoConfirm.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Tutorial/TutorialComponents/WBP_UI_Tutorial_StartUp.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Tutorial/Tutorial_Demo_Shift1.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Styles/TS_Shift_Button_Dark.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Styles/TS_Shift_Button_Hacking.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Styles/TS_Shift_OverlayButton_Standard.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Styles/TS_Shift_OverlayButton_StandardWhite.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Styles/TS_Shift_OverlayButton_Standard_Large.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Styles/TS_Shift_PromptButton.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/WBP_HackingCoverup.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/WBP_ShiftCutScenePlayer.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Shifts/Gameplay/Widgets/WBP_ShiftTerminalDetails.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_DragAndPressQTEBase.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Story/Widgets/WBP_CommentarySpeakerWidget.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Story/Widgets/WBP_StoryboardModeNotification.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Barlow/Barlow-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Barlow/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Barlow/Barlow-Black_Font.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Barlow/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat-Variable.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable",
+    "/Game/Shared/UI/Fonts/Montserrat/static/",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BlackItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BoldItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBoldItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLight.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLightItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Italic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Light.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-LightItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-MediumItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBoldItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Thin.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ThinItalic.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat/static/"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraLight.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Light.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-SemiBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Thin.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-ExtraBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Light.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-SemiBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Thin.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Light.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Thin.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraLight.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Light.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-SemiBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Thin.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Black.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Bold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraLight.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Light.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Medium.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Regular.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-SemiBold.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Thin.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Orbitron-Variable.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Orbitron-Variable",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/UI/Fonts/Rajdhani-Variable.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable",
+    "/Game/Shared/UI/Fonts/NotoSans"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Dispatch/Plugins/DispatchSpecialEditionContent/Content/Widgets/WBP_ArtBookBase.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Montserrat-Variable",
+    "/Game/Shared/UI/Fonts/Orbitron-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Engine/Content/EngineFonts/Roboto.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Engine/Content/EngineFonts/RobotoDistanceField.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto",
+    "/Engine/EngineFonts/RobotoDistanceField"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto",
+    "/Engine/EngineFonts/RobotoDistanceField"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk0-WindowsNoEditor.pak:Engine/Content/EngineMaterials/DefaultTextMaterialTranslucent.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto",
+    "/Engine/EngineFonts/RobotoDistanceField"
+   ],
+   "FontObject": false,
+   "SlateFontInfo": false,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/Menus/WBP_DemosMenu.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/Menus/WBP_HackingMenu.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_DebugMenu.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Aktiv_Grotesk_Font",
+    "/Game/Shared/Core/Art/UI/ButtonPrompts/KeyboardMouse/Font_Keycap"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_DebugStoryHUD.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_DebugStoryNodePicker.uasset": {
+   "fonts": [
+    "/Game/Shared/Shifts/Art/Fonts/Roboto_Regular/"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_DebugStoryNodePickerEpisodeFilter.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_LabeledSlider.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_PlayStatsDebug.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_PlayStatsDebugItem.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_ShiftPlaytestGlobalProgressionConfig.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_ShiftPlaytestHeroPowers.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_ShiftPlaytestIndividualPowerCheck.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_ShiftPlaytestSynergyConfig.uasset": {
+   "fonts": [
+    "/Engine/EngineFonts/Roboto"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk18-WindowsNoEditor.pak:Dispatch/Content/Shared/DebugTools/Widgets/WBP_VersionDisplay.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk2-WindowsNoEditor.pak:Dispatch/Plugins/DispatchEp101/Content/Shifts/Gameplay/Widgets/Shift_Tutorial/TutorialComponents/WBP_Tutorial_InitialScreen.uasset": {
+   "fonts": [],
+   "FontObject": false,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  },
+  "pakchunk6-WindowsNoEditor.pak:Dispatch/Plugins/DispatchEp103/Content/Hacking/Widgets/WBP_WaterFlow.uasset": {
+   "fonts": [
+    "/Game/Shared/UI/Fonts/Rajdhani-Variable"
+   ],
+   "FontObject": true,
+   "SlateFontInfo": true,
+   "FontFallback": false
+  }
+ }
+}

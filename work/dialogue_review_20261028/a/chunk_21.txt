@@ -1,0 +1,300 @@
+2100 107:Line:03919252056F40D39FC3B82A5DE13D78 [Robert]
+EN I’ll... never... forgive you.
+AR لن... أسامحك... أبدًا.
+2101 107:Line:4F651999DA4046E3B3007E362FC96767 [Chase]
+EN I’m 20. I can’t fuckin’ buy beer. 
+AR عمري 20. لا يمكنني شراء الجعة اللعينة. 
+2102 107:Line:5E765BC0C01348F0AF6748812536F9F2 [Blonde Blazer]
+EN I’m here for him.
+AR أنا هنا من أجله.
+2103 107:Line:4B3BFFC730634356B9523199E319709C [Blonde Blazer]
+EN I’m not saying you should. I’m just saying you should consider it. |It’s a hundred percent your call.
+AR لا أقول إن عليك فعل ذلك. بل أقول إن عليك التفكير فيه. |القرار لك بالكامل.
+2104 107:Line:129BCBFF3F6649A9A300F3CF0E11796D [Beard Guy]
+EN I’m serious. Any dumbass walkin’ into a trap that fuckin’ stupid should have the plug pulled right now. Just, pillows over faces.
+AR أنا جاد. أي أحمق يقع في فخ بهذا الغباء اللعين يجب فصل أجهزة الإنعاش عنه فورًا. فقط، ضعوا وسائد على وجوههم.
+2105 107:Line:242D947224D74CB38E8AA315CFDED6A7 [Blonde Blazer]
+EN I’m sorry. 
+AR أنا آسفة. 
+2106 107:Line:FCB3DC99845D4D65B5FA05CF37758E18 [Beard Guy]
+EN I’m sorry. It’s my fault. I’ve been distracting you.
+AR أنا آسف. هذا خطئي. كنت أشتت انتباهك.
+2107 107:Line:3670402C0F084F088EA8A94610EF72A2 [Kid Robert]
+EN I’m too old to be crying.
+AR كبرت على البكاء.
+2108 107:Line:3690E4A8F42A43DABECF30F80875DB26 [Young Boy]
+EN I’m too old to be crying.
+AR كبرت على البكاء.
+2109 107:Line:C7D468FD5DB849319428B2793960EB89 [Robert]
+EN I’m worried something like that might just make things worse. 
+AR أخشى أن أمرًا كهذا لن يزيد الأمور إلا سوءًا. 
+2110 107:Line:DFDB9E2EBEAF4931941941F3D6188823 [Robert]
+EN Just gets better and better. 
+AR ما زال الوضع يتحسن ويتحسن. 
+2111 107:Line:22BB368364F5411CAD24C3AA524A6E3F [Malevola]
+EN Just like you cut Coop.
+AR كما فصلت كوب.
+2112 107:Line:27DD66AFB12B42D48F5E1F38F8B53B81 [Malevola]
+EN Just like you cut Sonar.
+AR كما فصلت سونار.
+2113 107:Line:12A208C3C48E4ED2A7AF9D8DAA112F26 [Chase]
+EN Just make it less than twenty dollars |cause I’m not tryin’ to go broke every time you get lonely.
+AR فقط اجعله بأقل من عشرين دولارًا |فلا أريد الإفلاس كلما شعرت بالوحدة.
+2114 107:Line:52579F10906E4BADAB409E459AE13B47 [Golem]
+EN Just me. |But the team is more important than any one of us. |So I won’t stand in the way.
+AR أنا وحدي. |لكن الفريق أهم من أي فرد منا. |لذا لن أقف في الطريق.
+2115 107:Line:07CF063C031A4404A24A2CB2C5A58681 [Chase]
+EN Keep up. 
+AR واكب الحديث. 
+2116 107:Line:11273E79AAA64004BD7ABDDA3845FDAD [Beard Guy]
+EN Kid probably lost someone there. |That’s why he’s been starin’ at that shit all night. |Get him a drink on me.
+AR لعل الفتى فقد أحدًا هناك. |لهذا يحدق في ذلك الشيء طوال الليل. |أحضر له شرابًا على حسابي.
+2117 107:Line:3BD075145C9642EAABD22CDEFE3738A9 [Waterboy]
+EN Kinda. I'll clean it up.
+AR نوعًا ما. سأنظف الفوضى.
+2118 107:Line:76A2EAA063CC4887B6DEBDEDA998DBC0 [Beard Guy]
+EN Let me replace that drink.
+AR دعني أعوضك عن ذلك الشراب.
+2119 107:Line:218A2A605FB74190B04CEB8C965FE282 [Golem]
+EN Let's go guys.
+AR هيا بنا يا رفاق.
+2120 107:Line:D848FA2AF79D46B0B582AE86638781BF [Invisigal]
+EN Like I’m incapable of good.
+AR كأنني عاجزة عن فعل الخير.
+2121 107:Line:3FB8D35E8659452F9A7BA3F90728139F [Flambae]
+EN Like we don't have enough fucking problems.
+AR وكأن مشكلاتنا اللعينة لا تكفينا.
+2122 107:Line:27F12DAA3ED94EDE9B7A11BB9BE90847 [Robert]
+EN Look this is something the Z-team decided, not me. |They took it to a vote.
+AR اسمع، هذا قرار فريق Z، لا قراري. |لقد صوتوا عليه.
+2123 107:Line:1E6A943F63E54C28AA71A6BF614469FB [Robert]
+EN Look, I probably don’t say this enough, but I’m proud of all of you. |How far you’ve come. |A few months ago you wouldn’t’ve been in a room like this |discussing the needs of the Z-Team and if you did, |there’d be a lot more than one broken door.
+AR اسمعوا، ربما لا أقول هذا بما يكفي، لكنني فخور بكم جميعًا. |وبالتقدم الذي أحرزتموه. |قبل بضعة أشهر ما كنتم لتجتمعوا في غرفة كهذه |لمناقشة احتياجات فريق Z، ولو فعلتم |لتحطم أكثر بكثير من باب واحد.
+2124 107:Line:B95D371F80BA46858E14BBF1A431C2C8 [Robert]
+EN Look, you went in knowing the risks. |What you were willing to put on the line to help me.
+AR اسمع، لقد دخلت وأنت تعرف المخاطر. |وما كنت مستعدًا للمخاطرة به لمساعدتي.
+2125 107:Line:3AD5B447BEDE4C6FBD8C5F521AAF9139 [Flambae]
+EN Lot of vomiting this shift...
+AR قيء كثير في هذه المناوبة...
+2126 107:Line:490392396B94480F928AF44BE448187C [Shroud]
+EN Mecha Man. Heroes. Are the past. |With the Pulse, I’ll control this city and restore balance. |I’ll bring order to the chaos.
+AR ميكا مان. والأبطال. أصبحوا من الماضي. |بالنبضة سأسيطر على المدينة وأعيد التوازن. |سأفرض النظام على الفوضى.
+2127 107:Line:1A8A95DDF3E84B7A8BB0DFE5CEE291E3 [Flambae]
+EN Mmmhmm.
+AR هممم، أجل.
+2128 107:Line:3BD3C04CFA1E4D6084157496FB7F8131 [Prism]
+EN More like ankle. Which made him easier to kick--
+AR بل عند كاحله. مما سهل ركله--
+2129 107:Line:293DF4C1E9C4483E803358641B6B5C41 [Invisigal]
+EN My augments conveniently stopped working... |So I signed up for the Phoenix Program the next day... |which gave me the chance to fuck your life up twice.
+AR وبمحض المصادفة توقفت معززاتي عن العمل... |فسجلت في برنامج العنقاء في اليوم التالي... |مما منحني فرصة تخريب حياتك مرتين.
+2130 107:Line:EDA82133FC2840039AA75D335A006369 [Bartender]
+EN Nah, this one’s on me.
+AR لا، هذه على حسابي.
+2131 107:Line:83FA95C9DB5F4BE0A31EB2625C3150B9 [Robert]
+EN Never. I swear.
+AR أبدًا. أقسم.
+2132 107:Line:508679F2CBC949B18C349FF3C7AAE87D [Malevola]
+EN No one here wants to say it’s us or her... but that’s what it is.
+AR لا أحد هنا يريد القول: نحن أو هي... لكن هذا هو الواقع.
+2133 107:Line:3475229A96F5486A9429123552EF9A47 [Punch-Up]
+EN No one threw me out the door Robert.
+AR لم يرم بي أحد عبر الباب يا روبرت.
+2134 107:Line:424E21E14A44425C948FFD323A1CB4ED [Chase]
+EN No shit, kid. I was joking. 
+AR حقًا يا فتى؟ كنت أمزح. 
+2135 107:Line:5751DB1FFB6C4B88BA65EBE48FF2FF17 [Blonde Blazer]
+EN No thank you.
+AR لا، شكرًا.
+2136 107:Line:42796DACD5AC42BD88EC7910CF1D9E68 [Golem]
+EN No. I’ll pay. I’m the one that kicked you.
+AR لا. سأدفع. أنا من ركلك.
+2137 107:Line:9FCB21964D504CF1910FB8C395CA7037 [Robert]
+EN No... no, I don’t think he did. |I don’t know what the right thing would’ve been in this situation. |But I don’t think this was it.
+AR لا... لا، لا أظن أنه فعل. |لا أعرف ماذا كان التصرف الصائب في هذا الموقف. |لكنني لا أظن أن هذا هو الصواب.
+2138 107:Line:40A8A0F63AC946A19527C443A99DF926 [Robert]
+EN None so far. But... I'm sure we'll hear something soon.
+AR لا شيء حتى الآن. لكن... أنا متأكد من أننا سنسمع خبرًا قريبًا.
+2139 107:Line:DB4A4A63F18540ED8CCC079D46E5E6FF [Beard Guy]
+EN Not as far as I was gonna take it, but good on ya kid.  
+AR ليس بقدر ما كنت سأفعل، لكن أحسنت يا فتى.  
+2140 107:Line:174F8A1701124438BF223C3215F21752 [Malevola]
+EN Not so tough with her bees in another dimension.
+AR ليست بتلك القوة ونحلها في بعد آخر.
+2141 107:Line:24E6943D33A3493482AA7A820892591A [Flambae]
+EN Not talking about it won't make it go away. Okay? These fucking babies.
+AR عدم الكلام عن الأمر لن يزيله. حسنًا؟ هؤلاء الأطفال اللعينون.
+2142 107:Line:4249608C527C4361B632FC2711D4FE68 [Shroud]
+EN Now that’s a fuckin’ superhero. Chills. Top notch.
+AR هذا بطل خارق بحق، اللعنة. قشعريرة. من الطراز الأول.
+2143 107:Line:3B33BFA4BA5D48F0893BBC2A9446F1C2 [Toxic]
+EN Now!
+AR الآن!
+2144 107:Line:349A1E20B01446718A9AD712D07FD737 [Robert]
+EN Now's our chance to get payback... For Chase.
+AR هذه فرصتنا للانتقام... من أجل تشيس.
+2145 107:Line:0C885D8DA3AD4B23945E060E324A2838 [Shroud]
+EN Now’s not our time, Blazer. But it's coming sooner than you think. |Oh, and by my calculations it was closer to 32%. |But half sounds better.
+AR لم يحن وقتنا يا بليزر. لكنه أقرب مما تظنين. |آه، وحسب حساباتي كانت النسبة أقرب إلى 32%. |لكن النصف يبدو أفضل.
+2146 107:Line:254D604B9B4D463EAC44ABEAED0A7392 [Coupe]
+EN Of course.
+AR بالطبع.
+2147 107:Line:ACC56A1419184F94B295829BC7810802 [Blonde Blazer]
+EN Of course.
+AR بالطبع.
+2148 107:Line:524AD4C314EB44CB880302B6FEB6F848 [Bartender]
+EN Oh man have you seen what the poison does to their faces? They get all red and puffy--
+AR يا رجل، هل رأيت ما يفعله السم بوجوههم؟ تحمر وتنتفخ--
+2149 107:Line:59F167FADED24F13B6E8569690E00496 [Robert]
+EN Oh my God. Are you concussed? |Are you gaslighting me? I just saw you fall--
+AR يا إلهي. هل أصبت بارتجاج؟ |أتحاول إقناعي بأنني أتوهم؟ رأيتك تسقط للتو--
+2150 107:Line:280F9356B99E4C44A50CC18A2421C9E1 [Prism]
+EN Oh shit, sorry.
+AR آه تبًا، آسفة.
+2151 107:Line:5C87129BA97A483A8F0816B6B20B7718 [Punch-Up]
+EN Oh shite, I know this guy! He used to have more hair.
+AR آه تبًا، أعرف هذا الرجل! كان لديه شعر أكثر.
+2152 107:Line:08373CB7497E464E99622050C2B3AD00 [Waterboy]
+EN Oh uh, I-- Okay sure I'll go get... counseled?
+AR آه، أنا-- حسنًا، بالتأكيد، سأذهب لتلقي... الإرشاد؟
+2153 107:Line:3ECDDC20E43C4BAD964AD0D296154A54 [Malevola]
+EN Oh yeah, I'll bet therapy's super fucking helpful.
+AR أجل، أراهن أن العلاج النفسي مفيد جدًا، اللعنة.
+2154 107:Line:339D911D74E54B4D9974ABC978BDCC01 [Prism]
+EN Oh, he's a fan alright. Signed his face. That shit burned like hell.
+AR آه، إنه معجب فعلًا. وقعت على وجهه. ذلك الشيء أحرقه كالجحيم.
+2155 107:Line:2926CCCCC5F545E7BB8BBF5580DB47D1 [Punch-Up]
+EN Oh. Cheers, lad. Good lookin’ out.
+AR آه. شكرًا يا فتى. شكرًا لاهتمامك.
+2156 107:Line:CB009EAC58F54EA0A400DA4F17F2F065 [Beard Guy]
+EN Oh. Fuck. I know what’s goin’ on. 
+AR آه. تبًا. أعرف ما الذي يجري. 
+2157 107:Line:0B720193DFBB472493710D8817533108 [Bartender]
+EN Oh. Oh my.
+AR آه. يا للهول.
+2158 107:Line:1D86470F3F174BF68981B2DCF7AD33FE [Robert]
+EN Okay cool. Now that we got all the details clear-- Why?
+AR حسنًا، رائع. بعد أن اتضحت كل التفاصيل-- لماذا؟
+2159 107:Line:015DF86713B144AD932C1FC3DEFF420E [Coupe]
+EN Okay mom. She’s fucking bluffing.
+AR حسنًا يا أمي. إنها تخادع، اللعنة.
+2160 107:Line:3F15437BDEBF4256BEF0CE7856CC0627 [Malevola]
+EN Okay, apparently sarcasm is a defense mechanism.
+AR حسنًا، اتضح أن السخرية آلية دفاع نفسي.
+2161 107:Line:5E925BBB158B455C8E405CFF9D607E7C [Robert]
+EN Okay, listen, we need to play it safe. I don't want anyone else here getting hurt.
+AR حسنًا، اسمعوا، علينا توخي الحذر. لا أريد إصابة أي شخص آخر هنا.
+2162 107:Line:EB275E3B01224DF39A9A95C1DF1841E1 [Bartender]
+EN Okay, now I don’t know what he’s talking about. |Freckles, you mind tellin’ me what’s goin--
+AR حسنًا، لا أفهم الآن ما الذي يتحدث عنه. |يا نمش، هل تخبرينني ماذا يحـ--
+2163 107:Line:3FB80185EC1647FD958F6BBCE7A6C6BE [Ramirez]
+EN Okay, so, we've got a super down here who controls bugs. Apparently they have beef with one of our farmers using pesticides. It's getting real biblical down here.
+AR حسنًا، لدينا هنا صاحبة قوى تتحكم بالحشرات. يبدو أنها ناقمة على أحد مزارعينا لاستخدامه المبيدات. الوضع هنا أشبه بالطوفان والجراد.
+2164 107:Line:0BCBE0ABA7A34DBD875D734D1B4A8138 [Robert]
+EN Okay, team. Good shift all things considered. |See you tomorrow. Hopefully with some good news.
+AR حسنًا يا فريق. كانت مناوبة جيدة بالنظر إلى الظروف. |أراكم غدًا. وآمل أن نحمل أخبارًا جيدة.
+2165 107:Line:5525E65FBCA942DAA3931A95027A2FDD [Shroud]
+EN Okay, we’re out of here. |Take your piss soaked pants out the back please. |Don't wanna tempt this tiger.
+AR حسنًا، سنغادر. |خذ سروالك المبلل بالبول واخرج من الخلف، رجاء. |لا نريد استفزاز هذا النمر.
+2166 107:Line:087B19932FA34A1F9D5A6BC6B321AF3D [Robert]
+EN Okay, who's gonna pay for this?
+AR حسنًا، من سيدفع ثمن هذا؟
+2167 107:Line:D8478B05271343D5B398BB25BDDCF7C0 [Invisigal]
+EN Okay. Sorry for... fucking your life up again. 
+AR حسنًا. آسفة لأنني... خربت حياتك مجددًا. 
+2168 107:Line:9792CAB74D844B07834CA6BD1BFFA5ED [Blazer]
+EN Or I could just say it was Invisigal?
+AR أو يمكنني القول إنها إنفيزيغال؟
+2169 107:Line:2D1BE3383F0A49DE9A156518B2C973D6 [Blonde Blazer]
+EN Or half of you can die here.
+AR أو يموت نصفكم هنا.
+2170 107:Line:E7D249DF84B44FD49C006829AD211D48 [Blazer]
+EN Or we could just mention Invisigal?
+AR أو نكتفي بذكر إنفيزيغال؟
+2171 107:Line:21885AEF6B6F4B03A756B60419C14148 [Blonde Blazer]
+EN Pending the investigation, Invisigal’s suspended, obviously, but... |I think you should consider cutting her from the team.
+AR إنفيزيغال موقوفة لحين انتهاء التحقيق بالطبع، لكن... |أظن أن عليك التفكير في فصلها من الفريق.
+2172 107:Line:5F4F1BFF8CD242FEA8AEF46F354D02CB [Phenomaman]
+EN Phenomenal.
+AR مذهل.
+2173 107:Line:1D47B56AA1164669BC592C39D8D96809 [Punch Up]
+EN Poor lad, he's lost a friend. I can relate.
+AR مسكين، فقد صديقًا. أفهم شعوره.
+2174 107:Line:3D3E4DCD160443E59D4EE17364C6BC7F [Blazer]
+EN Press have a story that an SDN hero got hurt last night 
+AR وصل إلى الصحافة خبر أن بطلًا من SDN أُصيب الليلة الماضية 
+2175 107:Line:316C8545D9484121869D6347A829E0A7 [Robert]
+EN Punch Up. Who threw you out the door?
+AR بانش أب. من رماك عبر الباب؟
+2176 107:Line:9CD2B2C58C124E1CB5085BEF04FBC8A4 [Kid Robert]
+EN Really? When? 
+AR حقًا؟ متى؟ 
+2177 107:Line:51E6F3EFC314438A8E0167B6EB0CC3CF [Galen]
+EN Red Ring's coordinating strikes across Torrance. Looks like they're hitting the port next.
+AR تنسق الحلقة الحمراء هجمات في أنحاء تورانس. يبدو أن الميناء هدفهم التالي.
+2178 107:Line:E070712183DD43BA9403F3E757E30CC6 [Chase]
+EN Right yeah. Yes. That is what we smoke... |fine, but don’t share it with your dad. 
+AR صحيح، أجل. نعم. هذا ما ندخنه... |حسنًا، لكن لا تشاركه مع أبيك. 
+2179 107:Line:3D5253317F054FF7B63EEEBCAAFCAA45 [Robert]
+EN Right, definitely don't mention that part, but uh... Can you go talk to him?
+AR صحيح، بالتأكيد لا تذكر هذا الجزء، لكن، آه... هل يمكنك التحدث إليه؟
+2180 107:Line:25ACAED5F9884C19AE20FFA1F4DFC4AF [Robert]
+EN Right, it’s a door and I doubt you were actually in his face--
+AR صحيح، إنه باب، وأشك في أنك كنت في وجهه فعلًا--
+2181 107:Line:426A9FF6A37C4150AB099FBE2D5FAB4E [Blonde Blazer]
+EN Right... |so maybe one less store run for bitch ass Robert |and he wouldn’t be stuck in here? |That’s what you’re saying, right?
+AR حسنًا... |أي لو ركض مرة أقل إلى المتجر من أجل روبرت الحقير |لما كان عالقًا هنا؟ |هذا ما تقوله، صحيح؟
+2182 107:Line:0257966C271E480DA038A76F859E9040 [Punch-Up]
+EN Robbie, he's alright. Guess his ex-wife got the dog in the divorce and he's throwing a little tantrum. Managed to talk him down, shouldn't be a problem anymore.
+AR روبي، إنه بخير. يبدو أن زوجته السابقة أخذت الكلب عند الطلاق، فثارت ثائرته قليلًا. أقنعته بالهدوء، ولن يسبب مشكلة بعد الآن.
+2183 107:Line:55466E1F65EF41BC94E099E5EF6E5015 [Sonar]
+EN Robert, I'm literally a professional bullshitter.
+AR روبرت، أنا محترف في الهراء حرفيًا.
+2184 107:Line:28255A6B8BFD4F0E809EAF3370D8181E [Robert]
+EN See, when the pain’s constant, it’s easier to get used to. |That goes for physical and emotional. |Really is nice up here. |Thank you. |Don’t remember if I thanked you before but--
+AR حين يكون الألم مستمرًا، يسهل الاعتياد عليه. |ينطبق ذلك على الجسدي والنفسي. |المكان جميل هنا فعلًا. |شكرًا لك. |لا أذكر إن كنت شكرتك من قبل، لكن--
+2185 107:Line:7E13D5C39ED54CEFA5F379A63F6811D2 [Blazer]
+EN She cut you pretty bad.
+AR جرحتك بشدة.
+2186 107:Line:140EE85191664B49BF7A3699421553E6 [Robert]
+EN She didn’t... get the Pulse.
+AR إنها لم... تحصل على النبضة.
+2187 107:Line:482E1B527C3C4DE9972B7606B9C2AB70 [Shroud]
+EN She played you too. |Here I am thinking she’s working with you, but she’s fucking us both. |She didn’t take it for you, she took it for herself.
+AR خدعتك أنت أيضًا. |وأنا أظنها تعمل معك، لكنها تعبث بنا معًا. |لم تأخذها لأجلك، بل أخذتها لنفسها.
+2188 107:Line:BF9C780A292C4939904B1DF62A2E6DDD [Robert]
+EN She really fucked this up, didn’t she?
+AR لقد أفسدت الأمر تمامًا، أليس كذلك؟
+2189 107:Line:420561FFBDA0482992C170E3A2E1327D [Waterboy]
+EN She shouldn'ta done what she did. |I think she should go sir... Boss... Robert.
+AR ما كان ينبغي أن تفعل ما فعلته. |أرى أن عليها الرحيل يا سيدي... رئيس... روبرت.
+2190 107:Line:3183E1080DD74009B0FDDDEE98040509 [Blazer]
+EN She was pretty messed up when we got to her.
+AR كانت حالتها مزرية حين وصلنا إليها.
+2191 107:Line:41601B7975A64AE29DB818CFD3939865 [Robert]
+EN She’s planning something... just don’t know what.
+AR إنها تخطط لشيء... لا أعرف ما هو.
+2192 107:Line:1DCACA056902482B9D07ED59D07066D3 [Sonar]
+EN Shit, sorry Robbie. I zoned out there for a second.
+AR تبًا، آسف يا روبي. شردت للحظة.
+2193 107:Line:F17534AA2188490EBC7721EC6068FDF4 [Robert]
+EN Should’ve kept in touch but... |but for a long time seeing him reminded me that my dad was gone.
+AR كان علي البقاء على تواصل، لكن... |رؤيته كانت تذكرني طويلًا بأن أبي رحل.
+2194 107:Line:36BC5AFCDB134BCFB2C1D2904C19BBC1 [Blazer]
+EN So it wouldn't be a lie.
+AR إذًا لن يكون ذلك كذبًا.
+2195 107:Line:5699EF660B884856819C67D3DCBB282A [Robert]
+EN So now there's more water. Got it. Great.
+AR إذًا زادت المياه الآن. فهمت. عظيم.
+2196 107:Line:0BFBFB7F1FAA4C79A9B83852001EA8EB [Robert]
+EN So, I’m not putting all of that at risk for one person who can’t keep up. |I’ve done my best to salvage things and work with her but |as you know, this isn’t the first time Invisigal has put us at risk, |but it’ll be the last. |I’ll let Blazer know of your decision, |and I’ll let her know I support it.
+AR لذا لن أعرض كل هذا للخطر من أجل شخص لا يستطيع مجاراتنا. |بذلت جهدي لإنقاذ الوضع والعمل معها، لكن |كما تعرف، ليست هذه أول مرة تعرضنا إنفيزيغال للخطر، |لكنها ستكون الأخيرة. |سأبلغ بليزر بقرارك، |وسأخبرها أنني أؤيده.
+2197 107:Line:49B08C42698343C7870ABEC712E6BFE5 [Blonde Blazer]
+EN So, all of you can leave now... 
+AR إذًا يمكنكم جميعًا الرحيل الآن... 
+2198 107:Line:4B995EBE3AA84BB3B3BD055868D9EE51 [Robert]
+EN So, let’s get to work.
+AR إذًا لنبدأ العمل.
+2199 107:Line:300E3EAF79FC4ED8963F4C939F69B694 [Robert]
+EN Sonar, stick to the talking points.
+AR سونار، التزم بالنقاط المتفق عليها.

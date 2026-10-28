@@ -1,0 +1,3 @@
+ASSET C:\Dispatch_AR\reports\rtl_research\DT_SubtitlesProtoRichText.json
+EXPORT 1 DT_SubtitlesProtoRichText /Script/Engine:DataTable
+ PROPERTY RowStruct -11

@@ -1,0 +1,163 @@
+{
+  "status": "BOUNDED READ-ONLY NAMING AUDIT",
+  "scope": "13 saved target pairs; 17 core names plus Coupe/Phanomaman spelling variants; PunchUp and Punch-up included. Exact names only, no broad noun substitutions.",
+  "findings": [],
+  "core_name_checks": {
+    "Coupé": 23,
+    "Phenomaman": 79,
+    "Punch Up": 35,
+    "Blonde Blazer": 42,
+    "Flambae": 66,
+    "Mecha Man": 83,
+    "Shroud": 70,
+    "Chase": 55,
+    "Vanderstenker": 4,
+    "Granny": 22,
+    "Sonar": 134,
+    "Royd": 32,
+    "Invisigal": 103,
+    "Golem": 38,
+    "Malevola": 34,
+    "Prism": 15,
+    "Waterboy": 69,
+    "Coupe": 57,
+    "Phanomaman": 1
+  },
+  "checks_total": 962,
+  "targets": {
+    "101": {
+      "saved_records": 797,
+      "core_name_checks": 63
+    },
+    "102": {
+      "saved_records": 2192,
+      "core_name_checks": 122
+    },
+    "103": {
+      "saved_records": 1254,
+      "core_name_checks": 88
+    },
+    "104": {
+      "saved_records": 1722,
+      "core_name_checks": 129
+    },
+    "105": {
+      "saved_records": 1098,
+      "core_name_checks": 44
+    },
+    "106": {
+      "saved_records": 865,
+      "core_name_checks": 90
+    },
+    "107": {
+      "saved_records": 684,
+      "core_name_checks": 62
+    },
+    "108": {
+      "saved_records": 2116,
+      "core_name_checks": 291
+    },
+    "OnlineSubsystem": {
+      "saved_records": 24,
+      "core_name_checks": 0
+    },
+    "OnlineSubsystemSteam": {
+      "saved_records": 2,
+      "core_name_checks": 0
+    },
+    "OnlineSubsystemUtils": {
+      "saved_records": 20,
+      "core_name_checks": 0
+    },
+    "OtherContent": {
+      "saved_records": 50,
+      "core_name_checks": 0
+    },
+    "Shared": {
+      "saved_records": 1685,
+      "core_name_checks": 73
+    }
+  },
+  "excluded_candidates": [
+    {
+      "target": "101",
+      "index": 668,
+      "en": "Chase El Diablito!",
+      "ar": "طارد إل ديابليتو!",
+      "suggested_name": "تشيس",
+      "excluded_reason": "Common verb/noun chase, not character Chase."
+    },
+    {
+      "target": "101",
+      "index": 690,
+      "en": "High Speed Chase!",
+      "ar": "مطاردة عالية السرعة!",
+      "suggested_name": "تشيس",
+      "excluded_reason": "Common verb/noun chase, not character Chase."
+    },
+    {
+      "target": "102",
+      "index": 7,
+      "en": "\"I'm a high ranking Vanderstenker. It would mean a lot.\"",
+      "ar": "\"أنا فاندستنكر رفيع الرتبة. سيعني لي ذلك الكثير.\"",
+      "suggested_name": "فاندستنكرز",
+      "excluded_reason": "Singular member of fan club rendered فاندستنكر; plural collective فاندستنكرز. Not a spelling inconsistency."
+    },
+    {
+      "target": "102",
+      "index": 864,
+      "en": "I'm a high ranking Vanderstenker. It would mean a lot.",
+      "ar": "أنا فاندستنكر رفيع الرتبة. سيعني لي ذلك الكثير.",
+      "suggested_name": "فاندستنكرز",
+      "excluded_reason": "Singular member of fan club rendered فاندستنكر; plural collective فاندستنكرز. Not a spelling inconsistency."
+    },
+    {
+      "target": "108",
+      "index": 1938,
+      "en": "• ^Chase^ after the helicopter",
+      "ar": "• ^طارد^ المروحية",
+      "suggested_name": "تشيس",
+      "excluded_reason": "Common verb/noun chase, not character Chase."
+    },
+    {
+      "target": "Shared",
+      "index": 664,
+      "en": "SONAR.XLSX",
+      "ar": "SONAR.XLSX",
+      "suggested_name": "سونار",
+      "excluded_reason": "Exact technical filename retained."
+    }
+  ],
+  "granny_check": {
+    "matched_records": 22,
+    "canonical_granny_records": 22,
+    "mistranslated_as_grandmother": [],
+    "context_evidence": [
+      {
+        "target": "102",
+        "index": 621,
+        "en": "Granny doesn’t even know how to shoot that thing. |Take out the thief first. |He’s the only one with his finger on a trigger.",
+        "ar": "غراني لا يعرف حتى كيف يطلق النار بهذا الشيء. |حيّدي اللص أولا. |إنه الوحيد الذي يضع إصبعه على الزناد."
+      },
+      {
+        "target": "102",
+        "index": 622,
+        "en": "Granny is alive. Thank Christ. |I didn’t want to have to lip this guy. |So, can I go now?",
+        "ar": "غراني حي. الحمد لله. |لم أرد أن أضطر لتقبيل هذا الرجل. |إذن، هل يمكنني الذهاب الآن؟"
+      },
+      {
+        "target": "102",
+        "index": 623,
+        "en": "Granny would be fine if Granny didn’t pick that fuckin' thing up in the first place. |He’s just some dumbass trying to be a hero--| and don’t fuckin' say it. I know where you’re going.",
+        "ar": "لكان غراني بخير لو لم يلتقط ذلك الشيء اللعين أصلا. |إنه مجرد أحمق يحاول أن يكون بطلا--| وإياك أن تقولها. أعرف إلى أين تتجه."
+      },
+      {
+        "target": "102",
+        "index": 1282,
+        "en": "Okay, disarm Granny before that thing blows his face off. |It looks super unstable. ",
+        "ar": "حسنا، انزعي سلاح غراني قبل أن يفجر وجهه. |يبدو غير مستقر إطلاقا. "
+      }
+    ]
+  },
+  "limitations": "No literary review, semantic coverage review or runtime acceptance. No translation shard changed and no game launched."
+}

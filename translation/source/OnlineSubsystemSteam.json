@@ -1,0 +1,34 @@
+[
+  {
+    "id": "OnlineSubsystemSteam:NetworkErrors:HostClosedConnection",
+    "index": 0,
+    "target": "OnlineSubsystemSteam",
+    "namespace": "NetworkErrors",
+    "key": "HostClosedConnection",
+    "source_hash": 1998898636,
+    "source_file": "Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en/OnlineSubsystemSteam.locres",
+    "context": [],
+    "speaker": "",
+    "category": "System Messages",
+    "en": "Host closed the connection.",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  },
+  {
+    "id": "OnlineSubsystemSteam:OnlineSubsystemSteam:OnlineServiceName",
+    "index": 1,
+    "target": "OnlineSubsystemSteam",
+    "namespace": "OnlineSubsystemSteam",
+    "key": "OnlineServiceName",
+    "source_hash": 468301321,
+    "source_file": "Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en/OnlineSubsystemSteam.locres",
+    "context": [],
+    "speaker": "",
+    "category": "System Messages",
+    "en": "Steam",
+    "ar": "",
+    "status": "TODO",
+    "notes": ""
+  }
+]

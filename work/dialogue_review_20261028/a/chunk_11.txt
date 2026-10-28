@@ -1,0 +1,300 @@
+1100 104:Line:49BDA9ED8C9647D38EEF2716C5256E2D [Flambae]
+EN I'm picking up what you're putting down.
+AR أفهم ما ترمي إليه.
+1101 104:Line:41853BD1834B4238AF96F85CDB0AA27D [Waterboy]
+EN I'm puffing out my chest, can you tell? No? Heh. Ow.
+AR أنفخ صدري، أتلاحظ؟ لا؟ هه. آخ.
+1102 104:Line:23B58CEF3FD84D2D88D3DE185EBD4111 [Waterboy]
+EN I'm so tired.
+AR أنا متعب جدا.
+1103 104:Line:221AE984B0184F498695760580291761 [Waterboy]
+EN I'm sorry.
+AR أنا آسف.
+1104 104:Line:2811A1F36DFF4F8BB0CFD82D88C66C6A [Waterboy]
+EN I'm strong. I think. Right?
+AR أنا قوي. أظن. صحيح؟
+1105 104:Line:53F2B3F6D3244BB08119100FB1C5883B [Flambae]
+EN I'm the guy for it, but you know, do you.
+AR أنا الأنسب، لكن افعل ما تراه.
+1106 104:Line:1999B728E3C94220B55F1A9BDC247BC9 [Robert]
+EN I'm well aware.
+AR أعلم جيدا.
+1107 104:Line:3FF17BED9DA74BF5BED1B1FA73B262CB [Sonar]
+EN I've always wanted to join a cult. For, uh, research purposes.
+AR لطالما أردت الانضمام لطائفة. لأغراض بحثية طبعا.
+1108 104:Line:0250B863393E4040B95A620244D165CA [Sonar]
+EN I've always wanted x-ray vision...
+AR لطالما أردت الرؤية بالأشعة السينية...
+1109 104:Line:4E3D5B3503884438A9657DA2D7F4FE66 [Blazer]
+EN I've been hearing a lot about some guy named Chad... I think he's trying to summon a demon?
+AR أسمع كثيرا عن شخص اسمه تشاد... أظنه يحاول استدعاء شيطان؟
+1110 104:Line:4B01F04E1C854619B52BC418703C85F6 [Natalie]
+EN I've got a GREAT opportunity to show the sweeter side of your ex-criminal crew at SDN...
+AR لدي فرصة رائعة لإظهار الجانب اللطيف من طاقم مجرميكم السابقين في SDN...
+1111 104:Line:11C20482EB58478BB919FC5A72517C89 [Phenomaman]
+EN I've heard people say, "it's always five o'clock somewhere," but is that true?
+AR سمعت الناس يقولون "الساعة الخامسة دائما في مكان ما"، لكن هل هذا صحيح؟
+1112 104:Line:309983EB66664D41825234FA87C65FBC [Robert]
+EN I've never not done this in a fight, Royd.
+AR لم أخض شجارا دون فعل هذا قط يا رويد.
+1113 104:Line:5C2F05ACEFF3418083797B942D15BB6F [Waterboy]
+EN I-I am a mighty- powerful uh, strong sponge!
+AR أ-أنا إسفنجة جبارة، قوية آه، متينة!
+1114 104:Line:2583C8A188C3487284A5F6459076E1AC [Waterboy]
+EN I-I am sweating in a way that is... more.
+AR أ-أنا أتعرق بطريقة... أكثر.
+1115 104:Line:35D86FD1FCBA483E94D9DE9A5570F489 [Waterboy]
+EN I-I can handle this. No really! I promise!
+AR أ-أستطيع تولي الأمر. حقا! أعدك!
+1116 104:Line:0639EE30772A4AFBB6FAFFEF3E52D92B [Waterboy]
+EN I-I don't m-mind being a j-janitor, but I always w-wanted to be a h-h-hero...
+AR ل-لا أمانع أ-أن أكون عامل ن-نظافة، لكنني لطالما أردت أن أكون ب-ب-بطلا...
+1117 104:Line:AFB4EB35486C41AB8DF456A23383F805 [Waterboy]
+EN I-I don’t read things-- sometimes it’s different-- |like a logo-- B-but it’s probably still goo--
+AR أ-أنا لا أقرأ الأشياء-- أحيانا تكون مختلفة-- |كالشعار-- ل-لكن غالبا ما زال صا--
+1118 104:Line:259874A471554305869B382177A64C16 [Waterboy]
+EN I-I took a semester of c-c-chiropterology in school. B-bats are magnificent creatures.
+AR د-درست فصلا في ع-ع-علم الخفافيش. ا-الخفافيش كائنات رائعة.
+1119 104:Line:06D1B81554134EBC83EBE39CA9607DDC [Waterboy]
+EN I-I'm on it! No stopping me this time!
+AR أ-أنا قادم! لا شيء سيوقفني هذه المرة!
+1120 104:Line:5AEF16FD16D24106A3E2E501443861D1 [Waterboy]
+EN I-is he gonna yell at me? Because I don't do well with yelling.
+AR أ-هل سيصرخ علي؟ لأنني لا أتحمل الصراخ.
+1121 104:Line:23876F76F57646E990987691DA3A8DC2 [Waterboy]
+EN I-it was n-nothing.
+AR ل-لم يكن ش-شيئا.
+1122 104:Line:33FF18C58AFB445E8975AC955CA54E6B [Waterboy]
+EN I-it's rescuing time- now!
+AR ح-حان وقت الإنقاذ-- الآن!
+1123 104:Line:6B9859F87683411E9B8EB375D56E52AE [Robert]
+EN I... have absolutely no idea what’s about to happen, so, this is very exciting.
+AR أنا... لا أعرف إطلاقا ما سيحدث، لذا هذا مثير جدا.
+1124 104:Line:20703FE8365844C08CC5AE50171EB33E [Punch Up]
+EN IS THIS PISS, LAD?
+AR أهذا بول يا فتى؟
+1125 104:Line:3901F108DD8E46D983AAF6DB1FABC866 [Invisigal]
+EN If I’m on the clock you shouldn’t be pegging me with anything, Robert. |That’s extremely inappropriate. |Especially since I’m usually the peg-er, not the peg-ee.
+AR ما دمت في الدوام، لا ينبغي أن تقذفني بشيء يا روبرت. |هذا غير لائق إطلاقا. |خصوصا أنني عادة من يخترق الآخرين، لا من يخترقونه.
+1126 104:Line:476FDBB9F20B49729B47BE7607CAEB26 [Blazer]
+EN If anyone needs some more hands-on training, I'll be in the gym until the end of the shift.
+AR إن احتاج أحد إلى مزيد من التدريب العملي، سأكون في الصالة حتى نهاية المناوبة.
+1127 104:Line:C82BA84E681C48918A5867D19B8D8E47 [Phenomaman]
+EN If it would make you more comfortable, I could remove my clothes as well.
+AR إن كان ذلك يريحك، يمكنني نزع ملابسي أيضا.
+1128 104:Line:AA5B9ABC09764EBF929DD90C75041A58 [Flambae]
+EN If it’s in my hair, |I’m going to fucking kill you. 
+AR إن وصل إلى شعري، |فسأقتلك بحق اللعنة. 
+1129 104:Line:300E8D449E124598A507AE4A7C303519 [Phenoma-Man]
+EN If only I were able to...
+AR ليتني أستطيع...
+1130 104:Line:4B7D93F583A44BDCB4A6FB9EF7BAB3AB [Malevola]
+EN If only Sonar was here, considering he actually fucking knows who these assholes all are.
+AR ليت سونار هنا، فهو يعرف فعلا من يكون هؤلاء الأوغاد.
+1131 104:Line:4E13306737664A18BCC7C16F8AC1E245 [Punch Up]
+EN If someone puts a robe on me, they're dead.
+AR من يلبسني رداء، يموت.
+1132 104:Line:4F6B99FC75144B158E84F6C0B21C796B [Phenomaman]
+EN If that is what you wish.
+AR إن كان هذا ما تتمناه.
+1133 104:Line:1BA530F89AB8470D9347BD1255E938A5 [Sonar]
+EN If that's what you want.
+AR إن كان هذا ما تريده.
+1134 104:Line:463DEB05F80A449F8E540B9D88CE43A1 [Flambae]
+EN If they're not flame resistant, I'm dick resistant.
+AR إن لم يقاوما اللهب، فأنا أقاوم القضيب.
+1135 104:Line:0571CB5A74D1430CB98911B7B22BD78B [Flambae]
+EN If this goes south, they can join the Z-Team.
+AR إن فشلت الأمور، يمكنهم الانضمام لفريق Z.
+1136 104:Line:1B2E86FBA70549B5AEEE87CC77B76407 [Sonar]
+EN If you can't drive a Ferrari, you shouldn't own a Ferrari.
+AR إن كنت لا تجيد قيادة فيراري، فلا تشتر واحدة.
+1137 104:Line:0597CDCFBFBE4704BC57A0881438E963 [Blonde Blazer]
+EN If you think it is, it is.
+AR إن ظننت ذلك، فهو كذلك.
+1138 104:Line:1A90B2FD3B3349A483E2C8135EFC6ECA [Robert]
+EN If you’re not gonna be blonde you could’ve at least wore a blazer. 
+AR إن لم تكوني شقراء، كان يمكنك على الأقل ارتداء بليزر. 
+1139 104:Line:109523D28BC1495BAE774A51FB66DDA2 [Phenomaman]
+EN Impossible, something must be wrong with your machinery.
+AR مستحيل، لا بد أن بآلتك خللا.
+1140 104:Line:5BFEAEC483294746847079948E841FCD [Phenomaman]
+EN Impressive, just as expected.
+AR مبهر، كما توقعت.
+1141 104:Line:01C2D3688BF94569958F6741FEB80F1B [Royd]
+EN In da super dupah heavyweight division... da Mecha Man!
+AR وفي فئة الوزن الثقيل الخارق جدا... ميكا مان!
+1142 104:Line:91101F4246754CCC926231EE072A8A83 [Flambae]
+EN In fact-- fuck!
+AR في الواقع-- تبا!
+1143 104:Line:78007003727A4B27AF0E4B9178D97EFF [Flambae]
+EN In factglgaarggpgh--
+AR في الواااغغغ--
+1144 104:Line:0264E1720C9244E58348A0020083DCF4 [Invisigal]
+EN In your dreams.
+AR في أحلامك.
+1145 104:Line:2E94402110874E8392AEB64E3A3C8F11 [Brainteaser]
+EN Incorrect.
+AR خطأ.
+1146 104:Line:21956A005A4B40009416844E59490F80 [Robert]
+EN Interesting. We're not done for the day...
+AR مثير. لم ننته لهذا اليوم...
+1147 104:Line:5401754E64524BD6BF7CCCDC78854A0F [Phenomaman]
+EN Invisigal, as an expert in human sadness, might I inquire as to how it is done properly?
+AR إنفيزيغال، بصفتك خبيرة في الحزن البشري، هل تشرحين كيف يمارس بالطريقة الصحيحة؟
+1148 104:Line:31489FF13FA0495BA29E3705B9E6FB81 [Punch-Up]
+EN Is he broken? 
+AR هل تعطل؟ 
+1149 104:Line:5E9614517CE343F0AF01BAC8B2C97DB0 [Waterboy]
+EN Is it five yet?
+AR أحانت الخامسة؟
+1150 104:Line:34B134E738D246479FA5F2B709AE764E [Phenomaman]
+EN Is my intercom malfunctioning... Can anyone hear me?
+AR هل جهاز الاتصال معطل... هل يسمعني أحد؟
+1151 104:Line:5F781DC25EF648CEAD7E915C9773FA1E [Malevola]
+EN Is one of his powers stating the super obvious?
+AR أمن قواه الخارقة ذكر البديهيات الفاضحة؟
+1152 104:Line:1D8939BD7864411E933A16993B0EC294 [Coupe]
+EN Is that because I suggested a kool-aid poisoning cause that was a joke. Mostly.
+AR أهذا لأنني اقترحت تسميم العصير؟ كانت مزحة. غالبا.
+1153 104:Line:0DFE79B1EAE8403CBEFFDB6F51350F22 [Robert]
+EN Is that surprising?
+AR أهذا مفاجئ؟
+1154 104:Line:384350EEBF364A6B88D53A56D6C3411A [Phenomaman]
+EN Is that what your people call self-care?
+AR أهذا ما يسميه قومك العناية بالنفس؟
+1155 104:Line:3CE4B93EF7304D64A1C8B41B598B2A17 [Robert]
+EN Is that your car?
+AR أهذه سيارتك؟
+1156 104:Line:10E1060ABFEA4B019392E3B9B4445677 [Prism]
+EN Is there a return policy on this motherfucker?
+AR هل يمكن إرجاع ابن الكلب هذا؟
+1157 104:Line:52C9B9CD9BC44E749CF4999A25E81FF6 [Phenomaman]
+EN Is this how long all of your normal breaks are? Fascinating.
+AR أهكذا تطول استراحاتكم العادية؟ مذهل.
+1158 104:Line:506356FCB50541E1AE92DFE1363ED5E9 [Phenoma-Man]
+EN It appears that I have gotten stronger.
+AR يبدو أن قوتي ازدادت.
+1159 104:Line:52A84CE0D7264CBCBF8680CEBFC5FBED [Coupe]
+EN It appears to only be a minor kaiju. Piece of cake.
+AR يبدو أنه مجرد كايجو صغير. سهل للغاية.
+1160 104:Line:03D24D1C929E4C3DB0BA96EF4376673E [Malevola]
+EN It could be worse I guess.
+AR قد يكون أسوأ، على ما أظن.
+1161 104:Line:ED4708AA4B964ED0A01690E63312448E [Robert]
+EN It doesn’t come up a ton, no.
+AR لا يطرح الموضوع كثيرا، لا.
+1162 104:Line:31E792F0456349B891BF5396F9ADCF5E [Coupe]
+EN It is clear that cutting Sonar has left us vulnerable.
+AR من الواضح أن طرد سونار تركنا مكشوفين.
+1163 104:Line:4D072F7354BB427682F66681975B13EB [Phenomaman]
+EN It is fascinating to me that you let even the stupidest among you drive a motor vehicle.
+AR يدهشني أنكم تسمحون حتى لأشدكم غباء بقيادة مركبة آلية.
+1164 104:Line:3E0BE396B96842A6AA0707E107EB91E1 [Phenoma-Man]
+EN It is time to retreat backwards.
+AR حان وقت التراجع للخلف.
+1165 104:Line:50AC15D574184D0587E127BCC181EE4C [Flambae]
+EN It is. The Brits are repressed as fuck.
+AR بلى. البريطانيون مكبوتون بشكل لعين.
+1166 104:Line:25080249FD724E8290A67A208FF950A0 [Blonde Blazer]
+EN It might also help to get, you know, |an actual good person on your team, |which I’m positive both of them are... |they just have other issues... |and Phenoma's an alien, not a person.
+AR وربما يفيد أيضا، كما تعلم، |وجود شخص طيب فعلا في فريقك، |وأنا واثقة أنهما كذلك... |لكن لديهما مشكلات أخرى... |وفينوما فضائي وليس بشرا.
+1167 104:Line:A2043B552586470393640982CA46CAC9 [Robert]
+EN It might be a little tight.
+AR قد يكون ضيقا قليلا.
+1168 104:Line:7E5DF2E49B094358A48A8436A358BD69 [Phenoma-Man]
+EN It seems I have much to learn about people. |Thank you. |You’ve given me a great deal to think about. 
+AR يبدو أن لدي الكثير لأتعلمه عن الناس. |شكرا لك. |أعطيتني الكثير لأفكر فيه. 
+1169 104:Line:C598EEE222F4415EBB20E5AC585D17E4 [Phenoma-Man]
+EN It seems the velocity with which I sat up has shot shards of glass into your chest. 
+AR يبدو أن سرعة اعتدالي قذفت شظايا الزجاج إلى صدرك. 
+1170 104:Line:B190973007EA44AEA4FF1EBA916F0071 [Robert]
+EN It smells very chemically in here.
+AR رائحة الكيماويات قوية هنا.
+1171 104:Line:11C909E5F4FF4FECA4CE5D236CA18118 [Robert]
+EN It was an accident. You don’t have to be a bully about it. |You want this in your report?
+AR كان حادثا. لا داعي للتنمر بسببه. |أتريد إدراج هذا في تقريرك؟
+1172 104:Line:828B5C6233D2409DB9188E8FDF41E241 [Phenomaman]
+EN It was very abrupt. |One moment we were savoring uni straight from the urchin, |the next moment... I’m contemplating flying into the sun, |absorbing all its energy and casting this planet into infinite darkness |so that I never have to see her or anyone else ever again...
+AR حدث فجأة. |لحظة كنا نتذوق البيض من قنفذ البحر مباشرة، |والتالية... أفكر في الطيران إلى الشمس، |وامتصاص طاقتها كلها وإغراق الكوكب في ظلام أبدي |حتى لا أراها أو أرى أي شخص مجددا...
+1173 104:Line:5125140208AF47B4A25E7E03858CDFD6 [Coupe]
+EN It will be done.
+AR سينفذ.
+1174 104:Line:A97CE0BE5D034A968C889BC14FBE44FD [Robert]
+EN It would not. |Look, if this is about picking you for Z-Team, wasn’t even a hard decis--
+AR لن يفعل. |اسمع، إن كان هذا بشأن اختيارك لفريق Z، فلم يكن القرار صعـ--
+1175 104:Line:28CC527117264E1B8C04897C75E4BCCF [Golem]
+EN It's chill.
+AR لا بأس.
+1176 104:Line:1E96461A2B394882B14A80A87612D4CF [Robert]
+EN It's fine.
+AR لا بأس.
+1177 104:Line:20D50B7717CD4A4BAF55A763696F3B47 [Coupe]
+EN It's handled.
+AR تمت معالجته.
+1178 104:Line:1188A3427F2846749829A116515FB14D [Phenomaman]
+EN It's just so painful in my heart area.
+AR إنه مؤلم جدا في منطقة قلبي.
+1179 104:Line:426B229CE1CC43928B7E752B946B0F7C [Blonde Blazer]
+EN It's not mine by the way. |They make me wear it then it’s back in a bag by midnight-
+AR ليس ملكي بالمناسبة. |يجعلونني أرتديه ثم يعود إلى حقيبة عند منتصف الليل--
+1180 104:Line:297F6C00E9324D7B8C348EDEF3EE403C [Mo]
+EN It's third and seven in the UCT red zone and tensions have boiled over into a full on fist fight.
+AR إنها المحاولة الثالثة مع تبقي سبع ياردات في المنطقة الحمراء لـUCT، وقد تفجر التوتر في عراك بالأيدي.
+1181 104:Line:505A67127BAF41589D7D6BD5C19660FC [James]
+EN It's time for Phil's walk. What? No, Phil's my dog. Can you just like walk him around the park?
+AR حان وقت تمشية فيل. ماذا؟ لا، فيل كلبي. أيمكنكم تمشيته في الحديقة؟
+1182 104:Line:48856115A16B48CABE5B77C77305E133 [Sonar]
+EN It's weird that Coop's gone.
+AR غريب أن كوب رحلت.
+1183 104:Line:37861F131D574194B36E260D8D329EA5 [Invisigal]
+EN It's your call.
+AR القرار لك.
+1184 104:Line:0E81BDEDE4F44BFAAA793B61CAB05871 [Waterboy]
+EN It-it's sponging time!
+AR ح-حان وقت الامتصاص!
+1185 104:Line:7E9F5712857A49CF91B741B53A9ADEE4 [Blonde Blazer]
+EN It’s a big difference!
+AR إنه فرق كبير!
+1186 104:Line:1CB7F4F95D5C40E5A0D654DC422E41A2 [Invisigal]
+EN It’s against the law for you to be watching like this. 
+AR مشاهدتك هكذا مخالفة للقانون. 
+1187 104:Line:3EA73CF5A9304BA1A3EF2A9A8F9AE8B9 [Blonde Blazer]
+EN It’s all Michelin stars when you’re on a date with me.
+AR كلها نجوم ميشلان حين تخرج في موعد معي.
+1188 104:Line:94D01204676041F8A557ED3A139399E5 [Robert]
+EN It’s, uh, it's not. What were you saying?
+AR إنه، آه، ليس كذلك. ماذا كنت تقولين؟
+1189 104:Line:CBF9C6C8DF7A4BB797C3A9E71EECD8D7 [Waterboy]
+EN It’s-- I know. I know. |My apologies.
+AR إنه-- أعرف. أعرف. |أعتذر.
+1190 104:Line:7329111916D54B41A8BFB2F9CF997C35 [Blonde Blazer]
+EN I’d like for you to talk to him. 
+AR أود أن تتحدث إليه. 
+1191 104:Line:22FDE6FA9CA64677BAB2B9C14D4AD247 [Blonde Blazer]
+EN I’ll let him know. You’ll see him in the roster for your next dispatch.
+AR سأخبره. ستراه في القائمة عند إرسال فريقك التالي.
+1192 104:Line:41FD3CDA29CB484DB0B547434AE953CA [Blonde Blazer]
+EN I’ll let him know. You’ll see him in the roster for your next dispatch.
+AR سأخبره. ستراه في القائمة عند إرسال فريقك التالي.
+1193 104:Line:3C7BA3D53CC949729D3D8B5722C53BE9 [Robert]
+EN I’ll take a little bit.
+AR سآخذ القليل.
+1194 104:Line:ABAED6BAD076486A87BA56898292EDE5 [Invisigal]
+EN I’m a loner, Robbie. A rebel. |That and I feel bad asking people to pay when I’m just gonna sneak in. |The only lame thing is I can’t get snacks.
+AR أنا وحيدة يا روبي. متمردة. |وأشعر بالذنب لو طلبت من أحد الدفع وأنا سأتسلل. |العيب الوحيد أنني لا أستطيع جلب وجبات خفيفة.
+1195 104:Line:384564AE949B4E72AEDE62BE1C5387C2 [Blonde Blazer]
+EN I’m both in shock and really unsure what to do with this information.
+AR أنا مصدومة ولا أعرف إطلاقا ماذا أفعل بهذه المعلومات.
+1196 104:Line:4EB2307D4EDB4CFA83F95EBE980B08C1 [Invisigal]
+EN I’m doing that thing where I imagine being with someone, you know? |See how it feels, how it looks. |You know, like, trying on a dress...
+AR أفعل ذلك الشيء، أتخيل نفسي مع شخص، تفهم؟ |لأرى كيف يبدو وما شعوري. |مثل تجربة فستان...
+1197 104:Line:5B713D52A3FC4806A11A4328B0E075AB [Blonde Blazer]
+EN I’m just saying, it’s a look I could pull off.
+AR أقول فقط إن هذه الإطلالة تناسبني.
+1198 104:Line:7745F02F63364E54B10FC2EEBAA8D01C [Robert]
+EN I’m sorry.
+AR أنا آسف.
+1199 104:Line:550397CA03D84719A5074FD00724D214 [Robert]
+EN I’ve been there. |Last time I went through a breakup I drank mezcal ’til I blacked out. |When I came to, I was in a dark void surrounded by the smell of rot |and I was convinced I’d died and turned into a zombie. |Turns out I passed out at a urinal and somebody threw me in a dumpster. 
+AR مررت بهذا. |آخر انفصال لي، شربت ميزكال حتى فقدت الوعي. |أفقت في فراغ مظلم تحيط بي رائحة العفن |وكنت مقتنعا أنني مت وتحولت لزومبي. |اتضح أنني أغمي علي عند مبولة ورماني أحدهم في حاوية قمامة. 

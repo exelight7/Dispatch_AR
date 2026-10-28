@@ -1,0 +1,3644 @@
+[
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultDeviceProfiles.ini",
+    "size": 2921,
+    "sha256": "db6826a53c9e1116d937a893d0955e3be1016c82d2de30c14297b393b8668395"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultEngine.ini",
+    "size": 32370,
+    "sha256": "d1309637510694b627e7cfee204e9987b5afaa44fd5f7226ce28fef2a2f22dbd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultEngine_Default.ini",
+    "size": 28755,
+    "sha256": "affde6c6f0e85bde413091f7f9bcd7acac812478cc0d2e155895169e5cc483d3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultEngine_EGS.ini",
+    "size": 29897,
+    "sha256": "f7d999bfe34870d98d3cd601a66fca0245779a470f556e9ad34b2f952b3b3f28"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultEngine_Luna.ini",
+    "size": 28756,
+    "sha256": "6f1c4ea6b264d1ea3ade00765dc21e2cd8b09fefd267b25f1887d1b5a4bf6ce8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultGame.ini",
+    "size": 25945,
+    "sha256": "3d83c83326bc2ce73eb57a289b9243ca803b76e5ed9aa423715bc4f4f4ada6c7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultGameUserSettings.ini",
+    "size": 58,
+    "sha256": "c443ff5ac8b28e99d0371d9208e33047723027d10945b6d710bfadfcce2afbb4"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultGameplayTags.ini",
+    "size": 4681,
+    "sha256": "e2437a8b0c69033baedcc1f5fde8bf17d3de990daba737ff8f3ec5270b93e7b5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultInput.ini",
+    "size": 18594,
+    "sha256": "e29f0754fa78a7592f0eed99f451b4a85fed3db20cb3c19432ddaeff24c139a0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultPakFileRules_Default.ini",
+    "size": 12648,
+    "sha256": "d363e8e96f4ee31142c417516ae68960adfac9178ffe48fb94eb44dda9a2b875"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultPakFileRules_EGS.ini",
+    "size": 5790,
+    "sha256": "8d7cb7059f6b68e1668a9a20506909e3a3060b66586eaee392d7c1974bc49962"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/DefaultPakFileRules_Luna.ini",
+    "size": 5601,
+    "sha256": "9e2fe011c1c74a22035be489491fffe6e6841474844bc78d9eb3f06f316a08c5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/Tags/UnlockNotificationTags.ini",
+    "size": 1477,
+    "sha256": "6f0010694a78671e44fd5a391b93e54a06c2bb1408b11e9e489f1a0b53946824"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Config/Windows/WindowsEngine.ini",
+    "size": 56,
+    "sha256": "7837484972e6dbab19c2e9c0ecb8998aeaf2f7ce69d9244b22d268eea409b816"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/OtherContent/OtherContent.csv",
+    "size": 165,
+    "sha256": "e51efca5186a6478afc599d51d160d6e1d204cdc42c057de10d708c925ca1641"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/OtherContent/OtherContent.locmeta",
+    "size": 69,
+    "sha256": "bf2588cb22880bde94933e3c1a761672d985ff8da6c400bb96234f3f5617efb6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/OtherContent/OtherContent.manifest",
+    "size": 49364,
+    "sha256": "85a811f3f61e7284f97127568585065368b5e2e8c43506676f2c606b5d04ceb9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/OtherContent/OtherContent_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/OtherContent/en/OtherContent.archive",
+    "size": 35270,
+    "sha256": "6bf275222d4b5a2da20ecaa4a987028882cf1f3de8b2e235a17839c87486f5d0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/OtherContent/en/OtherContent.locres",
+    "size": 4960,
+    "sha256": "e8212a89cae421a749a2b3213c1845cbaffd216ac5784f8262d3cb6b49bb8f8c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/OtherContent/en/OtherContent.po",
+    "size": 36146,
+    "sha256": "08c38c999bc46e47a3c59d6a0373e72d91b364303bd5a970fffc742836c50f69"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/Shared.csv",
+    "size": 9702,
+    "sha256": "46a3a5982541be811d6460756286ad333dfc871ee4a0a656adfee2738173306e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/Shared.locmeta",
+    "size": 187,
+    "sha256": "5646fa5a69261f3565d748e0c5a9a8f2c64284119d0093e4edaf997c845d6585"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/Shared.manifest",
+    "size": 969126,
+    "sha256": "61b109a5b4a373031da8e16b6a1f27d6da3a994984f9533bb0643632a92b4d25"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/Shared_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/en/Shared.archive",
+    "size": 715288,
+    "sha256": "68363b6d2703f282b53dca770ef2e742ba9f81e6dfbd0622d457618b98e1616c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/en/Shared.archive.mp3",
+    "size": 644466,
+    "sha256": "4c89c6f5f0566e011f7fbb336b18c46f004c503235b7679a9091c0efe4c971a6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/en/Shared.locres",
+    "size": 141278,
+    "sha256": "42fb42eed13ff62a5d8d341002a2c49440c4f24c278699ddcf7878dc20fdf8c9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/Shared/en/Shared.po",
+    "size": 760281,
+    "sha256": "a017ad8d438baf110028a651e4ccebe384d698d63873ef379390e735b0d6641f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/CheckBoxRadioButton/CheckBoxRadioButtonManager.uasset",
+    "size": 3589,
+    "sha256": "3991e4ed53967741ded9589cdea6faec27ac641c9b28334a0a7fe25528c4ae6e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/CheckBoxRadioButton/CheckBoxRadioButtonManager.uexp",
+    "size": 2463,
+    "sha256": "da500b98ec11c4bc837df655b9a648c6b849d01baa1d9314f28082b277b5d44c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/CheckBoxRadioButton/CheckBoxRadioButtonManagerHelper.uasset",
+    "size": 2320,
+    "sha256": "f0bd827b9a94bf5afdb4f4edd5cfa0752e0a94ceccf25c32b0ce7f7b74d1355a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/CheckBoxRadioButton/CheckBoxRadioButtonManagerHelper.uexp",
+    "size": 1105,
+    "sha256": "bd7241981bbc2299fd9e80f890cc4cc51d9774a661b6477bd0a1f44e6dd02123"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/DT_SubtitlesProtoRichText.uasset",
+    "size": 3201,
+    "sha256": "bf6b1dc2e96bb053cd1be1091cde0d8c00e7b098d24ef8b186bbee70d1f7a4a1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/DT_SubtitlesProtoRichText.uexp",
+    "size": 28505,
+    "sha256": "89459735d49332ee29ce02b1448fb69bac7ef934b774d6bcab2a026e1ddbfb97"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/DT_SubtitlesProtoRichText_Large.uasset",
+    "size": 3111,
+    "sha256": "8e156986852ff3693892420bd3d89fef401c540d93c9518f1ebfabe285898fb1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/DT_SubtitlesProtoRichText_Large.uexp",
+    "size": 14277,
+    "sha256": "216442c1b894283beaab5c0175e8f0a128a2c8b2097c002ce4739866eaa414be"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/MI_SubtitlePrinting_Bold.uasset",
+    "size": 1619,
+    "sha256": "bdd22e9fa677560a6f85f8936969b62a360cc08f5b378661fe6befe59fd8d675"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/MI_SubtitlePrinting_Bold.uexp",
+    "size": 945,
+    "sha256": "2dc88f381654432b745477fd73f97e30061921d4560b58f2d8af66afd795afc3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/M_SubtitlePrinting.uasset",
+    "size": 2520,
+    "sha256": "b1a102798b68506d4513228e30641f574ea8eebe177ba372c3aefb5ab767eccc"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/M_SubtitlePrinting.uexp",
+    "size": 12447,
+    "sha256": "01cd3927213f206754a7d7328ae08f8846e7deeea777e6626ea99a8bb344dda2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_CommonButtonWithText.uasset",
+    "size": 7972,
+    "sha256": "cd3a0f82180317d188d2f4a153d5f0ea21b688a3647f2436f5914ac94930680c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_CommonButtonWithText.uexp",
+    "size": 7216,
+    "sha256": "004e5aa84d14478e177efd12859753f72c7f32dae2aa52b734f7fe01008dfe6b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_SimpleFadeSwitcher.uasset",
+    "size": 6508,
+    "sha256": "4a3a7dac211e11798ba9e4edb1f83541c4406a34afcebc53ecab843348dc67db"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_SimpleFadeSwitcher.uexp",
+    "size": 6626,
+    "sha256": "3f9e12d6a6482a3bce3870bd746c7bb4afbb4ac097b6557032c8600f40ef774f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uasset",
+    "size": 15912,
+    "sha256": "5b11ca427cc9bc990000e6c4ffa147e07d305e21c15132045ff18cb927d8d8a5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uexp",
+    "size": 23822,
+    "sha256": "5cc987cf5190e3153a8b6b77e4444e3cb79fed419453175f22a80c2595fba64f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_SubtitlesWidget.uasset",
+    "size": 19677,
+    "sha256": "529ded259e890aa5b0e3416e226769a9b57ffd21c147a42d3010d968713e479d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Core/Widgets/WBP_SubtitlesWidget.uexp",
+    "size": 21609,
+    "sha256": "40585ccf535f273c084c203c146e233ed9b2414a9aad6b5c084759ba3f95cc3f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/MI_UI_ScrollBarBox.uasset",
+    "size": 1605,
+    "sha256": "6076b2867b4c5d95573911381f0fbced9851d92ee163d650848de064fefa9560"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/MI_UI_ScrollBarBox.uexp",
+    "size": 1347,
+    "sha256": "da228a093f32a154b5c511549cfe5c6d9d5d5c81ba448b6f894e57264d0214c8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/MI_UI_ScrollBoxFade.uasset",
+    "size": 2015,
+    "sha256": "6533a76356f84894fb6e40985f2b2e1fa6dc2f2ef59adf8ffe8e705ed4f24b29"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/MI_UI_ScrollBoxFade.uexp",
+    "size": 2883,
+    "sha256": "6d696e75bd9486c75be2fd113f4f62c7550b1545e1d4d2008ffaf8ce448a72d1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/M_UI_ScrollBarBox.uasset",
+    "size": 3143,
+    "sha256": "2740906c814b2b84bb0248e3bd12d1c3cf7748d92ff4e50c3ba4ca66ffe34a63"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/M_UI_ScrollBarBox.uexp",
+    "size": 9980,
+    "sha256": "f2c82c18eb67e7200eca856ef9064788923ddf15958512042265e7e9b8113208"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/M_UI_ScrollBoxFade.uasset",
+    "size": 2055,
+    "sha256": "8822b9e666d2039aef81aa154b19e01219033d74cedb35b95c8802b266032043"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/M_UI_ScrollBoxFade.uexp",
+    "size": 10114,
+    "sha256": "c2237da1251605bba1f41dd7780188459d177dfe17b5ce4748fcd4a9a57e3187"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/T_UI_Icon_Checkmark_Circle.uasset",
+    "size": 808,
+    "sha256": "1ae747bc57989a7f251f33fc097ae819473f94c53838a8c00375d8bae7e470c7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/Assets/T_UI_Icon_Checkmark_Circle.uexp",
+    "size": 66320,
+    "sha256": "1a492387ffec52a1599d6c73121a3bbf6184f2556d44d71f3d58fea2da06a777"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/BP_SettingsSubcategoryHeaderModel.uasset",
+    "size": 1844,
+    "sha256": "5cfa65aad2519c6fab9bfa49d756bf055a60b5f3653d111660fb71d10b2e786b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/BP_SettingsSubcategoryHeaderModel.uexp",
+    "size": 691,
+    "sha256": "4ebc7e55167b1190ebec75d42d93dd1dd7fc632c35bdff4c988fc31c3f94b9be"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/BP_SubtitlePreviewModel.uasset",
+    "size": 1449,
+    "sha256": "f3122b740ce8578222a5c838aec90e0db028b5475326cf378548095bb2406def"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/BP_SubtitlePreviewModel.uexp",
+    "size": 357,
+    "sha256": "baefc280e0929b896052a880f4ddbdb70e9c163d1325e3fbd9018b40a19f114d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/DT_SettingsMenuActions.uasset",
+    "size": 2489,
+    "sha256": "0fd4ce9a41634f2c0f2fb3f0b4bc4a80c2f0faf7f5d4342f2e33159503abdcfc"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/DT_SettingsMenuActions.uexp",
+    "size": 12823,
+    "sha256": "58428d431ad9d85cb5eb60249a4ed0cae516c92bcadd110f85a09fb830fd3874"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/BPI_HasSetting.uasset",
+    "size": 1381,
+    "sha256": "cc97c2094efc44915a8a11290cae04ff43c4f79caf21d883717f08dd5b1f35a9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/BPI_HasSetting.uexp",
+    "size": 206,
+    "sha256": "fbf6e9b1c70e559805b68447085f718b67fc77f5618495098d5991b16499a8fe"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/M_UI_CarouselPip.uasset",
+    "size": 2091,
+    "sha256": "12b35da8226c7b9cff3dee0101658eb20e6aa51b8fff972b651ba8e03cb623af"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/M_UI_CarouselPip.uexp",
+    "size": 8417,
+    "sha256": "7f08b34e557acc0126aa4432e5606a1e206e2b740e76852065a0fe23feefe036"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/ST_DispatchSettings.uasset",
+    "size": 646,
+    "sha256": "3a1ddfe05c56837d70e866c9f29b52084a74b58f515a4737c2761be460031d86"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/ST_DispatchSettings.uexp",
+    "size": 177,
+    "sha256": "5521b259c0b253d48fb1eaeee5c6282a28cf8b4b719325735c0be6907aa462ba"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/SidePanel/BPI_CanOpenDigitalSettingsOptionListPanel.uasset",
+    "size": 1862,
+    "sha256": "7df9f8f309af322edc53a735f142ab9460602d2ff9c4b74a9e2274e1c56bfdb4"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/SidePanel/BPI_CanOpenDigitalSettingsOptionListPanel.uexp",
+    "size": 257,
+    "sha256": "05a306dbbb97fe186fd60e380a361c7f59c13b4ea23bf1fd2c4c8b385ab6fc2e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/SidePanel/BP_SettingsDigitalOptionListItemProxy.uasset",
+    "size": 3503,
+    "sha256": "6ada130dc8255952aa001b5bbba1b7fd4382eaf5d012597310ce50e3db10c68d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/SidePanel/BP_SettingsDigitalOptionListItemProxy.uexp",
+    "size": 2385,
+    "sha256": "8485ffeb1d62f147fa15151755af7e90d070939e8ec325e3fcb5255e19d4c6fe"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/SidePanel/WBP_SettingsSidePanel.uasset",
+    "size": 10473,
+    "sha256": "ed4bd99e265a4fb87d58da78a1c4a2221b2e7aa7e0a60c0c453cf4c7c90e9ac4"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/SidePanel/WBP_SettingsSidePanel.uexp",
+    "size": 9865,
+    "sha256": "dde02a94b675bbb5c5a7d59c6cfbc18b6aa74955b71bad241bc0c0be91c51524"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel.uasset",
+    "size": 26023,
+    "sha256": "f641edafffe666d17dbcb04f1962c852a5833b2d8fdb48091a21dca09d0a434c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel.uexp",
+    "size": 52085,
+    "sha256": "3af7f34d243a2937e697f8b3f436e76bc8e3f8d9c48d3c46f467f8e9a6a8bb22"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel_Arrows.uasset",
+    "size": 10872,
+    "sha256": "c0a2518343926ce85bbd32448cd840a3fe658511aeda7c22a3862f19d9bf4586"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel_Arrows.uexp",
+    "size": 10479,
+    "sha256": "ade9690b00c89daf2208b316f5d978f7960521c385de5a2399048d53d3f0b80c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel_Pip.uasset",
+    "size": 3732,
+    "sha256": "d2490a4139d6da3027c16572f4bdea932845d965112777aa339ab675119dfeeb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Carousel_Pip.uexp",
+    "size": 2370,
+    "sha256": "9262268c195475de75cf03fea0a12dedbee07bf7fd2129c59b6d1a05fd56e952"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_ListItemBacker.uasset",
+    "size": 22180,
+    "sha256": "81e9bc1ab2011d81ed00de42f90ada651761546b44b5f101d65b061a4791ea93"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_ListItemBacker.uexp",
+    "size": 33820,
+    "sha256": "5ba004a8af21278d6b1b5a15f050ce39f6ca0f9bc7a8056e66c6e23dea254ddf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Slider.uasset",
+    "size": 19779,
+    "sha256": "58386e313b211de469ed7aa3642c21184d443ef54a350be02069eb9f9b8a46be"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Slider.uexp",
+    "size": 53757,
+    "sha256": "61bbdf6c209d55ef6af6ea7fab9a7f8e7b5e4b2df4a015eae52025cf511fb288"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Slider_Grabber.uasset",
+    "size": 16279,
+    "sha256": "ea83b061bb46d0485c818d50eecb1ecf941d86bc4425562e12880ff28d94fdd6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_MainMenu_Settings_Slider_Grabber.uexp",
+    "size": 60936,
+    "sha256": "dc222c13372a3df693fd8d5af0cfa654f894fe6ee7ba8837e78b6012a110ec97"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_DigitalSettingBacker.uasset",
+    "size": 11737,
+    "sha256": "ec9139d0202d1b2872a426f2afeb679e3cfc90aedf75dab6e0b23b65c83792b0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_DigitalSettingBacker.uexp",
+    "size": 10675,
+    "sha256": "158c058e53f3cdc58ece02c16d611028253dccc44529e48a2c732dce501a05a6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_DigitalSettingOptionListBacker.uasset",
+    "size": 10925,
+    "sha256": "39938b8353b7671beea457bd0c7b290fc40362346213991042c9def38a6e6367"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_DigitalSettingOptionListBacker.uexp",
+    "size": 7255,
+    "sha256": "29a5226fc8743ed53fcce5031a5684d175dd75b14c9dbed5786e493d998ceabd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_SliderSettingBacker.uasset",
+    "size": 11500,
+    "sha256": "fe066f215795986761ad3a51f1278dfc8fcb0d92c57e011c984acf5853a52f55"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_SliderSettingBacker.uexp",
+    "size": 8433,
+    "sha256": "8b6b0fc7de89f4a5bdb933b8476936f8ea2e5bc32ca2c421826f2bdb40319564"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_SliderSettingBacker_Shorter.uasset",
+    "size": 2803,
+    "sha256": "0b78fa1f90312bb58f9272468e50704aec41aff8f10fcc4f5dc3b2eaf0ea5bdc"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_Settings_SliderSettingBacker_Shorter.uexp",
+    "size": 1016,
+    "sha256": "bd0d1b23ebd28055dd7a70c470a577175f27a5ac2a4d26bd7037c9400006610c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SidePanel_Button.uasset",
+    "size": 11324,
+    "sha256": "ab1db2653ace4fa96554fecb4bce60ba49ae604c19eee9b796c1622a74d9d18e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SidePanel_Button.uexp",
+    "size": 8073,
+    "sha256": "a262ea33fa799edb8d941287b4d3922d5ae5241a0e34aaaa4c6b900ba99efa92"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SubtitlePreview.uasset",
+    "size": 9500,
+    "sha256": "f3b74ed3d98a3019ef3506ebda1ac680281c73868808841ad63a704ff1be5760"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SubtitlePreview.uexp",
+    "size": 9036,
+    "sha256": "7e0f955f66b1947a0ed481c47490b4aab52b68ea9ddd1e83b404e4a4a2baccc3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsCategoryTabContent.uasset",
+    "size": 25868,
+    "sha256": "db4340f8b0a45fd0ba8149341f5cbe1842496d6c353b5862486ac025abb5fc18"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsCategoryTabContent.uexp",
+    "size": 24097,
+    "sha256": "2930ade76059aedd09a8ece491d74d25fa7670a3a34b7a9ef11cfdb15c533488"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsMenu.uasset",
+    "size": 23689,
+    "sha256": "86deb0c5d0c0fda439094197781380e39873de438a6867c751283f72b97dad56"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsMenu.uexp",
+    "size": 20582,
+    "sha256": "47e6660671d28efdd8bc1c0fb88319ce5eda573920de63cbbfc6539ee0a30aab"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsSubcategoryHeader.uasset",
+    "size": 4726,
+    "sha256": "1b09ff69949c56df980b82c59911cb97c14df94073ef60491c1367a2cf6d9c33"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsSubcategoryHeader.uexp",
+    "size": 2334,
+    "sha256": "19fb12ab8add33d5e01d1315ea65d1933e4e013a3f96b3f3b74240175a0dbb28"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsTabList.uasset",
+    "size": 9392,
+    "sha256": "ae0d83a6ce666653399ab8d72d8df3ea24b9c4f07a102278a66d7ced4c811933"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/WBP_SettingsTabList.uexp",
+    "size": 6584,
+    "sha256": "5d3d92b26c47c2d2bc8c79c81e54e6f4cb01ff5c6f0133e949793f2eaf0c088e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Aktiv_Grotesk.uasset",
+    "size": 651,
+    "sha256": "06f52e677c1b5b1a9a9ef94ae35cbf14e4ef7e944cc7222ce5ee3bbd81fdec52"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Aktiv_Grotesk.uexp",
+    "size": 122,
+    "sha256": "b7876593eb96845fd98bf142e0b7021182267f6164757a5d74c6fe332ee0de97"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Aktiv_Grotesk.ufont",
+    "size": 1033280,
+    "sha256": "e87113adb3cec28c4f798a9fdf25aab9111c58bc57301a387a8dc257ecd5db69"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Aktiv_Grotesk_Font.uasset",
+    "size": 1070,
+    "sha256": "e5a71afe45974d7021c6579a3bb151eb1bbd23e0154c52ea42f03645249ae620"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Aktiv_Grotesk_Font.uexp",
+    "size": 363,
+    "sha256": "1931e3448870fd1a243698795e1948245c9a286925889d93ee021101e4c4c245"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/ChiKareGo/ChiKareGo2_FontBig.uasset",
+    "size": 1168,
+    "sha256": "ec6670bd36fa28b39e09f497e9627a073f1bc48611285e62ebd3e35da5983dc5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/ChiKareGo/ChiKareGo2_FontBig.uexp",
+    "size": 700,
+    "sha256": "b090e78cd3d0d7943295abd9ef30fa8380a47627ddc5e9b64fe23e79bde631f5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Input/Input-Bold__InputMono-Bold_.uasset",
+    "size": 685,
+    "sha256": "62d575a4131084ad3c7715951775a715f93b581bf9cff2b8bd3c042f92590b28"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Input/Input-Bold__InputMono-Bold_.uexp",
+    "size": 142,
+    "sha256": "6bb0e9a2db0d72b920c9b4da332877f8a2215c53cde2f83d922d0e6eb5863d3f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Input/Input-Bold__InputMono-Bold_.ufont",
+    "size": 109884,
+    "sha256": "101abbb59738b894b6ceac33a5c96e5512af6b646f421243d6e46914c4bf9936"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Input/Input-Bold__InputMono-Bold__Font.uasset",
+    "size": 1138,
+    "sha256": "debf49ea86a3df3a3acef36199f8dd3a66a3a3a46ef9d13983320be5384cc63a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Input/Input-Bold__InputMono-Bold__Font.uexp",
+    "size": 363,
+    "sha256": "6ab3d776b89773eb46e03e0fde8c6c2badf53bef612a33dbc341898576546c75"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Mono/RobotoMono-Bold.uasset",
+    "size": 667,
+    "sha256": "b6a2b0eff9821dc730fe9740e185cbffa752e707c5ca69baf484bccc318facc5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Mono/RobotoMono-Bold.uexp",
+    "size": 136,
+    "sha256": "996757565348c32dcf5440cd99b3fb5b507c7ccc174a6724ea86a0dc2a57df23"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Mono/RobotoMono-Bold.ufont",
+    "size": 87696,
+    "sha256": "92649d819cc4c20480b23a47aaa111769924eb31c66b6ecdcf6f573662558c83"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Mono/RobotoMono-Bold_Font.uasset",
+    "size": 1662,
+    "sha256": "cf144666fd3377c5c2a725ded3d9dfd5fa61a3d3d04139a4a285d35c3736d4d0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Mono/RobotoMono-Bold_Font.uexp",
+    "size": 4562,
+    "sha256": "3ae47c6301d2bf9fc67e01c7ad9475b0d00e312de9f70178a0b17284591ae532"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Bold.uasset",
+    "size": 662,
+    "sha256": "b940440d3957b99f4635d424cef204945d73e2a44090547a154274160f23092d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Bold.uexp",
+    "size": 135,
+    "sha256": "d6a952c309234250659ca08abb02ffd14d4bc5b6f46838b3f307e6f4ffa030c0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Bold.ufont",
+    "size": 167336,
+    "sha256": "ec685a46105296fe46c8744da4a11cf8118ba6c11271941766f7a546df6aa7c7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-BoldItalic.uasset",
+    "size": 674,
+    "sha256": "70ddaa23bbaebf4a5d4c818ed7e5c0339094e731cd1052f59d69a620a42e063b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-BoldItalic.uexp",
+    "size": 141,
+    "sha256": "55980ca767602497182447b92700291fd896c957718406775c1b764817ac5a86"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-BoldItalic.ufont",
+    "size": 171508,
+    "sha256": "61df597f73c91f238cbe88fe3c536702d120d048b79b25fa0f4f7818fd123a6f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-BoldItalic_Font.uasset",
+    "size": 1116,
+    "sha256": "ac79310adf00c951d9d2864059d4969329f1189551d25a4838f2aa15f268a0b9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-BoldItalic_Font.uexp",
+    "size": 363,
+    "sha256": "368009774acda89eec9ff6fa34eb7849f795716cc85da60ef1b15dda48ecec6f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Medium.uasset",
+    "size": 666,
+    "sha256": "9d6fc3f91a4021f2b3e635e5fd0345c7813ea5155157a77802e9b378807bf5a5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Medium.uexp",
+    "size": 137,
+    "sha256": "c16cd22d9c46b552b5370e97e5c60b94ab045e37e608e6cb64ff892351812f00"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Medium.ufont",
+    "size": 168644,
+    "sha256": "9d0d55a303bfd13b79a87721f65185e93f235e2d77fe398b2dca67ac519915f5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Medium_Font.uasset",
+    "size": 1100,
+    "sha256": "d2a8b316974595ad27d623ef48187884409e942d8b9c79a674caf4d09a39dae1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Medium_Font.uexp",
+    "size": 363,
+    "sha256": "368009774acda89eec9ff6fa34eb7849f795716cc85da60ef1b15dda48ecec6f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Regular.uasset",
+    "size": 668,
+    "sha256": "521fe56c4cceccc00cd3457702051381ae746e21a0e872dba63f6b06330eb752"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Regular.uexp",
+    "size": 138,
+    "sha256": "9bd201953705db0d5be5221d9fb79bcf4299d465b08369cba514663250d36cd6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Regular.ufont",
+    "size": 168260,
+    "sha256": "4e147ab64b9fdf6d89d01f6b8c3ca0b3cddc59d608a8e2218f9a2504b5c98e14"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Regular_Font.uasset",
+    "size": 1104,
+    "sha256": "1318e843dba7d2d97fe8824ae26abd4f388ec14627c809cd2a7dfe9853505def"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/Roboto_Regular/Roboto-Regular_Font.uexp",
+    "size": 363,
+    "sha256": "368009774acda89eec9ff6fa34eb7849f795716cc85da60ef1b15dda48ecec6f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/SourceCodePro/SourceCodePro-Light.uasset",
+    "size": 677,
+    "sha256": "fcad1f678bdee10d155f8b3ab311153906d86ec8bc7782dae556dfdac46f6c50"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/SourceCodePro/SourceCodePro-Light.uexp",
+    "size": 142,
+    "sha256": "3638e19d497c2c437a8349f2ad972196f8a5fe8fa6f88239d7760cf0ec6b0633"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/SourceCodePro/SourceCodePro-Light.ufont",
+    "size": 120552,
+    "sha256": "20e49b2cb086d0875ac85211d50408a2723bad42b1bed9c31a44ca545e5d04ca"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/SourceCodePro/SourceCodePro-Light_Font.uasset",
+    "size": 1122,
+    "sha256": "bc3b2469d9d0106b4394be2f463eeea192a0c980db15875829d47b7761bb6b7e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/SourceCodePro/SourceCodePro-Light_Font.uexp",
+    "size": 363,
+    "sha256": "368009774acda89eec9ff6fa34eb7849f795716cc85da60ef1b15dda48ecec6f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/schaboxcondensed/SCHABO-XCondensed.uasset",
+    "size": 676,
+    "sha256": "988da74afea5d6ec21a76fbb749daaf81f4126a81b9742b5ced0baeaeb875a04"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/schaboxcondensed/SCHABO-XCondensed.uexp",
+    "size": 143,
+    "sha256": "476923eff2f07e1635272afeeabccbbc0eb84d7d5d3048806e3ce65e40d527cc"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/schaboxcondensed/SCHABO-XCondensed.ufont",
+    "size": 50636,
+    "sha256": "d76e1e57937efa63f0b9d394d58f4a0ac0c77f7e155a8d9531f4216800179f23"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/schaboxcondensed/SCHABO-XCondensed_Font.uasset",
+    "size": 1831,
+    "sha256": "337df15fbbfbcfb5d1dbe30f670e1733720d8ba3739a45f8181ff2b4e742a3c0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/Fonts/schaboxcondensed/SCHABO-XCondensed_Font.uexp",
+    "size": 5250,
+    "sha256": "56a198ff1d746102bafdf10d04d02f6ca8feb1434f1bad93a73b76ca828d4cb6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Black.uasset",
+    "size": 665,
+    "sha256": "711a643f3ada026b77c7a3b1f77a9511a36badf5cef6b07485cd64560e54229d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Black.uexp",
+    "size": 135,
+    "sha256": "f5c898a78a1d4f207efaa933de69fe424fce74eaf8bcec871cb61422adff4671"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Black.ufont",
+    "size": 53056,
+    "sha256": "32721f97402ebbb8faa69425369686a8d15f07e11c74b9fe1b16b2bb5d530679"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Black_Font.uasset",
+    "size": 1299,
+    "sha256": "d6cfaa1988aa16f7582ba3290bd599299e4930b0102639a58594eb5bb4029e19"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Black_Font.uexp",
+    "size": 665,
+    "sha256": "9faad3db2b22e5f68d168bd268ec7bb126740aee7c29114a115c3e70af99f07b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Bold.uasset",
+    "size": 663,
+    "sha256": "480e458a286d4d5b98384796adbcb6cb1d6b102d7c337937724b54e2b5bda46c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Bold.uexp",
+    "size": 134,
+    "sha256": "bd3d09ebaa7ae74289e5a9f4a4dcdb555c716e86ebfdac29479f61301b71318a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Bold.ufont",
+    "size": 56628,
+    "sha256": "c359337fed84b9968697a24bfd3d38017581b29e507188ba2c387409b1855287"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Bold_Font.uasset",
+    "size": 1293,
+    "sha256": "73348a3d70d06f0187ccbabc59c9715e37af1f9d78a0a0ba1ca919e56fbba0a8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Bold_Font.uexp",
+    "size": 665,
+    "sha256": "9faad3db2b22e5f68d168bd268ec7bb126740aee7c29114a115c3e70af99f07b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Medium.uasset",
+    "size": 667,
+    "sha256": "394025fb84765b8e7043e835f663937599c5ed625c857429900aa6fbee051e42"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Medium.uexp",
+    "size": 136,
+    "sha256": "59cea532fd9e7e88c4d6f491d95901f4544a6eeea2167cdfc6a1d697f5a588cf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Medium.ufont",
+    "size": 56896,
+    "sha256": "d4442f30b847c0e5e757243024917300b640dbb0409baacbb18eeff5a70d1efb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Medium_Font.uasset",
+    "size": 1305,
+    "sha256": "d696d139f3d824359f76d93e33e2811cea3a8618582476540843a1814ba7fd99"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Medium_Font.uexp",
+    "size": 665,
+    "sha256": "9faad3db2b22e5f68d168bd268ec7bb126740aee7c29114a115c3e70af99f07b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Regular.uasset",
+    "size": 669,
+    "sha256": "ea9ee28b707f64dc6fe7b8987b1e486a51985324f507a42934dd7ee24147dfb7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Regular.uexp",
+    "size": 137,
+    "sha256": "daa3e713470538e3645b5e3c6c2a915065cc1decdb834fa0c19e3514290948f9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Regular.ufont",
+    "size": 57388,
+    "sha256": "0f5222c5b8f2875d332d645d3940504d7937d590038374f6f85a36136c39f591"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Regular_Font.uasset",
+    "size": 1311,
+    "sha256": "9cccc5c0522baabc9c817c668780cbc4731d689fa410ffee6c62498e8e798dc2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-Regular_Font.uexp",
+    "size": 665,
+    "sha256": "9faad3db2b22e5f68d168bd268ec7bb126740aee7c29114a115c3e70af99f07b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-SemiBold.uasset",
+    "size": 671,
+    "sha256": "7e56d53ce5e1275d132e552f8b3622df39c196282764648d47180057d55c8453"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-SemiBold.uexp",
+    "size": 138,
+    "sha256": "6f5411f1efb9356380eae06991a5e211190652184ba46c40ea9d2e40c0df125d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-SemiBold.ufont",
+    "size": 57512,
+    "sha256": "7a1018bdf3ad24c0e73ecdbfa17d7fe10ddfec91e041ec9052a8eb075022313a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-SemiBold_Font.uasset",
+    "size": 1309,
+    "sha256": "6636981fc92d4caee792db9361cc0ee0e76b1ebf55bf013fd181fd539f6c8fe5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Art/UI/Fonts/Tomorrow/Tomorrow-SemiBold_Font.uexp",
+    "size": 665,
+    "sha256": "9faad3db2b22e5f68d168bd268ec7bb126740aee7c29114a115c3e70af99f07b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_RichText.uasset",
+    "size": 7573,
+    "sha256": "cbdac14f374c8909511a1a693257ae675b96287685646dfec5a77027227f297c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Shifts/Gameplay/Widgets/Shift_Misc/WBP_RichText.uexp",
+    "size": 8080,
+    "sha256": "c7e95c05d76c6c5b6f528cf8d2b3ea39990c54b1ec600de9d50683f832e07d3a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/DragAndPressInternals/WBP_DragAndPressCursor.uasset",
+    "size": 15898,
+    "sha256": "7a89da85756729010f2a686733fc52ba74f3455c49f12e77e3b865dd41c4c51e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/DragAndPressInternals/WBP_DragAndPressCursor.uexp",
+    "size": 19189,
+    "sha256": "f37c17cd72513ca94a378a60594d8aa60781f8e9ee935b09d3e0cfdd0cb4a626"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/DragAndPressInternals/WBP_DragAndPressTarget.uasset",
+    "size": 11987,
+    "sha256": "0e8138ed4456b916bbab56e7feab935b319ddc7af32d4c1ffc80e3cdecdbd205"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/DragAndPressInternals/WBP_DragAndPressTarget.uexp",
+    "size": 18969,
+    "sha256": "e964c6aa006ef859a0c1e773282a3e42c65a54a303f46b5d5e15cb0e1bd5cc12"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/St_InteractiveDialogueActionPromptSideInfo.uasset",
+    "size": 1482,
+    "sha256": "de63e0c1268900674a22f0441a754267ada13dd0bcc90379fd130bd21aebae79"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/St_InteractiveDialogueActionPromptSideInfo.uexp",
+    "size": 691,
+    "sha256": "3cb9b3619fdd435c0a35c1f4f30a21f07985543b74fabd0199f2da615ba28044"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_DragAndPressQTEBase.uasset",
+    "size": 19029,
+    "sha256": "ffa3260ccc7832e2bca0b2b82b8f84f63ca0baa3a91a4035e7dde21c4787a448"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_DragAndPressQTEBase.uexp",
+    "size": 19234,
+    "sha256": "20f6bff7f2b55f231cf830931d6d8a2b87a35331e800d19de183e18644feeae8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_InteractiveDialogue.uasset",
+    "size": 22419,
+    "sha256": "081543dea59b5bbe219a49c6ca330cd7c5086cc61cd936c682297a5708158d4a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_InteractiveDialogue.uexp",
+    "size": 29408,
+    "sha256": "89b5b31aaea1d9ced8afcdffbda85efce143a33a90ed176eaf96257552a9ba75"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_InteractiveDialogueVisual.uasset",
+    "size": 31340,
+    "sha256": "8d15d33dd7ccc3bd40ccaf5e91b800d18cfa56e3ed1bdead36928d85a60eed79"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_InteractiveDialogueVisual.uexp",
+    "size": 146054,
+    "sha256": "daebd222af7c1a73004311d54a89a1eabfaddf4fd62ca3321a21b0c795ad4f74"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_SimpleQTEChoice.uasset",
+    "size": 38191,
+    "sha256": "4fa3139e291e9c70d7dfd38b966f250ccfeef4cd9a1130eb8604b59044f4c864"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_SimpleQTEChoice.uexp",
+    "size": 102418,
+    "sha256": "39ec2d3e626d57904de6c4c607e010617f195d080428b3893c4f90cc8377c545"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_StandardChoiceUI.uasset",
+    "size": 29262,
+    "sha256": "f21dc0e09385c4df47c53c5e45fc94ea6006a2373ba547d438573a7a056d9640"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_StandardChoiceUI.uexp",
+    "size": 54556,
+    "sha256": "a458e7b9a0b49658d2ec5ba799e5f5c37835764d12e78a234e9ad54383e2ee3a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_UnfailableDragAndPress.uasset",
+    "size": 3884,
+    "sha256": "279c992d56610099081afb931a0fe161b7eee1a1210267bcad7f233b2b80f7c1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_UnfailableDragAndPress.uexp",
+    "size": 1738,
+    "sha256": "5833a181e7ed6fea748da4d8cb1938d881b2be051479566967ce8c270d3899aa"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Barlow/Barlow-Black.uasset",
+    "size": 648,
+    "sha256": "e7bf91fbfbcbaa88e15555c7c9ca150b086520240d4d2945ce9c25413efa430d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Barlow/Barlow-Black.uexp",
+    "size": 120,
+    "sha256": "a120b1caeef86fe303449bc6849fd2e3e5fe6ec0a7d4d5021f2e941c2d32263e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Barlow/Barlow-Black.ufont",
+    "size": 105888,
+    "sha256": "3cd28e18114e7f701b6117a282ccaa99ff3a867d855ec7138274ec6f15e05913"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Barlow/Barlow-Black_Font.uasset",
+    "size": 1775,
+    "sha256": "e7640f37a4aa04066a2652034d7550d761ee4735cfc2b57880d0580f73b10224"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Barlow/Barlow-Black_Font.uexp",
+    "size": 5221,
+    "sha256": "8b38dba4f6a55c0fca2ef24e2ade9f9ff67add31c1e1b92e1cc7e55f19be12f6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat-Variable.uasset",
+    "size": 10826,
+    "sha256": "1f89a5aef053323ad71a6d815f4088cc630b7d758d1cdf88a3a90fcb4b3b456b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat-Variable.uexp",
+    "size": 18187,
+    "sha256": "0a6811e6241573b77682458048a466097e3a8e012c3ab0876f21e772bed1c6eb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Black.uasset",
+    "size": 667,
+    "sha256": "1dc74a8d10d82825d673eaf973e542570a06025558ffa8b5d8ff51369764afd1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Black.uexp",
+    "size": 135,
+    "sha256": "2a2be1c52ce30a3e3a314078f38bbea54985eb7953d9ad7d5f3356ec42ad4692"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Black.ufont",
+    "size": 199056,
+    "sha256": "b813c7144bfb180729a648910c8eaf8be36cb8effac81c63b0a770b6125470b0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BlackItalic.uasset",
+    "size": 679,
+    "sha256": "af23cfe6d6fe8b63dc6ebdf529cda6914f109aa8ad30d40fc4dca5c6686f93ec"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BlackItalic.uexp",
+    "size": 141,
+    "sha256": "cd9f74586611d7fa4b31f94af99fe3f094d04749b3eeb3611ca1bd34852f28e7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BlackItalic.ufont",
+    "size": 203860,
+    "sha256": "262943f67913bd19e7202fd780bfe194c9366f0b5625a6f225fb03149c9dfe10"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Bold.uasset",
+    "size": 665,
+    "sha256": "a0638e591109d339acf7a3b71ac08b339d8a00ca7390a9ca50627e3b004dc21f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Bold.uexp",
+    "size": 134,
+    "sha256": "06445c405146d7ab7095e0ba0fb1d54e9565ba549b3bd3f1077000ea2250329b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Bold.ufont",
+    "size": 198120,
+    "sha256": "98b1486810c2eccfaa17d4610a83c12794c0798ef5e9eb41aea038794292a187"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BoldItalic.uasset",
+    "size": 677,
+    "sha256": "75ffa04d976f4add5dace3e261354cb67acdb436f96294ad1d3301556263408a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BoldItalic.uexp",
+    "size": 140,
+    "sha256": "dd3cda2a9b3c05878fbe2ae4cf745f75e27e15925597c17d80f08334cf4644ec"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-BoldItalic.ufont",
+    "size": 202864,
+    "sha256": "984fd6ee94df32d5376ed81cfede806f91dc7b739d55c09d3bebf08fa2aa503a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBold.uasset",
+    "size": 675,
+    "sha256": "2c8666d875132a2f62f9b28ac3fa4b91763b11aac5b34cfb0735eff4bbb300b7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBold.uexp",
+    "size": 139,
+    "sha256": "f11e414335e5b4e5b5180fa0a10c631540921e163aa17a15c8d73e879b8c42fd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBold.ufont",
+    "size": 199276,
+    "sha256": "ebc2e02bb921205b44f09ba0a5fa7d1174d0f120e873e00b3576d660e0310fb5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBoldItalic.uasset",
+    "size": 687,
+    "sha256": "799e6f79ce90a618edb2033d14bcb47a7cd26687963ccbedaf5658b0e7263b6f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBoldItalic.uexp",
+    "size": 145,
+    "sha256": "aaec9139752d9b86c8660d7f5c0946aa1448f35d82787c03b20ff6fe59030161"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraBoldItalic.ufont",
+    "size": 203940,
+    "sha256": "9f4cf7fd4b6e8673473e0636711146d7b4e673b493b1e558d7a01a5e3431a4cb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLight.uasset",
+    "size": 677,
+    "sha256": "7d37649ce5ef957d9e789658a78a14c965cf6c4f2d3d32edeb8abf2a46e6306d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLight.uexp",
+    "size": 140,
+    "sha256": "7efcbd9970be03e5024fd164c5b994fa85332bed0a31307c4d889259e5cdc792"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLight.ufont",
+    "size": 197420,
+    "sha256": "8153510115d375ab856a89214fcc8040e08e600c71628e64f32f871138298c05"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLightItalic.uasset",
+    "size": 689,
+    "sha256": "5e636dae811068b2f244575d5f56196bb2050211918a2d61ffc086b630adbe38"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLightItalic.uexp",
+    "size": 146,
+    "sha256": "65b4999b45ddb15d73973eb263201b8e3107dfcaf04e8e7680006a347b98c940"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ExtraLightItalic.ufont",
+    "size": 202276,
+    "sha256": "4ef31507299e50cf7e0bcdfcc81e1cd5df67f2882d9f1df0bdba892bde5061cf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Italic.uasset",
+    "size": 669,
+    "sha256": "67173026d93883a9c4dbc55b2ec4b988dec8a2e86d056133b17ae07b6d79519b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Italic.uexp",
+    "size": 136,
+    "sha256": "35c170f899f77098edcda6b9d5a46f7ef893526499bc773319778b5f9622eb0f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Italic.ufont",
+    "size": 202344,
+    "sha256": "8b54f487b67e455c61ed17d9332aef6117f1688b53fcba4ccea4c78c022f4919"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Light.uasset",
+    "size": 667,
+    "sha256": "1fd427efe5b2e4bb64adaa031a1157566ff46b40c5da022b114ea804e7b653e3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Light.uexp",
+    "size": 135,
+    "sha256": "9cf0702d402344572e042de9bce54b75c02f36d6eb6fdf61688a7bb4e8ac896c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Light.ufont",
+    "size": 197716,
+    "sha256": "432fceb450f7070e792ca90076b4a4650a7cb3866f24237193d31a3eedd4f513"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-LightItalic.uasset",
+    "size": 679,
+    "sha256": "72527426d1a02c91db4c86331947a87c8ca2b9a05fb778e63729753e1a535f81"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-LightItalic.uexp",
+    "size": 141,
+    "sha256": "3a887a6ee231f078e37604927c1602e5291f356ec0a61ea2a1255159ff4d7061"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-LightItalic.ufont",
+    "size": 202460,
+    "sha256": "4c15e2e2be7f39d95cf1baa78be4bca809b1712bd7ad0ddc327888093655c651"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Medium.uasset",
+    "size": 669,
+    "sha256": "0c33b592bbb992a07c256279b8330a8e2e83806333f51c5ae65a2a9fdb29f2ac"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Medium.uexp",
+    "size": 136,
+    "sha256": "491dd4d524c5460d46738916e28fd887fd8e63aaa8bb2bb34e60bedca414553e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Medium.ufont",
+    "size": 197756,
+    "sha256": "264819b013d40e46a82f5063ae3ce44d3cb8aaced43d85897f4ced66496d5a85"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-MediumItalic.uasset",
+    "size": 681,
+    "sha256": "8173b8aacace54e3455c41fe346ca1f27f3fa27b0fe35234ff06d6dbb544808d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-MediumItalic.uexp",
+    "size": 142,
+    "sha256": "c471103d7c3507210244ee02efa1bfcfa4ebfb1aee7514aeb5d5f1a2fbcc44b3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-MediumItalic.ufont",
+    "size": 202432,
+    "sha256": "2436096e469bff268cc73316b2210fddfd7cdd615710111635bf1cd7a7fe04d2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Regular.uasset",
+    "size": 671,
+    "sha256": "6f240e855a63f213edc71d6cf2c09c27127a0fc3805473ce14113936e0a411f1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Regular.uexp",
+    "size": 137,
+    "sha256": "b83125601816f5be4755ac24b7e3e3f1e7be3bdd7c2b6f88701280119e3dfba5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Regular.ufont",
+    "size": 197624,
+    "sha256": "c3fb0280e4339f6c70cea42b8b432c6fb17fde130fbb12e9209c7cdfa79d976f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBold.uasset",
+    "size": 673,
+    "sha256": "469d7365df9ba469f579850e29c824af7abb549029718288717443b039748ac6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBold.uexp",
+    "size": 138,
+    "sha256": "f54b91b2303233596410a84bb5781030027591d041a732306cf8a4a3807af138"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBold.ufont",
+    "size": 197964,
+    "sha256": "e23dc6d21070d45a1840c2b8217fc17ddd8a502a4db652748ec2f40d3603dc2d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBoldItalic.uasset",
+    "size": 685,
+    "sha256": "e74e608e1b4ad53bf0ebea97ba0bb8d564a9b4482c12a583011fbadb78fbd270"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBoldItalic.uexp",
+    "size": 144,
+    "sha256": "92082ca25bf788a653770d6d60ba6761892a936953854aff8b7a624a767672d8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-SemiBoldItalic.ufont",
+    "size": 202736,
+    "sha256": "59e24644aeb86c568f2b74ac59472a96a2246865acb2737579367c9641adfca0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Thin.uasset",
+    "size": 665,
+    "sha256": "2e7f8b4aca0f70fae4eed567cc13bdfdbc7f048f9b8b00be3f08185fae435e35"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Thin.uexp",
+    "size": 134,
+    "sha256": "a7c226ead56d308ebfd8f09df79fa90e20083774bce96367d02cc0e3209820d7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-Thin.ufont",
+    "size": 197104,
+    "sha256": "e55b6f5f7cab124a2b3c8a422336b213710fe8d13cdbcd30798215b8addc20f1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ThinItalic.uasset",
+    "size": 677,
+    "sha256": "0fd775fb8009d9caa1f8729dc3d453ba72ac0a3c90d25d64bac254e19b103046"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ThinItalic.uexp",
+    "size": 140,
+    "sha256": "44af8f6a553d66dc79d51cde2e3b5974d7d4afcaf6ec9d00bf56607059d4b976"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Montserrat/static/Montserrat-ThinItalic.ufont",
+    "size": 201864,
+    "sha256": "d5bf513555ac2ee9e01adf5c8811e3a161204cfa13337d2150d0ab3e6ec4a990"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Black.uasset",
+    "size": 654,
+    "sha256": "f360209238066acbd054bed3e236e3dacb59532795a562edf2857c0aa3b6dab3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Black.uexp",
+    "size": 124,
+    "sha256": "2a143d545663af73f2d28681b75a0176c770227dd7f4c04675ad7f2b030aa5d6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Black.ufont",
+    "size": 629912,
+    "sha256": "18ee64cb5a5a842f036857f771e3a35ba9708a6d13b047d573ead088682083b9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Bold.uasset",
+    "size": 652,
+    "sha256": "e44792d508f37ae658d0dc966a410a83b773676e3416a1ec8f439a08aada4beb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Bold.uexp",
+    "size": 123,
+    "sha256": "b7c1fab122b0ba495a75c129ec1817840bdde9dca1bfb86b8c215d53331830ac"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Bold.ufont",
+    "size": 630968,
+    "sha256": "13a813c49624ae3ba3c5c6e72c5ebffc4b9e1e6ea32f421c04069b037c6ad431"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraBold.uasset",
+    "size": 662,
+    "sha256": "47006def3b7f7717dc1bc94ba1bf31c4d0461864d7917d7eb87a5d1ff2c58602"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraBold.uexp",
+    "size": 128,
+    "sha256": "030ce3467bc225ad5b8926987901be7c298f0f74f54d142a766d7fd74eb217d7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraBold.ufont",
+    "size": 631288,
+    "sha256": "d0ba2f6bcc66ff9cadf6c0c8022484ba591db8a170691437485fb95b25dc18b8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraLight.uasset",
+    "size": 664,
+    "sha256": "85dca93db8f4dd4db3d647b8b73eeb0e0723ace87e28c1039e968f0109bfa1e9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraLight.uexp",
+    "size": 129,
+    "sha256": "12b12756e4a549c361451ebcf72e5595ff22e50360c06c73f8fe64ebfb17ed4f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-ExtraLight.ufont",
+    "size": 629780,
+    "sha256": "3b4937b2d0fee94bfc3bec03012339e1a8492783b7c142e4f84bf4b67b7a567b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Light.uasset",
+    "size": 654,
+    "sha256": "d24045e2148b58bd8aa2c85d7883c12d60cdd6539196d57dbe270845c6797ed0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Light.uexp",
+    "size": 124,
+    "sha256": "68196fe0ef84366073e4854b089b978f1cc6f25bcfe0f409d2ddbfbc50b97d83"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Light.ufont",
+    "size": 629564,
+    "sha256": "ad161dc21b079cabda74ba05032d63f729fb54ed899e995401bde1e49e19872e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Medium.uasset",
+    "size": 656,
+    "sha256": "5bc52fb77c4ff0972671b1ce7095312b7734333801a7c3d608e27dec99c26fc3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Medium.uexp",
+    "size": 125,
+    "sha256": "01b596e7dd6ea85044e438171e1fe3adecc4f29849265b751a22c567a06bf3b0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Medium.ufont",
+    "size": 631052,
+    "sha256": "8c1dc004996029f804283dd398ca2a05d4d33ebcba5c0d25ea13fd2026572279"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Regular.uasset",
+    "size": 658,
+    "sha256": "ffa73d41761f2a9900884313e190802505e5632fda68cf3f47bd58c987af0fd6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Regular.uexp",
+    "size": 126,
+    "sha256": "d96c14939f6fdd6665176a795a98cac3fd444bef0aa628e88e5e30922527e243"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Regular.ufont",
+    "size": 629024,
+    "sha256": "fe8c022f48d8dd29f17b744d16f9346f4357e16f7d4f7be58b000ae7c291b614"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-SemiBold.uasset",
+    "size": 660,
+    "sha256": "2b4def571f05c53ef25d0c3a4350adb89b2a72df514c46f080f7142b89b0a4e1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-SemiBold.uexp",
+    "size": 127,
+    "sha256": "0039eb2ef4dff7870408d41d0f17db9e5e30885b4c9594ac4e3b1569296c4248"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-SemiBold.ufont",
+    "size": 631364,
+    "sha256": "e691fe27813ec6ed11d0a5be4c6c1f6739996ed682462eaa3244a6185217dd6c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Thin.uasset",
+    "size": 652,
+    "sha256": "12a5f0ad213feea9ac1fa8c9e899e5d634da566614ad7582abdfbe3428caa787"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Thin.uexp",
+    "size": 123,
+    "sha256": "62eb907b190a83ef9420c0d346d7548848914e1d2cd89bd9284f3b84067370e9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSans/NotoSans-Thin.ufont",
+    "size": 628672,
+    "sha256": "d425d516c28336928deee0f9c9c56c879c78a282150147fe2f6e872dbe8bfb28"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Black.uasset",
+    "size": 675,
+    "sha256": "4d163b25445dc3fffbbffb14b7239f09ae0ce11465ed8b1c63df167edc3e49cf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Black.uexp",
+    "size": 138,
+    "sha256": "fe27ecca3c81a1953cab43240c0fa848ccd3878de632d376f0de2d94f812815c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Black.ufont",
+    "size": 141248,
+    "sha256": "6c95a791ce7bfeee883c78f546876ba5bea21b74a4c6f552815eff7464d38367"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Bold.uasset",
+    "size": 673,
+    "sha256": "0849f2fa9859ddd3d93517a863e4a22ac6126ebf8f348c3b4b0fbb65c333a92c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Bold.uexp",
+    "size": 137,
+    "sha256": "8b150d32cc1cddeaa9885010a37b1577cd9256fb812891817f980f57e96bda1b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Bold.ufont",
+    "size": 141476,
+    "sha256": "3a44a4cf2c4f79c3ead8f52dffd5b3a66f0b2483792d66bad81e1a51e888bfd6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-ExtraBold.uasset",
+    "size": 683,
+    "sha256": "93f56193a959acef01300c2d9c040cef8da330b29a7db8857afadb1cb7978068"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-ExtraBold.uexp",
+    "size": 142,
+    "sha256": "c549bee6e5d8e911fd0e81d605659d6df83642006d890e845d815ad91cb3c7df"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-ExtraBold.ufont",
+    "size": 141496,
+    "sha256": "fc20ff64272486778cc5634bfe2c5362e60a9902d0222cccc878d7f9819c6eb2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Light.uasset",
+    "size": 675,
+    "sha256": "d5a79b0d1880321de10ade078486eb9a0dd41195361eddf7c4606f2c3c49c30e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Light.uexp",
+    "size": 138,
+    "sha256": "b7e61b0a2b50647e69bcb7691bac259aeee95a501d0cb470dd53413934272747"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Light.ufont",
+    "size": 141504,
+    "sha256": "b471351aada1cfa8cc67b7e9758ca25f46e58918901461cba2a9c0f4de75e794"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Medium.uasset",
+    "size": 677,
+    "sha256": "cbebb6f0566cd7da7d81118fe89b9b6af621b135470435c1507126f68fad40c4"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Medium.uexp",
+    "size": 139,
+    "sha256": "db7272f33902411e016bd5949a0fa5f34f8d26593e0876c26b2115378bd95347"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Medium.ufont",
+    "size": 141464,
+    "sha256": "a1261260812b77a4d5ee71625d6b09b7c06b142fa7680f35348de3c970ab1663"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Regular.uasset",
+    "size": 679,
+    "sha256": "47ca580a2d743fc3f5515db029bacd6571988574f37b8c096af97ff7dd125dde"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Regular.uexp",
+    "size": 140,
+    "sha256": "875282898b5645bbebb29c83c61977b7704841293d088f5a3b6be8a0a4e27feb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Regular.ufont",
+    "size": 141064,
+    "sha256": "6826d9667972f0f96e48c46f7a24e70afe97205032e6295cfb1f13fbbb8b90a3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-SemiBold.uasset",
+    "size": 681,
+    "sha256": "8c40fb469d237bd09dd4c19b8aa0154c557eff2f7d199108b4bdc6b72aa76436"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-SemiBold.uexp",
+    "size": 141,
+    "sha256": "817d42a4a8f4fbd5a22d132178192198823c9152a5108c0e13324509ab819825"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-SemiBold.ufont",
+    "size": 141624,
+    "sha256": "11a92a5f1f1c1a2b07db267fdfe1b20f3379bd96d7b43358f895223709ab8838"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Thin.uasset",
+    "size": 673,
+    "sha256": "d0e1af0ba6415d8e82592e0b9e82092c975d7d72bd8cb246bc34301769d02267"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Thin.uexp",
+    "size": 137,
+    "sha256": "cb670a4b5145340bd3e694c6ceee48b2ccfef5d6f3025f75fff351ad45f159c0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansBengali/NotoSansBengali-Thin.ufont",
+    "size": 141112,
+    "sha256": "59d2cf13d19c11cb07b968bb210c09aee7632071a4cc044637f7c43df6ca3460"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Black.uasset",
+    "size": 663,
+    "sha256": "3044b0b76b4e574c883a47c59f43912b23d0a4a8b8f010e460728dd52467e6d9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Black.uexp",
+    "size": 130,
+    "sha256": "b8c7814060e0c7c1039c379198f9c0d8bc0770eef23513e6939ae33712049f12"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Black.ufont",
+    "size": 19629516,
+    "sha256": "3cffb10242b4b7e6edd439ebf3bd7e392345525e093ea08149e0a0158a1b5151"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Bold.uasset",
+    "size": 661,
+    "sha256": "4433467e459512c429a25681f9176ff793f3dde3a0d447bb941224d1ab82422d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Bold.uexp",
+    "size": 129,
+    "sha256": "db8ece840f9aaac2358becdb619c68805261c3839e98a2868e1db3ab2b3fea08"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Bold.ufont",
+    "size": 20050760,
+    "sha256": "faa5f3656a78b2e2d450d27fe8382c778bc2b6bb5ea29c986664a6a435056ceb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Light.uasset",
+    "size": 663,
+    "sha256": "be10d17c0035b2d3c29bc834b33fcdb25c48467212a7ca8679f55b1ce752863a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Light.uexp",
+    "size": 130,
+    "sha256": "1dc876b4a8cd9e7cfd442cad474e480225487f9075016bb053176960ae641b6e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Light.ufont",
+    "size": 18160344,
+    "sha256": "872def437cf8b9c41bf1736da891e34a8c25b764c0c4a51418d3745570660f42"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Medium.uasset",
+    "size": 665,
+    "sha256": "018bd14c677b4820094309b76fb3bfa84b82de54f9851304e0edc943af755406"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Medium.uexp",
+    "size": 131,
+    "sha256": "a44772c5b9f25002832d4375d607457253d57cdd1c003bd96a81e86356ad0bb6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Medium.ufont",
+    "size": 18354360,
+    "sha256": "197d5e1e019faca33a4d55931c7d68b8056f3b97cb862049f5cb8de9efdfb8ce"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Regular.uasset",
+    "size": 667,
+    "sha256": "248afd4cf83b8330ebdd6fb28d20dd4bf930b674e9497e9110281529cc0a637b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Regular.uexp",
+    "size": 132,
+    "sha256": "29d927e4b29f2f37ce3c9d2b3bfe278aad8271f0de20c0db917a31820efe7a2a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Regular.ufont",
+    "size": 19484784,
+    "sha256": "b76b0433203017ca80401b2ee0dd69350349871c4b19d504c34dbdd80541690a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Thin.uasset",
+    "size": 661,
+    "sha256": "db2821c16c6d517711be016d1bbea3cbb6c0d2bda8cf27ea819b2f700a490562"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Thin.uexp",
+    "size": 129,
+    "sha256": "3815cdef5b39f13172e2d9ffb056c9daba156084106442e9765a763effd487c7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansCJK/NotoSansCJK-Thin.ufont",
+    "size": 16727128,
+    "sha256": "6efb3dfee32c261d6be3c2b1f89928afc1d18328499cddda4b1833338e7054b7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Black.uasset",
+    "size": 684,
+    "sha256": "e788fa40bb44cb477509a2cc96cd81672c85741ceb3e2bb0cd6997189f697c71"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Black.uexp",
+    "size": 144,
+    "sha256": "f139c33713557186b52e4e05d5426e4ec9c620b1d27a1423083a5942f9cc214f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Black.ufont",
+    "size": 221472,
+    "sha256": "a4e462613ba5891021d2934f2f9194630b6098e9134ad512b41433efdb5c2c8c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Bold.uasset",
+    "size": 682,
+    "sha256": "e7a78bbe23d2299619fa15eb0e7f7691d3cbe82d6bf8600fb62c7ff5aed352ff"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Bold.uexp",
+    "size": 143,
+    "sha256": "947e25cf6685bde7fae120debf02ec9b0f60667a9635d647cfc22374d5b81447"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Bold.ufont",
+    "size": 221652,
+    "sha256": "67f1ec9e2ac30b261090e32953b2df0adf6c942ab26ac47efb490fa7315bddab"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraBold.uasset",
+    "size": 692,
+    "sha256": "4c6196e9d471fed3540ec84ef3a318575a975c7949a66d982faa7f5a81207a13"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraBold.uexp",
+    "size": 148,
+    "sha256": "85ed31d788cb825dd052201255d8af72bdf50ac318c6c2efb88224c4178519bc"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraBold.ufont",
+    "size": 221708,
+    "sha256": "03154179b901fe6824371311d600b181a88d618c98f42918cda3a373c0b989cd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraLight.uasset",
+    "size": 694,
+    "sha256": "21e23574f71a7f69c08ae88eb07cc18fac712afe0781d45615e35c6959f2f7c5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraLight.uexp",
+    "size": 149,
+    "sha256": "d4f15f255e8d9a08ae25d369627e44c2af4887cbbe613c31a658209a3130456f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-ExtraLight.ufont",
+    "size": 221340,
+    "sha256": "891aa9f6c952651619473e540f9b3330519846099bf5b0a56b14bf16a66066a5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Light.uasset",
+    "size": 684,
+    "sha256": "fc644efb9e0e5c19fabb4ce96da84825e5fc933646c8f4568bba2f47b9562ddc"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Light.uexp",
+    "size": 144,
+    "sha256": "7e22a4591c944e7e3efd31756a099a56524f7273f1bab9cdb161324bf0a6fc39"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Light.ufont",
+    "size": 221384,
+    "sha256": "f4484acd162bceeece4a5361d4e5518fc49d8b74d9b877f441df0585cab160c8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Medium.uasset",
+    "size": 686,
+    "sha256": "dc61e0dc999b3e009566faedf2ebc248ea97a9c92fb55e5157bc02311aa2f4a7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Medium.uexp",
+    "size": 145,
+    "sha256": "92c3b6e12946c48a4048116363e46bb8d56520a4f39d97ed6970620bec26c226"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Medium.ufont",
+    "size": 221652,
+    "sha256": "1d354befc7dfcd303539cd9033a6887407a788c3ef18aca11460fb6dc7027f29"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Regular.uasset",
+    "size": 688,
+    "sha256": "d8d75e0ee0d6c48e0780b7422e79284564f49328f482b107646f1d7ba7561c2a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Regular.uexp",
+    "size": 146,
+    "sha256": "29504f027bbad958a68058d80b68f41ce3c43090ad92b8bb3cb76101f72b3cfb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Regular.ufont",
+    "size": 221084,
+    "sha256": "084a94d89eb54aafb93a056e15425c34fd859f6342875165d304837b3bcfc2d2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-SemiBold.uasset",
+    "size": 690,
+    "sha256": "104a58a9a2966359d0be2957b1ae34c2cdeb500bb0bb51a0d487f37ca122f96d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-SemiBold.uexp",
+    "size": 147,
+    "sha256": "50410f4424013f643f70a69a7181f18d98c1d7b87b8ea3ff47da2da3b52d3d1d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-SemiBold.ufont",
+    "size": 221752,
+    "sha256": "5f8764f341ed1badfd382540277386c97b2a711399cb273c4854c3097588287b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Thin.uasset",
+    "size": 682,
+    "sha256": "0213698e746669e4b7a0c8c9728937c742355b7b2d0fa96b9dbefbd37aa76a91"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Thin.uexp",
+    "size": 143,
+    "sha256": "cb81f51944cd98b9dcfdc852b34e75bb704a654991493c8f3e2208c09346c5a3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansDevanagari/NotoSansDevanagari-Thin.ufont",
+    "size": 220772,
+    "sha256": "b039fd3b51a3292fdcca0a0466a48ec2e7bb8b69c50a559303f211533c0eb651"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Black.uasset",
+    "size": 666,
+    "sha256": "7dade822dfd1231ad133964bd7677e8f095a3fa4b3d6dffc25bda9d620da7070"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Black.uexp",
+    "size": 132,
+    "sha256": "b64e73a58a20a87d7784ded921f7547fb7dd3708d75ea9f85f443db813159c51"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Black.ufont",
+    "size": 47412,
+    "sha256": "1208d84963bbfbd74e379bc6ed22b79bdfd2372c2833ed88e1c5c69297b51b69"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Bold.uasset",
+    "size": 664,
+    "sha256": "ee1cfd0e31494f6a679804cafd2f043fa294123e9d69f09ab47c8f5deeaf5584"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Bold.uexp",
+    "size": 131,
+    "sha256": "ef705fdd8213170b827cfe0ab3bb6593b2470aa09224e4646156f754e9e44626"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Bold.ufont",
+    "size": 47480,
+    "sha256": "0be544f347b3ab6382bdc2b555a783727a4858a3dc140670406924670967d916"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraBold.uasset",
+    "size": 674,
+    "sha256": "654786dbd85a74d50e6abdba1dbb0b8893a69713ba575f61e1840d63438d317e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraBold.uexp",
+    "size": 136,
+    "sha256": "648ae3a17e76a1fa94d5ba0bff153ebdc8a3f0c6280f39f41dada6cf9668e797"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraBold.ufont",
+    "size": 47524,
+    "sha256": "aff335509e962be5a640d16ed149be1b03b98d3223bf84b52a1f7e1a018760e3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraLight.uasset",
+    "size": 676,
+    "sha256": "632c9058f9cd5f162060178727ca816bfe604ce5da6e77bf943317198a263195"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraLight.uexp",
+    "size": 137,
+    "sha256": "9e3e51f716bf479c3c5231fcc0f699e53463a244734da7a297deb5aacb0db880"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-ExtraLight.ufont",
+    "size": 47608,
+    "sha256": "1a4c8a7374c214523566f0d43c9a8677ca331aa2c86c422fbb8cad07885ad9db"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Light.uasset",
+    "size": 666,
+    "sha256": "4666910285a1374e914bcac9fbdefba22e219fedc41b2c0590301a1466e0e0f5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Light.uexp",
+    "size": 132,
+    "sha256": "e320c4794d9076fbc84691f72efad823d41b40523e2e053d35f95f62428c7bd1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Light.ufont",
+    "size": 47556,
+    "sha256": "a60db4e297974176042d09d3f066bd3670ae3a091f3a04db747450e43c1e425c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Medium.uasset",
+    "size": 668,
+    "sha256": "9314c0c1048555f0f7c1538e4409539adfdc50a5d72311c8e8df48ecb9004210"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Medium.uexp",
+    "size": 133,
+    "sha256": "2a04b67e6f1ae908cb75e56a7427d8e415a74b564ec41ff1186b354e3b09f652"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Medium.ufont",
+    "size": 47544,
+    "sha256": "f9855a702e9899b9cfa1e8cb7cbf36c2c7bb6fe31ee0cd6860ae61ae012155d0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Regular.uasset",
+    "size": 670,
+    "sha256": "eed733cb8e0a8ab023b3e742a8bbe396df22c58873c21f4e1d93c52bfc46680c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Regular.uexp",
+    "size": 134,
+    "sha256": "2c19c0eda99ac207193e42e7badbcbad4e008eead62fd84bb4c801791cc6aeee"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Regular.ufont",
+    "size": 47484,
+    "sha256": "9acb585d8662ca4ed1b1cf5889dfa1393f8555103b3986e1ea1e3af4faef70bd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-SemiBold.uasset",
+    "size": 672,
+    "sha256": "dd0684b3c30a57d08d9ae6775789c04e7aa6f4e3ad86f4c2db8dcdfceb112a6c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-SemiBold.uexp",
+    "size": 135,
+    "sha256": "df38ae494a36bdb18aee3166efa45b7d51a4605665a696cae893f5181b175163"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-SemiBold.ufont",
+    "size": 47552,
+    "sha256": "2e0c06600ac07f9e22c9d360d3e3b37651af9aff9d2dd4b418ba9fd6856c51ea"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Thin.uasset",
+    "size": 664,
+    "sha256": "29ab498150045534c5266e86c708056a9d27d25f6ac84d64c76168f5c85df83a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Thin.uexp",
+    "size": 131,
+    "sha256": "111531efb5228f69f268df28484e3369a916dbfcb9b52ba6fe271b0276f3e2c2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/NotoSansThai/NotoSansThai-Thin.ufont",
+    "size": 47512,
+    "sha256": "f79d96c440ff9984bc6280893024f1dd34fd93ec6fb95f85830d7b3e345a3dd3"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron-Variable.uasset",
+    "size": 4312,
+    "sha256": "7b41d9682f11120eca90e94c7bee33ddd475a21c23c1bea2fc9012270b183524"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron-Variable.uexp",
+    "size": 9478,
+    "sha256": "bed3d528f4577e330e2c4447e5a51430b07843c36490333b5f95f7b926020e1c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Black.uasset",
+    "size": 654,
+    "sha256": "25cdb6bfc7b8069d5b226189f8a005a00571bdc02c14cb87e60eda2ea26d9646"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Black.uexp",
+    "size": 124,
+    "sha256": "f5fb060c917a61da5f291fe9a415ef2870a0429c3d7f347d86763211296198bd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Black.ufont",
+    "size": 58016,
+    "sha256": "e0dd777807bab2bf5d027026b2b8f5dec8379d1d8c5bccc6b5b0d899e214b408"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Bold.uasset",
+    "size": 652,
+    "sha256": "6c1ca7a21f017beed13a8c7abb77f1c1dc47b5168f269e66c1976fbdca307a50"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Bold.uexp",
+    "size": 123,
+    "sha256": "cf2634c1df93f8447a462710a1c241753fb0b7c23705f0d5eddd02b29a6cface"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Bold.ufont",
+    "size": 59016,
+    "sha256": "08b0993dc3b7f29507e7919416eab7ba9d7c580fff8db53dc6054a100ebf325c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-ExtraBold.uasset",
+    "size": 662,
+    "sha256": "4b0e2b270985ce5cba54d4aaf580655be490ce8e00629b3b266379e5d0279bec"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-ExtraBold.uexp",
+    "size": 128,
+    "sha256": "f7e8e2920a74dacd76969569e2b1c6e7f70aaf41bb88ef9916de463858330b9b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-ExtraBold.ufont",
+    "size": 61280,
+    "sha256": "506e88d12dee2e19a2e18542d5c95fbb9a5afff822733f8c971d7c1193c580b8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Medium.uasset",
+    "size": 656,
+    "sha256": "5c6dcb869d7bb15edf6c79b20814c0706e9c3fd802808ef8d5178ab7b026a304"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Medium.uexp",
+    "size": 125,
+    "sha256": "a1520860f4711237f1e2d3c5d88f3cd1dfb9c38bf8222b00fb8d6ae13afc5fd2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Medium.ufont",
+    "size": 57476,
+    "sha256": "2a9fed3bcf535ff0cdfdaf52fbe43f8966c18aa914497c907fd48875b2f4eccd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Regular.uasset",
+    "size": 658,
+    "sha256": "ae2241797983c4929e1a409040e8ccc776978ecad7a1fbbeebe4b6cb9148a38d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Regular.uexp",
+    "size": 126,
+    "sha256": "da1f81a358620de86d9b23f4db2016af6884bec6e55f947b9d038ea7710eac24"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-Regular.ufont",
+    "size": 56364,
+    "sha256": "718d05ca565b3c90842609d057fd3071388d0e52ccecdae4808521ab685f6c21"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-SemiBold.uasset",
+    "size": 660,
+    "sha256": "3e578c111ee3a7ddbb6aad7712639840b3fc8f22a3ac1ae209ec026d10235ae1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-SemiBold.uexp",
+    "size": 127,
+    "sha256": "42ffcc2c1d3940d72b5f5374d1a73d2c5e3a1dad96e57a07f2ced6d1b581d777"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Orbitron/Orbitron-SemiBold.ufont",
+    "size": 57592,
+    "sha256": "fd5889fea2622e69ddfcbf7c617f77dd738013e9aa74b8025e1c179316762172"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani-Variable.uasset",
+    "size": 4134,
+    "sha256": "7c726e48eefd2b74804c328cb75da6205ead08043788633c721c8b54ca0804d2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani-Variable.uexp",
+    "size": 8968,
+    "sha256": "a8e2dfb8eaaeb2318224e53cca8273002c3b89439d9e21fba78103c615f1048d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Bold.uasset",
+    "size": 652,
+    "sha256": "537aad79c3b8c981cab7329c8ca518ee7899e454db37ac915e674933a79aabb4"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Bold.uexp",
+    "size": 123,
+    "sha256": "0856c6bab5a9dd0eb115dacce01a2b61dbc1e36cc71766247d4bf976957dc55f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Bold.ufont",
+    "size": 373192,
+    "sha256": "0e2754864bf70da4f279189b713026551927c0c10258ff6dd431ff71fd6c8dd0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Light.uasset",
+    "size": 654,
+    "sha256": "47fbb89040ff749dc34f431b911e06125c486599b4b354b71220a502e648a729"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Light.uexp",
+    "size": 124,
+    "sha256": "a32cce711ada5307b5bfe1f5458e160212fe0ef458da2657c4d1380119bd96d2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Light.ufont",
+    "size": 357516,
+    "sha256": "9ee65da3e003d283571920f845141c3f3615f34c685357a13f8982a0b5754fea"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Medium.uasset",
+    "size": 656,
+    "sha256": "69aa1096a5353494d06e3461af034fb97da55999345b506fd7a0e6988a79dcb8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Medium.uexp",
+    "size": 125,
+    "sha256": "570a6bfe3da49e70e166a2910a8fe01fd856813d22973c8ec74bb2b1a03e10ef"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Medium.ufont",
+    "size": 357884,
+    "sha256": "88a3937dc5d0d96d6b1a313b82802b78541bfdb5c004a208dfeab56192938538"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Regular.uasset",
+    "size": 658,
+    "sha256": "54fd0791fd85983c0344b3e2b08d7cdb5d21c44828ff9baf8d0adedb7fea769c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Regular.uexp",
+    "size": 126,
+    "sha256": "8a74256aced1d64e38e647a82b6fbb5cb22479f30c8f2917d7517581ddc32cf5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-Regular.ufont",
+    "size": 352088,
+    "sha256": "f0ba67d6ef91bcff8b0e43a051f7483dd83ebfcade19880cd15df29890234d2e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-SemiBold.uasset",
+    "size": 660,
+    "sha256": "22b19a28f9216a31d92f76ddbbd0897393ddd551a9756b6aa188d00a34edc424"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-SemiBold.uexp",
+    "size": 127,
+    "sha256": "0e8af931b7ec06dc14314c2f72c89a1fb32235d9e842d3f6ea90865f66178fb9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Shared/UI/Fonts/Rajdhani/Rajdhani-SemiBold.ufont",
+    "size": 363500,
+    "sha256": "5fd51c1334cafd3654059b0ee61aa470088a70e4637a9cfc0274557c751eb0cd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Platforms/Windows/Config/WindowsGame.ini",
+    "size": 1946,
+    "sha256": "b2f4348afe193c06854a597d5989d0d1c279febbac33d5092f7e02b73799b517"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Platforms/Windows/Config/WindowsGame_Default.ini",
+    "size": 1946,
+    "sha256": "b2f4348afe193c06854a597d5989d0d1c279febbac33d5092f7e02b73799b517"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Platforms/Windows/Config/WindowsGame_EGS.ini",
+    "size": 2417,
+    "sha256": "f67ad79bc6747f3ae7e8b5f6d60d3863ae5654b9747fe1286483bbc34c838316"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Platforms/Windows/Config/WindowsGame_Luna.ini",
+    "size": 1708,
+    "sha256": "06f0791eed1d08172870175e9e2419dc78d2247f28854b94d618b77957740f93"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/AdHocAchievements/AdHocAchievements.uplugin",
+    "size": 556,
+    "sha256": "c702f6f1eb0a99ac63380c49d2d1be6ac1dda8e54881e91b491aec6925aa4119"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/AdHocGoogleSheets/AdHocGoogleSheets.uplugin",
+    "size": 474,
+    "sha256": "f8a3fb376eb93e94ffa25cf76fcb863999619cc84f6ef2f3889cc50b4552ebaf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/AdHocOnline/AdHocOnline.uplugin",
+    "size": 984,
+    "sha256": "10a1590ef9e47565519908c5c8294ba5567fa47acf612e17998fe91201fb061e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/AdHocOnline/Config/FilterPlugin.ini",
+    "size": 16,
+    "sha256": "cd041012701a8ed06cf6a022fc891da4a68d71e26fbfd8874f3aa4dd55769e23"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/AdHocPlugin/AdHocPlugin.uplugin",
+    "size": 2622,
+    "sha256": "87b160c5796e1abc744090ccd9e75aa0c9b24a90195a98a0840bcfccf3782db8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/AdHocQTEs/AdHocQTEs.uplugin",
+    "size": 635,
+    "sha256": "42d75102e960c1792bed412558194a810e9f2c48147d58d0839255c4c9c519a7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/AdHocUtils/AdHocUtils.uplugin",
+    "size": 595,
+    "sha256": "665b8e87490bd6dc70005845b5b83fd6557b29ebda4fbf73421aae8544eea964"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/BlueprintAssist/BlueprintAssist.uplugin",
+    "size": 814,
+    "sha256": "ff7ae76e03e29004f131015c0a1660cb4c4853747239929a3b9ef4d95ada2e7f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/CommonUI/CommonUI.uplugin",
+    "size": 901,
+    "sha256": "c0426e4b07c6514731b3dc8c1878ba9e8feeca3708a0f5de7178fb6a8ad3e62c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/CommonUI/Config/BaseCommonUI.ini",
+    "size": 791,
+    "sha256": "6eea6b065fcc8517af8674f45d5692031b1489a538d676b8c9c61d41dd01be45"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp101/DispatchEp101.uplugin",
+    "size": 399,
+    "sha256": "158d8954d03d1a92327ef5b6f06dc9db3a756e461547f103a7ef6a1ab0453834"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp102/DispatchEp102.uplugin",
+    "size": 478,
+    "sha256": "fe1ceb364bb2b9cbfc2c2c641a284b01ebce14fa90b2192d28cbf3d2a986653d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp103/DispatchEp103.uplugin",
+    "size": 538,
+    "sha256": "457be2fbed63961ceed37e93138f8f7aec3191fccf92e98c2a7d44d4559cd944"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp104/DispatchEp104.uplugin",
+    "size": 598,
+    "sha256": "14712dfc2c128f55124f3a41f4f6742491be9dd32be927e941ef66dbd040c4eb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp105/DispatchEp105.uplugin",
+    "size": 658,
+    "sha256": "73d9710043db77b00a8e8b55ac0cf147b311f8a3fc3bd74480fabb8303b5933a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp106/DispatchEp106.uplugin",
+    "size": 718,
+    "sha256": "a566fde5cf64ad518b3da92b22d1e86e9188bc685c91645b63d1c440aac10838"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp107/DispatchEp107.uplugin",
+    "size": 778,
+    "sha256": "0cc888a0f9df13456905f9ee4423dd46126581f51a45653305c805eb1131c408"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchEp108/DispatchEp108.uplugin",
+    "size": 838,
+    "sha256": "12ef985aa966972761a6bf329095ee724bb47fa75d4d6c17730506186cbb1a76"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchSpecialEditionContent/DispatchSpecialEditionContent.uplugin",
+    "size": 371,
+    "sha256": "c4c34306de6668cc3ab8aa22f2509085b7682bf2e0e1a43451e1f80e8f68ba83"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchSpecialEditionUncensored/DispatchSpecialEditionUncensored.uplugin",
+    "size": 510,
+    "sha256": "5d26fa4d9e2af98f5e60c8fe1fb5871624f50b29a0034454c3712bf7e19dd508"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchStoryboardNX/Config/PluginSettings.ini",
+    "size": 63,
+    "sha256": "099078ab37980dc6a4936c1709b6ae6685e3e3e8d178f402876ab08eb83d1843"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/DispatchStoryboardNX/DispatchStoryboardNX.uplugin",
+    "size": 390,
+    "sha256": "155b73748a181ea8e3a8f184bae73164f55b0709732bca8b32148b84b191d239"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ElectronicNodes/Config/FilterPlugin.ini",
+    "size": 49,
+    "sha256": "5d57999f3494b8f502cc1a49056742cabcd4aedde2b478e24d54194a6b99d12b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ElectronicNodes/ElectronicNodes.uplugin",
+    "size": 928,
+    "sha256": "6c35df16b07b108e017b88623ddfab2f76eb4ec604b271d5a69418506894de11"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/FMODStudio/FMODStudio.uplugin",
+    "size": 568,
+    "sha256": "366d868f926414de101cb853de05fc5dd097d63ca0fb93fc1588b70cca6c2fcf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/GameTesterApi/GameTesterApi.uplugin",
+    "size": 502,
+    "sha256": "609800d7bd6c75c81c342b388fdd62b1e4617938aa4d1299805881a2640f48cb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/Media/AdHocStartupMoviePlayer/AdHocStartupMoviePlayer.uplugin",
+    "size": 724,
+    "sha256": "5daf3335506782868063408fd190b26b7dde44eb3a1113b97aa2dbe4e8e6c711"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/Media/MediaCompositing/MediaCompositing.uplugin",
+    "size": 804,
+    "sha256": "539cdd2e88f76a5743022e92fa422d2f759d4ee06ef455206f01789a0a2e1581"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/ExampleAnimationFunctions/ScaleCharacterDuringPrint.uasset",
+    "size": 715,
+    "sha256": "2acb7a8e9947fef300a219bbb78d550622287b25140759ee5e57714d83f6b296"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/ExampleAnimationFunctions/ScaleCharacterDuringPrint.uexp",
+    "size": 81,
+    "sha256": "abd0ba52636816bb38e440f1c50f5dd70232df47984a40fd0d2b6e1f08cf3741"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/ExampleMaps/Shared/FontMaterials/M_ProtoText_NormalPrinting.uasset",
+    "size": 2561,
+    "sha256": "0528a4bc5cb2d524e7aebe109a45d3913a30fc7f3910f07c658f3a18b80d5e1c"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/ExampleMaps/Shared/FontMaterials/M_ProtoText_NormalPrinting.uexp",
+    "size": 12446,
+    "sha256": "27c4e51c17d558358541fa7247291e6dde12342e8e70793fc22deb771a3e886d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/ExampleMaps/Shared/Materials/Circle_256_hollow_thin.uasset",
+    "size": 757,
+    "sha256": "78df0682454b6ae874c1d744ac277c54b581ff56048c3f20dc054d5a00bc19c6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/ExampleMaps/Shared/Materials/Circle_256_hollow_thin.ubulk",
+    "size": 81920,
+    "sha256": "f3d2366075ae1de97f284dc4c4b6d677d45b43f7252d8036303c94ab36e3cec0"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/ExampleMaps/Shared/Materials/Circle_256_hollow_thin.uexp",
+    "size": 6018,
+    "sha256": "16601758a50196098b0edf245ebae7a5c9cf8b40757d491b1d74d2eba468a035"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/MaterialFunctions/ProtoRichText_ColorCompensation.uasset",
+    "size": 765,
+    "sha256": "60e8ca005810eebcb3811006f449f9224c82db397817164f5fab8888e9c883d4"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/MaterialFunctions/ProtoRichText_ColorCompensation.uexp",
+    "size": 107,
+    "sha256": "a3467a0ec4ddc9d64b386bce77335fa3208f0ea894d322f9d3fd2a3514844cbd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/MaterialFunctions/ProtoRichText_Data.uasset",
+    "size": 779,
+    "sha256": "f6fcb9e0e80890d983bacad843123d2d6b9a071a5f70b601db9e8b36a43a5feb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/Content/MaterialFunctions/ProtoRichText_Data.uexp",
+    "size": 251,
+    "sha256": "3b50f3f98ce0d51fa7eebe80ee1556b5194176d9521890fe1bf82a66c75438b6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/ProtoAnimatedText/ProtoAnimatedText.uplugin",
+    "size": 683,
+    "sha256": "289fe74c45b72a96bfb179b9a6409b4134bf1805d04a33ad6227ad84b20ffe9e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Dispatch/Plugins/RadarChart/RadarChart.uplugin",
+    "size": 754,
+    "sha256": "002f7fb3f390323cda3c7ab9bf1f8ce73057c022f6e9c86dd2d4420f9a5a5973"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/Base.ini",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseCompat.ini",
+    "size": 16057,
+    "sha256": "098857064f733d13cfd9b0681c3b54d6e9bf4e729d123e7b2f75da1dbd976c3b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseDeviceProfiles.ini",
+    "size": 34460,
+    "sha256": "d38ad99a75f66263c8ce41efa20e6ecd7a63536a2d6acecc4dedd391178d0917"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseEngine.ini",
+    "size": 142639,
+    "sha256": "08c03c0929d43bae8d0b2a71d501cbbf8bfb27f76b3d23df56a1ca3e23a1917f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseGame.ini",
+    "size": 7190,
+    "sha256": "9b4757b17c6cf295f8d8bf16f4f7c8141e34c720a2f978bd5e91e8a6491075f5"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseGameUserSettings.ini",
+    "size": 61,
+    "sha256": "cd92b03b5a94ead554160461a3faa9e8e1fdf52f37a23c000ebe1164fc28f90b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseHardware.ini",
+    "size": 1464,
+    "sha256": "a166761ea76050ac7c165ae451acfdd00f9bcd7d40dcd30da696dd059f30c3e9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseInput.ini",
+    "size": 22873,
+    "sha256": "bbe23b6751dd68e358560a49177c12671b0ed86de3f6301d999452dbdc01fa18"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseInstallBundle.ini",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseRuntimeOptions.ini",
+    "size": 37,
+    "sha256": "64e4686642dd36aeb66087bc0d71592651a4fa70064e27cd1266013dfc8e7d2a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/BaseScalability.ini",
+    "size": 17787,
+    "sha256": "a15f341810129b72f46a111b84ec43403615988330ed54539d0b436cdffda6f8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/Layouts/DefaultLayout.ini",
+    "size": 9826,
+    "sha256": "80cea82ac2904ea74cc05e721100f0acd2057962ee3780e3fe782c60a34f9570"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/Windows/BaseWindowsEngine.ini",
+    "size": 97,
+    "sha256": "bd8d61971ee9d6f41b0917a278e78804e0698ae1a3a74dfc74fb50e79b122acf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/Windows/DataDrivenPlatformInfo.ini",
+    "size": 4771,
+    "sha256": "d4f1d9d242c4c991409ef6a968eba54eea5957ff6a78f97f8a2d9fe75ac2c9b7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/Windows/WindowsEngine.ini",
+    "size": 348,
+    "sha256": "bac74e8d8f1bfd81a603a70f246e854ba48bc949bbff441478ebcc35b557f957"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Config/Windows/WindowsGame.ini",
+    "size": 91,
+    "sha256": "3c0375053ddce3bc5cfa5a720a60765793567fe95d0f1368e952b4c38f4ad32a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont",
+    "size": 3939852,
+    "sha256": "05d71b179ef97b82cf1bb91cef290c600a510f77f39b4964359e3ef88378c79d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/EngineFonts/Faces/RobotoBold.ufont",
+    "size": 163448,
+    "sha256": "24571503140760240924dcd1238f77e7cd0454c0d8b0793990cefa2fad71471f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont",
+    "size": 165864,
+    "sha256": "165a6d02fd8973703787feeef5319b7fd8cb3f665a3c1e702ef0ca49701547c9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/EngineFonts/Faces/RobotoItalic.ufont",
+    "size": 160736,
+    "sha256": "470123c6fb5d6c0005431c0f5390742497c55087361a7636b7e82eb35635ded7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/EngineFonts/Faces/RobotoLight.ufont",
+    "size": 170420,
+    "sha256": "a6d343d425bc38db90152fa06058b1c7391eca9264f334ef65c1ce175085c6f6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/EngineFonts/Faces/RobotoRegular.ufont",
+    "size": 158604,
+    "sha256": "16466ef65064e6f3885a6d2806b8949ac1ac38b524dd0cf8fc96565eb4cc28e8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Localization/Engine/Engine.locmeta",
+    "size": 99,
+    "sha256": "4519008607d4f0b6ed752493965fdacf5d7d84160056c71f0893a7d0163c2217"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Localization/Engine/en/Engine.locres",
+    "size": 1607673,
+    "sha256": "06cb30ea757da9e7edc0fa0ea1b500d0c7e311c322fac24e907f00c052ba7e76"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/DroidSansFallback.ttf",
+    "size": 3939852,
+    "sha256": "05d71b179ef97b82cf1bb91cef290c600a510f77f39b4964359e3ef88378c79d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/DroidSansMono.ttf",
+    "size": 78296,
+    "sha256": "793a63429da92cb9be35ca3fca080a66b3c74915fc24b778dcc35d78f465e403"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf",
+    "size": 146548,
+    "sha256": "f3878be872cc1d4ad9bd63535db480e3c5752c6313842656208872275cb32226"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/NotoSansThai-Regular.ttf",
+    "size": 39128,
+    "sha256": "f8997f85ec7aea91a6b077019f76b80145568e22d3056942a28f298510a8434d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-Black.ttf",
+    "size": 164936,
+    "sha256": "c78ce438e9d91ea8c16341aaf2c6cf07f9c347eb1130bd922796ad4fb78fe885"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-BlackItalic.ttf",
+    "size": 166320,
+    "sha256": "5e7928c14bbddea37ec9ba2453f00bd8f4d73c42c20528e42abc5b89d2732db1"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-Bold.ttf",
+    "size": 163448,
+    "sha256": "24571503140760240924dcd1238f77e7cd0454c0d8b0793990cefa2fad71471f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf",
+    "size": 161308,
+    "sha256": "2c9245c0246a9c745793c7eaa9cc1fc964a12570009031ea0223115bec6e9426"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf",
+    "size": 163584,
+    "sha256": "1117eab9f490123cf8a656fa936a4c9a7e4918b88ae576d64d3d79507096f7b9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-BoldItalic.ttf",
+    "size": 165864,
+    "sha256": "165a6d02fd8973703787feeef5319b7fd8cb3f665a3c1e702ef0ca49701547c9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-Italic.ttf",
+    "size": 160736,
+    "sha256": "470123c6fb5d6c0005431c0f5390742497c55087361a7636b7e82eb35635ded7"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-Light.ttf",
+    "size": 170420,
+    "sha256": "a6d343d425bc38db90152fa06058b1c7391eca9264f334ef65c1ce175085c6f6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Fonts/Roboto-Regular.ttf",
+    "size": 158604,
+    "sha256": "16466ef65064e6f3885a6d2806b8949ac1ac38b524dd0cf8fc96565eb4cc28e8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Content/Slate/Old/Tiles/Roboto-Bold.ttf",
+    "size": 163448,
+    "sha256": "24571503140760240924dcd1238f77e7cd0454c0d8b0793990cefa2fad71471f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/AI/AISupport/AISupport.uplugin",
+    "size": 648,
+    "sha256": "f96ada5e3ebd483410b67273703725731287fc39351b30b9403cddf36914476d"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/AI/EnvironmentQueryEditor/EnvironmentQueryEditor.uplugin",
+    "size": 746,
+    "sha256": "2f9ed188a546b9020a6dd4246821041563d70aa4d1564461fe0b8ecd95777f40"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Animation/GameplayInsights/GameplayInsights.uplugin",
+    "size": 780,
+    "sha256": "f8d69d2338440e06d25bdfa8e6a4693973fb14bc578f0e02ce159d5ee9ad33c6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Cameras/GameplayCameras/GameplayCameras.uplugin",
+    "size": 657,
+    "sha256": "bf0635a8358bcb0166a1abdc6312bc3ee9794ea736c895ad0637d47e0c48c2b8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Compression/OodleData/OodleData.uplugin",
+    "size": 710,
+    "sha256": "f71ed7c0dda5b53aa70fcfa504c345a4a59564a0b72dd46e6d88cbb397bd9154"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Developer/AnimationSharing/AnimationSharing.uplugin",
+    "size": 786,
+    "sha256": "1f500ec3d76ea8376f82ccc1fa81955f1250a5613d3d4d0589408a862820e311"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Developer/PluginUtils/PluginUtils.uplugin",
+    "size": 565,
+    "sha256": "f2f97d48d540bde4558d1166b8e6b3d1522967ce63a42defcd3e1d10a8d6cedb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Developer/TextureFormatOodle/TextureFormatOodle.uplugin",
+    "size": 497,
+    "sha256": "f749d8ef9f7c8182771348185147f3d659f4a3ae77d0f32767a09322dcb8155b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Developer/TraceSourceFiltering/Config/BaseTraceSourceFilters.ini",
+    "size": 48,
+    "sha256": "2e8525ebbb2a3aacd2ac3ee25b77f1a0d13c0d0930cec241c603cfd585f4cf80"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Developer/TraceSourceFiltering/TraceSourceFilters.uplugin",
+    "size": 962,
+    "sha256": "8544bb4957130ce072af2d94eadf57d6ee6bfce0c390ebb1c120b0e6d04e732e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin",
+    "size": 607,
+    "sha256": "16261ac10205281fd1ff1d1f04affe8b0f768f9e6fdcae2af988467a7597ff44"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Editor/EditorScriptingUtilities/Config/BaseEditorScriptingUtilities.ini",
+    "size": 148,
+    "sha256": "56eecda40f9b584907410a3f83e352bc38560dcdb2b12fedd257f5174f672b08"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin",
+    "size": 649,
+    "sha256": "1a07db8343bc62fadbf2f2b2c6f9c51712cd34d987ce84f4adad33b756772e5f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Editor/GameplayTagsEditor/GameplayTagsEditor.uplugin",
+    "size": 660,
+    "sha256": "7323bee96719acfa0e7638325d851e65beb55a75c8858b5deee931343e86b430"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Experimental/ActorPalette/ActorPalette.uplugin",
+    "size": 649,
+    "sha256": "43798d177482f4b220e9def32fbeb3c1274a121702ecc893e32e9334ce302a3a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Experimental/ControlRig/Config/BaseControlRig.ini",
+    "size": 1319,
+    "sha256": "c67c7b9cddf886ff88cf1825bb2d5a1c4337b1a3e772a7d43807735b062e9eb8"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Experimental/ControlRig/ControlRig.uplugin",
+    "size": 870,
+    "sha256": "22e41e3fc5ee035f7a711e29aeb1c4a580a7965f0c100008c0ca2ab4c9df92b9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Experimental/EnhancedInput/EnhancedInput.uplugin",
+    "size": 724,
+    "sha256": "ec03a71550117ba3ce18cd4119af1075df47e48b27ac7072d9419ebbfcc8e6fd"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin",
+    "size": 827,
+    "sha256": "a71f9d808da8c871b94fea4fd928a8f79be2c63aa4edf41fefd594809d6f2240"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Experimental/PlatformCrypto/PlatformCrypto.uplugin",
+    "size": 1781,
+    "sha256": "9e537ffea054690817b82b9c438c91508e1cd5cf6eddbd2e3265a4317199d98e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin",
+    "size": 945,
+    "sha256": "a2cfc07adc6e812a5730cfc1d230a710dd540959ad471d5581f7a90df30d5610"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/FX/Niagara/Config/BaseNiagara.ini",
+    "size": 19828,
+    "sha256": "beae60c056dd481f32a4396ade9089df72d7da065023f43045c9e789665aa453"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/FX/Niagara/Niagara.uplugin",
+    "size": 1231,
+    "sha256": "ee817783b7d204c1e0fc2d1ee775bb3766098dfb14dea68b4d448b3c11f92044"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Media/ImgMedia/ImgMedia.uplugin",
+    "size": 1474,
+    "sha256": "2530765e2d67ae8b492fbca1c70b0e9b1c31119766437f0cdd32b51f9396fe82"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin",
+    "size": 1290,
+    "sha256": "4f005eea33f1dfe33744f4396c42fd2778fe07248f23397fafdf2c20f4144e7b"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/MeshPainting/MeshPainting.uplugin",
+    "size": 723,
+    "sha256": "c2e9333aa2984c7bcb570da85a857a1994be7af88f3cdb4c6ea7d954498b52bf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/MovieScene/ActorSequence/ActorSequence.uplugin",
+    "size": 682,
+    "sha256": "7d9bc9458c61f1bce8fd92a0676804e427c0317f5d839b9d55220458a41cf5bf"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin",
+    "size": 580,
+    "sha256": "340ef6ab6eb9117c442f9db383c25d8e14a8180c4e281ed0a598e3e89704fbeb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/MovieScene/TemplateSequence/TemplateSequence.uplugin",
+    "size": 772,
+    "sha256": "9bb0d625ce4fc26cb2fec30920afb1246d89515d9844c3c8a6340fbd69d95679"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystem/Config/Localization/OnlineSubsystem.ini",
+    "size": 1311,
+    "sha256": "eb74d6fef2d37f4105d0728ad94461b1743588dbb0732a5856cc108dfd3af9c6"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en/OnlineSubsystem.locres",
+    "size": 1162,
+    "sha256": "2d5f22f4b85453ee2a4c5d99590031c19d0b5860190976c041e1e3cde5b4bace"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
+    "size": 549,
+    "sha256": "5a8c557d364e43458e9f65bf2a82e1fbbb8fdbec7dd3b09810907c41e29e260a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin",
+    "size": 616,
+    "sha256": "c2dc706853aeb1b45cf79c1cf25f12fe36b08de3859bd99d31eca7e94e0ad904"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystemSteam/Config/Localization/OnlineSubsystemSteam.ini",
+    "size": 1356,
+    "sha256": "f86f9a440808b47642538137f5fbe8491c0bcbc068013f692aaed561dc3c681f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en/OnlineSubsystemSteam.locres",
+    "size": 189,
+    "sha256": "893f42a8b19f5b743012d40b7ecee60a1f6d7154673d9dd8246b4eaa8a15d19e"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin",
+    "size": 938,
+    "sha256": "7227b8d23525932dcd6d65972992a6b430a2f5215d547cdf30aec9b7940f8bdb"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystemUtils/Config/Localization/OnlineSubsystemUtils.ini",
+    "size": 1356,
+    "sha256": "9b2a9d0e8ea9e43a77f184d8cff7b469ed3e5ebbdd63b32f2b7275ad98591efa"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en/OnlineSubsystemUtils.locres",
+    "size": 1391,
+    "sha256": "04f8129e108e00503bc2baa1c05dbf1b7a78ce671f2597b1293be7702be261c9"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin",
+    "size": 858,
+    "sha256": "ed59a73432ca287a1c580eea9ec6f52c1021f872930f3c136b42c972e75d238f"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Runtime/ActorLayerUtilities/ActorLayerUtilities.uplugin",
+    "size": 668,
+    "sha256": "a37927783fd68671b1827e96fa6ba452096acbe3a6a699eccc68a7d70c16cda4"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin",
+    "size": 688,
+    "sha256": "60c8a245b005b820fd225792ed5389bad5b83b077e3bbb1998ad8a4eb05f9a56"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Runtime/AssetTags/AssetTags.uplugin",
+    "size": 619,
+    "sha256": "581e1d451ffe1fc2da8b8ee004782cc34924eab2994b0c4b51082992190acfa2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin",
+    "size": 672,
+    "sha256": "33dc38a4efb51d11eff303d8679d19bce5c1807dfcd4a3a197535dcce37da888"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Runtime/PropertyAccess/PropertyAccessEditor.uplugin",
+    "size": 676,
+    "sha256": "b2e7e2d60d8f46426e6c1b3c152f79d7539cf83ddc867e436eecb07adaeef752"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Runtime/SignificanceManager/SignificanceManager.uplugin",
+    "size": 701,
+    "sha256": "7447d3ceb435ce7ecb893abc1c1fdd22e633283d5da3767084618c904475e02a"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Runtime/Steam/SteamShared/SteamShared.uplugin",
+    "size": 595,
+    "sha256": "f5e5102b0d11a580e8d51a65ef2039c00dc6da60b109e5e766398b858ea72cf2"
+  },
+  {
+    "pak": "pakchunk0-WindowsNoEditor.pak",
+    "path": "Engine/Plugins/Slate/SlateInsights/SlateInsights.uplugin",
+    "size": 660,
+    "sha256": "994890a98641cbf2a3b8c4073ec22daf27547375da9639ea4c2c3626e575e3bf"
+  },
+  {
+    "pak": "pakchunk10-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/105/105.csv",
+    "size": 2719,
+    "sha256": "d19111e93b01e05c04c9b89f801acce17a018bcfa7d5ac5a78c9166765a3f1c9"
+  },
+  {
+    "pak": "pakchunk10-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/105/105.locmeta",
+    "size": 184,
+    "sha256": "7dc3e2934a1ee8569856f33a6e5b7e4c4443913268e6a033902f8460b6c58138"
+  },
+  {
+    "pak": "pakchunk10-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/105/105.manifest",
+    "size": 713052,
+    "sha256": "8d764a6f1188429eb3a48307881ffc889420ad41d11dbc1eebd2a737ddc56c08"
+  },
+  {
+    "pak": "pakchunk10-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/105/105_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk10-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/105/en/105.archive",
+    "size": 551956,
+    "sha256": "7f6e383b8c2c0f6a7f3aa5f90f2e24dcfc653895e282692fd9630ecc25612b6c"
+  },
+  {
+    "pak": "pakchunk10-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/105/en/105.locres",
+    "size": 114674,
+    "sha256": "13d24b4b23625494b4822ddf993aa509c5dfba54741a43c4f091979a8c02e30f"
+  },
+  {
+    "pak": "pakchunk10-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/105/en/105.po",
+    "size": 548036,
+    "sha256": "49da56e048795ec3266e69747fbcc382b661a41d40c63f4d378c2890c0958677"
+  },
+  {
+    "pak": "pakchunk12-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/106/106.csv",
+    "size": 3086,
+    "sha256": "4396866a5a52a431197e0db249b03dd92078ab6ddd123fc626e853defaba843b"
+  },
+  {
+    "pak": "pakchunk12-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/106/106.locmeta",
+    "size": 184,
+    "sha256": "17bafc7ebdc2ea82b65656efd38417ab45c2d2381f522acd2a80c1993dfafc64"
+  },
+  {
+    "pak": "pakchunk12-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/106/106.manifest",
+    "size": 577540,
+    "sha256": "3def7f289fa270874c30dfc4b3bc93d28077ac58df6b285b12f9fff3dd62af23"
+  },
+  {
+    "pak": "pakchunk12-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/106/106_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk12-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/106/en/106.archive",
+    "size": 459854,
+    "sha256": "c3c70f64b6c4cb573072c720ae67e42cef7a359eda6489ff8da9e6852fd5869b"
+  },
+  {
+    "pak": "pakchunk12-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/106/en/106.locres",
+    "size": 101924,
+    "sha256": "69656e92210da223897d24b53bb72ecac9aab26de20da966895b07eabad8b61f"
+  },
+  {
+    "pak": "pakchunk12-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/106/en/106.po",
+    "size": 446795,
+    "sha256": "975117477f98641ef26c9acef013b5f4f194e95fd65c06d76967f96245b694a8"
+  },
+  {
+    "pak": "pakchunk14-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/107/107.csv",
+    "size": 4208,
+    "sha256": "dae7bf69e813ea523f68c4cc641c46efd73a1ecd7fbb2e6857a125136dbf9a92"
+  },
+  {
+    "pak": "pakchunk14-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/107/107.locmeta",
+    "size": 184,
+    "sha256": "20f8934ebe763fdfaacd5fe7d6a14f7620cba9cd9244a62cd9787cb61876df6c"
+  },
+  {
+    "pak": "pakchunk14-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/107/107.manifest",
+    "size": 452876,
+    "sha256": "31a9bb94ffe0f88dfa8542c21fe9e4d073683eb105e140ace45f0aebe3cab7c4"
+  },
+  {
+    "pak": "pakchunk14-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/107/107_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk14-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/107/en/107.archive",
+    "size": 364508,
+    "sha256": "a8cdf462e26dbbf58924fc83199bc2f1022aea7aafdeb56abd514c1f4b3cc8dd"
+  },
+  {
+    "pak": "pakchunk14-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/107/en/107.locres",
+    "size": 87043,
+    "sha256": "2a750676fc5bc098c776dba31c1fe038c2f2a0eea92cf334b02c1d91bda9d4ce"
+  },
+  {
+    "pak": "pakchunk14-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/107/en/107.po",
+    "size": 349508,
+    "sha256": "02f447e848a228d80920a0d8049eead60ba7086480e1795371f6e3691613543d"
+  },
+  {
+    "pak": "pakchunk16-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/108/108.csv",
+    "size": 8267,
+    "sha256": "0d3822f1c8f3f39b0c1500af673179d353865dd9f37afb49e37d2a6490a307f3"
+  },
+  {
+    "pak": "pakchunk16-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/108/108.locmeta",
+    "size": 184,
+    "sha256": "d008f9551ad728bcf5cf748a85b26de0c9648b38052dd8e093eade9387f3c6ec"
+  },
+  {
+    "pak": "pakchunk16-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/108/108.manifest",
+    "size": 1346342,
+    "sha256": "43c6ee9edceb2e753026eaa9e9de0f8ac81b8f2be704448112a5eff2a49ccadd"
+  },
+  {
+    "pak": "pakchunk16-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/108/108_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk16-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/108/en/108.archive",
+    "size": 1041446,
+    "sha256": "441fe26c7e8a188c5cf21729e4da0ba8afb9efbd2567ddf81184be780af0fe36"
+  },
+  {
+    "pak": "pakchunk16-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/108/en/108.locres",
+    "size": 215968,
+    "sha256": "4dc0ad58b183cf7fb8ebe13bea3bc5207b0cbbfbf3ece86655f9d42dfe4d3cf6"
+  },
+  {
+    "pak": "pakchunk16-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/108/en/108.po",
+    "size": 1036346,
+    "sha256": "fd20da327eb0ff6ecd23d57a8b3c006008fc53b75a8d3b6fcf4fc7b642c9199b"
+  },
+  {
+    "pak": "pakchunk2-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/101/101.csv",
+    "size": 5172,
+    "sha256": "86198f867010cf28d8821a9c352e1d3e0dfe738d7f060f9925358c6a037e2b80"
+  },
+  {
+    "pak": "pakchunk2-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/101/101.locmeta",
+    "size": 184,
+    "sha256": "21d8408ab07bfdc177a5c723c0ed52ae781aa03194300c8946f63127495e9690"
+  },
+  {
+    "pak": "pakchunk2-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/101/101.manifest",
+    "size": 524696,
+    "sha256": "6c04e03f8cd778e90dc2ad3425a4c408959552e700ef0983cb9b24490571f4c1"
+  },
+  {
+    "pak": "pakchunk2-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/101/101_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk2-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/101/en/101.archive",
+    "size": 421590,
+    "sha256": "0fd4b51a46aad59ca32438e1dc50e1135134d99df3905876869cc14a907a96d0"
+  },
+  {
+    "pak": "pakchunk2-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/101/en/101.locres",
+    "size": 97385,
+    "sha256": "883fb286712da564a42471f93e4083d1f52280c8c6f11d8b1198642f94892315"
+  },
+  {
+    "pak": "pakchunk2-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/101/en/101.po",
+    "size": 410369,
+    "sha256": "4a6f87e0b65eeb0a5158d11664845aa458eb2b1b64c5b53739eeecd75179f46c"
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/102/102.csv",
+    "size": 3595,
+    "sha256": "33d69dc58bf39d71d01020b36377525865e7f51c446bdbee1ccd69c01f0c5f78"
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/102/102.locmeta",
+    "size": 184,
+    "sha256": "d010a60852ddceceb9a42a44a5306f1c4e3c866e6299e1ae9fb5d94c2a82a673"
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/102/102.manifest",
+    "size": 1318106,
+    "sha256": "66e6f53c57d9c70e4d2355c4879cf59c2d6f48661b01349d1b4cfec5ca517dc3"
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/102/102_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/102/en/102.archive",
+    "size": 1029324,
+    "sha256": "4723d7caacb904a7efe6454cc89162e97508fae4da98c037c57174d1c440c887"
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/102/en/102.locres",
+    "size": 210380,
+    "sha256": "3c394512df832885b460857d592c42ea537b2a32f40c0b501ceabee18218dcf4"
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/102/en/102.po",
+    "size": 1084294,
+    "sha256": "36497c591ffd075823e1b52103a4d3a745cf28cd4262e2227435f69d41bd2406"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/103.csv",
+    "size": 5152,
+    "sha256": "7f87b6b9dfef0c6b7131f135e67bae5f91416f4ae44f9a9b8f8d9e09ee48b256"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/103.locmeta",
+    "size": 184,
+    "sha256": "d6564979742b03eab4100dd8dea99b9254f3103a677870b8487155d8820ff8d3"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/103.manifest",
+    "size": 827062,
+    "sha256": "29e8fc6c985c6fe0ed490d7840f31d7416ae5b7d85504e116fd7f95057d435fb"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/103_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/en/103.archive",
+    "size": 634622,
+    "sha256": "7757f4f89f806243e8ba6dacee1eecdc61721a0ddb6a0393b325cd991244fcb8"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/en/103.archive.mp3",
+    "size": 634074,
+    "sha256": "db9805e3b7f0faac2d861d2379b15ded4c62e7b81cbb7084439c423270f0923f"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/en/103.locres",
+    "size": 139198,
+    "sha256": "ac5aa1138f5ca526386212ffbcd0e91147af1e55d98aadbab13779cdcacbae7e"
+  },
+  {
+    "pak": "pakchunk6-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/103/en/103.po",
+    "size": 652123,
+    "sha256": "a896324488577a734fd6fc8b7e7a09db30da42fd6dac3efe248a30680fd4e9ef"
+  },
+  {
+    "pak": "pakchunk8-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/104/104.csv",
+    "size": 3897,
+    "sha256": "fa2067ef35819190b9fbfe5603fdea753515050d9072b52e854a1d748b81819f"
+  },
+  {
+    "pak": "pakchunk8-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/104/104.locmeta",
+    "size": 184,
+    "sha256": "2a2e56396ef0c3223fee227e7a7d8d65e85ba43634bd02deecdac3d4f6c0c841"
+  },
+  {
+    "pak": "pakchunk8-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/104/104.manifest",
+    "size": 1123542,
+    "sha256": "efffc796a42190bb7de0c33fce75dfed0f7967f0beb95e9d478ff92b7cc10148"
+  },
+  {
+    "pak": "pakchunk8-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/104/104_Conflicts.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "pak": "pakchunk8-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/104/en/104.archive",
+    "size": 848452,
+    "sha256": "cfc4c0a1e66bf9005809c096d7c014bc204f5ce641a2d084e88df4ed42414913"
+  },
+  {
+    "pak": "pakchunk8-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/104/en/104.locres",
+    "size": 178388,
+    "sha256": "4d3f6ee5c26e0e6a48a5212d9b405e009ce0ec16bb5c7e11945acf20b08ea4b6"
+  },
+  {
+    "pak": "pakchunk8-WindowsNoEditor.pak",
+    "path": "Dispatch/Content/Localization/104/en/104.po",
+    "size": 884955,
+    "sha256": "8b9326d84caafad11d31f18f0c1749a028308872a15b1c1341bf7f8d2219cb45"
+  }
+]

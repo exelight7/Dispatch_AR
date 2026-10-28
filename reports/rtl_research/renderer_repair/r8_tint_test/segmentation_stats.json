@@ -1,0 +1,14 @@
+{
+ "subtitles": 7488,
+ "max_units": 69,
+ "max_speaker_units": 4,
+ "over_max_units": 0,
+ "roundtrip_failures": 0,
+ "speaker_name_missing_arabic": 827,
+ "lines_with_markup_chars": 33,
+ "longest_id": "107:Line:CA0169E0DC1E4B37B7085095791F43A7",
+ "p50_units": 6,
+ "p99_units": 27,
+ "max_units_capacity": 128,
+ "label": "OFFLINE - Arabic translation data, not in-game"
+}

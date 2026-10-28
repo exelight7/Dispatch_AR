@@ -1,0 +1,1862 @@
+{
+  "source_file": "Engine/Content/Localization/Engine/en/Engine.locres",
+  "scope": "Explicit system/input/accessibility subset (460, round 001) plus 4 RUNTIME_CONFIRMED records from reports/coverage/engine_classification.json (round 006); runtime display unverified; no editor catalogue completion claim",
+  "identities": [
+    {
+      "namespace": "Core",
+      "key": "Cancel"
+    },
+    {
+      "namespace": "Core",
+      "key": "Continue"
+    },
+    {
+      "namespace": "Core",
+      "key": "UrlFailed"
+    },
+    {
+      "namespace": "Core",
+      "key": "GenericLoading"
+    },
+    {
+      "namespace": "Core",
+      "key": "No"
+    },
+    {
+      "namespace": "Core",
+      "key": "NoToAll"
+    },
+    {
+      "namespace": "Core",
+      "key": "None"
+    },
+    {
+      "namespace": "Core",
+      "key": "OK"
+    },
+    {
+      "namespace": "Core",
+      "key": "PureVirtualFunctionCalledWhileRunningApp"
+    },
+    {
+      "namespace": "Core",
+      "key": "Question"
+    },
+    {
+      "namespace": "Core",
+      "key": "Retry"
+    },
+    {
+      "namespace": "Core",
+      "key": "SavingFile"
+    },
+    {
+      "namespace": "Core",
+      "key": "SavingFiles"
+    },
+    {
+      "namespace": "Core",
+      "key": "Yes"
+    },
+    {
+      "namespace": "Core",
+      "key": "YesToAll"
+    },
+    {
+      "namespace": "Core",
+      "key": "IniFileOutOfDate"
+    },
+    {
+      "namespace": "D3D11RHI",
+      "key": "OutOfMemory"
+    },
+    {
+      "namespace": "D3D12RHI",
+      "key": "OutOfMemory"
+    },
+    {
+      "namespace": "Engine",
+      "key": "UsedCheatCommands"
+    },
+    {
+      "namespace": "Engine",
+      "key": "FailedToLoadDefaultMap"
+    },
+    {
+      "namespace": "Engine",
+      "key": "NetworkDriverInit"
+    },
+    {
+      "namespace": "Engine",
+      "key": "NetworkInit"
+    },
+    {
+      "namespace": "Engine",
+      "key": "PendingNetGameInitFailure"
+    },
+    {
+      "namespace": "Engine",
+      "key": "ComdLineHasInvalidChar"
+    },
+    {
+      "namespace": "Engine",
+      "key": "InvalidLink"
+    },
+    {
+      "namespace": "Engine",
+      "key": "InvalidUrl"
+    },
+    {
+      "namespace": "Engine",
+      "key": "ServerOpen"
+    },
+    {
+      "namespace": "Engine",
+      "key": "DefaultMapNotFound"
+    },
+    {
+      "namespace": "Engine",
+      "key": "GlobalShaderCacheFileMissing"
+    },
+    {
+      "namespace": "Engine",
+      "key": "MapNotFoundNoFallback"
+    },
+    {
+      "namespace": "Engine",
+      "key": "MapNotFound"
+    },
+    {
+      "namespace": "Engine",
+      "key": "ClientOutdated"
+    },
+    {
+      "namespace": "Engine",
+      "key": "UE4RequiresProjectFiles"
+    },
+    {
+      "namespace": "Engine",
+      "key": "ConnectionFailed"
+    },
+    {
+      "namespace": "EngineInit",
+      "key": "EngineInit_Loading"
+    },
+    {
+      "namespace": "EngineLoop",
+      "key": "EngineLoop_Initializing"
+    },
+    {
+      "namespace": "GameViewportClient",
+      "key": "ConnectingMessage"
+    },
+    {
+      "namespace": "GameViewportClient",
+      "key": "LoadingMessage"
+    },
+    {
+      "namespace": "GameViewportClient",
+      "key": "PausedMessage"
+    },
+    {
+      "namespace": "GameViewportClient",
+      "key": "PrecachingMessage"
+    },
+    {
+      "namespace": "GameViewportClient",
+      "key": "SavingMessage"
+    },
+    {
+      "namespace": "Launch",
+      "key": "Error_ResolutionTooLow"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "ReportCrash_Title"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "ReportHangError_Title"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "MissingGlobalShaderLibraryFiles_Body"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "DefaultMessageTitle"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "MissingGlobalShaderLibraryFiles_Title"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "DefaultSystemErrorTitle"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "ReportCrash_Body"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "ReportHangError_Body"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "VideoCardDriverIssueReport"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "LatestVideoCardDriverIssueReport"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "AppHasCrashed"
+    },
+    {
+      "namespace": "MessageDialog",
+      "key": "TitleVideoCardDriverIssue"
+    },
+    {
+      "namespace": "NetworkErrors",
+      "key": "GenericConnectionFailed"
+    },
+    {
+      "namespace": "NetworkErrors",
+      "key": "HostClosedConnection"
+    },
+    {
+      "namespace": "NetworkErrors",
+      "key": "HostHasLeft"
+    },
+    {
+      "namespace": "NetworkErrors",
+      "key": "NETDISCONNECTMSG"
+    },
+    {
+      "namespace": "NetworkErrors",
+      "key": "ClientReliableBufferOverflow"
+    },
+    {
+      "namespace": "NetworkErrors",
+      "key": "GenericPendingConnectionFailed"
+    },
+    {
+      "namespace": "WindowsDynamicRHI",
+      "key": "RequiredDX11Feature_11_SM5"
+    },
+    {
+      "namespace": "WindowsDynamicRHI",
+      "key": "RequiredDX12"
+    },
+    {
+      "namespace": "WindowsDynamicRHI",
+      "key": "UseExpressionEncoderDX11"
+    },
+    {
+      "namespace": "WindowsDynamicRHI",
+      "key": "UseExpressionEncoder"
+    },
+    {
+      "namespace": "WindowsDynamicRHI",
+      "key": "RequiredOpenGL"
+    },
+    {
+      "namespace": "WindowsDynamicRHI",
+      "key": "RequiredVulkan"
+    },
+    {
+      "namespace": "WindowsDynamicRHI",
+      "key": "OpenGLRemoved"
+    },
+    {
+      "namespace": "EditableTextContextMenu",
+      "key": "Heading"
+    },
+    {
+      "namespace": "FInputChord",
+      "key": "ModAppender"
+    },
+    {
+      "namespace": "FInputChord",
+      "key": "KeyName_Alt"
+    },
+    {
+      "namespace": "FInputChord",
+      "key": "KeyName_Command"
+    },
+    {
+      "namespace": "FInputChord",
+      "key": "KeyName_Control"
+    },
+    {
+      "namespace": "FInputChord",
+      "key": "KeyName_Shift"
+    },
+    {
+      "namespace": "FInputChord",
+      "key": "FourModifiers"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Acceleration"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Ampersand"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "AndroidSubCateogry"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Android_Back"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Android_Menu"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Android_Volume_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Android_Volume_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "AnyKey"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Apostrophe"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Asterix"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Backslash"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "BackSpace"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "CapsLockShort"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "CapsLock"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Caret"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Colon"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Comma"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Left_Select_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Left_Trackpad_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Left_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Left_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Left_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Right_Select_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Right_Trackpad_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Right_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Right_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Daydream_Right_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "DeleteShort"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Delete"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Dollar"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "End"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Enter"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Equals"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "EscapeShort"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Escape"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Exclamation"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F1"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F10"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F11"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F12"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F2"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F3"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F4"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F5"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F6"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F7"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F8"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "F9"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gesture_Flick"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ForwardDelete"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "GamepadSubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "XBoxOne_Gamepad_FaceButton_Bottom"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "XBoxOne_Gamepad_FaceButton_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "XBoxOne_Gamepad_Special_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_FaceButton_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_DPad_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_DPad_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_DPad_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_DPad_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_FaceButton_Bottom"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_FaceButton_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_FaceButton_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_FaceButton_Top"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_LeftShoulder"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_LeftTrigger"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_LeftTriggerAxis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_LeftThumbstick"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftShoulder"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_Left2D"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftThumbstick"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftStick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftStick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftStick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftStick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftX"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftY"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftTrigger"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_LeftTriggerAxis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_Special_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_RightShoulder"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_RightTrigger"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_RightTriggerAxis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_RightThumbstick"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightShoulder"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_Right2D"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightThumbstick"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightStick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightStick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightStick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightStick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightX"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightY"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightTrigger"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_RightTriggerAxis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_Special_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gamepad_Special_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_FaceButton_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "XBoxOne_Gamepad_Special_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_Special_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_FaceButton_Top"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_FaceButton_Bottom"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "XBoxOne_Gamepad_FaceButton_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "XBoxOne_Gamepad_FaceButton_Top"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "GestureSubCateogry"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Global_Back"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Global_Menu"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Global_Pause"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Global_Play"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Global_View"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "DaydreamSubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gravity"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ViveSubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Home"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Hyphen"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "InsertShort"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Insert"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "KeyboardSubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "LeftAlt"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "LeftBracket"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "LeftCommand"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "LeftControl"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "LeftMouseButton"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "LeftParantheses"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "LeftShift"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MiddleMouseButton"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Grip_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Menu_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Thumbstick_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Thumbstick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Thumbstick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Thumbstick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Thumbstick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Thumbstick_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Thumbstick_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Left_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Grip_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Menu_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Thumbstick_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Thumbstick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Thumbstick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Thumbstick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Thumbstick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Thumbstick_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Thumbstick_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedReality_Right_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MotionSubCateogry"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MouseSubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MouseWheelAxis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MouseScrollDown"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MouseScrollUp"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MouseX"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Mouse2D"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MouseY"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Multiply"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Add"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Subtract"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Decimal"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Divide"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadZero"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadOne"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadTwo"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadThree"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadFour"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadFive"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadSix"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadSeven"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadEight"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumPadNine"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "NumLock"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouchSubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Grip_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Grip_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Menu_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Thumbstick_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Trigger_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_X_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_X_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Y_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Left_Y_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_A_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_A_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_B_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_B_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Grip_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Grip_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_System_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Thumbstick_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "OculusTouch_Right_Trigger_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4SubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_Special_Left_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Gamepad_Special_Left_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PS4_Special"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PageDown"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PageUp"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Pause"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Period"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PageDownShort"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "PageUpShort"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gesture_Pinch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Quote"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RightAlt"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RightBracket"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RightCommand"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RightControl"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RightMouseButton"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RightParantheses"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RightShift"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Gesture_Rotate"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "RotationRate"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ScrollLock"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Semicolon"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Slash"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "SpaceBarShort"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "SpaceBar"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "SteamSubCateogry"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Steam_Back_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Steam_Back_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Steam_Touch_0"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Steam_Touch_1"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Steam_Touch_2"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Steam_Touch_3"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Tab"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ThumbMouseButton"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ThumbMouseButton2"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Tilt"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "TouchSubCateogry"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "TouchFormat"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Underscore"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndexSubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_A_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_A_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_B_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_B_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Grip_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Grip_Force"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_System_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_System_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Thumbstick_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_Force"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Left_Trigger_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_A_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_A_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_B_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_B_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Grip_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Grip_Force"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_System_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_System_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Thumbstick_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_Force"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "ValveIndex_Right_Trigger_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Grip_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Menu_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_System_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Left_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Grip_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Menu_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_System_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_Down"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_Left"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_Right"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_Touch"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_Up"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_X"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trackpad_Y"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trigger_Click"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "Vive_Right_Trigger_Axis"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "MixedRealitySubCategory"
+    },
+    {
+      "namespace": "InputKeys",
+      "key": "XBoxOneSubCateogry"
+    },
+    {
+      "namespace": "InputKeySelector",
+      "key": "DefaultKeySelectionText"
+    },
+    {
+      "namespace": "InputKeySelector",
+      "key": "DefaultEmptyText"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeList"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeListItem"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "Slate"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeButton"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeCheckBox"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeComboBox"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeCustom"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeTextEdit"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeHyperlink"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeImage"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeLayout"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeScrollBar"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeSlider"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeText"
+    },
+    {
+      "namespace": "SlateAccessibility",
+      "key": "ControlTypeWindow"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Copy"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Copy_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Cut"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Cut_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Delete"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Delete_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Duplicate"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Duplicate_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Paste"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Paste_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Redo"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Redo_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Rename"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Rename_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "SelectAll"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "SelectAll_ToolTip"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Undo"
+    },
+    {
+      "namespace": "UICommands.GenericCommands",
+      "key": "Undo_ToolTip"
+    },
+    {
+      "namespace": "",
+      "key": "SerializationOutOfBoundsErrorMessage"
+    },
+    {
+      "namespace": "",
+      "key": "SerializationOutOfBoundsErrorMessageCaption"
+    },
+    {
+      "namespace": "Audio",
+      "key": "XAudio2Error"
+    },
+    {
+      "namespace": "Audio",
+      "key": "XAudio2Missing"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "case": "arabic",
+    "pak": "builds/rtl_poc/01_arabic.pak",
+    "sha256": "d63f1c324b176700880d20ae2e4ff2fba8a252d314c01b807bcdd4687f101088",
+    "resource_and_pack_roundtrip": "PASS",
+    "in_game": "NOT_RUN",
+    "typewriter_acceptance": "NOT_ESTABLISHED"
+  },
+  {
+    "case": "mixed",
+    "pak": "builds/rtl_poc/02_mixed.pak",
+    "sha256": "31088cc06daf681fc4e402450c3476869ef383aa03c335971731406c86a1eef5",
+    "resource_and_pack_roundtrip": "PASS",
+    "in_game": "NOT_RUN",
+    "typewriter_acceptance": "NOT_ESTABLISHED"
+  },
+  {
+    "case": "question",
+    "pak": "builds/rtl_poc/03_question.pak",
+    "sha256": "55152ca8cce07535eb09accb79b0956ced6d532dae565be4226060b314093a3c",
+    "resource_and_pack_roundtrip": "PASS",
+    "in_game": "NOT_RUN",
+    "typewriter_acceptance": "NOT_ESTABLISHED"
+  }
+]

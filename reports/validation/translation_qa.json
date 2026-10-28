@@ -1,0 +1,2353 @@
+{
+ "summary": {
+  "records": 12973,
+  "arabic_changed": 12091,
+  "findings": 291,
+  "errors": 0,
+  "by_check": {
+   "english_phrase_leakage:WARN": 6,
+   "glossary_term_missing:WARN": 26,
+   "latin_punctuation_after_arabic:WARN": 1,
+   "latin_token_not_in_source:WARN": 102,
+   "leading_latin_base_direction:WARN": 2,
+   "missing_space_after_comma:WARN": 2,
+   "number_mismatch:WARN": 16,
+   "possibly_reversed_word:WARN": 2,
+   "repeated_word:WARN": 27,
+   "space_before_punctuation:WARN": 3,
+   "speaker_gender_agreement:WARN": 5,
+   "tatweel:WARN": 99
+  },
+  "records_with_findings": 285
+ },
+ "findings": [
+  {
+   "id": "101::46D5DF6A4FED68E441F796AF77AABB46",
+   "target": "101",
+   "index": 35,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Curator -> القيّم"
+  },
+  {
+   "id": "101::CBCE9BFF4ADDA9193098FA9197D1D44F",
+   "target": "101",
+   "index": 80,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Soothing Goon -> بلطجي هادئ"
+  },
+  {
+   "id": "101::7BEBD3BC4EAB0C01136AC5943829C664",
+   "target": "101",
+   "index": 81,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Soothing Voice -> صوت هادئ"
+  },
+  {
+   "id": "101:AdHocStory.Characters:Bouncer",
+   "target": "101",
+   "index": 99,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Bouncer -> حارس الباب"
+  },
+  {
+   "id": "101:AdHocStory.Characters:Reporter E",
+   "target": "101",
+   "index": 109,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "101:Line:512C450BF8A64D0D8195D2B156DBD621",
+   "target": "101",
+   "index": 411,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "101:Line:5CB9DA570B2040CFACE55D099B1D1C23",
+   "target": "101",
+   "index": 422,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "حسنا حسنا"
+  },
+  {
+   "id": "101:Line:473DFEE1AF924BFFB5A00A919536CAEF",
+   "target": "101",
+   "index": 563,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "حسنا حسنا"
+  },
+  {
+   "id": "101:Line:9F645EC7A50047BDB40A190E788C2CB6",
+   "target": "101",
+   "index": 574,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "101:Line:6C7A446F36644BEC85530661E1027DB2",
+   "target": "101",
+   "index": 575,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "101:Line:09791AB5D3BA458FB45117A4139804E0",
+   "target": "101",
+   "index": 583,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "101:Line:CB7FC6FA87E84CC1AEC12639574F8B09",
+   "target": "101",
+   "index": 591,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "لا لا"
+  },
+  {
+   "id": "101:Line:5F218C496412425B9065D86715532153",
+   "target": "101",
+   "index": 613,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['10'] ar=[]"
+  },
+  {
+   "id": "101:LV_Shift01.Scenario_SC_04_c:ScenarioName",
+   "target": "101",
+   "index": 668,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Chase -> تشيس"
+  },
+  {
+   "id": "101:LV_Shift01.Scenario_SC_10_:ScenarioName",
+   "target": "101",
+   "index": 690,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Chase -> تشيس"
+  },
+  {
+   "id": "102::0D6FA89A453142A16856A18818CC5807",
+   "target": "102",
+   "index": 59,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Chief -> الرئيس"
+  },
+  {
+   "id": "102::E6BF10EC405816EA9A807E86B67E0382",
+   "target": "102",
+   "index": 60,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Chief -> الرئيس"
+  },
+  {
+   "id": "102::C02F70C54BBF95E6927326BC20C78647",
+   "target": "102",
+   "index": 64,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "102::34B673E843DD9EDE0270619ED5B9DE92",
+   "target": "102",
+   "index": 118,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Security -> الأمن"
+  },
+  {
+   "id": "102:Line:515BAA47BF6142F38181A80917ACCA57",
+   "target": "102",
+   "index": 356,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "102:Line:555B713D38304646A3198954668C440D",
+   "target": "102",
+   "index": 467,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "دينغ دينغ"
+  },
+  {
+   "id": "102:Line:320C4E1A93C34C7C8728B59472DCCC4C",
+   "target": "102",
+   "index": 638,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "102:Line:4964FEFCA9B34E3186910896B57B9EED",
+   "target": "102",
+   "index": 642,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "102:Line:4FD61C68A4B049E4AF270539A55E6781",
+   "target": "102",
+   "index": 683,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "102:Line:F86A8C62305B4052890F12482BD2AD7E",
+   "target": "102",
+   "index": 691,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "102:Line:F4DA9D2AA5D34267B0CCF7EEDEE9C7DB",
+   "target": "102",
+   "index": 760,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "لا لا"
+  },
+  {
+   "id": "102:Line:44A01A5B9C2644BABDF120CF3488161B",
+   "target": "102",
+   "index": 851,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "102:Line:1AE4178306F0469191C1981246FE4B38",
+   "target": "102",
+   "index": 1013,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "102:Line:399AF83971294086B2B17973244CCF6D",
+   "target": "102",
+   "index": 1169,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بوب بوب"
+  },
+  {
+   "id": "102:Line:0DC527E4C0B7453C87F6E589763BE78C",
+   "target": "102",
+   "index": 1170,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "102:Line:5BA75A33173143758DF85B44BC20B845",
+   "target": "102",
+   "index": 1181,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "102:Line:47D284764B0D4EF6A8FCF098A6E159D5",
+   "target": "102",
+   "index": 1236,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "102:Line:0388A2A83B18453F8FC6D85A39DE1438",
+   "target": "102",
+   "index": 1409,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "102:Line:0387F1244D7640D7B8517AADECD87A83",
+   "target": "102",
+   "index": 1456,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "102:Line:E93532BBED38419DB0E08BE555BFA45F",
+   "target": "102",
+   "index": 1710,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "102:LV_Shift02.Scenario_SC_08_Fountain:ScenarioBulletPoint_1",
+   "target": "102",
+   "index": 2111,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103::4DC65C28400BF526A981D7B5903BC456",
+   "target": "103",
+   "index": 139,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103::5819DDB444181C0A4A1C54AC1F4D8A77",
+   "target": "103",
+   "index": 264,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103::59E179BF4284BE71C6FE91B88CCDE260",
+   "target": "103",
+   "index": 265,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103:Line:5B3E448C99DE472D981473A23E6AF27A",
+   "target": "103",
+   "index": 317,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103:Line:01D3AD40CC1147C6B155F9ED867A91A2",
+   "target": "103",
+   "index": 450,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "103:Line:8306224AAF384EF89E47A5ED217EFD34",
+   "target": "103",
+   "index": 472,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Astral -> أسترال"
+  },
+  {
+   "id": "103:Line:056E802CCCB04AE386BE6BFFFD7E1F1D",
+   "target": "103",
+   "index": 624,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103:Line:0C5EF6C3DD694C098E4E41DC0946850B",
+   "target": "103",
+   "index": 746,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103:Line:46FA0FF11EC04138B21428BFC03A9EB8",
+   "target": "103",
+   "index": 764,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "103:Line:2EF8271DC6234E078FC6418335CFAB96",
+   "target": "103",
+   "index": 825,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "103:LV_Shift03b.Scenario_SC_06_:ScenarioName",
+   "target": "103",
+   "index": 1160,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Security -> الأمن"
+  },
+  {
+   "id": "103:LV_Shift03b.Scenario_SC_06_b:ScenarioName",
+   "target": "103",
+   "index": 1162,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Security -> الأمن"
+  },
+  {
+   "id": "103:LV_Shift03b.Scenario_SC_06_c:ScenarioName",
+   "target": "103",
+   "index": 1166,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Security -> الأمن"
+  },
+  {
+   "id": "103:ST_103StoryNotifications:StoryNotification_103_ZTeamWillRemember",
+   "target": "103",
+   "index": 1251,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104::4307E39047CE01AEF2316CBDDF63005B",
+   "target": "104",
+   "index": 132,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104::031539944B2621D83C3640B5110B3205",
+   "target": "104",
+   "index": 133,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104::22DE11D44C7C7DE15C0250AD01AE6B28",
+   "target": "104",
+   "index": 134,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104::5B6EFD524F29EF0EC5C19D830AE48EEE",
+   "target": "104",
+   "index": 177,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104::ED40BBE64CC22B020B6252BD4366FC9E",
+   "target": "104",
+   "index": 178,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104::5B4D39F941F7430C70EA5E8CEB2DEEB9",
+   "target": "104",
+   "index": 217,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Prime -> برايم"
+  },
+  {
+   "id": "104::ABD09A3A47D97D48ADDA8BBAD73383BE",
+   "target": "104",
+   "index": 218,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Prime -> برايم"
+  },
+  {
+   "id": "104::22321A464B003B47061CA1A1F26B356B",
+   "target": "104",
+   "index": 219,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Prime -> برايم"
+  },
+  {
+   "id": "104::6AD5250A4F41CBE1F809C5A1C852382F",
+   "target": "104",
+   "index": 220,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Prime -> برايم"
+  },
+  {
+   "id": "104::89760C134B1DA33B06E922A3CDDEA445",
+   "target": "104",
+   "index": 221,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Prime -> برايم"
+  },
+  {
+   "id": "104::DFF47FBD4298322CEFFA94AB7ABD97FB",
+   "target": "104",
+   "index": 248,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['1'] ar=[]"
+  },
+  {
+   "id": "104::706AFC424612AD5D3A0AB49D85040E0E",
+   "target": "104",
+   "index": 249,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['1'] ar=[]"
+  },
+  {
+   "id": "104::8FAE503F4E1E727FF8EFCD8EE93D0269",
+   "target": "104",
+   "index": 250,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['2', '45'] ar=['45']"
+  },
+  {
+   "id": "104::775F3E024BB937F1EC099691FD267DEF",
+   "target": "104",
+   "index": 332,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['1'] ar=[]"
+  },
+  {
+   "id": "104::0FE66CC14DB220D4F33BD0BCC72C0258",
+   "target": "104",
+   "index": 350,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:Line:4F4B3A4BB2DA4FD591277FE189A57B80",
+   "target": "104",
+   "index": 407,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:6022EA0378FC4C3393BCFEDBEA29BCBA",
+   "target": "104",
+   "index": 465,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:5D3B2B4BB6CF41E3B2A444F666D4BB2D",
+   "target": "104",
+   "index": 466,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:05462C96E1424A4B96B41D76146ED576",
+   "target": "104",
+   "index": 476,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:Line:20619368E00E488D9DB19783CDB9F519",
+   "target": "104",
+   "index": 589,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:Line:20619368E00E488D9DB19783CDB9F519",
+   "target": "104",
+   "index": 589,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:37561DF0AC7E43FF84E08B31672AA10A",
+   "target": "104",
+   "index": 597,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:34B9EB3372894DA88010C24784F7756F",
+   "target": "104",
+   "index": 728,
+   "check": "possibly_reversed_word",
+   "severity": "WARN",
+   "detail": "الطب (reverse 'بطلا' appears 22x)"
+  },
+  {
+   "id": "104:Line:0571CB5A74D1430CB98911B7B22BD78B",
+   "target": "104",
+   "index": 851,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:Line:A97CE0BE5D034A968C889BC14FBE44FD",
+   "target": "104",
+   "index": 890,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:Line:A97CE0BE5D034A968C889BC14FBE44FD",
+   "target": "104",
+   "index": 890,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:297F6C00E9324D7B8C348EDEF3EE403C",
+   "target": "104",
+   "index": 896,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:47730804A3144AF3854C9F255AE943DE",
+   "target": "104",
+   "index": 934,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:Line:2AC55DA418D94B43809A01982CEF9A28",
+   "target": "104",
+   "index": 1050,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "آخ آخ"
+  },
+  {
+   "id": "104:Line:52CE497D271249F39CAE64FA11D29E89",
+   "target": "104",
+   "index": 1058,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:D106608E38EB4163AC5F0534F488B731",
+   "target": "104",
+   "index": 1059,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:28788D15C34B4A398AFD949EEE73C38A",
+   "target": "104",
+   "index": 1119,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:1D57D7B3C20E4282958AE0905DA6687B",
+   "target": "104",
+   "index": 1156,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:280A98A99F57433CBFFEC6BCC24378E4",
+   "target": "104",
+   "index": 1205,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:041B6489913447E8B3BC1E58B77B0B8D",
+   "target": "104",
+   "index": 1283,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:3912BF562295451A886C989274C1E0E9",
+   "target": "104",
+   "index": 1316,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:4CFCDAE6DF5B4493BF56B3F7AA5BE4BC",
+   "target": "104",
+   "index": 1350,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:Line:AB7909D152CA49FF849728BD86B7B24F",
+   "target": "104",
+   "index": 1393,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:Line:1CFBDED9F990444EA51EE539939EEEEA",
+   "target": "104",
+   "index": 1416,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=[] ar=['86']"
+  },
+  {
+   "id": "104:Line:16B20163D2A14627B9C8D690F657BB33",
+   "target": "104",
+   "index": 1451,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:LV_Shift04a.Scenario_SC_04_a:VOTranscription",
+   "target": "104",
+   "index": 1557,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:LV_Shift04a.Scenario_SC_6_3:OutcomeText_1",
+   "target": "104",
+   "index": 1610,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:LV_Shift04a.Scenario_SC_6_3:OutcomeText_2",
+   "target": "104",
+   "index": 1611,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:LV_Shift04a.Scenario_SC_6_3:OutcomeText_3",
+   "target": "104",
+   "index": 1612,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:LV_Shift04b.Scenario_SC_03_:ScenarioBulletPoint_0",
+   "target": "104",
+   "index": 1640,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:LV_Shift04b.Scenario_SC_05_:ScenarioBulletPoint_0",
+   "target": "104",
+   "index": 1647,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "104:WelcomeZTeamChoiceStat:OptionTrue",
+   "target": "104",
+   "index": 1720,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "104:WelcomeZTeamChoiceStat:OptionFalse",
+   "target": "104",
+   "index": 1721,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105::CC71B44B48B8497D0354ACA88C179397",
+   "target": "105",
+   "index": 22,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105::57C3CBA4443C0C20B60669A45F27DE7E",
+   "target": "105",
+   "index": 83,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105::8C8FB6C341306A02CD33DE8939138D45",
+   "target": "105",
+   "index": 84,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105::C8385E3443317A2739CF8098D9FCDE00",
+   "target": "105",
+   "index": 192,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105:ChoiceOptionBarFight:1EDF15CE49107BD3FCCEA9A4F07DDE34",
+   "target": "105",
+   "index": 213,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105:ChoiceOptionToldTeamRobert:OptionMecha",
+   "target": "105",
+   "index": 219,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105:ChoiceOptionToldTeamRobert:OptionRobert",
+   "target": "105",
+   "index": 220,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105:Line:0CC63952DD314CF18236C9F09139B06A",
+   "target": "105",
+   "index": 332,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=[] ar=['300']"
+  },
+  {
+   "id": "105:Line:0F01D202D9CF43F8B883B2AF8350C856",
+   "target": "105",
+   "index": 379,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بس بس"
+  },
+  {
+   "id": "105:Line:67C635E923C3442DB01C79864362AAEC",
+   "target": "105",
+   "index": 382,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=[] ar=['700']"
+  },
+  {
+   "id": "105:Line:2F18C69EA07C49039B250F3CB23E626B",
+   "target": "105",
+   "index": 489,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:51A02D70319646309F4E3684FDA255A9",
+   "target": "105",
+   "index": 490,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:E9689764375F4B209A015E798A6031B9",
+   "target": "105",
+   "index": 553,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "قطعة قطعة"
+  },
+  {
+   "id": "105:Line:4037EF3B938D49E4927234C253A6FD08",
+   "target": "105",
+   "index": 556,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "نعم نعم"
+  },
+  {
+   "id": "105:Line:5A2F326C50B444E9B32FDD3B1E92C902",
+   "target": "105",
+   "index": 588,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:1BD07E440007423FA3D25D5CA53082CE",
+   "target": "105",
+   "index": 629,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:CF2EDF1AE407410485283A8316DBCCE6",
+   "target": "105",
+   "index": 633,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "قطعة قطعة"
+  },
+  {
+   "id": "105:Line:232F1800448B4F1DB96A6DE2D14C2437",
+   "target": "105",
+   "index": 678,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "جدا جدا"
+  },
+  {
+   "id": "105:Line:5C5FB8D4F10F4DB38486C74B39CA742E",
+   "target": "105",
+   "index": 693,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=[] ar=['936']"
+  },
+  {
+   "id": "105:Line:5C5FB8D4F10F4DB38486C74B39CA742E",
+   "target": "105",
+   "index": 693,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:0E72FFA6325A43AC9A104CEC1D6079C6",
+   "target": "105",
+   "index": 704,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:21C6C253CD124EA9BE45BE3422458C5C",
+   "target": "105",
+   "index": 737,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=[] ar=['936']"
+  },
+  {
+   "id": "105:Line:21C6C253CD124EA9BE45BE3422458C5C",
+   "target": "105",
+   "index": 737,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:02D6E507B27148229A05DA37D3A9591D",
+   "target": "105",
+   "index": 800,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "105:Line:123A1843AF804F79A3F86D89FB32BC9F",
+   "target": "105",
+   "index": 810,
+   "check": "speaker_gender_agreement",
+   "severity": "WARN",
+   "detail": "female speaker, masculine حزين"
+  },
+  {
+   "id": "105:Line:202105D432C64613B649056D867B4DCB",
+   "target": "105",
+   "index": 829,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105:Line:F21142BF664243DFA059E5DBBD2DDFC6",
+   "target": "105",
+   "index": 862,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "واحدا واحدا"
+  },
+  {
+   "id": "105:Line:3157392C18D44414BBDC1B989A9A6113",
+   "target": "105",
+   "index": 877,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "105:LV_Shift05b.Scenario_SC_03_0:ScenarioBulletPoint_0",
+   "target": "105",
+   "index": 1006,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "A Z"
+  },
+  {
+   "id": "105:LV_Shift05b.Scenario_SC_8:ScenarioBulletPoint_0",
+   "target": "105",
+   "index": 1037,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بيتا بيتا"
+  },
+  {
+   "id": "105:ST_105StoryNotifications:StoryNotification_105_ZTeamWillRemember",
+   "target": "105",
+   "index": 1097,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106::C124613047E9D6C8211206A6DA2A6091",
+   "target": "106",
+   "index": 10,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106::C5936F064257565B2390CF84A6923EA4",
+   "target": "106",
+   "index": 163,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106::218E923F4D86F7DF32F8ACB9239126DE",
+   "target": "106",
+   "index": 170,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106::2C09C55D4B2632B23F0ADD9AB60BC4EA",
+   "target": "106",
+   "index": 179,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106::98F86A464E837A0D6A5839861033B4B6",
+   "target": "106",
+   "index": 180,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:AdHocStory.Characters:Z-Team",
+   "target": "106",
+   "index": 186,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:AstralPulseChoiceStat:A4DD46EA49CE40017258AB9EAED861F1",
+   "target": "106",
+   "index": 187,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:AstralPulseChoiceStat:68CCC3C44B041F9B8C365FA52CB4CEE2",
+   "target": "106",
+   "index": 189,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:Line:0A63413DF7D94B1CA85FCA66273D948F",
+   "target": "106",
+   "index": 249,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:Line:4E9515D0322D4FE1ABD3486B8F3F158F",
+   "target": "106",
+   "index": 350,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:Line:4853C51BF389489390C5CB92467B60BE",
+   "target": "106",
+   "index": 358,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['4'] ar=[]"
+  },
+  {
+   "id": "106:Line:18FE81039D9A46D495C1F101F543E557",
+   "target": "106",
+   "index": 368,
+   "check": "possibly_reversed_word",
+   "severity": "WARN",
+   "detail": "لوقت (reverse 'تقول' appears 20x)"
+  },
+  {
+   "id": "106:Line:5B5C572C19AA477AAC632776FB2361F3",
+   "target": "106",
+   "index": 381,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:Line:5B81A4E9904B44A093111008A15BD220",
+   "target": "106",
+   "index": 459,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=[] ar=['936']"
+  },
+  {
+   "id": "106:Line:5E966290A54446EE9CC1960757AD5002",
+   "target": "106",
+   "index": 460,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=[] ar=['936']"
+  },
+  {
+   "id": "106:Line:4BE19753DA744251A25F75953BDBD9BF",
+   "target": "106",
+   "index": 477,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "لا لا"
+  },
+  {
+   "id": "106:Line:3A8CD62F040D45F992B5ACDE168FE501",
+   "target": "106",
+   "index": 510,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['3'] ar=[]"
+  },
+  {
+   "id": "106:Line:06AB0964974F40F5B120B6D4D35ECED8",
+   "target": "106",
+   "index": 519,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:Line:4E52ABED53E648F1B54A5D74EBE53B8B",
+   "target": "106",
+   "index": 534,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:Line:1CD333E6D2744985A78EF32DE0C49098",
+   "target": "106",
+   "index": 549,
+   "check": "speaker_gender_agreement",
+   "severity": "WARN",
+   "detail": "male speaker, feminine محقة"
+  },
+  {
+   "id": "106:Line:097DF3187CDD4833B6D0BAEE5C240021",
+   "target": "106",
+   "index": 577,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:Line:030F326FCEF64B47A832597FBAD6B2AD",
+   "target": "106",
+   "index": 587,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "وكذا وكذا"
+  },
+  {
+   "id": "106:Line:10ECFA4175904CA5B9858C0DBCB99F75",
+   "target": "106",
+   "index": 602,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:Line:1541D3F1D85641ACAB0362A85C97CB79",
+   "target": "106",
+   "index": 603,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:Line:32E12F7215C54AB4B281530CF85A76CA",
+   "target": "106",
+   "index": 617,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:Line:1FEBE4158AD941519A998DA2424261F5",
+   "target": "106",
+   "index": 661,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['3', '4', '5'] ar=[]"
+  },
+  {
+   "id": "106:Line:0B0CBADFCE474065813BC80423E70E40",
+   "target": "106",
+   "index": 667,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:Line:46E0A1517ED7454AA033EB190D17B19B",
+   "target": "106",
+   "index": 740,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "106:LV_Shift06.Scenario_SC_04_3:ScenarioBulletPoint_1",
+   "target": "106",
+   "index": 776,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:LV_Shift06.Scenario_SC_05:ScenarioBulletPoint_1",
+   "target": "106",
+   "index": 782,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "106:NodeTitle:373843111BF44EAF8DC1D356C0FF1E50",
+   "target": "106",
+   "index": 851,
+   "check": "number_mismatch",
+   "severity": "WARN",
+   "detail": "en=['3'] ar=[]"
+  },
+  {
+   "id": "106:NodeTitle:122BC9EB3DA245E6BF6C599E81912F5C",
+   "target": "106",
+   "index": 856,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::70BA37C04299F13F9FE29798C6C58636",
+   "target": "107",
+   "index": 1,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::68853EDC47773F55AB32938CDC4B57FD",
+   "target": "107",
+   "index": 46,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::5FD36AA44F354EFC490929B75805FDC3",
+   "target": "107",
+   "index": 78,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::D14976994D450857156FAFACB66AADA5",
+   "target": "107",
+   "index": 79,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::F0529EF54BA74F84046BA59E6936B282",
+   "target": "107",
+   "index": 80,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::32D2D57E466F3CB46CCD488C37A3431B",
+   "target": "107",
+   "index": 81,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::E761201C45F4064CD3B4D487147939A3",
+   "target": "107",
+   "index": 82,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::CFDD4E9540AA8B97DB8C0F9B302EF59F",
+   "target": "107",
+   "index": 127,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107::88896EC645D6E8F70317C99004FEADF1",
+   "target": "107",
+   "index": 129,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:InvisigalsFateChoiceStat:8DD5D167426C0C1DDE3B398AB1C74947",
+   "target": "107",
+   "index": 154,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:InvisigalsFateChoiceStat:BC7AB6144D63619F78F6219194FB4918",
+   "target": "107",
+   "index": 155,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:Line:138B2579650948D9BE848686B3B5E2FD",
+   "target": "107",
+   "index": 258,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:Line:AC92266144C345E3A1EC7156AACA81E3",
+   "target": "107",
+   "index": 296,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "107:Line:27F12DAA3ED94EDE9B7A11BB9BE90847",
+   "target": "107",
+   "index": 372,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:Line:1E6A943F63E54C28AA71A6BF614469FB",
+   "target": "107",
+   "index": 373,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:Line:EB275E3B01224DF39A9A95C1DF1841E1",
+   "target": "107",
+   "index": 412,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "107:Line:B73962BB983843C2A4814D7DADCBC7B8",
+   "target": "107",
+   "index": 462,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:Line:2418799658E14A5EA7E4758CAFEBFDBB",
+   "target": "107",
+   "index": 464,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "107:Line:10BEFC0F1DFE45659FDCAFD89034E22D",
+   "target": "107",
+   "index": 499,
+   "check": "speaker_gender_agreement",
+   "severity": "WARN",
+   "detail": "male speaker, feminine مدينة"
+  },
+  {
+   "id": "107:Line:31D833CE322F472BB3462D3A07D4CB0A",
+   "target": "107",
+   "index": 500,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "107:Line:17E90DEDE46D4254BD6F485C82BDBE78",
+   "target": "107",
+   "index": 536,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "107:Line:4E72B8A624854221A265301E56FBDF8D",
+   "target": "107",
+   "index": 566,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "107:Line:577271027BEB440385C3BE8D14DDFD38",
+   "target": "107",
+   "index": 573,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Astral Pulse -> النبضة النجمية"
+  },
+  {
+   "id": "107:ST_107_StoryNotifications:StoryNotifications_107_ZTeamWillRemember",
+   "target": "107",
+   "index": 680,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:ST_107_StoryNotifications:StoryNotifications_107_ZTeamWontForgetB",
+   "target": "107",
+   "index": 681,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "107:ST_107_StoryNotifications:StoryNotifications_107_ZTeamWontForget",
+   "target": "107",
+   "index": 682,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108::F33FEB7747A1D01D85787ABA6365FA89",
+   "target": "108",
+   "index": 6,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108::82F9CF4E4A8ABC426EE76F9714EE0B57",
+   "target": "108",
+   "index": 31,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108::0AC530F540879A16D429FCA0279472C5",
+   "target": "108",
+   "index": 272,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Officer -> الشرطي"
+  },
+  {
+   "id": "108::3723531D4EE2CF11B669739CA16DCFAC",
+   "target": "108",
+   "index": 273,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بوم بوم"
+  },
+  {
+   "id": "108::FCE6EC6940F65ECA0A9BEFB316EB0DB4",
+   "target": "108",
+   "index": 372,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:ForgiveOrForgetCoupeChoiceStat:28A932BB46592484F19E489D702D4412",
+   "target": "108",
+   "index": 439,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:ForgiveOrForgetSonarChoiceStat:ED20A4E44185F3B271107389D1B678B1",
+   "target": "108",
+   "index": 442,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:0E6B62231E554D44B0B68A80B112405D",
+   "target": "108",
+   "index": 527,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:54241D1127A84E379AFE754CE4728594",
+   "target": "108",
+   "index": 561,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:4C230FA050F54DDE91E956FD29481F65",
+   "target": "108",
+   "index": 603,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:0230CFDF24E74664A279995579989012",
+   "target": "108",
+   "index": 606,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:1AF072F90D29484A8A6928426C7D72B3",
+   "target": "108",
+   "index": 617,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:1DB88186F37F48558FC20E21B5FB1835",
+   "target": "108",
+   "index": 685,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "ها ها"
+  },
+  {
+   "id": "108:Line:060A68E2F940457288889851D4823045",
+   "target": "108",
+   "index": 703,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:2139919E908540CA8A5CC12BDEE14DA3",
+   "target": "108",
+   "index": 706,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:86E6FC9D1FA3457C9BB0406FFF48D28D",
+   "target": "108",
+   "index": 716,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:5ADF0006DE40401FA85D17212781B5C1",
+   "target": "108",
+   "index": 720,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:11EEC7B1C98545E5BEDDBC48097A23EB",
+   "target": "108",
+   "index": 721,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:11E7C07908614D34A65D3F5F180C09CC",
+   "target": "108",
+   "index": 901,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:0AA410F1BE8F41A4804DBF5786D7A43B",
+   "target": "108",
+   "index": 902,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:5287943C584B41A1BE062D6920C4A321",
+   "target": "108",
+   "index": 903,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:0ACA456741D44D4C80E2170D1862EB11",
+   "target": "108",
+   "index": 922,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:29C468A28D194F96B2CDFB822F29F827",
+   "target": "108",
+   "index": 948,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:0D253889F30F4FECA6A5589E4D023A8A",
+   "target": "108",
+   "index": 1008,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:5B8EE3C78629406F98BD042146651D2E",
+   "target": "108",
+   "index": 1017,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:47F15C038C4D47178ED13DAE27FA1B99",
+   "target": "108",
+   "index": 1030,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:53F23E5386F34DE8BB56DBF9C354256F",
+   "target": "108",
+   "index": 1092,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:47F062B18FB1498BB2D1EA5045AA043F",
+   "target": "108",
+   "index": 1095,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:48AB5668DD304800A53F6BB9B9B8DE75",
+   "target": "108",
+   "index": 1169,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:3CA3358D55694DCD84DF5AE81C5E15A2",
+   "target": "108",
+   "index": 1193,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "إس إس"
+  },
+  {
+   "id": "108:Line:0DB11EAE603C451799B2C82BD9C4A08B",
+   "target": "108",
+   "index": 1218,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:5931ACD5C43F4334A8DE759D6F6F713E",
+   "target": "108",
+   "index": 1228,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:387902F380C04C789E805A733A9F8D11",
+   "target": "108",
+   "index": 1288,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Astral Pulse -> النبضة النجمية"
+  },
+  {
+   "id": "108:Line:56383F8ECF9341CB84D3A4D9B9AFFC22",
+   "target": "108",
+   "index": 1318,
+   "check": "speaker_gender_agreement",
+   "severity": "WARN",
+   "detail": "female speaker, masculine متأكد"
+  },
+  {
+   "id": "108:Line:37793AB255094DE5A81D18C579562A0F",
+   "target": "108",
+   "index": 1338,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:046772FABAEE484A8D164D89B00E4B24",
+   "target": "108",
+   "index": 1339,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:E21319A7563F4291BB5CFA877E963752",
+   "target": "108",
+   "index": 1349,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:5835AF0CCAFB41719833E1350B2E0CC8",
+   "target": "108",
+   "index": 1361,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:5CDAEE6CA26B4930B9558D657D989DC5",
+   "target": "108",
+   "index": 1390,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:25CE5F6F316A47F283201E1CF53C136B",
+   "target": "108",
+   "index": 1455,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:399985F0378E49D387BD14F8B309FA2A",
+   "target": "108",
+   "index": 1456,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:06D6B71B5E3B44AFB64EDD560ECE75DE",
+   "target": "108",
+   "index": 1508,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:5F5D01005E724E769B8D496E10268702",
+   "target": "108",
+   "index": 1519,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:08C79A02B46748A99B7727CDF817BA87",
+   "target": "108",
+   "index": 1535,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:7DDA68FA67CF48788FAA13AE2A10A452",
+   "target": "108",
+   "index": 1583,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:34BAFA2B24D640ABB964DB97B9B5B24C",
+   "target": "108",
+   "index": 1603,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:Line:6C3E48639C104A86847F4AEF19568AB7",
+   "target": "108",
+   "index": 1623,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:5448A863022C4A0081ED4A0A58D849B2",
+   "target": "108",
+   "index": 1636,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:07CC712E012540F28A16913BFC1DC1FE",
+   "target": "108",
+   "index": 1639,
+   "check": "speaker_gender_agreement",
+   "severity": "WARN",
+   "detail": "female speaker, masculine مستعد"
+  },
+  {
+   "id": "108:Line:31642F0633AB47DCA20128A3E7735DBE",
+   "target": "108",
+   "index": 1653,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:54D8A2CABCEB41FAB024010DEBB53A75",
+   "target": "108",
+   "index": 1726,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:EB426B6DA1C342129679D8C4804A1573",
+   "target": "108",
+   "index": 1727,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:1ACD9D100C104088A222A55BFD6701F2",
+   "target": "108",
+   "index": 1728,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:5BF0271C056D4809981B2D5CEB89353F",
+   "target": "108",
+   "index": 1729,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:5565CE5D886C49F4A625E7A915C572D4",
+   "target": "108",
+   "index": 1730,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:3F27DB99376E490D9287A76E82C0ADD1",
+   "target": "108",
+   "index": 1731,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:Line:35F5C8E24C674B018B1C2C8E3AA7A214",
+   "target": "108",
+   "index": 1732,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:LV_Shift08b.Scenario_SC_06b:VOTranscription",
+   "target": "108",
+   "index": 1829,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:LV_Shift08b.Scenario_SC_21:VOTranscription",
+   "target": "108",
+   "index": 1859,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:LV_Shift08b.Scenario_SC_21:ScenarioName",
+   "target": "108",
+   "index": 1861,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بوم بوم"
+  },
+  {
+   "id": "108:LV_Shift08b.Scenario_SC_21:ScenarioBulletPoint_0",
+   "target": "108",
+   "index": 1862,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بوم بوم"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_17a:VOTranscription",
+   "target": "108",
+   "index": 1923,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "إس إس"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_17a:OutcomeText_1",
+   "target": "108",
+   "index": 1925,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "إس إس"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_17a:OutcomeText_2",
+   "target": "108",
+   "index": 1926,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "إس إس"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_17a:ScenarioBulletPoint_0",
+   "target": "108",
+   "index": 1927,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "إس إس"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_18:ScenarioBulletPoint_0",
+   "target": "108",
+   "index": 1938,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Chase -> تشيس"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_19_1:ScenarioName",
+   "target": "108",
+   "index": 1941,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_19_2:ScenarioName",
+   "target": "108",
+   "index": 1943,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_19_3:ScenarioName",
+   "target": "108",
+   "index": 1948,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "108:LV_Shift08c.Scenario_SC_20_Brain:OutcomeText_1",
+   "target": "108",
+   "index": 1951,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Braindead -> برينديد"
+  },
+  {
+   "id": "108:NodeTitle:13F8153B0F544CCEBB2F37BB3F477525",
+   "target": "108",
+   "index": 2050,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "108:TheExchangeChoiceStat:9B0C1C844F37626C3388CCB6C9D745BA",
+   "target": "108",
+   "index": 2110,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Astral -> أسترال"
+  },
+  {
+   "id": "EngineRuntime:Engine:ServerOpen",
+   "target": "EngineRuntime",
+   "index": 31,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "URL"
+  },
+  {
+   "id": "OtherContent::70CB3B974E9079E9024DAEA035E40E00",
+   "target": "OtherContent",
+   "index": 10,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "OtherContent::C6019BA443063E74DD524D87EA5D9023",
+   "target": "OtherContent",
+   "index": 22,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "Shared::60AB1CE84A1C673E29A523AAA104C267",
+   "target": "Shared",
+   "index": 10,
+   "check": "leading_latin_base_direction",
+   "severity": "WARN",
+   "detail": "First strong character is Latin; auto paragraph direction may become LTR"
+  },
+  {
+   "id": "Shared::BEB1209C465897C7551D288B945A8C2F",
+   "target": "Shared",
+   "index": 140,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "DDE"
+  },
+  {
+   "id": "Shared::087DE29343FC626F0EF2C288E6118DFA",
+   "target": "Shared",
+   "index": 281,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "Shared::0A3E61534B22AB3933D0E785DBD0F4C4",
+   "target": "Shared",
+   "index": 309,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Molly -> مولي"
+  },
+  {
+   "id": "Shared::12977F25423A579A3C00D2AE2F08CC10",
+   "target": "Shared",
+   "index": 392,
+   "check": "missing_space_after_comma",
+   "severity": "WARN",
+   "detail": ""
+  },
+  {
+   "id": "Shared::D5555C1A400CA6239CF2E4905CA5590D",
+   "target": "Shared",
+   "index": 500,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "few many two zero"
+  },
+  {
+   "id": "Shared::D5555C1A400CA6239CF2E4905CA5590D",
+   "target": "Shared",
+   "index": 500,
+   "check": "latin_punctuation_after_arabic",
+   "severity": "WARN",
+   "detail": "Use ؟ ، ؛ after Arabic words"
+  },
+  {
+   "id": "Shared::79BADA5C414E5E861DA82F864EE65EC0",
+   "target": "Shared",
+   "index": 530,
+   "check": "space_before_punctuation",
+   "severity": "WARN",
+   "detail": ""
+  },
+  {
+   "id": "Shared::58A0B18243CC8A095B2B209B2C5AC6D1",
+   "target": "Shared",
+   "index": 596,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بوم بوم"
+  },
+  {
+   "id": "Shared::2952C7BE45CBF4532CFA9FBBDFC055AD",
+   "target": "Shared",
+   "index": 644,
+   "check": "missing_space_after_comma",
+   "severity": "WARN",
+   "detail": ""
+  },
+  {
+   "id": "Shared::637AE35C4112364367CDD89FB2EF7C6F",
+   "target": "Shared",
+   "index": 794,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "Shared::36A1D82947615BA80635DD90FF76F390",
+   "target": "Shared",
+   "index": 806,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "Shared::AD9F58494304CE48E5BE65B27A6EEB6F",
+   "target": "Shared",
+   "index": 874,
+   "check": "leading_latin_base_direction",
+   "severity": "WARN",
+   "detail": "First strong character is Latin; auto paragraph direction may become LTR"
+  },
+  {
+   "id": "Shared:AdHocStory.Characters:Pom Pom",
+   "target": "Shared",
+   "index": 960,
+   "check": "repeated_word",
+   "severity": "WARN",
+   "detail": "بوم بوم"
+  },
+  {
+   "id": "Shared:AdHocStory.Characters:Reporter E",
+   "target": "Shared",
+   "index": 972,
+   "check": "tatweel",
+   "severity": "WARN",
+   "detail": "Kashida in data; renderer-dependent stretch"
+  },
+  {
+   "id": "Shared:EpisodesMenu:SkipEpisodePrompt",
+   "target": "Shared",
+   "index": 1125,
+   "check": "space_before_punctuation",
+   "severity": "WARN",
+   "detail": ""
+  },
+  {
+   "id": "Shared:ExtrasStrings:EscapePrompt",
+   "target": "Shared",
+   "index": 1168,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Esc"
+  },
+  {
+   "id": "Shared:ExtrasStrings:LeftControlPrompt",
+   "target": "Shared",
+   "index": 1173,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Ctrl"
+  },
+  {
+   "id": "Shared:ExtrasStrings:RightControlPrompt",
+   "target": "Shared",
+   "index": 1183,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Ctrl"
+  },
+  {
+   "id": "Shared:Line:085B472C333D4258ABD04BB1D3038864",
+   "target": "Shared",
+   "index": 1341,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "Shared:Line:1732DD3353B7406F9FAD51A4E6C956BA",
+   "target": "Shared",
+   "index": 1520,
+   "check": "latin_token_not_in_source",
+   "severity": "WARN",
+   "detail": "Z"
+  },
+  {
+   "id": "Shared:SaveMenu:EraseSlotPrompt",
+   "target": "Shared",
+   "index": 1572,
+   "check": "space_before_punctuation",
+   "severity": "WARN",
+   "detail": ""
+  },
+  {
+   "id": "Shared:ST_ConsentScreen:ConsentScreenContent_EGS",
+   "target": "Shared",
+   "index": 1614,
+   "check": "english_phrase_leakage",
+   "severity": "WARN",
+   "detail": "Delete My Personal Information"
+  },
+  {
+   "id": "Shared:ST_ConsentScreen:ConsentScreenContent_Luna",
+   "target": "Shared",
+   "index": 1615,
+   "check": "english_phrase_leakage",
+   "severity": "WARN",
+   "detail": "Delete My Personal Information"
+  },
+  {
+   "id": "Shared:ST_ConsentScreen:ConsentScreenContent_GDK",
+   "target": "Shared",
+   "index": 1616,
+   "check": "english_phrase_leakage",
+   "severity": "WARN",
+   "detail": "Delete My Personal Information"
+  },
+  {
+   "id": "Shared:ST_ConsentScreen:ConsentScreenContent_Nintendo",
+   "target": "Shared",
+   "index": 1617,
+   "check": "english_phrase_leakage",
+   "severity": "WARN",
+   "detail": "Delete My Personal Information"
+  },
+  {
+   "id": "Shared:ST_ConsentScreen:ConsentScreenContent_Sony",
+   "target": "Shared",
+   "index": 1618,
+   "check": "english_phrase_leakage",
+   "severity": "WARN",
+   "detail": "Delete My Personal Information"
+  },
+  {
+   "id": "Shared:ST_ConsentScreen:ConsentScreenContent_Sony",
+   "target": "Shared",
+   "index": 1618,
+   "check": "glossary_term_missing",
+   "severity": "WARN",
+   "detail": "Security -> الأمن"
+  },
+  {
+   "id": "Shared:ST_ConsentScreen:ConsentScreenContent_Tokenized",
+   "target": "Shared",
+   "index": 1619,
+   "check": "english_phrase_leakage",
+   "severity": "WARN",
+   "detail": "Delete My Personal Information"
+  }
+ ]
+}

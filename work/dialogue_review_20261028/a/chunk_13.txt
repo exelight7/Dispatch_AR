@@ -1,0 +1,300 @@
+1300 104:Line:FDF61738C83645818BF52F38DC94E66E [Robert]
+EN Noted. Well, tell me how it is. I wanted to see that one.
+AR مفهوم. أخبريني كيف هو. أردت مشاهدة ذلك الفيلم.
+1301 104:Line:2406672661334A2D8533F55949F3D849 [Phenoma-Man]
+EN Nothing a few stitches can't fix.
+AR بضع غرز تصلح الأمر.
+1302 104:Line:4520300817CF4CD59F01B404538A2F1A [Phenomaman]
+EN Nothing can stop us except stopping.
+AR لا شيء يوقفنا سوى التوقف.
+1303 104:Line:075D14826B544B59BB9831E5FCE84F2C [Waterboy]
+EN O-oh, wow! Okay!
+AR أ-أوه، واو! حسنا!
+1304 104:Line:390FA05A69334848AD2B4404599FDC14 [Waterboy]
+EN O-oh. Me? I... My palms are sweating. Okay, all of me is sweating.
+AR أ-أوه. أنا؟ أنا... راحتاي تتعرقان. حسنا، جسدي كله يتعرق.
+1305 104:Line:235F2A3FD29C42E8815A12102FF8B6CC [Waterboy]
+EN O-okay, that was... not great but! I-I am sure I can turn this around!
+AR ح-حسنا، لم يكن... رائعا لكن! أ-أنا واثق أنني سأقلب الموازين!
+1306 104:Line:442A5C21B557482F84B9B354820DB21E [Waterboy]
+EN O-okay.
+AR ح-حسنا.
+1307 104:Line:064D4D4FD28E42B3B6CDF1899FE0A829 [Waterboy]
+EN O-on it!
+AR ح-حاضر!
+1308 104:Line:1DC05DCF1CAD4FED965E373C5A3ABF55 [Prism]
+EN Oh I'll get to the bottom of this shit.
+AR سأصل إلى حقيقة هذا الهراء.
+1309 104:Line:0DD098C206894C4FA33BA31FD4B29B72 [Golem]
+EN Oh dang. That's a baby right there. I know what I gotta do.
+AR يا إلهي. هذا رضيع. أعرف ما علي فعله.
+1310 104:Line:C2154CDC1E174316AAF38E675FA16BE4 [Invisigal]
+EN Oh fuck. 
+AR أوه تبا. 
+1311 104:Line:26D2BB49BD1C4D50807E9618E9B2D096 [Waterboy]
+EN Oh geez... Oh no... I'm sorry... Watch that puddle... Right there...
+AR يا إلهي... أوه لا... آسف... انتبه لتلك البركة... هناك...
+1312 104:Line:0E0668B356C64F89B46FF7853CBF3800 [Waterboy]
+EN Oh hey.
+AR أوه، مرحبا.
+1313 104:Line:3396326A931440B7B7162DFA966FA755 [Helena]
+EN Oh my god, hello! Is this SDN? I was driving along the coast and this guy in front of me just drove right off the side into the water!
+AR يا إلهي، مرحبا! هل هذه SDN؟ كنت أقود بمحاذاة الساحل، والسائق أمامي انحرف فجأة عن الحافة وسقط في الماء!
+1314 104:Line:05B94FD382684898B447E533ECF4E6F3 [Phenomaman]
+EN Oh my. You are genuinely terrifying.
+AR يا إلهي. أنت مرعب حقا.
+1315 104:Line:0F25F9DB12B04F0EB7CE0C247A8A3D3C [Phenoma-Man]
+EN Oh no, my wounds. I must retire.
+AR أوه لا، جروحي. علي الانسحاب.
+1316 104:Line:157842F776F94F6FB2A81E55E0D0DA29 [Phenoma-Man]
+EN Oh no. I'm bleeding.
+AR أوه لا. أنزف.
+1317 104:Line:5F6D173D64854887966D21DCF7BB23D3 [Robert]
+EN Oh shit. They're after Coop.
+AR تبا. إنهم يطاردون كوب.
+1318 104:Line:2A9C02C59EDC4AC19A135A8817EEDDB1 [Waterboy]
+EN Oh so that's how it feels to be cared for.
+AR آه، هكذا يكون الشعور حين يعتني بك أحد.
+1319 104:Line:8006D0E50C2B4ED1BE1FF0BF163B80AA [Robert]
+EN Oh wow I wasn’t expecting it to go straight. |That was extra. Sorry.
+AR واو، لم أتوقع أن تصيب مباشرة. |بالغت في هذا. آسف.
+1320 104:Line:3A6DE52E64274E658D58CCDB9816181C [Waterboy]
+EN Oh yeah, Waterboy, coming-- out. No, not like-- I'm gonna. Go out.
+AR أجل، ووتربوي خارج-- لا، ليس بهذا المعنى-- سأذهب. إلى الخارج.
+1321 104:Line:323EBC1CEF1745A2877391ABE4FBE4E8 [Malevola]
+EN Oh you owe me for this one.
+AR أنت مدين لي بهذه.
+1322 104:Line:516E95DDCC674DA0B3D11FCDA5E58AB3 [Waterboy]
+EN Oh! Gah. Shake it off Waterboy!
+AR أوه! آخ. انفضها عنك يا ووتربوي!
+1323 104:Line:4713B6AC25DD4B56AC135092DBBEA391 [Phenomaman]
+EN Oh, Blonde Blazer...
+AR آه، بلوند بليزر...
+1324 104:Line:481A0A27F9EC4AAFADA9E5D891566F3E [Blonde Blazer]
+EN Oh, I could rock a blazer. 
+AR أوه، سأبدو رائعة بسترة بليزر. 
+1325 104:Line:21E988940F5846C8814D736CB1FA14F3 [Flambae]
+EN Oh, for those keeping score, made out with another British guy last night.
+AR بالمناسبة، لمن يعد النتائج، تبادلت القبل مع بريطاني آخر ليلة أمس.
+1326 104:Line:0F676379D66746F5A87CB549107BEAEE [Flambae]
+EN Oh, goddamnit-- you threw my noodles away? |My initials were literally on the box and everything. Fuck!
+AR اللعنة-- رميت النودلز خاصتي؟ |حرفاي الأولان كانا على العلبة وكل شيء. تبا!
+1327 104:Line:4E2BC78EAE06439A97964B3CAC16AE43 [Coupe]
+EN Oh, interesting.
+AR آه، مثير.
+1328 104:Line:152DD04A890C4E5E97A0039CFD1A0C54 [Blonde Blazer]
+EN Oh, is it now?
+AR حقا؟
+1329 104:Line:074C0F519EA94812814DAD6C42AB610C [Phenoma-Man]
+EN Oh, look at that. Unfortunately, this is it for me.
+AR انظر إلى ذلك. للأسف، انتهى دوري هنا.
+1330 104:Line:2E3DA95677C44969BEF3931413804C3D [Waterboy]
+EN Oh, man, that feels very better. <Italic>Much</> better.
+AR يا رجل، أشعر بتحسن شديد. <Italic>تحسن كبير</>.
+1331 104:Line:FFF34FA3C37E412D8EED7C04F5803617 [Blonde Blazer]
+EN Oh, no don't worry. I got this... thing tonight |and they were supposed to send the dress yesterday-- |this isn't why you're here but can you zip me up? 
+AR لا، لا تقلق. لدي هذه المناسبة الليلة، |وكان يفترض أن يرسلوا الفستان أمس-- |لم تأت لهذا، لكن هلا تغلق سحاب فستاني؟ 
+1332 104:Line:5FABAF1897E041F7B139054491CAB8F6 [Waterboy]
+EN Oh, oh no, oh God. Yep yep, I'm going out. See ya when I wake up.
+AR أوه، لا، يا إلهي. أجل، أجل، سأفقد الوعي. أراكم حين أفيق.
+1333 104:Line:3A5EB05667D843498A258395583330B6 [Golem]
+EN Oh, okay. Another puddle.
+AR آه، حسنا. بركة أخرى.
+1334 104:Line:2AC55DA418D94B43809A01982CEF9A28 [Waterboy]
+EN Oh, oww, oww oww okay. I'm out.
+AR آه، آخ، آخ آخ، حسنا. انسحبت.
+1335 104:Line:573816670DC949C59D1B96B7A6B0D5A2 [Robert]
+EN Oh, shit, Astroman? I remember him when I was a kid.
+AR تبا، أسترومان؟ أتذكره من طفولتي.
+1336 104:Line:A173AACABF1940A4B281C8D933D4D311 [Robert]
+EN Oh, shit.  
+AR أوه، تبا.  
+1337 104:Line:3B1B863C026B4800A91841CCB1E21387 [Robert]
+EN Oh, so this is a date.
+AR آه، إذن هذا موعد غرامي.
+1338 104:Line:2D11045B48E347229F15FF87D52495FF [Waterboy]
+EN Oh, that feels good. That is a feeling of good. Good feeling.
+AR آه، هذا شعور طيب. إنه إحساس بالطيب. شعور طيب.
+1339 104:Line:5F222C4819FB4587863E27C4327890A2 [Robert]
+EN Oh, the dress is fire. Yeah. The dress is killing it.
+AR الفستان نار. أجل. الفستان مذهل.
+1340 104:Line:06B582C711EE4D8CAD4419D1F8B8B16E [Waterboy]
+EN Oh, w-wow! That's... Ow. Okay. I'm okay!
+AR آه، و-واو! هذا... آخ. حسنا. أنا بخير!
+1341 104:Line:0B0732A5C2B34F0992335E64656806BC [Blonde Blazer]
+EN Oh, wow what a coincidence.
+AR يا لها من مصادفة.
+1342 104:Line:52CE497D271249F39CAE64FA11D29E89 [Sonar]
+EN Oh-kay.
+AR حسـنا.
+1343 104:Line:D106608E38EB4163AC5F0534F488B731 [Blonde Blazer]
+EN Oh-kay. Whatever that was. Listen, Rob--urt --
+AR حسـنا. أيا كان ذلك. اسمع يا رو--برت--
+1344 104:Line:59307654234347469EC812E23B331FC7 [Waterboy]
+EN Oh.
+AR أوه.
+1345 104:Line:01A2987B38894209939CC4F1F5122DC4 [Waterboy]
+EN Oh. C-cool... io.
+AR أوه. ر-رائع... جدا.
+1346 104:Line:33FBF9925AC448F6AF12A2AD6CCEE7DE [Golem]
+EN Oh. He's got jokes.
+AR أوه. يلقي النكات.
+1347 104:Line:2945C9122CAA43BAB8AF95D061F45450 [Blonde Blazer]
+EN Oh. I don’t think I’ve heard someone say areola out loud before. 
+AR أوه. لا أظنني سمعت أحدا يقول هالة الحلمة جهرا من قبل. 
+1348 104:Line:1627E788C5544EC486915BBECED8F469 [Phenomaman]
+EN Oh. I see.
+AR آه. فهمت.
+1349 104:Line:0D88CF4F0C4C48FDA5FF8D8B440A437B [Royd]
+EN Oh. We good. All you, Mecha Man.
+AR أوه. نحن بخير. لك الساحة يا ميكا مان.
+1350 104:Line:0F3752AA4133484083F9071C3EB90F93 [Invisigal]
+EN Oh... fuck.
+AR أوه... تبا.
+1351 104:Line:1720C4D1CE614A05A633D1979A1FECDE [Waterboy]
+EN Okay this looks like a job for a janitor. Let me squeeze on in here.
+AR حسنا، تبدو هذه مهمة عامل نظافة. دعني أنحشر هنا.
+1352 104:Line:52F202ABA8F04F9396FA95609C7E5948 [Waterboy]
+EN Okay, fine.
+AR حسنا، اتفقنا.
+1353 104:Line:232B7EA8787B460CB161DFCD3CCADD78 [Waterboy]
+EN Okay, heh, I'm your guy, heh!
+AR حسنا، هه، أنا رجلك، هه!
+1354 104:Line:0E3107784252418FB932BAD1A827C72D [Waterboy]
+EN Okay, never mind.
+AR حسنا، انس الأمر.
+1355 104:Line:36D8CFCC6DE3439ABB6662245FFB0247 [Waterboy]
+EN Okay, okay, I'm gonna sleep for a second. Just a long painful sleep.
+AR حسنا، حسنا، سأنام لحظة. مجرد نوم طويل مؤلم.
+1356 104:Line:5482290D14624CA38B62F076E3A8D211 [Brittany]
+EN Okay, so, update. We have found the baby kaiju's mom and... She doesn't seem very happy.
+AR حسنا، تحديث جديد. وجدنا أم صغير الكايجو و... لا تبدو سعيدة جدا.
+1357 104:Line:37C91AB4D52741FFB9F1D4341EB97A46 [Robert]
+EN Okay, sounds like quitting talk to me.
+AR حسنا، يبدو لي هذا كلام مستسلم.
+1358 104:Line:1200ED428A8845A1AF0C49BC8E26BD1B [Malevola]
+EN Okay, yeah, I'll figure out what they want with Ch'aad.
+AR حسنا، سأعرف ماذا يريدون من تشآد.
+1359 104:Line:53D9D7B41C174EF1A5BA516B8041BAC0 [Malevola]
+EN Okay, yeah, we'll figure out what they want with Ch'aad.
+AR حسنا، سنعرف ماذا يريدون من تشآد.
+1360 104:Line:26C0BFD4D6F04181AA642205971ADB54 [Malevola]
+EN Okay, you have to stop calling me that.
+AR حسنا، عليك التوقف عن مناداتي بذلك.
+1361 104:Line:14C596C647434F66A387C908FF389804 [Waterboy]
+EN Okay.
+AR حسنا.
+1362 104:Line:1F932FDD5D8047B483E4B366D4BDAABE [Waterboy]
+EN Okay. I see the light. I am going away from the light.
+AR حسنا. أرى النور. سأبتعد عن النور.
+1363 104:Line:0888CF3DDF484FF38CEBADE6F3AA6D03 [Royd]
+EN Okay. We pass da P.E. class.
+AR حسنا. نجحنا في حصة الرياضة.
+1364 104:Line:2935F629C2EA4717927598F4B1E81AE2 [Robert]
+EN Okay... So we couldn't get past their security--
+AR حسنا... إذن لم نتجاوز أمنهم--
+1365 104:Line:C7E6611F12F446E3AA689E679339F21E [Robert]
+EN One of the greatest heroes of all time? 
+AR أحد أعظم الأبطال على الإطلاق؟ 
+1366 104:Line:0E31807A141048CB8B9A1E97C9E1C6D3 [Robert]
+EN One of them is the poster boy of SDN and the other guy pukes water-- |what am I missing?
+AR أحدهما واجهة SDN والآخر يتقيأ الماء-- |ما الذي يفوتني؟
+1367 104:Line:5C92C2D2ACC34D11850AFF070AD89C06 [Phenomaman]
+EN Onward... Upward...
+AR إلى الأمام... إلى الأعلى...
+1368 104:Line:1A18325BE8304B3BA1927CAFDFF7A532 [Waterboy]
+EN Oooh! Oooh! Me! Me! Me!
+AR أوووه! أوووه! أنا! أنا! أنا!
+1369 104:Line:333D0B0FFAFC430E9111AD1E65126F18 [Malevola]
+EN Opossums aren't pets man.
+AR الأبوسوم ليس حيوانا أليفا يا رجل.
+1370 104:Line:03C118BE80484AA6B3EF3CC8496F7963 [Robert]
+EN Or I could also just... track you down.
+AR أو يمكنني ببساطة... تعقبك.
+1371 104:Line:E6F974B575AA480C83E6C60987FE5A09 [Invisigal]
+EN Or is this some sort of team building exercise.
+AR أم هذا تمرين لتعزيز روح الفريق؟
+1372 104:Line:50102E9976EF4BCE83F0EDB600A2ABB3 [Golem]
+EN Ow dude, what the fuck?!
+AR آخ يا صاح، ما هذا بحق اللعنة؟!
+1373 104:Line:37A5D73AB61648068B25B9FF876E17B1 [Waterboy]
+EN Ow.
+AR آخ.
+1374 104:Line:48551DD8CAB34FF68E66965D4945057D [Waterboy]
+EN P-perfect? Me?
+AR م-مثالي؟ أنا؟
+1375 104:Line:4C75329856F249BFBE10A22CB2DF44C3 [Waterboy]
+EN P-please don't fire me.
+AR أ-أرجوك لا تطردني.
+1376 104:Line:0C8452983DA0416CACF7BAB8C597FA20 [Waterboy]
+EN P-pleased to-- Uh, l-looking forward to working with-- Go team!
+AR ت-تشرفت-- آه، أ-أتطلع للعمل مع-- هيا يا فريق!
+1377 104:Line:413285BCE5B04C02B01A27EBFE6A0C4A [Waterboy]
+EN Pain hurts, but I'm-- I'm okay.
+AR الألم يؤلم، لكنني-- أنا بخير.
+1378 104:Line:9E1A2B8D3F974C6CB0C96EDBE4A27965 [Robert]
+EN Parking lot. |Didn’t think taking a desk job would have me bleeding this often. |What are you doing here? 
+AR موقف السيارات. |لم أتوقع أن تجعلني الوظيفة المكتبية أنزف بهذه الكثرة. |ماذا تفعلين هنا؟ 
+1379 104:Line:44863121042F4415B5C911FB1BE2A543 [Blonde Blazer]
+EN People have expectations and they never meet me first... |it’s always the superhero. |It’s hard to live up to.
+AR لدى الناس توقعات، ولا يقابلونني أنا أولا... |بل البطلة الخارقة دائما. |يصعب الارتقاء لذلك.
+1380 104:Line:4C3F93A682FC40F1B6456686F24FB475 [Invisigal]
+EN Perfect, you're a natural.
+AR مثالي، أنت موهوب بالفطرة.
+1381 104:Line:28122DF123C84FF38C2AE0044D75AD16 [Phenoma-Man]
+EN Perhaps the fact that I am not a person is contributing to my confusion... 
+AR ربما كوني لست بشريا يسهم في حيرتي... 
+1382 104:Line:149A7922BA444617AEEF92608502226D [Blazer]
+EN Phenomaman is here to help.
+AR فينومامان هنا للمساعدة.
+1383 104:Line:3F27884240F646629AEE4D7C6358AF03 [Invisigal]
+EN Phenomaman's still on the 405. Just passed him. He's gone from shaking his fist at cars to sadly directing traffic.
+AR فينومامان ما زال على طريق 405. مررت به للتو. انتقل من التلويح بقبضته للسيارات إلى تنظيم المرور بحزن.
+1384 104:Line:E986580D763241A0B5B0449463C6356D [Robert]
+EN Phenomaman, I guess. |I’m worried he has too much time to think right now. 
+AR فينومامان على ما أظن. |أخشى أن لديه وقتا زائدا للتفكير حاليا. 
+1385 104:Line:185A34FE1C4547E4AF77C2647CA4B693 [Blazer]
+EN Phenomaman... I'm at the office.
+AR يا فينومامان... أنا في المكتب.
+1386 104:Line:268F48BF4C75445EA451948B1B6A6718 [Punch Up]
+EN Pick on somebody my own size.
+AR تشاجر مع شخص في حجمي.
+1387 104:Line:1140B66DE3D945C99AECFBC716CE6B3D [Phenoma-Man]
+EN Please accept my deepest gratitude.
+AR تقبل خالص امتناني رجاء.
+1388 104:Line:77D08878774C4B65AA60E711F94DEF2F [Robert]
+EN Please don’t extinguish the sun, Phenomaman. We like it how it is.
+AR أرجوك لا تطفئ الشمس يا فينومامان. نحبها هكذا.
+1389 104:Line:3327FAFDB91447B68618B42BAB5F9311 [Waterboy]
+EN Please just let me stay, please!
+AR أرجوك دعني أبقى، أرجوك!
+1390 104:Line:314A472938FB4F51B9EE40034D461AD3 [Waterboy]
+EN Please, please, just please, I need this!
+AR أرجوك، أرجوك، فقط أرجوك، أحتاج هذا!
+1391 104:Line:4F4CB00A910345D5BBEFD8293E13C12E [Punch-Up]
+EN Poor guy, I've been there.
+AR المسكين، مررت بهذا.
+1392 104:Line:080D997B51A942CBAF8FB4AFCEB54869 [Phenoma-Man]
+EN Powering through with power.
+AR أشق طريقي بالقوة.
+1393 104:Line:21557B2CA6D24384AB8B5A5054C3B0A8 [Waterboy]
+EN Probably for the best...
+AR ربما هذا أفضل...
+1394 104:Line:210E3252B0DD461DA46840F7F4FDF452 [Robert]
+EN Proto-Pulse test seven. Pilot ready. We good out there?
+AR اختبار النبضة الأولية السابع. الطيار جاهز. هل كل شيء تمام هناك؟
+1395 104:Line:221AD378A1E443D5873AEA4043FFE3AD [Robert]
+EN Proto-Pulse test seven: failure. 
+AR اختبار النبضة الأولية السابع: فشل. 
+1396 104:Line:5BD941185CFF4576A75D8BAED38DDA27 [Robert]
+EN Prove me wrong.
+AR أثبت أنني مخطئ.
+1397 104:Line:3CF91425FFEC4ED9A2D7EDC4B0BDAAB2 [Waterboy]
+EN Puddle! Guys-- Watch-- Look out!
+AR بركة! يا رفاق-- انتبهوا-- احذروا!
+1398 104:Line:2B0C2FB00E614FD3A94AB56EBA90AC1F [Punch Up]
+EN Put me on your shoulders. We'll be unstoppable!
+AR ضعني على كتفيك. لن يوقفنا شيء!
+1399 104:Line:2ED12DDA694E4DBCAA7E0B059D8420B9 [Prism]
+EN Quick way to heal a broken heart, write a song about it.
+AR طريقة سريعة لعلاج قلب مكسور: اكتب أغنية عنه.

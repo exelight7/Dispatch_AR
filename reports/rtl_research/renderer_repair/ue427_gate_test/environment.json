@@ -1,0 +1,29 @@
+{
+  "label": "UE ISOLATED TEST (UE 5.8.4, NOT 4.27) - NOT DISPATCH",
+  "requested_engine": "Unreal Engine 4.27 (Launcher)",
+  "installed_engine": {
+    "path": "D:\\EPIC\\UE_5.8",
+    "Build.version": {"MajorVersion": 5, "MinorVersion": 8, "PatchVersion": 4, "Changelist": 58902052, "CompatibleChangelist": 55116800, "IsLicenseeVersion": 0, "IsPromotedBuild": 1, "BranchName": "++UE5+Release-5.8"},
+    "editor_binary": "D:\\EPIC\\UE_5.8\\Engine\\Binaries\\Win64\\UnrealEditor-Cmd.exe",
+    "installed_size_on_disk": "31 GB (du)",
+    "platform_folders_present": ["Android", "IOS", "VisionOS", "Windows"],
+    "installed_by": "user via Epic Games Launcher (official); launcher session already signed in; no credentials handled by the agent",
+    "launcher_size_estimate": "not relayed to the agent",
+    "UE427": "NOT INSTALLED - user selected 'Use 5.8 only' for this round"
+  },
+  "UE427_EDITOR_READY": false,
+  "authoritative_for_ue427": false,
+  "rhi": "D3D12",
+  "toolchain": {
+    "msvc": "VS 2022 Build Tools 17.14.42, MSVC 14.44.35207",
+    "windows_sdk": "10.0.26100.0",
+    "netfx_sdk": "4.8 (Microsoft.Net.Component.4.8.SDK added this round with user approval; required by UE 5.8 UBT)",
+    "ubt_dotnet": "bundled .NET 10"
+  },
+  "disk": {"D_free_before_install": "129 GB", "D_free_after_install": "99 GB"},
+  "test_project": "C:\\Dispatch_AR\\tools\\ue427_stock_reveal_test\\RevealTest.uproject",
+  "run": "sh tools/ue427_stock_reveal_test/run_gates.sh  (Build.bat RevealTestEditor + UnrealEditor-Cmd -ExecCmds=\"Automation RunTests RevealGate.All;Quit\" -unattended)",
+  "render_path": "offscreen FWidgetRenderer (gamma off) into RTF_RGBA32f render targets, read back with ReadLinearColorPixels; no game viewport, no PIE",
+  "screenshot_resolution": {"lines": "1000x300 (+28 px label strip)", "stress": "1600x900", "G1_debug": "480x160"},
+  "dispatch": "not run, not touched; Steam not run"
+}

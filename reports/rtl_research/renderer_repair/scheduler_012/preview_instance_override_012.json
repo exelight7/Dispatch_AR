@@ -1,0 +1,28 @@
+{
+ "package": "/Game/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SubtitlePreview",
+ "uasset_sha256": "F3B74ED3D98A3019EF3506EBDA1AC680281C73868808841AD63A704FF1BE5760",
+ "uexp_sha256": "7E0F955F66B1947A0ED481C47490B4AAB52B68EA9DDD1E83B404E4A4A2BACCC3",
+ "export_22": {
+  "ObjectName": "WBP_SubtitleBlock",
+  "Class": "/Game/Shared/Core/Widgets/WBP_SubtitleBlock:WBP_SubtitleBlock_C",
+  "Animate While Paused": true
+ },
+ "gameplay_spawn": "WBP_SubtitlesWidget 'Get Subtitle Block From Pool' -> WidgetBlueprintLibrary::Create(WBP_SubtitleBlock_C); variable flags CPF_Edit|CPF_BlueprintVisible|CPF_BlueprintReadOnly (not ExposeOnSpawn); class default false",
+ "template_tick_override": {
+  "package": "/Game/Shared/Core/Widgets/WBP_SimpleFadeSwitcher",
+  "export": "Tick",
+  "FunctionFlags": "FUNC_BlueprintCosmetic, FUNC_Event, FUNC_Public, FUNC_BlueprintEvent",
+  "super": "/Script/UMG.UserWidget:Tick",
+  "params": [
+   [
+    "MyGeometry",
+    "StructProperty"
+   ],
+   [
+    "InDeltaTime",
+    "FloatProperty"
+   ]
+  ],
+  "cdo_note": "bHasScriptImplementedTick not serialized (UUserWidget default true); WBP_SubtitleBlock CDO serializes false"
+ }
+}

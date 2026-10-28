@@ -1,0 +1,42 @@
+{
+ "label": "OFFLINE SIMULATION of DISPATCH 4.27 shader constants - not a UE run, not in-game",
+ "bytes_checked": 256,
+ "quantizers": [
+  "ue4_floor_255.999",
+  "round"
+ ],
+ "perturbations": {
+  "pow_relative": [
+   -1e-05,
+   0.0,
+   1e-05
+  ],
+  "interpolant_ulps": [
+   -4,
+   0,
+   4
+  ]
+ },
+ "failures": [],
+ "worst_decode_margin_in_byte_units": 0.48443603515625,
+ "compensation": {
+  "0": {
+   "vc_linear": 4.724086466012523e-06,
+   "col_1_over_vc": 211681.140625,
+   "roundtrip_error": 0.0
+  },
+  "1": {
+   "vc_linear": 0.0003035269910469651,
+   "col_1_over_vc": 3294.599853515625,
+   "roundtrip_error": 0.0
+  }
+ },
+ "r8b_fallback_b_channel": {
+  "k": 10.5,
+  "units": 37,
+  "max_tint_b": 5.791816364280266e+36,
+  "wrong": 0,
+  "pass": true
+ },
+ "pass": true
+}

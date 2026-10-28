@@ -1,0 +1,242 @@
+[
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "A2DA18814049FAFFC87DCA834076641C",
+    "en": "Add New Tracks",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.TextBlock_2.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "899EC5464B61DCAA8AAB5A85C2626714",
+    "en": "Censor Asset Generator",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImport.WBP_CensorImport_C:WidgetTree.CensorAssetGen.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "B8B2823A40827F36349EAC885E9E5ACA",
+    "en": "Censor Editor Testing",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTestingWidget.WBP_CensorTestingWidget_C:WidgetTree.TextBlock_2.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "B4B211974449511538B867AC07143351",
+    "en": "Censor Export",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.TextBlock_4.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "E7AD050949CF3668CC91D2A3060F1ADF",
+    "en": "Censor Export",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.TextBlock_4.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "10628599419C29090FBD1992B6CA0ACD",
+    "en": "Censor Strength",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTestingWidget.WBP_CensorTestingWidget_C:WidgetTree.CensorStrength.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "94C3E0334A9CD913059E6EB0F37BF7B0",
+    "en": "Censor Style:",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTestingWidget.WBP_CensorTestingWidget_C:WidgetTree.TextBlock_3.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "BFA21E6F4875BA8C6B2AD8BE7ACB72C3",
+    "en": "Censor Style:",
+    "context": "/Game/Tools/CensorWidgets/WBP_TrackListItem.WBP_TrackListItem_C:WidgetTree.TextBlock_108.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "6707FFF54BCD71C4262600891EEC1B5D",
+    "en": "Censor Track Editor",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImport.WBP_CensorImport_C:WidgetTree.CensorEditor.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "E4299A8B4C9BBBE60B780293A3AADE0F",
+    "en": "Censor Video Type",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTestingWidget.WBP_CensorTestingWidget_C:WidgetTree.CensorVideoType.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "B886745F4B0BE42D4E370E823E862280",
+    "en": "Changes the censor styles.",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTestingWidget.WBP_CensorTestingWidget_C:WidgetTree.HorizontalBox.ToolTipText",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "51AC89434B33E8461C81A7AE99321989",
+    "en": "Clear Video Type Tracks",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.TextBlock_3.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "91C074D940A3C582935B26ACB8A9FB5C",
+    "en": "Episode:",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.TextBlock_58.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "14096A08473D21CB0971AB84F6EE223B",
+    "en": "Example Text",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTabButton.Default__WBP_CensorTabButton_C.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "F1DDFF564BD7086A843C9598FA2A5A03",
+    "en": "Gquence",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.TextBlock_45.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "69D49DC7409A4F039A1955AD7BCA28B2",
+    "en": "Is Storyboard Track",
+    "context": "/Game/Tools/CensorWidgets/WBP_TrackEditorTreeItem.WBP_TrackEditorTreeItem_C:WidgetTree.TextBlock.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "096367B945D2A85551FFBBA8A3A3DDDD",
+    "en": "Is full censor only",
+    "context": "/Game/Tools/CensorWidgets/WBP_TrackEditorTreeItem.WBP_TrackEditorTreeItem_C:WidgetTree.TextBlock_118.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "E31665B441CA74EA7C6AC2A761262007",
+    "en": "Options for testing censors at edit time. Allows us to test the censors by just playing the associated level sequence. You must select the matching censor asset to preview censors.",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTestingWidget.WBP_CensorTestingWidget_C:WidgetTree.TextBlock_2.ToolTipText",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "16BE0F1B4568762F42579384A334D1BC",
+    "en": "Save All",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.TextBlock_1.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "FFBBF6674F3279405BE6668924B754E9",
+    "en": "Save Censor Asset",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.TextBlock_1.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "7490040341EAE71C096A0E83014B42DE",
+    "en": "Save Selected Squence",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.TextBlock.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "747D27D249FD6978C430C5A4A3F5BE3A",
+    "en": "Select Premiere XML file to import",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.CurrentFileImported.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "390CBFF84154F20F168721B8F020B70A",
+    "en": "Select Xml",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.TextBlock_19.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "3E34EE5745E1387AC338F283D1587B8E",
+    "en": "Select Xml",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.TextBlock_19.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "8F1CF6F34D4EC69322F11BB943069943",
+    "en": "Select this if this track should only be visible in full censor mode.",
+    "context": "/Game/Tools/CensorWidgets/WBP_TrackEditorTreeItem.WBP_TrackEditorTreeItem_C:WidgetTree.FullCensorCheckBox.ToolTipText",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "13ED1B5E418549B25E1EA193191A2EC8",
+    "en": "SelectedFile:",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.TextBlock_100.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "CBA3D0D8409D389AF1FA478B0AD77084",
+    "en": "Sequences",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.TextBlock_57.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "4DFF1BE74F12B0A91E7ECBB3D751090F",
+    "en": "The image style to use. Note that Black Bar tracks are used for the Mosaic censors.",
+    "context": "/Game/Tools/CensorWidgets/WBP_TrackListItem.WBP_TrackListItem_C:WidgetTree.StylePanel.ToolTipText",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "599A60334F01E27127EC80823F10570C",
+    "en": "Track",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorImporter.WBP_CensorImporter_C:WidgetTree.TextBlock.Text",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  },
+  {
+    "target": "OtherContent",
+    "namespace": "",
+    "key": "0EAF1D854FF08B86350662833326BF53",
+    "en": "Will only add selected tracks which don't already exist. Any existing track ids will be ignored.",
+    "context": "/Game/Tools/CensorWidgets/WBP_CensorTrackEditor.WBP_CensorTrackEditor_C:WidgetTree.MergeSelectedTracksButton.ToolTipText",
+    "scope": "Manifest-only; absent from installed English locres; not silently counted as translated runtime resource"
+  }
+]

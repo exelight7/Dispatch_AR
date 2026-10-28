@@ -1,0 +1,300 @@
+500 101:Line:297FCF154CF2426EBC8DF53499D23B46 [Mecha Man]
+EN Yeah. Just put the tv's back and you can leave. |I won't say anything to the cops and this doesn't need to escalate.
+AR أجل. أعيدوا أجهزة التلفاز ويمكنكم الرحيل. |لن أخبر الشرطة، ولا داعي لتصعيد الأمر.
+501 101:Line:780A9756D33B4F77BF1CAE07CE30CB61 [Robert]
+EN Yeah. Thanks for reminding me. So, here’s what’s gonna happen. |I’m going to hang you off the side of this building, |and you’re gonna tell me where Shroud is, |or I’m going to drop you to your death.
+AR أجل. شكرا لتذكيري. إليك ما سيحدث. |سأعلقك من جانب هذا المبنى، |وستخبرني أين شراود، |وإلا تركتك تسقط إلى موتك.
+502 101:Line:3EC425A6598243E8B2EE36407D5CAF99 [Mecha Man]
+EN Yes it is.
+AR بلى.
+503 101:Line:5F218C496412425B9065D86715532153 [Pom Pom]
+EN Yes! 10's across the board!
+AR نعم! عشر درجات في كل شيء!
+504 101:Line:4EBD0AEBE9474BCDA396B8A86BB3E34C [Soothing Goon]
+EN Yes! Please, that’s all I know!
+AR نعم! أرجوك، هذا كل ما أعرفه!
+505 101:Line:01CE29743CC94F29B6A6EC4A866430EC [Phenomaman]
+EN Yes, but there are limitations. Your HR representative will have all the details.
+AR نعم، لكن هناك قيود. سيعطيك ممثل الموارد البشرية كل التفاصيل.
+506 101:Line:068BFAED541749388A202DFB8EA665D7 [Brickhouse]
+EN Yes, sir.
+AR نعم سيدي.
+507 101:Line:644370A120514BD7972495AD72657EA2 [Mecha Man]
+EN You are Dr. Don’t Do Shit. |Your deal is you walk up to people, look threatening, talk a big game then don’t do shit about it. |Also, you’re not a real doctor 'cause you’re a fuckin’ idiot.
+AR أنت الدكتور لا يفعل شيئًا لعينًا. |تأتي إلى الناس، وتتظاهر بالتهديد، وتتبجح، ثم لا تفعل شيئا لعينا. |ولست طبيبا حقيقيا أيضا لأنك أحمق لعين.
+508 101:Line:9530B77B35474D01969FD5C7E0C53379 [Mecha Man]
+EN You are Sunglasses, Indoors, at Night Guy. |Your superpower is that you’re able to let everyone know in the room that you’re a douchebag |'cause you should literally never do that unless you’re at the final table of the World Series of Poker| -- but even then, if you win, you’re still a fuckin’ loser.
+AR أنت رجل النظارة الشمسية داخل المباني ليلا. |قوتك الخارقة أنك تخبر كل من في الغرفة أنك وغد |لأن عليك ألا تفعل ذلك أبدا إلا على الطاولة النهائية لبطولة العالم للبوكر| -- وحتى حينها، إن فزت، تظل فاشلا لعينا.
+509 101:Line:110FFD43FE3447B4AB9FC23F0002DDCF [Toxic]
+EN You can call me Toxic.
+AR يمكنك مناداتي توكسيك.
+510 101:Line:5AEE108CE50748ECB9858441DD8BB7FE [Pom Pom]
+EN You can find suggestions on how to handle hostage situations on page two hundred and thirty four of SDN's Guide to Dispatching.
+AR تجد اقتراحات للتعامل مع احتجاز الرهائن في الصفحة مئتين وأربع وثلاثين من دليل SDN لتنسيق العمليات.
+511 101:Line:6148C2EFCC2042359DA491A666519598 [Blonde Blazer]
+EN You didn’t-- I mean, you did, but I definitely...
+AR لم تفعل-- أعني، فعلت، لكنني بالتأكيد...
+512 101:Line:450EAA03C81342C68E20B83CCB1C5243 [Mecha Man]
+EN You drink hard liquor from a pint glass?
+AR تشربين الخمر القوي من كأس بيرة؟
+513 101:Line:915304FB85F448009432040C668C8D79 [Flambae]
+EN You good?
+AR أأنت بخير؟
+514 101:Line:65DD29D7E77B446B93AA3C70A3656334 [Blonde Blazer]
+EN You got fired up?
+AR احتد مزاجك؟
+515 101:Line:D647D8E4BDA046708D587B604D7EF33A [Punch-Up]
+EN You gotta drop and roll lad!
+AR عليك أن تنبطح وتتدحرج يا فتى!
+516 101:Line:46B61D37414A4FF39F4A894B44713253 [Phenoma-Man]
+EN You know best.
+AR أنت أدرى.
+517 101:Line:D7E6D4CB83B34A829A8DB2C7541D6630 [Mecha Man]
+EN You know what, you are Mr. Wet Ponytail. |Your superpower is in, obviously, your ponytail, which, aside from being disgusting, has the ability to never not be wet. |In battle you whip it around and anyone it touches fuckin’ kills themself.
+AR أتعرف؟ أنت السيد ذيل الحصان المبلل. |قوتك الخارقة في ذيل حصانك طبعا، الذي، إلى جانب قذارته، لا يجف أبدا. |في المعركة، تلوح به، وكل من يلمسه ينتحر فورا.
+518 101:Line:D027F2E63821436A80181DD22FBBEADA [Blonde Blazer]
+EN You look like some kinda mime DJ. Let me see it. I’ll help you.
+AR تبدو كمنسق موسيقى إيمائي. أرني. سأساعدك.
+519 101:Line:4695F05A2A264E298F31C571D68EAFCF [Blonde Blazer]
+EN You look like you could use a drink.
+AR تبدو بحاجة إلى شراب.
+520 101:Line:22DEB5D966AC4076B1D98ACA3ACD8169 [Sweetalker]
+EN You look lovely today, by the way.
+AR تبدو رائعًا اليوم بالمناسبة.
+521 101:Line:E85A004562B7469DBD6A9BBDC661C7F8 [Blonde Blazer]
+EN You must be completely broke at this point.
+AR لا بد أنك مفلس تماما الآن.
+522 101:Line:938558FF14F546338284184AB583FD12 [Soothing Goon]
+EN You piece of shit!
+AR يا حقير!
+523 101:Line:CD9C626265124DB0B7142567006D2BD8 [Soothing Voice]
+EN You said love. |Your dad’s dead, so you don’t love him, you loved him.
+AR قلت إنك تحبه. |أبوك ميت، لذا أنت لا تحبه، بل كنت تحبه.
+524 101:Line:D59DDEA5DDC34192868D9DDD033A2DFB [Mecha Man]
+EN You stong...
+AR أنت قوي...
+525 101:Line:19A5BB90B4D24A5093E11C94E041739A [Phenomaman]
+EN You'll receive requirements to help you determine which heroes to send!
+AR ستتلقى متطلبات تساعدك على تحديد الأبطال الذين سترسلهم!
+526 101:Line:19700E71CF034E0EA7D21910F1075F4D [Mecha Man]
+EN You're bluffing.
+AR أنت تخادع.
+527 101:Line:646CB5A7DC67412AAA2AA363FCB0A761 [Greenski]
+EN You're not Mecha Man. That's Mecha Man.
+AR لست ميكا مان. ذلك هو ميكا مان.
+528 101:Line:04CF9DD9BBA440698A83076D0AB035E3 [Brickhouse]
+EN You're welcome.
+AR لا شكر على واجب.
+529 101:Line:785D49F630044171B8E59B764106E302 [Blonde Blazer]
+EN Your experience, your work ethic, your perspective, it’s all invaluable. |Share it, Robert. You have a lot left to give.
+AR خبرتك، وأخلاق عملك، ورؤيتك، كلها لا تقدر بثمن. |شاركها يا روبرت. ما زال لديك الكثير لتقدمه.
+530 101:Line:2A61A15691CE425D8CA165CA173FFA92 [Charles Kingsley]
+EN Your father, your grandfather, they must be rolling over in their graves.
+AR لا بد أن أباك وجدك يتقلبان في قبريهما.
+531 101:Line:B4ECBFC6D398495C8CEE14126510CC80 [Final Reporter]
+EN Your father, your grandfather, they must be rolling over in their graves.
+AR لا بد أن أباك وجدك يتقلبان في قبريهما.
+532 101:Line:1FD62E277767471286D1E0DCC4C2AF4F [Coupe]
+EN Your mouth, it's whistling. |Come on, we should get you to a hospital.
+AR فمك يصفر. |هيا، يجب أن نأخذك إلى المستشفى.
+533 101:Line:DB605FB2562A498CA61BD90AD5C27A2D [Mecha Man]
+EN You’re gonna hit me now, right?
+AR ستضربني الآن، صحيح؟
+534 101:Line:D0F88A2F1A69443290E4F0E2869C69C5 [Flambae]
+EN You’re really gonna act like you don’t remember me?
+AR ستتظاهر حقا بأنك لا تتذكرني؟
+535 101:Line:596DDCBBB1FA4FB8B52E49ECA3EDF58C [Blonde Blazer]
+EN You’re serious. Millions.
+AR أنت جاد. ملايين.
+536 101:Line:095C5DB0E00A485E928F9FCBBFF76754 [Robert]
+EN You’re sure about that?
+AR أأنت واثقة من ذلك؟
+537 101:Line:4C574CB05EC34DD487C4FB1A22240714 [Mecha Man]
+EN You’re trouble.
+AR أنت مشاغبة.
+538 101:LV_Shift01.Scenario_SC_02_:VOTranscription []
+EN "The museum is doing an exhibit on local superheroes and needs a guest speaker!"
+AR "يقيم المتحف معرضا عن الأبطال الخارقين المحليين ويحتاج إلى متحدث ضيف!"
+539 101:LV_Shift01.Scenario_SC_04_:VOTranscription []
+EN "The diabolical super villain El Diablo is attacking Los Angeles General!"
+AR "الشرير الخارق الشيطاني إل ديابلو يهاجم مستشفى لوس أنجلوس العام!"
+540 101:LV_Shift01.Scenario_SC_04_b:VOTranscription []
+EN "There's a giant monster attacking downtown! Save us, SDN!"
+AR "وحش عملاق يهاجم وسط المدينة! أنقذونا يا SDN!"
+541 101:LV_Shift01.Scenario_SC_04_c:VOTranscription []
+EN "El Diablo's goons are running scared. We're right on the heels of his sidekick, El Diablito!"
+AR "بلطجية إل ديابلو يفرون مذعورين. نحن نطارد مساعده، إل ديابليتو!"
+542 101:LV_Shift01.Scenario_SC_05_:VOTranscription []
+EN "We've got a potential villain hideout on the college campus."
+AR "لدينا مخبأ محتمل للأشرار في الحرم الجامعي."
+543 101:LV_Shift01.Scenario_SC_07_:VOTranscription []
+EN "Oh no. Help us. We are being held hostage. Send help. Please."
+AR "يا إلهي. ساعدونا. نحن محتجزون رهائن. أرسلوا المساعدة. أرجوكم."
+544 101:LV_Shift01.Scenario_SC_08_:VOTranscription []
+EN "I need help... gettin' to my... doctor's appointment."
+AR "أحتاج مساعدة... للوصول إلى... موعد الطبيب."
+545 101:LV_Shift01.Scenario_SC_10_:VOTranscription []
+EN "A convoy of Diablo's goons are harrying the Highway Patrol."
+AR "قافلة من بلطجية ديابلو تضايق دورية الطرق السريعة."
+546 101:NodeTitle:A555BB84C0F54E7FB8CF241D2B561DB3 []
+EN A bar proposition?
+AR عرض في حانة؟
+547 101:NodeTitle:368CE1FD2CB34031A9877B8223E6EC05 []
+EN BUCKET FAIL
+AR فشل الدلو
+548 101:NodeTitle:0046E8A739184838BBD3C7268209FCC5 []
+EN BUCKET SUCCESS
+AR نجاح الدلو
+549 101:NodeTitle:30BF48743F8F4C979A7AA6A26B3D8B27 []
+EN Bullshit.
+AR هراء.
+550 101:NodeTitle:237592CA33D54B8097D557DD5504C032 []
+EN Didn't know him well.
+AR لم أعرفه جيدا.
+551 101:NodeTitle:6210FEB1921B43CB97E6A816F06F748C []
+EN Dispatch heroes?
+AR إرسال الأبطال؟
+552 101:NodeTitle:45E3194F186D4A6CAB35405DECD53AFF []
+EN Dr. Don't Do Shit
+AR الدكتور لا يفعل شيئًا لعينًا
+553 101:NodeTitle:AB313E2341F54C278F4B1A3289897AED []
+EN Extinguished a situation.
+AR أخمدت الموقف.
+554 101:NodeTitle:0E72C058D5E64580BC077016312846C7 []
+EN FAIL
+AR فشل
+555 101:NodeTitle:32EE73658BCE4FBBACCA7761AD972279 []
+EN FAIL
+AR فشل
+556 101:NodeTitle:35E3B07983DB4AB380E94ED5353BA83A []
+EN FAIL
+AR فشل
+557 101:NodeTitle:3FC587A4BC374E158A9DCE245C207D52 []
+EN FAIL
+AR فشل
+558 101:NodeTitle:40C43050A5DB4B3485EBC8F28DEA286F []
+EN FAIL
+AR فشل
+559 101:NodeTitle:45F5E448B56B4C1D9C482D928D7CA0C1 []
+EN FAIL
+AR فشل
+560 101:NodeTitle:0B10B7A1C1E94433A531AC5D52FDF21B []
+EN Finish Zip Up - Grab Astral Pulse
+AR إتمام إغلاق السحاب - أخذ النبضة النجمية
+561 101:NodeTitle:2DBE82A7C4EA41E2A8730618B4E515A5 []
+EN Got fired up.
+AR احتد مزاجي.
+562 101:NodeTitle:B1BF1C4C423642F3B0A1D0EF6A356FE4 []
+EN Guy fell down.
+AR سقط رجل.
+563 101:NodeTitle:81837A62D4DA4407ACD65849E4C558D2 []
+EN Have you done this before?
+AR هل فعلت هذا من قبل؟
+564 101:NodeTitle:06FB82F910894EF8A6861E356F756E24 []
+EN He's gone.
+AR لقد رحل.
+565 101:NodeTitle:41E04C6FCCF74F4E8A2EB53B69ABCFED []
+EN Honestly, not sure anymore.
+AR بصراحة، لم أعد واثقا.
+566 101:NodeTitle:C4A22488DF554921AEA0A7C844D0C3C3 []
+EN Hopefully nothing scandalous.
+AR آمل ألا يكون شيئا فاضحا.
+567 101:NodeTitle:E7D3A05777E249CFAF2DC0376EBC533C []
+EN I can do it myself.
+AR أستطيع فعلها وحدي.
+568 101:NodeTitle:9ED7A2DA806A4EF180403F58644770C2 []
+EN I did my best.
+AR بذلت قصارى جهدي.
+569 101:NodeTitle:BEF8A525711347B4BF60C6D3A4DFA7E4 []
+EN I don't know...
+AR لا أعرف...
+570 101:NodeTitle:8594F0777F7A49C88DD9778D8C6C001A []
+EN I like helping people.
+AR أحب مساعدة الناس.
+571 101:NodeTitle:9FB061BE03ED476D811D0C62276CA4E5 []
+EN I love my dad.
+AR أحب أبي.
+572 101:NodeTitle:468D893D27D7487AA802AFF3BDD93949 []
+EN I really needed this.
+AR كنت بحاجة ماسة إلى هذا.
+573 101:NodeTitle:95D0186CB4AC4425A02F9013AE1D0489 []
+EN I was watching that.
+AR كنت أشاهد ذلك.
+574 101:NodeTitle:05B51879530E4CD5A65431FADE1CF59C []
+EN I'd prefer a professional.
+AR أفضل مختصا.
+575 101:NodeTitle:D39107DB12B54C3887E0CBB12C9ED87B []
+EN I'm Mecha Man.
+AR أنا ميكا مان.
+576 101:NodeTitle:4281ED3796144FBEB9BDFD9CC8357EFC []
+EN I'm here to fuck you up.
+AR جئت لأدمّرك يا لعين.
+577 101:NodeTitle:C20E953A43EC43FFBC404FCB30825B9D []
+EN Impressive.
+AR مبهر.
+578 101:NodeTitle:477990294B684934887DB457F02CE4BA []
+EN It was all for you.
+AR كان كله من أجلكم.
+579 101:NodeTitle:D83D6A1A692D4473BE787F240A16F498 []
+EN It's gonna be alright.
+AR ستكون الأمور بخير.
+580 101:NodeTitle:0BAB1A266F8A4EC9B8D57A44AEE2FAE7 []
+EN It's over, Shroud.
+AR انتهى الأمر يا شراود.
+581 101:NodeTitle:D5AB72BF7CC249418648E0CA00785C56 []
+EN Made a little mess.
+AR أحدثت فوضى صغيرة.
+582 101:NodeTitle:5BC87F6E6EF34525AC3A9085C8177420 []
+EN Mr. Wet Ponytail
+AR السيد ذيل الحصان المبلل
+583 101:NodeTitle:AA7616E651134B3385BEB56299A6837D []
+EN My suit was destroyed.
+AR تدمّرت بدلتي.
+584 101:NodeTitle:13F4FE20924845C491A0CC1832595B74 []
+EN No comment.
+AR لا تعليق.
+585 101:NodeTitle:42653B018ED3472898D4A471BB850F96 []
+EN Not exactly professional.
+AR ليس مهنيا تماما.
+586 101:NodeTitle:C520F66D6858401A8F9FC9760B435676 []
+EN Not yet.
+AR ليس بعد.
+587 101:NodeTitle:26CB04CD393D43E88BE30EC750F459DB []
+EN Only thing I'm good at.
+AR الشيء الوحيد الذي أجيده.
+588 101:NodeTitle:50B56EC30845493492FDB07BB70C4104 []
+EN PATROL HIT
+AR إصابة الدورية
+589 101:NodeTitle:1337635D07964B1EB94C00541274461E []
+EN Prepare to die.
+AR استعد للموت.
+590 101:NodeTitle:D7FA03A4B14A47B29A583B2407F057C0 []
+EN Pretty much.
+AR تقريبا.
+591 101:NodeTitle:14024AB7ECA74A3A9F0629B87823C967 []
+EN Put it down and leave.
+AR ضعه وارحل.
+592 101:NodeTitle:B4538A6F024A4E0690508E9C0476E5A4 []
+EN Rough day?
+AR يوم شاق؟
+593 101:NodeTitle:034830FE91DA427AB6AB8A3F2C25439D []
+EN SUCCESS
+AR نجاح
+594 101:NodeTitle:25CEE67C836440B3B8123C7364D11666 []
+EN SUCCESS
+AR نجاح
+595 101:NodeTitle:264E1F9C463644AB87DF7B3F74A8041A []
+EN SUCCESS
+AR نجاح
+596 101:NodeTitle:2B2871C8FAF64842959603BFBBB13008 []
+EN SUCCESS
+AR نجاح
+597 101:NodeTitle:4A3BC220034B4E85AB9F8A1A759B463E []
+EN SUCCESS
+AR نجاح
+598 101:NodeTitle:512FAE3C49C64CCFA716F96D42779A2B []
+EN SUCCESS
+AR نجاح
+599 101:NodeTitle:577460E4EADE4ED796A22EB4993B3E23 []
+EN SUCCESS
+AR نجاح

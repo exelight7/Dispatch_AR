@@ -1,0 +1,197 @@
+{
+  "overall": "STATIC_PASS",
+  "checks": 32,
+  "failed": 0,
+  "meaning": "STATIC_PASS only. Not BUILD/ROUNDTRIP beyond the listed checks, not EDITOR_PASS, not IN_GAME_PASS.",
+  "game_run": false,
+  "installed": false,
+  "results": [
+    {
+      "check": "validate_translation selftest",
+      "status": "STATIC_PASS",
+      "detail": "Markup, placeholder, timing, Unicode and duplicate-key self-checks passed"
+    },
+    {
+      "check": "localization selftest",
+      "status": "STATIC_PASS",
+      "detail": "FString Unicode and bounds self-check passed"
+    },
+    {
+      "check": "installer selftest",
+      "status": "STATIC_PASS",
+      "detail": "Install compatibility refusal, dry run, idempotency, foreign-file refusal and uninstall safety self-checks passed"
+    },
+    {
+      "check": "locmeta round-trip selftest",
+      "status": "STATIC_PASS",
+      "detail": "locmeta byte round-trip passed for 11 files"
+    },
+    {
+      "check": "full translation validation",
+      "status": "STATIC_PASS",
+      "detail": "Error categories: {}"
+    },
+    {
+      "check": "translation QA (0 errors)",
+      "status": "STATIC_PASS",
+      "detail": "} reversed candidates: 2"
+    },
+    {
+      "check": "R8b WBP Stage1 offline integration",
+      "status": "STATIC_PASS",
+      "detail": "PASS: Stage1 independent binary validator, source hashes, 5 assets, 10 negative fixtures, segmentation at 37, markup/timing preservation, language gate"
+    },
+    {
+      "check": "R8b WBP Stage2 initialization and Kismet",
+      "status": "STATIC_PASS",
+      "detail": "PASS: Stage2 independent validator + 6 negatives; emitted helper evaluator matched canonical on 96 fixtures; 39 exact threshold cases; no Unreal/game execution"
+    },
+    {
+      "check": "R8b reveal control offline (native clock unbound)",
+      "status": "STATIC_PASS",
+      "detail": "PASS: emitted reveal control 19 lifecycle cases +6 negative fixtures; deterministic partial artifact; native pause-clock adapter UNBOUND/NOT_PROVEN"
+    },
+    {
+      "check": "R8b clock adapter emitted-bytecode replay vs NativeProto",
+      "status": "STATIC_PASS",
+      "detail": "PASS: emitted clock adapter replay AWP=false 500/500 frame-identical to NativeProto; AWP=true 500/500 identical, max 0 frame; 14 lifecycle cases; 15 negative fixtures; offline only"
+    },
+    {
+      "check": "R8b repair 019: void Build Arabic Timing ledger + clock replay + return-contract validator",
+      "status": "STATIC_PASS",
+      "detail": "PASS: emitted clock adapter replay AWP=false 500/500 frame-identical to NativeProto; AWP=true 500/500 identical, max 0 frame; 14 lifecycle cases; 27 negative fixtures; offline only"
+    },
+    {
+      "check": "R8b repair 019 independent frame/metadata audit",
+      "status": "STATIC_PASS",
+      "detail": "FRAME_LAYOUT_AUDIT_PASS"
+    },
+    {
+      "check": "R8b style fix 021: RichTextStyleGate + RowStruct RichTextStyleRow + TextStyle model/byte equality",
+      "status": "STATIC_PASS",
+      "detail": "PASS: RichTextStyleGate + 4 tables RowStruct /Script/UMG.RichTextStyleRow, TextStyle 152/152 (model and bytes), Run 5 tables rejected, 16 fixtures"
+    },
+    {
+      "check": "R8b fade 023: emitted Fade Tick replay == round-023 model + fade validator + frame audit",
+      "status": "STATIC_PASS",
+      "detail": "PASS: emitted fade bytecode tint B frame-identical to the round-023 model: 150 corpus lines (6304 frames, boundaries == round 019, completion {-1: 17, 0: 111, 1: 22}), 3000 lifecycle seeds (118324 fra"
+    },
+    {
+      "check": "record counts",
+      "status": "STATIC_PASS",
+      "detail": {
+        "total": 12973,
+        "translated": 12973,
+        "arabic_changed": 12487,
+        "verbatim_preserved": 486,
+        "reviewed": 12955
+      }
+    },
+    {
+      "check": "protected status",
+      "status": "STATIC_PASS",
+      "detail": "tested_in_game=0, final=0"
+    },
+    {
+      "check": "index parity (all targets)",
+      "status": "STATIC_PASS",
+      "detail": "14 targets"
+    },
+    {
+      "check": "engine scope / audit consistency",
+      "status": "STATIC_PASS",
+      "detail": "scope 464; audit 19818 + 464"
+    },
+    {
+      "check": "Unicode safety",
+      "status": "STATIC_PASS",
+      "detail": "0 presentation forms, 0 bidi/zero-width controls"
+    },
+    {
+      "check": "font chain coverage",
+      "status": "STATIC_PASS",
+      "detail": "missing 0, notdef 0"
+    },
+    {
+      "check": "required files present",
+      "status": "STATIC_PASS",
+      "detail": "39 files"
+    },
+    {
+      "check": "compatibility metadata",
+      "status": "STATIC_PASS",
+      "detail": "1.0.19512"
+    },
+    {
+      "check": "zip members allow-list",
+      "status": "STATIC_PASS",
+      "detail": [
+        "Dispatch_AR_Texts_P.pak",
+        "README_AR.txt",
+        "compatibility/game_build.json",
+        "docs/INSTALL.md",
+        "manifest.json",
+        "scripts/install.py"
+      ]
+    },
+    {
+      "check": "zip timestamps normalized",
+      "status": "STATIC_PASS",
+      "detail": [
+        [
+          1980,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "check": "no AES key in package",
+      "status": "STATIC_PASS",
+      "detail": "searched raw, hex, upper-hex and UTF-16 forms (key itself not printed)"
+    },
+    {
+      "check": "no absolute local paths",
+      "status": "STATIC_PASS",
+      "detail": "regex drive:\\Users|filessss|SteamLibrary"
+    },
+    {
+      "check": "no forbidden members",
+      "status": "STATIC_PASS",
+      "detail": "EXE, original paks, AES files, extracted assets, reports, temp"
+    },
+    {
+      "check": "manifest labels",
+      "status": "STATIC_PASS",
+      "detail": [
+        "STATIC",
+        "EXPERIMENTAL",
+        "NOT_INSTALL_TESTED",
+        "NO_RTL_FIX"
+      ]
+    },
+    {
+      "check": "pak hash matches manifest",
+      "status": "STATIC_PASS",
+      "detail": "0fa5792af8a7c63ef132d47e765c0aeb64fca1f9c6fe0bfc84ddefcd65b97235"
+    },
+    {
+      "check": "zip pak equals build folder pak",
+      "status": "STATIC_PASS",
+      "detail": "byte compare"
+    },
+    {
+      "check": "pak contains only ar locres",
+      "status": "STATIC_PASS",
+      "detail": "14 entries"
+    },
+    {
+      "check": "final verification consistency",
+      "status": "STATIC_PASS",
+      "detail": "installed_into_game=false, visual_acceptance=NOT_RUN"
+    }
+  ]
+}

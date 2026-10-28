@@ -1,0 +1,2199 @@
+{
+	"environment":
+	{
+		"engine_version": "5.8.4-58902052+++UE5+Release-5.8",
+		"rhi": "D3D12",
+		"label": "UE ISOLATED TEST (UE 5.8.4, NOT 4.27) - NOT DISPATCH"
+	},
+	"G1_probes": [
+		{
+			"probe": "MID_DebugMode0_Color0.2_0.4_0.6",
+			"pixel_at_max_coverage": "(R=0.200000,G=0.400000,B=0.600000,A=1.000000)",
+			"visible_px": 2888
+		},
+		{
+			"probe": "MID_DebugMode1_Color0.2_0.4_0.6",
+			"pixel_at_max_coverage": "(R=0.009980,G=0.252895,B=0.803299,A=1.000000)",
+			"visible_px": 2888
+		},
+		{
+			"probe": "MID_DebugMode2_Color0.2_0.4_0.6",
+			"pixel_at_max_coverage": "(R=0.099899,G=0.502886,B=0.896269,A=1.000000)",
+			"visible_px": 2888
+		},
+		{
+			"probe": "MIC_Debug_DebugMode1",
+			"pixel_at_max_coverage": "(R=0.099899,G=0.502886,B=0.896269,A=1.000000)",
+			"visible_px": 2888
+		},
+		{
+			"probe": "Parent_M_ArabicReveal",
+			"pixel_at_max_coverage": "(R=1.000000,G=1.000000,B=1.000000,A=1.000000)",
+			"visible_px": 2888
+		}
+	],
+	"G1":
+	{
+		"row_color_written": "(R=0.100000,G=0.500000,B=0.900000,A=1.000000)",
+		"pixel_at_max_coverage": "(R=0.099899,G=0.502886,B=0.896269,A=1.000000)",
+		"observed_vc_r": 0.099898703396320343,
+		"observed_vc_g": 0.50288641452789307,
+		"observed_vc_b": 0.89626926183700562,
+		"max_alpha": 1,
+		"visible_px_debug_material": 2888,
+		"visible_px_no_material": 2888,
+		"partial_coverage_px": 864,
+		"coverage_mask_px_differing_from_no_material": 0,
+		"canvas_px": 76800
+	},
+	"G2_sweep":
+	{
+		"readback_encoding_0": [
+			0,
+			0.0040247146971523762,
+			0.0080231893807649612,
+			0.011612237431108952,
+			0.015996284782886505,
+			0.019382357597351074,
+			0.023153357207775116,
+			0.02732088603079319,
+			0.031896024942398071,
+			0.035601310431957245,
+			0.039546232670545578,
+			0.04373500868678093,
+			0.046665072441101074,
+			0.051269456744194031,
+			0.054480262100696564,
+			0.059511221945285797,
+			0.063010014593601227,
+			0.066625937819480896,
+			0.070360086858272552,
+			0.074213556945323944,
+			0.078187406063079834,
+			0.082282692193984985,
+			0.086500443518161774,
+			0.090841673314571381,
+			0.093058958649635315,
+			0.097587339580059052,
+			0.10224170982837677,
+			0.10702309757471085,
+			0.10946168750524521,
+			0.11443536728620529,
+			0.11697062849998474,
+			0.12213873863220215,
+			0.12477179616689682,
+			0.13013643026351929,
+			0.13286830484867096,
+			0.13843162357807159,
+			0.14126327633857727,
+			0.1441284567117691,
+			0.1499597430229187,
+			0.15292611718177795,
+			0.1559264212846756,
+			0.16202932596206665,
+			0.16513213515281677,
+			0.16826936602592468,
+			0.17144106328487396,
+			0.17788834869861603,
+			0.1811642050743103,
+			0.18447500467300415,
+			0.18782074749469757,
+			0.19120164215564728,
+			0.19461779296398163,
+			0.20155623555183411,
+			0.20507870614528656,
+			0.20863685011863708,
+			0.21223069727420807,
+			0.215860515832901,
+			0.21952621638774872,
+			0.22322797775268555,
+			0.22696587443351746,
+			0.23074004054069519,
+			0.23455056548118591,
+			0.23839758336544037,
+			0.24228112399578094,
+			0.24620133638381958,
+			0.25015825033187866,
+			0.2541520893573761,
+			0.25818285346031189,
+			0.26225066184997559,
+			0.26635560393333435,
+			0.27049776911735535,
+			0.27467727661132812,
+			0.27889424562454224,
+			0.28314870595932007,
+			0.28744080662727356,
+			0.29177063703536987,
+			0.29613825678825378,
+			0.29613825678825378,
+			0.30054375529289246,
+			0.30498728156089783,
+			0.30946886539459229,
+			0.31398868560791016,
+			0.31854674220085144,
+			0.32314315438270569,
+			0.32314315438270569,
+			0.32777804136276245,
+			0.3324514627456665,
+			0.3371635377407074,
+			0.34191438555717468,
+			0.34670406579971313,
+			0.34670406579971313,
+			0.35153260827064514,
+			0.35640019178390503,
+			0.36130678653717041,
+			0.366252601146698,
+			0.366252601146698,
+			0.37123766541481018,
+			0.3762621283531189,
+			0.38132601976394653,
+			0.38642945885658264,
+			0.38642945885658264,
+			0.39157247543334961,
+			0.39675518870353699,
+			0.4019777774810791,
+			0.4019777774810791,
+			0.40724018216133118,
+			0.41254261136054993,
+			0.41788503527641296,
+			0.41788503527641296,
+			0.42326763272285461,
+			0.42869046330451965,
+			0.42869046330451965,
+			0.43415361642837524,
+			0.43965715169906616,
+			0.44520115852355957,
+			0.44520115852355957,
+			0.45078575611114502,
+			0.45641100406646729,
+			0.45641100406646729,
+			0.46207696199417114,
+			0.46778374910354614,
+			0.47353145480155945,
+			0.47353145480155945,
+			0.47932016849517822,
+			0.48514989018440247,
+			0.48514989018440247,
+			0.49102076888084412,
+			0.49693292379379272,
+			0.49693292379379272,
+			0.50288641452789307,
+			0.50888127088546753,
+			0.50888127088546753,
+			0.51491767168045044,
+			0.51491767168045044,
+			0.5209956169128418,
+			0.52711516618728638,
+			0.52711516618728638,
+			0.53327643871307373,
+			0.53947949409484863,
+			0.53947949409484863,
+			0.54572445154190063,
+			0.55201143026351929,
+			0.55201143026351929,
+			0.55834037065505981,
+			0.55834037065505981,
+			0.56471151113510132,
+			0.5711248517036438,
+			0.5711248517036438,
+			0.57758045196533203,
+			0.57758045196533203,
+			0.58407837152481079,
+			0.5906187891960144,
+			0.5906187891960144,
+			0.59720176458358765,
+			0.59720176458358765,
+			0.60382735729217529,
+			0.61049556732177734,
+			0.61049556732177734,
+			0.61720651388168335,
+			0.61720651388168335,
+			0.62396031618118286,
+			0.63075709342956543,
+			0.63075709342956543,
+			0.63759684562683105,
+			0.63759684562683105,
+			0.64447963237762451,
+			0.64447963237762451,
+			0.65140557289123535,
+			0.65140557289123535,
+			0.65837478637695312,
+			0.66538727283477783,
+			0.66538727283477783,
+			0.67244309186935425,
+			0.67244309186935425,
+			0.6795424222946167,
+			0.6795424222946167,
+			0.68668526411056519,
+			0.69387167692184448,
+			0.69387167692184448,
+			0.70110183954238892,
+			0.70110183954238892,
+			0.70837569236755371,
+			0.70837569236755371,
+			0.71569341421127319,
+			0.71569341421127319,
+			0.72305500507354736,
+			0.72305500507354736,
+			0.7304607629776001,
+			0.7304607629776001,
+			0.73791044950485229,
+			0.73791044950485229,
+			0.74540418386459351,
+			0.74540418386459351,
+			0.75294220447540283,
+			0.76052451133728027,
+			0.76052451133728027,
+			0.76815110445022583,
+			0.76815110445022583,
+			0.7758222222328186,
+			0.7758222222328186,
+			0.78353774547576904,
+			0.78353774547576904,
+			0.79129791259765625,
+			0.79129791259765625,
+			0.79910272359848022,
+			0.79910272359848022,
+			0.80695223808288574,
+			0.80695223808288574,
+			0.81484651565551758,
+			0.81484651565551758,
+			0.82278567552566528,
+			0.82278567552566528,
+			0.83076983690261841,
+			0.83076983690261841,
+			0.83879894018173218,
+			0.83879894018173218,
+			0.84687316417694092,
+			0.84687316417694092,
+			0.84687316417694092,
+			0.8549925684928894,
+			0.8549925684928894,
+			0.86315715312957764,
+			0.86315715312957764,
+			0.87136703729629517,
+			0.87136703729629517,
+			0.87962234020233154,
+			0.87962234020233154,
+			0.88792306184768677,
+			0.88792306184768677,
+			0.89626926183700562,
+			0.89626926183700562,
+			0.90466105937957764,
+			0.90466105937957764,
+			0.91309857368469238,
+			0.91309857368469238,
+			0.92158174514770508,
+			0.92158174514770508,
+			0.92158174514770508,
+			0.93011075258255005,
+			0.93011075258255005,
+			0.93868559598922729,
+			0.93868559598922729,
+			0.94730639457702637,
+			0.94730639457702637,
+			0.95597326755523682,
+			0.95597326755523682,
+			0.96468615531921387,
+			0.96468615531921387,
+			0.96468615531921387,
+			0.97344517707824707,
+			0.97344517707824707,
+			0.9822503924369812,
+			0.9822503924369812,
+			0.99110209941864014,
+			0.99110209941864014,
+			1,
+			1
+		],
+		"readback_encoding_1": [
+			0,
+			0.00030352699104696512,
+			0.00060705398209393024,
+			0.00091058097314089537,
+			0.0012141079641878605,
+			0.0015176349552348256,
+			0.0018211619462817907,
+			0.002124688820913434,
+			0.002428215928375721,
+			0.0027317430358380079,
+			0.0030352699104696512,
+			0.0033465332817286253,
+			0.0036765057593584061,
+			0.0040247146971523762,
+			0.0043914406560361385,
+			0.0047769518569111824,
+			0.0051815141923725605,
+			0.0056053898297250271,
+			0.0060488316230475903,
+			0.0065120868384838104,
+			0.0069954073987901211,
+			0.0074990284629166126,
+			0.0080231893807649612,
+			0.0085681229829788208,
+			0.0091340541839599609,
+			0.0097212158143520355,
+			0.010329816490411758,
+			0.010960085317492485,
+			0.011612237431108952,
+			0.012286483310163021,
+			0.01298302598297596,
+			0.013702080585062504,
+			0.014443839900195599,
+			0.01520850695669651,
+			0.015996284782886505,
+			0.016807371750473976,
+			0.017641948536038399,
+			0.018500212579965591,
+			0.019382357597351074,
+			0.020288556814193726,
+			0.021219002082943916,
+			0.02217387780547142,
+			0.023153357207775116,
+			0.024157626554369926,
+			0.025186851620674133,
+			0.026241213083267212,
+			0.02732088603079319,
+			0.028426032513380051,
+			0.029556818306446075,
+			0.030713435262441635,
+			0.031896024942398071,
+			0.033104754984378815,
+			0.034339789301156998,
+			0.035601310431957245,
+			0.036889441311359406,
+			0.038204364478588104,
+			0.039546232670545578,
+			0.04091518372297287,
+			0.042311392724514008,
+			0.04373500868678093,
+			0.045186176896095276,
+			0.046665072441101074,
+			0.048171807080507278,
+			0.049706555902957916,
+			0.051269456744194031,
+			0.052860632538795471,
+			0.054480262100696564,
+			0.056128479540348053,
+			0.057805422693490982,
+			0.059511221945285797,
+			0.061246037483215332,
+			0.063010014593601227,
+			0.064803257584571838,
+			0.066625937819480896,
+			0.068478159606456757,
+			0.070360086858272552,
+			0.072271831333637238,
+			0.074213556945323944,
+			0.076185360550880432,
+			0.078187406063079834,
+			0.0802198126912117,
+			0.082282692193984985,
+			0.084376193583011627,
+			0.086500443518161774,
+			0.088655576109886169,
+			0.090841673314571381,
+			0.093058958649635315,
+			0.09530746191740036,
+			0.097587339580059052,
+			0.099898703396320343,
+			0.10224170982837677,
+			0.10461647063493729,
+			0.10702309757471085,
+			0.10946168750524521,
+			0.1119324192404747,
+			0.11443536728620529,
+			0.11697062849998474,
+			0.11953841149806976,
+			0.12213873863220215,
+			0.12477179616689682,
+			0.12743765115737915,
+			0.13013643026351929,
+			0.13286830484867096,
+			0.13563330471515656,
+			0.13843162357807159,
+			0.14126327633857727,
+			0.1441284567117691,
+			0.14702723920345306,
+			0.1499597430229187,
+			0.15292611718177795,
+			0.1559264212846756,
+			0.15896081924438477,
+			0.16202932596206665,
+			0.16513213515281677,
+			0.16826936602592468,
+			0.17144106328487396,
+			0.17464733123779297,
+			0.17788834869861603,
+			0.1811642050743103,
+			0.18447500467300415,
+			0.18782074749469757,
+			0.19120164215564728,
+			0.19461779296398163,
+			0.19806927442550659,
+			0.20155623555183411,
+			0.20507870614528656,
+			0.20863685011863708,
+			0.21223069727420807,
+			0.215860515832901,
+			0.21952621638774872,
+			0.22322797775268555,
+			0.22696587443351746,
+			0.23074004054069519,
+			0.23455056548118591,
+			0.23839758336544037,
+			0.24228112399578094,
+			0.24620133638381958,
+			0.25015825033187866,
+			0.2541520893573761,
+			0.25818285346031189,
+			0.26225066184997559,
+			0.26635560393333435,
+			0.27049776911735535,
+			0.27467727661132812,
+			0.27889424562454224,
+			0.28314870595932007,
+			0.28744080662727356,
+			0.29177063703536987,
+			0.29613825678825378,
+			0.30054375529289246,
+			0.30498728156089783,
+			0.30946886539459229,
+			0.31398868560791016,
+			0.31854674220085144,
+			0.32314315438270569,
+			0.32777804136276245,
+			0.3324514627456665,
+			0.3371635377407074,
+			0.34191438555717468,
+			0.34670406579971313,
+			0.35153260827064514,
+			0.35640019178390503,
+			0.36130678653717041,
+			0.366252601146698,
+			0.37123766541481018,
+			0.3762621283531189,
+			0.38132601976394653,
+			0.38642945885658264,
+			0.39157247543334961,
+			0.39675518870353699,
+			0.4019777774810791,
+			0.40724018216133118,
+			0.41254261136054993,
+			0.41788503527641296,
+			0.42326763272285461,
+			0.42869046330451965,
+			0.43415361642837524,
+			0.43965715169906616,
+			0.44520115852355957,
+			0.45078575611114502,
+			0.45641100406646729,
+			0.46207696199417114,
+			0.46778374910354614,
+			0.47353145480155945,
+			0.47932016849517822,
+			0.48514989018440247,
+			0.49102076888084412,
+			0.49693292379379272,
+			0.50288641452789307,
+			0.50888127088546753,
+			0.51491767168045044,
+			0.5209956169128418,
+			0.52711516618728638,
+			0.53327643871307373,
+			0.53947949409484863,
+			0.54572445154190063,
+			0.55201143026351929,
+			0.55834037065505981,
+			0.56471151113510132,
+			0.5711248517036438,
+			0.57758045196533203,
+			0.58407837152481079,
+			0.5906187891960144,
+			0.59720176458358765,
+			0.60382735729217529,
+			0.61049556732177734,
+			0.61720651388168335,
+			0.62396031618118286,
+			0.63075709342956543,
+			0.63759684562683105,
+			0.64447963237762451,
+			0.65140557289123535,
+			0.65837478637695312,
+			0.66538727283477783,
+			0.67244309186935425,
+			0.6795424222946167,
+			0.68668526411056519,
+			0.69387167692184448,
+			0.70110183954238892,
+			0.70837569236755371,
+			0.71569341421127319,
+			0.72305500507354736,
+			0.7304607629776001,
+			0.73791044950485229,
+			0.74540418386459351,
+			0.75294220447540283,
+			0.76052451133728027,
+			0.76815110445022583,
+			0.7758222222328186,
+			0.78353774547576904,
+			0.79129791259765625,
+			0.79910272359848022,
+			0.80695223808288574,
+			0.81484651565551758,
+			0.82278567552566528,
+			0.83076983690261841,
+			0.83879894018173218,
+			0.84687316417694092,
+			0.8549925684928894,
+			0.86315715312957764,
+			0.87136703729629517,
+			0.87962234020233154,
+			0.88792306184768677,
+			0.89626926183700562,
+			0.90466105937957764,
+			0.91309857368469238,
+			0.92158174514770508,
+			0.93011075258255005,
+			0.93868559598922729,
+			0.94730639457702637,
+			0.95597326755523682,
+			0.96468615531921387,
+			0.97344517707824707,
+			0.9822503924369812,
+			0.99110209941864014,
+			1
+		],
+		"combinations": [
+			{
+				"encoding": "linear i/255",
+				"decoding": "round(r*255)",
+				"correct_of_256_bytes": 183,
+				"contiguous_from_0": 75,
+				"distinct_decoded": 183
+			},
+			{
+				"encoding": "linear i/255",
+				"decoding": "round(linear_to_srgb(r)*255)",
+				"correct_of_256_bytes": 2,
+				"contiguous_from_0": 1,
+				"distinct_decoded": 183
+			},
+			{
+				"encoding": "linear i/255",
+				"decoding": "round(srgb_to_linear(r)*255)",
+				"correct_of_256_bytes": 2,
+				"contiguous_from_0": 1,
+				"distinct_decoded": 120
+			},
+			{
+				"encoding": "srgb_to_linear(i/255)",
+				"decoding": "round(r*255)",
+				"correct_of_256_bytes": 2,
+				"contiguous_from_0": 1,
+				"distinct_decoded": 183
+			},
+			{
+				"encoding": "srgb_to_linear(i/255)",
+				"decoding": "round(linear_to_srgb(r)*255)",
+				"correct_of_256_bytes": 256,
+				"contiguous_from_0": 256,
+				"distinct_decoded": 256
+			},
+			{
+				"encoding": "srgb_to_linear(i/255)",
+				"decoding": "round(srgb_to_linear(r)*255)",
+				"correct_of_256_bytes": 2,
+				"contiguous_from_0": 1,
+				"distinct_decoded": 120
+			}
+		],
+		"chosen_encoding": "srgb_to_linear(i/255)",
+		"chosen_decoding": "round(linear_to_srgb(r)*255)",
+		"chosen_contiguous_capacity": 256
+	},
+	"G2_functional_256":
+	{
+		"units": 255,
+		"first_final_capture_px_stale": 0,
+		"start_blank": true,
+		"end_equals_final": true,
+		"revealed_px_differing_from_final": 0,
+		"revealed_max_abs_diff_r_or_a": 0,
+		"px_removed_between_steps": 0,
+		"steps_adding_nothing": 0,
+		"desired_size_changes": 0,
+		"reading_order_violations": 0,
+		"final_visible_px": 134035,
+		"pass": true,
+		"settext_calls_during_reveal": 0
+	},
+	"G3_retainer_policy_speaker":
+	{
+		"on_invalidation_no_requestrender":
+		{
+			"first_correct_frame_per_step": [
+				-1,
+				-1,
+				-1
+			],
+			"stale_steps": 3
+		},
+		"on_invalidation_requestrender":
+		{
+			"first_correct_frame_per_step": [
+				0,
+				0,
+				0
+			],
+			"stale_steps": 0
+		},
+		"render_every_paint":
+		{
+			"first_correct_frame_per_step": [
+				-1,
+				-1,
+				-1
+			],
+			"stale_steps": 3
+		}
+	},
+	"G5_parent":
+	{
+		"rgb_tint_0.5_max_pixel": "(R=1.000000,G=1.000000,B=1.000000,A=1.000000)",
+		"rgb_tint_0.5_wrong_steps": 2,
+		"render_opacity_0.5_max_pixel": "(R=0.751957,G=0.751957,B=0.751957,A=0.751957)",
+		"render_opacity_0.5_wrong_steps": 0,
+		"steps": 4
+	},
+	"G3_retainer_policy_long_wrap":
+	{
+		"on_invalidation_no_requestrender":
+		{
+			"first_correct_frame_per_step": [
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1
+			],
+			"stale_steps": 39
+		},
+		"on_invalidation_requestrender":
+		{
+			"first_correct_frame_per_step": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"stale_steps": 0
+		},
+		"render_every_paint":
+		{
+			"first_correct_frame_per_step": [
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1,
+				-1
+			],
+			"stale_steps": 39
+		}
+	},
+	"G3_lines": [
+		{
+			"id": "salam",
+			"markup": "<u0>السلام</> <u1>عليكم</>",
+			"foreground":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1354,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 659,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 543.16691957511375,
+						"centroid_y": 20.716236722306526
+					},
+					{
+						"threshold": 1,
+						"added_px": 695,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 451.04460431654678,
+						"centroid_y": 22.235971223021583
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1354,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "salam_marks",
+			"markup": "<u0>السَّلَامُ</> <u1>عَلَيْكُمْ</>",
+			"foreground":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1540,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 745,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 542.6939597315436,
+						"centroid_y": 19.413422818791947
+					},
+					{
+						"threshold": 1,
+						"added_px": 795,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 451.38742138364779,
+						"centroid_y": 20.574842767295596
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 2,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1540,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "lam_alef",
+			"markup": "<u0>لا</> <u1>إله</> <u2>إلا</> <u3>الله</>",
+			"foreground":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1168,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 192,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 568.46875,
+						"centroid_y": 17.161458333333332
+					},
+					{
+						"threshold": 1,
+						"added_px": 307,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 533.87947882736159,
+						"centroid_y": 19.65472312703583
+					},
+					{
+						"threshold": 2,
+						"added_px": 296,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 491.93581081081084,
+						"centroid_y": 18.138513513513512
+					},
+					{
+						"threshold": 3,
+						"added_px": 373,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 446.90080428954423,
+						"centroid_y": 18.831099195710454
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 1168,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "mixed_test42",
+			"markup": "<u0>مرحبا</> <u1>TEST-42</> <u2>بالعالم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2556,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 532,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 619.01503759398497,
+						"centroid_y": 23.877819548872182
+					},
+					{
+						"threshold": 1,
+						"added_px": 1293,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 502.13534416086623,
+						"centroid_y": 19.618716163959782
+					},
+					{
+						"threshold": 2,
+						"added_px": 731,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 380.41176470588238,
+						"centroid_y": 20.976744186046513
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2556,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "version",
+			"markup": "<u0>الإصدار</> <u1>v1.02</> <u2>متاح</> <u3>الآن</>",
+			"foreground":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2552,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 800,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 620.50250000000005,
+						"centroid_y": 21.396249999999998
+					},
+					{
+						"threshold": 1,
+						"added_px": 788,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 515.71446700507613,
+						"centroid_y": 20.851522842639593
+					},
+					{
+						"threshold": 2,
+						"added_px": 514,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 423.56031128404669,
+						"centroid_y": 23.346303501945524
+					},
+					{
+						"threshold": 3,
+						"added_px": 450,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 362.13777777777779,
+						"centroid_y": 20.606666666666666
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2552,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "price_usd",
+			"markup": "<u0>السعر 50</> <u1>USD</> <u2>اليوم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2463,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 1067,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 572.83880037488279,
+						"centroid_y": 21.435801312089971
+					},
+					{
+						"threshold": 1,
+						"added_px": 824,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 471.003640776699,
+						"centroid_y": 20.771844660194176
+					},
+					{
+						"threshold": 2,
+						"added_px": 572,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 394,
+						"centroid_y": 23.41083916083916
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2463,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "speaker",
+			"markup": "<u0>المحقق:</> <u1>مرحبا</> <u2>بالعالم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2210,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 947,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 587.43717001055961,
+						"centroid_y": 21.875395987328407
+					},
+					{
+						"threshold": 1,
+						"added_px": 532,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 487.01503759398497,
+						"centroid_y": 23.877819548872182
+					},
+					{
+						"threshold": 2,
+						"added_px": 731,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 399.41176470588238,
+						"centroid_y": 20.976744186046513
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2210,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "paren_test42",
+			"markup": "<u0>مرحبا</> <u1>(TEST-42)</> <u2>بالعالم</>",
+			"foreground":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2899,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 532,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 631.01503759398497,
+						"centroid_y": 23.877819548872182
+					},
+					{
+						"threshold": 1,
+						"added_px": 1636,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 501.57762836185822,
+						"centroid_y": 20.177261613691932
+					},
+					{
+						"threshold": 2,
+						"added_px": 731,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 368.41176470588238,
+						"centroid_y": 20.976744186046513
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 3,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2899,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "multiline",
+			"markup": "<u0>السطر</> <u1>الأول</> <u2>من</> <u3>الترجمة</>\n<u4>وهذا</> <u5>هو</> <u6>السطر</> <u7>الثاني</>",
+			"foreground":
+			{
+				"units": 8,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4619,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 668,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 616.39371257485027,
+						"centroid_y": 21.302395209580837
+					},
+					{
+						"threshold": 1,
+						"added_px": 627,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 537.08931419457736,
+						"centroid_y": 21.030303030303031
+					},
+					{
+						"threshold": 2,
+						"added_px": 278,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 473.02877697841728,
+						"centroid_y": 26.697841726618705
+					},
+					{
+						"threshold": 3,
+						"added_px": 827,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 393.34945586457076,
+						"centroid_y": 21.522370012091898
+					},
+					{
+						"threshold": 4,
+						"added_px": 564,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 611.39893617021278,
+						"centroid_y": 65.081560283687949
+					},
+					{
+						"threshold": 5,
+						"added_px": 356,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 551.62921348314603,
+						"centroid_y": 66.955056179775283
+					},
+					{
+						"threshold": 6,
+						"added_px": 668,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 483.39371257485033,
+						"centroid_y": 64.302395209580837
+					},
+					{
+						"threshold": 7,
+						"added_px": 631,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 399.32171156893821,
+						"centroid_y": 66.321711568938198
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 8,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4619,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "multi_space",
+			"markup": "<u0>كلمة</>   <u1>ثانية</>    <u2>ثالثة</>  <u3>رابعة</>",
+			"foreground":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2129,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 529,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 635.93572778827979,
+						"centroid_y": 19.190926275992439
+					},
+					{
+						"threshold": 1,
+						"added_px": 511,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 548.2504892367906,
+						"centroid_y": 20.12133072407045
+					},
+					{
+						"threshold": 2,
+						"added_px": 521,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 451.28023032629557,
+						"centroid_y": 18.291746641074855
+					},
+					{
+						"threshold": 3,
+						"added_px": 568,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 368.97007042253523,
+						"centroid_y": 21.899647887323944
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 4,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 2129,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "punctuation",
+			"markup": "<u0>حقاً؟</> <u1>نعم،</> <u2>بالتأكيد!</> <u3>«اقتباس</> <u4>قصير»</> <u5>ثم</> <u6>نهاية.</>",
+			"foreground":
+			{
+				"units": 7,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4477,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 526,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 760.2357414448669,
+						"centroid_y": 18.699619771863119
+					},
+					{
+						"threshold": 1,
+						"added_px": 462,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 696.74242424242425,
+						"centroid_y": 23.10822510822511
+					},
+					{
+						"threshold": 2,
+						"added_px": 887,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 607.82187147688842,
+						"centroid_y": 20.332581736189404
+					},
+					{
+						"threshold": 3,
+						"added_px": 902,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 491.6330376940133,
+						"centroid_y": 22.37028824833703
+					},
+					{
+						"threshold": 4,
+						"added_px": 752,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 379.46409574468083,
+						"centroid_y": 23.368351063829788
+					},
+					{
+						"threshold": 5,
+						"added_px": 298,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 305.26510067114094,
+						"centroid_y": 22.278523489932887
+					},
+					{
+						"threshold": 6,
+						"added_px": 650,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 249.19076923076923,
+						"centroid_y": 22.826153846153847
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 7,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 4477,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		},
+		{
+			"id": "long_wrap",
+			"markup": "<u0>رأيت</> <u1>رجالا</> <u2>مخيفين</> <u3>ومريبين</> <u4>يغادرون</> <u5>دار</> <u6>السينما</> <u7>القديمة</> <u8>ليلة</> <u9>أمس،</> <u10>وكانوا</> <u11>يحملون</> <u12>صناديق</> <u13>ثقيلة</> <u14>إلى</> <u15>شاحنة</> <u16>سوداء</> <u17>بلا</> <u18>لوحات،</> <u19>ثم</> <u20>اختفوا</> <u21>في</> <u22>الشارع</> <u23>الخلفي</> <u24>قبل</> <u25>أن</> <u26>يصل</> <u27>أي</> <u28>شرطي</> <u29>إلى</> <u30>المكان،</> <u31>ولم</> <u32>يتحدث</> <u33>أحد</> <u34>منهم</> <u35>بكلمة</> <u36>واحدة</> <u37>طوال</> <u38>الوقت.</>",
+			"foreground":
+			{
+				"units": 39,
+				"first_final_capture_px_stale": 0,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 22998,
+				"pass": true,
+				"steps": [
+					{
+						"threshold": -1,
+						"added_px": 0,
+						"revealed_px_differing_from_final": 0
+					},
+					{
+						"threshold": 0,
+						"added_px": 491,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 961.44399185336044,
+						"centroid_y": 23.091649694501019
+					},
+					{
+						"threshold": 1,
+						"added_px": 533,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 880.24577861163232,
+						"centroid_y": 21.459662288930581
+					},
+					{
+						"threshold": 2,
+						"added_px": 829,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 788.32689987937272,
+						"centroid_y": 24.805790108564537
+					},
+					{
+						"threshold": 3,
+						"added_px": 849,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 674.80683156654891,
+						"centroid_y": 27.111896348645466
+					},
+					{
+						"threshold": 4,
+						"added_px": 872,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 559.46788990825689,
+						"centroid_y": 24.942660550458715
+					},
+					{
+						"threshold": 5,
+						"added_px": 274,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 475.35766423357666,
+						"centroid_y": 22.89051094890511
+					},
+					{
+						"threshold": 6,
+						"added_px": 682,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 402.43988269794721,
+						"centroid_y": 21.838709677419356
+					},
+					{
+						"threshold": 7,
+						"added_px": 840,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 301.50595238095241,
+						"centroid_y": 20.834523809523809
+					},
+					{
+						"threshold": 8,
+						"added_px": 416,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 219.53605769230768,
+						"centroid_y": 20.471153846153847
+					},
+					{
+						"threshold": 9,
+						"added_px": 489,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 154.32515337423314,
+						"centroid_y": 23.94478527607362
+					},
+					{
+						"threshold": 10,
+						"added_px": 729,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 66.18518518518519,
+						"centroid_y": 21.352537722908092
+					},
+					{
+						"threshold": 11,
+						"added_px": 828,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 940.74396135265704,
+						"centroid_y": 68.108695652173907
+					},
+					{
+						"threshold": 12,
+						"added_px": 827,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 824.28899637243046,
+						"centroid_y": 66.730350665054416
+					},
+					{
+						"threshold": 13,
+						"added_px": 613,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 736.48776508972264,
+						"centroid_y": 63.301794453507341
+					},
+					{
+						"threshold": 14,
+						"added_px": 350,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 674.95428571428567,
+						"centroid_y": 67.662857142857149
+					},
+					{
+						"threshold": 15,
+						"added_px": 649,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 595.828967642527,
+						"centroid_y": 63.685670261941446
+					},
+					{
+						"threshold": 16,
+						"added_px": 588,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 502.04591836734693,
+						"centroid_y": 66.467687074829925
+					},
+					{
+						"threshold": 17,
+						"added_px": 298,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 434.46979865771812,
+						"centroid_y": 63.738255033557046
+					},
+					{
+						"threshold": 18,
+						"added_px": 690,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 366.52463768115945,
+						"centroid_y": 64.791304347826085
+					},
+					{
+						"threshold": 19,
+						"added_px": 298,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 288.26510067114094,
+						"centroid_y": 65.27852348993288
+					},
+					{
+						"threshold": 20,
+						"added_px": 750,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 217.77199999999999,
+						"centroid_y": 64.067999999999998
+					},
+					{
+						"threshold": 21,
+						"added_px": 378,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 149.31481481481481,
+						"centroid_y": 70.071428571428569
+					},
+					{
+						"threshold": 22,
+						"added_px": 736,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 71.407608695652172,
+						"centroid_y": 65.302989130434781
+					},
+					{
+						"threshold": 23,
+						"added_px": 806,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 929.80645161290317,
+						"centroid_y": 109.19975186104219
+					},
+					{
+						"threshold": 24,
+						"added_px": 455,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 851.07692307692309,
+						"centroid_y": 108.28571428571429
+					},
+					{
+						"threshold": 25,
+						"added_px": 266,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 800.90225563909769,
+						"centroid_y": 107.93984962406014
+					},
+					{
+						"threshold": 26,
+						"added_px": 507,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 743.61932938856012,
+						"centroid_y": 110.76528599605523
+					},
+					{
+						"threshold": 27,
+						"added_px": 334,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 687.20059880239523,
+						"centroid_y": 110.76047904191617
+					},
+					{
+						"threshold": 28,
+						"added_px": 756,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 614.05952380952385,
+						"centroid_y": 111.19708994708995
+					},
+					{
+						"threshold": 29,
+						"added_px": 350,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 540.95428571428567,
+						"centroid_y": 110.66285714285715
+					},
+					{
+						"threshold": 30,
+						"added_px": 748,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 465.07486631016042,
+						"centroid_y": 107.02941176470588
+					},
+					{
+						"threshold": 31,
+						"added_px": 434,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 385.36405529953919,
+						"centroid_y": 109.91244239631337
+					},
+					{
+						"threshold": 32,
+						"added_px": 696,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 308.18103448275861,
+						"centroid_y": 108.8764367816092
+					},
+					{
+						"threshold": 33,
+						"added_px": 369,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 223.95934959349594,
+						"centroid_y": 105.34417344173441
+					},
+					{
+						"threshold": 34,
+						"added_px": 604,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 152.32947019867549,
+						"centroid_y": 110.71523178807946
+					},
+					{
+						"threshold": 35,
+						"added_px": 642,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 79.771028037383175,
+						"centroid_y": 106.16043613707166
+					},
+					{
+						"threshold": 36,
+						"added_px": 649,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 591.6117103235747,
+						"centroid_y": 150.75192604006165
+					},
+					{
+						"threshold": 37,
+						"added_px": 652,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 505.94171779141107,
+						"centroid_y": 151.20552147239263
+					},
+					{
+						"threshold": 38,
+						"added_px": 721,
+						"revealed_px_differing_from_final": 0,
+						"centroid_x": 421.21636615811371,
+						"centroid_y": 149.92510402219139
+					}
+				]
+			},
+			"shadow_retainer_requestrender":
+			{
+				"units": 39,
+				"first_final_capture_px_stale": 22998,
+				"start_blank": true,
+				"end_equals_final": true,
+				"revealed_px_differing_from_final": 0,
+				"revealed_max_abs_diff_r_or_a": 0,
+				"px_removed_between_steps": 0,
+				"steps_adding_nothing": 0,
+				"desired_size_changes": 0,
+				"reading_order_violations": 0,
+				"final_visible_px": 22998,
+				"pass": true
+			},
+			"steps_fg_shadow_visible_units_differ": 0,
+			"steps_fg_not_exact_prefix": 0,
+			"settext_calls_during_reveal": 0,
+			"settextstyleset_calls_during_reveal": 0
+		}
+	],
+	"layout_parity": [
+		{
+			"id": "salam",
+			"negative_control": false,
+			"markup": "<u0>السلام</> <u1>عليكم</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 1354,
+			"identical": true
+		},
+		{
+			"id": "salam_marks",
+			"negative_control": false,
+			"markup": "<u0>السَّلَامُ</> <u1>عَلَيْكُمْ</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 1540,
+			"identical": true
+		},
+		{
+			"id": "lam_alef",
+			"negative_control": false,
+			"markup": "<u0>لا</> <u1>إله</> <u2>إلا</> <u3>الله</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 1168,
+			"identical": true
+		},
+		{
+			"id": "mixed_test42",
+			"negative_control": false,
+			"markup": "<u0>مرحبا</> <u1>TEST-42</> <u2>بالعالم</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 2556,
+			"identical": true
+		},
+		{
+			"id": "version",
+			"negative_control": false,
+			"markup": "<u0>الإصدار</> <u1>v1.02</> <u2>متاح</> <u3>الآن</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 2552,
+			"identical": true
+		},
+		{
+			"id": "price_usd",
+			"negative_control": false,
+			"markup": "<u0>السعر 50</> <u1>USD</> <u2>اليوم</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 2463,
+			"identical": true
+		},
+		{
+			"id": "speaker",
+			"negative_control": false,
+			"markup": "<u0>المحقق:</> <u1>مرحبا</> <u2>بالعالم</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 2210,
+			"identical": true
+		},
+		{
+			"id": "paren_test42",
+			"negative_control": false,
+			"markup": "<u0>مرحبا</> <u1>(TEST-42)</> <u2>بالعالم</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 2899,
+			"identical": true
+		},
+		{
+			"id": "multiline",
+			"negative_control": false,
+			"markup": "<u0>السطر</> <u1>الأول</> <u2>من</> <u3>الترجمة</>\n<u4>وهذا</> <u5>هو</> <u6>السطر</> <u7>الثاني</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 4619,
+			"identical": true
+		},
+		{
+			"id": "multi_space",
+			"negative_control": false,
+			"markup": "<u0>كلمة</>   <u1>ثانية</>    <u2>ثالثة</>  <u3>رابعة</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 2129,
+			"identical": true
+		},
+		{
+			"id": "punctuation",
+			"negative_control": false,
+			"markup": "<u0>حقاً؟</> <u1>نعم،</> <u2>بالتأكيد!</> <u3>«اقتباس</> <u4>قصير»</> <u5>ثم</> <u6>نهاية.</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 4477,
+			"identical": true
+		},
+		{
+			"id": "long_wrap",
+			"negative_control": false,
+			"markup": "<u0>رأيت</> <u1>رجالا</> <u2>مخيفين</> <u3>ومريبين</> <u4>يغادرون</> <u5>دار</> <u6>السينما</> <u7>القديمة</> <u8>ليلة</> <u9>أمس،</> <u10>وكانوا</> <u11>يحملون</> <u12>صناديق</> <u13>ثقيلة</> <u14>إلى</> <u15>شاحنة</> <u16>سوداء</> <u17>بلا</> <u18>لوحات،</> <u19>ثم</> <u20>اختفوا</> <u21>في</> <u22>الشارع</> <u23>الخلفي</> <u24>قبل</> <u25>أن</> <u26>يصل</> <u27>أي</> <u28>شرطي</> <u29>إلى</> <u30>المكان،</> <u31>ولم</> <u32>يتحدث</> <u33>أحد</> <u34>منهم</> <u35>بكلمة</> <u36>واحدة</> <u37>طوال</> <u38>الوقت.</>",
+			"px_differing": 4633,
+			"max_abs_channel_diff": 5.9604644775390625e-08,
+			"visible_px_plain": 22998,
+			"identical": false
+		},
+		{
+			"id": "NEG_midword_cut",
+			"negative_control": true,
+			"markup": "<u0>مرح</><u1>با</> <u2>بالعالم</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 1263,
+			"identical": true
+		},
+		{
+			"id": "NEG_token_punct_cut",
+			"negative_control": true,
+			"markup": "<u0>مرحبا</> <u1>TEST</><u2>-42</> <u3>بالعالم</>",
+			"px_differing": 2842,
+			"max_abs_channel_diff": 1,
+			"visible_px_plain": 2556,
+			"identical": false
+		},
+		{
+			"id": "NEG_version_cut",
+			"negative_control": true,
+			"markup": "<u0>الإصدار</> <u1>v1</><u2>.02</> <u3>متاح</>",
+			"px_differing": 0,
+			"max_abs_channel_diff": 0,
+			"visible_px_plain": 2102,
+			"identical": true
+		}
+	],
+	"G5_pool":
+	{
+		"log": [
+			{
+				"step": "A_set",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_reveal_t1",
+				"threshold": 1,
+				"fg_visible_px": 1295,
+				"shadow_visible_px": 1295,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_skip",
+				"threshold": 4,
+				"fg_visible_px": 2604,
+				"shadow_visible_px": 2604,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_finish",
+				"threshold": 4,
+				"fg_visible_px": 2604,
+				"shadow_visible_px": 2604,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "A_reset",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "B_set",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "B_reveal_t1",
+				"threshold": 1,
+				"fg_visible_px": 1825,
+				"shadow_visible_px": 1825,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "B_reset",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "C_reveal_t0",
+				"threshold": 0,
+				"fg_visible_px": 192,
+				"shadow_visible_px": 192,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "C_finish",
+				"threshold": 3,
+				"fg_visible_px": 1168,
+				"shadow_visible_px": 1168,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			},
+			{
+				"step": "C_stop_displaying_line",
+				"threshold": -1,
+				"fg_visible_px": 0,
+				"shadow_visible_px": 0,
+				"fg_px_not_in_current_line_final": 0,
+				"ok": true
+			}
+		],
+		"failed_checks": 0,
+		"pass": true
+	},
+	"culture":
+	{
+		"original_culture": "en",
+		"command_line": "-ExecCmds=\"Automation RunTests RevealGate.All;Quit\" -unattended -nopause -nosplash -nosound -log -stdout -FullStdOutLogOutput",
+		"cases": [
+			{
+				"requested": "ar",
+				"set_ok": true,
+				"GetCurrentLanguage": "ar",
+				"GetCurrentCulture": "ar",
+				"GetCurrentLocale": "ar",
+				"language_starts_with_ar": true
+			},
+			{
+				"requested": "ar-SA",
+				"set_ok": true,
+				"GetCurrentLanguage": "ar-SA",
+				"GetCurrentCulture": "ar-SA",
+				"GetCurrentLocale": "ar-SA",
+				"language_starts_with_ar": true
+			},
+			{
+				"requested": "en",
+				"set_ok": true,
+				"GetCurrentLanguage": "en",
+				"GetCurrentCulture": "en",
+				"GetCurrentLocale": "en",
+				"language_starts_with_ar": false
+			},
+			{
+				"requested": "en-US",
+				"set_ok": true,
+				"GetCurrentLanguage": "en-US",
+				"GetCurrentCulture": "en-US",
+				"GetCurrentLocale": "en-US",
+				"language_starts_with_ar": false
+			}
+		]
+	},
+	"first_paints": 590,
+	"first_paints_differing_from_second": 5,
+	"first_paints_empty_then_visible": 5,
+	"settext_calls_total": 593,
+	"settext_calls_after_assets": 74
+}

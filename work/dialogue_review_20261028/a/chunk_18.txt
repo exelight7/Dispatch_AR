@@ -1,0 +1,300 @@
+1800 104:Line:1F823661DC1E423A86F9EE3E37A96C91 [Punch-Up]
+EN Your call lad.
+AR القرار لك يا فتى.
+1801 104:Line:045613B69CEF43329ACBFCF50DC94EF0 [Sonar]
+EN Your call.
+AR القرار لك.
+1802 104:Line:053F4BDEEDAA428CA704C08D59950AF9 [Flambae]
+EN Your call.
+AR القرار لك.
+1803 104:Line:35747F6D08314FEAA62DC91CB650146F [Phenoma-Man]
+EN Your care is special to me.
+AR عنايتك تعني لي الكثير.
+1804 104:Line:3C932918873940FEA817E959EA2A80D4 [Phenomaman]
+EN Your logic with that statement may be flawed.
+AR قد يكون منطق عبارتك معيبا.
+1805 104:Line:31B6537F42FB429B9E254AAD4763C20E [Waterboy]
+EN Your wish is my demand! ...  Command... Com-mand... Command.
+AR رغبتك طلباتي! ... أوامر... أ-أوامر... أوامر.
+1806 104:Line:599D4911C3FF46FDB09ADA49B1C480BB [Robert]
+EN You’re a menace. 
+AR أنت كارثة. 
+1807 104:Line:68D2F93F645E4C7EB9A4E99E15939B62 [Flambae]
+EN You’re gonna choke on this fuckin-- 
+AR ستختنق بهذا اللعين-- 
+1808 104:Line:4E74F2F176B8446AB9954B9FBDFAB0CB [Flambae]
+EN You’re just being a soft bitch about it. |Bully. How am I being a bully?   
+AR أنت فقط تتصرف بجبن. |متنمر. كيف أكون متنمرا؟   
+1809 104:Line:70F99820ADFA47A5AD1282964EC080C7 [Blonde Blazer]
+EN You’re the pep talk guy. |You’ve been through a transition recently yourself. |I think he could use some perspective.  
+AR أنت صاحب الكلام المشجع. |مررت أنت نفسك بانتقال مؤخرا. |أظنه يحتاج إلى منظور آخر.  
+1810 104:Line:C2DF0EA5586949E397A8BF9B3D9399A2 [Robert]
+EN You’re, what? Two inches shorter?
+AR أنت أقصر بكم؟ بوصتين؟
+1811 104:Line:2311367254314047AA5201C07425E05A [Blonde Blazer]
+EN You’re... disappointed?
+AR أنت... خائب الأمل؟
+1812 104:Line:74199B1929BE4D6B8BF8B64951B76E56 [Invisigal]
+EN Yup. Have-- see ya.
+AR أجل. أتمنى-- أراك لاحقا.
+1813 104:Line:16DB9FE9FD5B48FB9C62B41777692309 [Robert]
+EN Yup. Still don't see it dude.
+AR أجل. ما زلت لا أراه يا صاح.
+1814 104:Line:4865AEC9448947FD9BA4B5D8F9B50C69 [Waterboy]
+EN [burp]
+AR [تجشؤ]
+1815 104:Line:086F49F755944FE59E88DC2FC6EEAF35 [Waterboy]
+EN [humming]
+AR [دندنة]
+1816 104:Line:2CDA50705EBD40CC81A56E86B0A92C1E [Robert]
+EN [sighs]
+AR [تنهد]
+1817 104:Line:2C4AED295C6841489C12D5D126CE2FB3 [Sfx]
+EN [slipping in water, falling]
+AR [انزلاق في الماء وسقوط]
+1818 104:Line:05E7950E4F3142ACBA6700C4D697F038 [Waterboy]
+EN [sneeze]
+AR [عطاس]
+1819 104:Line:446A4BAC127A45ABA1512A3ED8A2EAF2 [Waterboy]
+EN [sniff]
+AR [استنشاق]
+1820 104:Line:3B6126C5220743018EEEA1833E0FB703 [Waterboy]
+EN [snort]
+AR [نخير]
+1821 104:Line:5A4B45C1276A434D8D42AD51C791B191 [Waterboy]
+EN [yawn]
+AR [تثاؤب]
+1822 104:Line:15B1C1B78F344B34ACB13C9F7757E14C [Flambae]
+EN spaghetti--
+AR سباغيتي--
+1823 104:LV_Shift04a.Scenario_MES_SC_12_2_Coupe:VOTranscription []
+EN "Malevola, do you know where this church is located? You can take a look and—"
+AR "ماليفولا، أتعرفين أين تقع الكنيسة؟ يمكنك إلقاء نظرة و—"
+1824 104:LV_Shift04a.Scenario_MES_SC_12_2_Sonar:VOTranscription []
+EN "I know where their church is located. Could snoop around."
+AR "أعرف أين تقع كنيستهم. يمكنني التسلل للتفتيش."
+1825 104:LV_Shift04a.Scenario_SC_04_a:VOTranscription []
+EN "It's third and seven in the UCT red zone and tensions have boiled over into a full on fist fight."
+AR "إنها المحاولة الثالثة مع تبقي سبع ياردات في المنطقة الحمراء لـUCT، وقد تفجر التوتر في عراك بالأيدي."
+1826 104:LV_Shift04a.Scenario_SC_04_c:VOTranscription []
+EN "The celebration turned into a full-on riot. There's a car on fire. Didn't they win?"
+AR "تحول الاحتفال إلى شغب شامل. هناك سيارة تحترق. ألم يفوزوا؟"
+1827 104:LV_Shift04a.Scenario_SC_10:VOTranscription []
+EN "Hey, Ray here. We've got another teardown for ya. Mind coming down and doing some demo?"
+AR "مرحبا، معك راي. لدينا موقع هدم آخر لك. أتأتي لتهدم قليلا؟"
+1828 104:LV_Shift04a.Scenario_SC_11b:VOTranscription []
+EN "What do you mean he got away?! You better find him, man!"
+AR "ماذا تقصد بأنه هرب؟ عليك العثور عليه يا رجل!"
+1829 104:LV_Shift04a.Scenario_SC_6_2:VOTranscription []
+EN "We've cleared everyone out already but someone called us about a bomb in one of the theaters..."
+AR "أخلينا الجميع بالفعل، لكن أحدهم اتصل بشأن قنبلة في إحدى الصالات..."
+1830 104:LV_Shift04b.Scenario_SC_01_:VOTranscription []
+EN "We have reason to believe that Mr. Vanderstenk's life will be in danger at a meeting today."
+AR "لدينا ما يدعو للاعتقاد بأن حياة السيد فاندرستنك مهددة في اجتماع اليوم."
+1831 104:LV_Shift04b.Scenario_SC_02_:VOTranscription []
+EN "We've tracked down the assassin's temporary base of operations."
+AR "حددنا مقر عمليات القتلة المؤقت."
+1832 104:LV_Shift04b.Scenario_SC_03_:VOTranscription []
+EN "This is getting ridiculous. It's time to put an end to this."
+AR "هذا يزداد سخافة. حان وقت وضع حد له."
+1833 104:LV_Shift04b.Scenario_SC_10_:VOTranscription []
+EN "I've got a GREAT opportunity to show the sweeter side of your ex-criminal crew at SDN..."
+AR "لدي فرصة رائعة لإظهار الجانب اللطيف من طاقم مجرميكم السابقين في SDN..."
+1834 104:LV_Shift04b.Scenario_SC_11_:VOTranscription []
+EN "Got a hero to put on a show? We need Terrence the Turtle to beat someone up. For team morale."
+AR "لديكم بطل يقدم عرضا؟ نحتاج أن يضرب تيرنس السلحفاة أحدا. لرفع معنويات الفريق."
+1835 104:LV_Shift04b.Scenario_SC_12_2:VOTranscription []
+EN "Or I could also just... track you down."
+AR "أو يمكنني ببساطة... تعقبك."
+1836 104:NodeTitle:A81CB73626D348C887532CE618DF0D83 []
+EN All the time.
+AR طوال الوقت.
+1837 104:NodeTitle:E75AA395148B434B873D1CF514642E7A []
+EN Believe in yourself.
+AR آمن بنفسك.
+1838 104:NodeTitle:1A9A3196A0574407817F030E497903BA []
+EN Did I wear a condom?
+AR هل ارتديت واقيا؟
+1839 104:NodeTitle:AC4A8C21D2634000B8FC6A8B2ED4F9C4 []
+EN Do you have a therapist?
+AR هل تراجع معالجا نفسيا؟
+1840 104:NodeTitle:39B2927D341244998BC6DA3CF0FF92BD []
+EN Do you want to be?
+AR أتريد أن تكون كذلك؟
+1841 104:NodeTitle:7984BF8D3D83484FBA8C6550FAC76ABB []
+EN Don’t extinguish the sun.
+AR لا تطفئ الشمس.
+1842 104:NodeTitle:263E12DA722647C9A5CFAA4201DEC9F6 []
+EN How do you know?
+AR كيف تعرف؟
+1843 104:NodeTitle:1470E775102F4AB0AAB2286633CC0116 []
+EN How was I?
+AR كيف كان أدائي؟
+1844 104:NodeTitle:213ED727998E488A94D2BBA79B738AC7 []
+EN I don’t believe that.
+AR لا أصدق ذلك.
+1845 104:NodeTitle:0BCD3B2FB1144F8F825F252A01881817 []
+EN I don’t think so.
+AR لا أظن ذلك.
+1846 104:NodeTitle:FACFE31893E7465EA81818C3E01CFE84 []
+EN I kissed her.
+AR لقد قبّلتها.
+1847 104:NodeTitle:6E3F7DC27442452D93F40CEDE53399AE []
+EN Incredible.
+AR مذهلة.
+1848 104:NodeTitle:092231B6AE4844FAB7812C9F7410C2F5 []
+EN It's harmless.
+AR إنه غير مؤذٍ.
+1849 104:NodeTitle:466A86A6617E47A3B0A54F45ECC6BBB3 []
+EN It’s too small.
+AR إنه صغير جدا.
+1850 104:NodeTitle:A9D89B2AD13D486C961839CD39484A50 []
+EN I’ve had those days.
+AR مررت بأيام كهذه.
+1851 104:NodeTitle:06F32B3EF3BC452A816FB429E25024DF []
+EN Kinda pretty, I guess.
+AR جميلة نوعا ما، أظن.
+1852 104:NodeTitle:96E633401EF54BA6BE4EDF58B23BA787 []
+EN Looks good.
+AR يبدو جيدا.
+1853 104:NodeTitle:1F6B80BC3D934A13850B8448ADE331CF []
+EN Maybe it was a mistake.
+AR ربما كان خطأ.
+1854 104:NodeTitle:2B1D79CA14934D6695611B51DD51DB65 []
+EN Maybe there is.
+AR ربما هناك أحد.
+1855 104:NodeTitle:95D73677B39A49CF88B9B6C41D9E836C []
+EN Never.
+AR أبدا.
+1856 104:NodeTitle:AC824E8DE6A64A5F9BC1DF65556AC27A []
+EN Phenomaman.
+AR فينومامان.
+1857 104:NodeTitle:0D566149086F4FDE9DF5B901D112CDB7 []
+EN That’s not healthy.
+AR هذا غير صحي.
+1858 104:NodeTitle:33C67E681CFD47699E42E6D3609ADFE9 []
+EN That’s not your business.
+AR هذا ليس شأنك.
+1859 104:NodeTitle:54081DE11BFB4F2193C68080C5864FEC []
+EN They can join them.
+AR يمكنهم اللحاق بهم.
+1860 104:NodeTitle:9754BAAA53F14398B9F3F02980873981 []
+EN Thought we already were.
+AR ظننتنا كذلك بالفعل.
+1861 104:NodeTitle:C833169661DA48E0B6B67E96C95568E3 []
+EN Was my dick big?
+AR أكان قضيبي كبيرا؟
+1862 104:NodeTitle:3006C08325FA4AC08E4AB193F78AC410 []
+EN Waterboy.
+AR ووتربوي.
+1863 104:NodeTitle:8BA15D19A2C04880A1499E45D5615FD3 []
+EN We’re getting there.
+AR نحرز تقدما.
+1864 104:NodeTitle:60EB8EB97E5C4924863938FA89419F93 []
+EN Why care what I think?
+AR لماذا يهمك رأيي؟
+1865 104:NodeTitle:2057B708EBEC4EB3B6C16B6E1373A956 []
+EN Why do you want to know?
+AR لماذا تريد أن تعرف؟
+1866 104:NodeTitle:18E181BF27274C25BDD8F6053BFE575F []
+EN You could've dressed up.
+AR كان يمكنك ارتداء ملابس أنيقة.
+1867 104:NodeTitle:B564F7CCC24F43A39068AB1E420D86DF []
+EN You expect failure.
+AR أنت تتوقع الفشل.
+1868 104:NodeTitle:7EAF2206A6A44FBD86C5F2E6120F7CD7 []
+EN You look tucked in.
+AR يبدو كل شيء مستورا.
+1869 104:NodeTitle:58455C83444A4FAC86FBB69368D2B01E []
+EN You second guess everything.
+AR أنت تشكك في كل شيء.
+1870 104:NodeTitle:566AEAB73D204E28BB68ECE59B6483E2 []
+EN Your areola’s showing.
+AR هالة حلمتك ظاهرة.
+1871 104:NodeTitle:4A517E0274104BA6B9C8DF4B371D5B68 []
+EN [Dinner with Blazer]
+AR [عشاء مع بليزر]
+1872 104:NodeTitle:31A7727424EF400287D0E6FFD5CD86DA []
+EN [Jumping Jacks]
+AR [قفز فتح وضم]
+1873 104:NodeTitle:DC5109152B104B8DAA9FBFFC039269E3 []
+EN [Kiss Her]
+AR [قبّلها]
+1874 104:NodeTitle:2C8A3D85BFE0421BAEFD9C14E9AC3E82 []
+EN [Movie with Invisigal]
+AR [فيلم مع إنفيزيغال]
+1875 104:NodeTitle:3F7AE3903F534CE1AF2BB5F64F7CB1C6 []
+EN [Protein Shake]
+AR [مخفوق بروتين]
+1876 104:NodeTitle:4CE5A386C910425DA4692FB317BAD482 []
+EN [Shadow Box]
+AR [ملاكمة الظل]
+1877 104:NodeTitle:346C964C749B4B38BF02D6A8F93E2E63 []
+EN [Spaghetti]
+AR [سباغيتي]
+1878 104:NodeTitle:14DE336CD52B421A8EF43D377E6ED6AA []
+EN [Split Kick]
+AR [ركلة فتح الساقين]
+1879 104:WelcomeZTeamChoiceStat:OptionTrue []
+EN ^You and {Percentage}^ of players ^added Phenomaman^ to the Z-Team.
+AR ^أنت و{Percentage}^ من اللاعبين ^أضفتم فينومامان^ إلى فريق Z.
+1880 104:WelcomeZTeamChoiceStat:OptionFalse []
+EN ^You and {Percentage}^ of players ^added Waterboy^ to the Z-Team.
+AR ^أنت و{Percentage}^ من اللاعبين ^أضفتم ووتربوي^ إلى فريق Z.
+1881 107::621B73E345F0621DDB10579C5C77D6A0 []
+EN "Bone Zone pissed off the wrong gang and they're holding him hostage! ... Can you please rescue him?"
+AR "أغضب بون زون العصابة الخاطئة واحتجزته رهينة! ... هل يمكنكم إنقاذه، رجاء؟"
+1882 107::70BA37C04299F13F9FE29798C6C58636 []
+EN "Calling to confirm one of your Z-Team heroes for our interview this afternoon?"
+AR "أتصل لتأكيد حضور أحد أبطال فريق Z إلى مقابلتنا بعد ظهر اليوم؟"
+1883 107::07E4787E46629704550FD88544E305F5 []
+EN "Due to a lack of structural reinforcement, the rain has caused the resort to slide off the cliff."
+AR "بسبب غياب التدعيم الإنشائي، تسببت الأمطار بانزلاق المنتجع من على الجرف."
+1884 107::FE0D0F1E40DFC12C791FD5AB1FE9BAC2 []
+EN "Hey Robert... With everything going on, maybe you should send some of the team to counseling."
+AR "مرحبًا روبرت... في ظل كل ما يجري، ربما عليك إرسال بعض أفراد الفريق إلى جلسات إرشاد نفسي."
+1885 107::A493A6E144EB47D7457CA9A0B228FB24 []
+EN "I'm running late to the airport..."
+AR "لقد تأخرت عن موعدي في المطار..."
+1886 107::63A196484518557328F5099893C913F7 []
+EN "Red Ring's coordinating strikes across Torrance. Looks like they're hitting the port next."
+AR "تنسق الحلقة الحمراء هجمات في أنحاء تورانس. يبدو أن الميناء هدفهم التالي."
+1887 107::49A172A745B12531D50BDEA62A7980E5 []
+EN "Thanks to the structural reinforcement, the damage to the resort is not as bad as it could've been."
+AR "بفضل التدعيم الإنشائي، كانت أضرار المنتجع أقل مما كان يمكن أن تكون عليه."
+1888 107::3D1202B24D23A68F5120F2A0D02E10E1 []
+EN "The rain's causing one of those Volta Virtu Cars to short out! I think this driver's lost control."
+AR "تسبب المطر بعطل كهربائي في إحدى سيارات فولتا فيرتو! أظن أن السائق فقد السيطرة."
+1889 107::BF9862D84B76F8CC7AD349B4D2365A17 []
+EN "This fucking rain is flooding our neighborhood. We need this water gone!"
+AR "هذه الأمطار اللعينة تغرق حينا. نريد التخلص من هذه المياه!"
+1890 107::A99A9C4A4E29258AF307B1A5F6FA4BDB []
+EN "Training helps me keep my mind off of things. I really think it can help the team too."
+AR "يساعدني التدريب على إبعاد هذه الأمور عن ذهني. وأظن حقًا أنه سيفيد الفريق أيضًا."
+1891 107::09B090BD4B6FD8CB989D028E2CA4FCCF []
+EN "Up-Chuck's rugby team lost and he's throwing a very toxic... tantrum."
+AR "خسر فريق أب تشاك للرغبي وهو يمر بنوبة غضب... سامة جدًا."
+1892 107::58F5EDC94301F2E36E7F6592B6DCBF21 []
+EN "What the fuck man?! We said less water not more!"
+AR "ما هذا الهراء يا رجل؟! قلنا مياه أقل، لا أكثر!"
+1893 107::6F740A4E49DBE35F7FA5368FC572C45F []
+EN ^You and {Percentage}^ of players chose ^a cigar^.
+AR ^أنت و{Percentage}^ من اللاعبين اخترتم ^سيجارًا^.
+1894 107::15CB458C4BA1F0594753D393AC7E9CF7 []
+EN ^You and {Percentage}^ of players chose ^beer^.
+AR ^أنت و{Percentage}^ من اللاعبين اخترتم ^جعة^.
+1895 107:ChoiceOptionDrunkGolem:FDC8F03F4E0BB036FDDB61A3A4251212 []
+EN ^You and {Percentage}^ of players ^couldn't save Golem^ from himself.
+AR ^أنت و{Percentage}^ من اللاعبين ^لم تتمكنوا من إنقاذ غولم^ من نفسه.
+1896 107:ChoiceOptionDrunkGolem:551B32AB492C1460669516B0C8636F02 []
+EN ^You and {Percentage}^ of players ^rescued Golem^ from himself.
+AR ^أنت و{Percentage}^ من اللاعبين ^أنقذتم غولم^ من نفسه.
+1897 107:ChoiceOptionRedRingRevenge:9EE640204ED4FE789C8DE39EB69F896F []
+EN ^You and {Percentage}^ of players chose to ^go all out^ against the Red Ring.
+AR ^أنت و{Percentage}^ من اللاعبين اخترتم ^الهجوم بكل قوتكم^ على الحلقة الحمراء.
+1898 107:ChoiceOptionRedRingRevenge:99646DF0452477E1066AA6B44BD094BA []
+EN ^You and {Percentage}^ of players chose to ^play it safe^ against the Red Ring.
+AR ^أنت و{Percentage}^ من اللاعبين اخترتم ^توخي الحذر^ مع الحلقة الحمراء.
+1899 107:ConfessionChoiceStat:2E4A2C494675944E70B6A696294D1568 []
+EN ^You and {Percentage}^ of players ^couldn't forgive^ Invisigal.
+AR ^أنت و{Percentage}^ من اللاعبين ^لم تستطيعوا مسامحة^ إنفيزيغال.

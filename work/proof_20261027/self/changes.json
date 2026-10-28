@@ -1,0 +1,416 @@
+[
+  {
+    "target": "106",
+    "index": 237,
+    "id": "106:Line:0CA8B1B95C314A52A43349786C4F6E69",
+    "en": "And you’re sure that this’ll work? |I’ve had about as much heartbreak as I can take today. ",
+    "before": "أأنت واثق أنه سينجح؟ |نلت من انكسار القلب ما يكفيني اليوم. ",
+    "after": "أأنت واثق من أن ذلك سينجح؟ |نلت من انكسار القلب ما يكفيني اليوم. ",
+    "reason": "تعدية واثق بحرف الجر وصياغة الجملة."
+  },
+  {
+    "target": "106",
+    "index": 253,
+    "id": "106:Line:0A04A8C0E8534CC9B162567B082E08AA",
+    "en": "But someone musta dropped a pin in the supervillain group chat |'cause this place is crawlin' with dipshits. |Good news is they don't know where it is either. ",
+    "before": "لكن لا بد أن أحدهم شارك الموقع بمجموعة الأشرار |فالمكان يعج بالحمقى. |الخبر الجيد أنهم لا يعرفون مكانها أيضا. ",
+    "after": "لكن لا بد أن أحدهم شارك الموقع في مجموعة الأشرار |فالمكان يعج بالحمقى. |الخبر الجيد أنهم لا يعرفون مكانها أيضا. ",
+    "reason": "تصحيح حرف الجر مع مجموعة."
+  },
+  {
+    "target": "106",
+    "index": 268,
+    "id": "106:Line:37D6D0AA1890468287525F16A48B87A1",
+    "en": "Definitely a house that needs some warmth.",
+    "before": "منزل يحتاج لبعض الدفء بالتأكيد.",
+    "after": "منزل يحتاج إلى بعض الدفء بالتأكيد.",
+    "reason": "تصحيح تعدية يحتاج."
+  },
+  {
+    "target": "106",
+    "index": 288,
+    "id": "106:Line:31F8AD34058F4E0CA4C012ECDAF4F873",
+    "en": "Finally, I was beginning to believe Vanderstenk's wife lacked both taste and sense.",
+    "before": "أخيرا، بدأت أظن أن زوجة فاندرستنك تفتقر للذوق والعقل معا.",
+    "after": "أخيرا، بدأت أظن أن زوجة فاندرستنك تفتقر إلى الذوق والعقل معا.",
+    "reason": "تصحيح تعدية تفتقر."
+  },
+  {
+    "target": "106",
+    "index": 291,
+    "id": "106:Line:3181C17302A84ACBAF4CB627B1AE8CE9",
+    "en": "Flambae is a bitch, you're all correct, but let's tell him that to his face when he's back. For now, someone's gotta deal with this ice.",
+    "before": "فلامباي حقير، أنتم محقون جميعا، لكن لنقلها في وجهه حين يعود. الآن على أحد معالجة الجليد.",
+    "after": "فلامباي حقير، أنتم محقون جميعا، لكن لنقلها في وجهه حين يعود. الآن على أحد أن يعالج الجليد.",
+    "reason": "تصحيح تركيب الجملة الفعلية."
+  },
+  {
+    "target": "106",
+    "index": 313,
+    "id": "106:Line:0911D1109A0C48F4B973E5D49D4B5D4A",
+    "en": "Golem, you are so right. Why would those bots want in on this shit?",
+    "before": "غولم، أنت محق جدا. لماذا ترغب تلك الروبوتات بالمشاركة في هذا الهراء؟",
+    "after": "غولم، أنت محق جدا. لماذا ترغب تلك الروبوتات في المشاركة في هذا الهراء؟",
+    "reason": "تصحيح تعدية ترغب بمعنى تود."
+  },
+  {
+    "target": "106",
+    "index": 318,
+    "id": "106:Line:51D580E3FF324A2BA6BD69BC13CADC44",
+    "en": "H-hope he doesn't tax me extra for t-this.",
+    "before": "آ-آمل ألا يزيد ضريبتي ل-لهذا.",
+    "after": "آ-آمل ألا يزيد ضريبتي ب-بسبب هذا.",
+    "reason": "تصحيح حرف الجر مع الحفاظ على التلعثم."
+  },
+  {
+    "target": "106",
+    "index": 322,
+    "id": "106:Line:24ABD6F236D04500AABCA504E550065F",
+    "en": "Have what it takes to complete the Official Speedster Bootcamp? Come join me at the Torrance beach to find out!",
+    "before": "أتملك مقومات إتمام معسكر السريعين الرسمي؟ انضم إلي في شاطئ تورانس لتعرف!",
+    "after": "أتملك مقومات إتمام معسكر السريعين الرسمي؟ انضم إلي على شاطئ تورانس لتعرف!",
+    "reason": "تصحيح حرف الجر مع الشاطئ."
+  },
+  {
+    "target": "106",
+    "index": 381,
+    "id": "106:Line:5B5C572C19AA477AAC632776FB2361F3",
+    "en": "I need someone to wait in line for this really cool game that I'm old enough to play and my parents said it was okay to call SDN.",
+    "before": "أحتاج شخصا ينتظر بالطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها، وأبي وأمي وافقا أن أتصل بـSDN.",
+    "after": "أحتاج شخصا ينتظر بالطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها، وأبي وأمي وافقا على أن أتصل بـSDN.",
+    "reason": "تصحيح تعدية وافقا."
+  },
+  {
+    "target": "106",
+    "index": 391,
+    "id": "106:Line:17149F27E908450EAC7A610EB601763C",
+    "en": "I think he’s only considered where he’d hang himself -- |that corner seems fine. |It’s a housewarming gift for your housewarming party, Robert. |I told people to bring a lamp or something.  ",
+    "before": "أظنه فكر فقط في مكان شنق نفسه-- |تلك الزاوية تبدو مناسبة. |هذه هدية منزل جديد لحفلة منزلك الجديد يا روبرت. |قلت للناس أن يجلبوا مصباحا أو شيئا.  ",
+    "after": "أظنه فكر فقط في مكان شنق نفسه-- |تلك الزاوية تبدو مناسبة. |هذه هدية منزل جديد لحفلة منزلك الجديد يا روبرت. |طلبت من الناس أن يجلبوا مصباحا أو شيئا.  ",
+    "reason": "تصحيح تركيب القول والطلب."
+  },
+  {
+    "target": "106",
+    "index": 413,
+    "id": "106:Line:1BF9E57E565846E4838EB983AD0D8C47",
+    "en": "If they wanted to roleplay, they're doing it wrong. Way too many people. Not enough condoms.",
+    "before": "إن أرادوا تمثيل الأدوار، فهم يفعلونه خطأ. الناس أكثر من اللازم. والواقيات أقل من اللازم.",
+    "after": "إن أرادوا تمثيل الأدوار، فهم يفعلون ذلك بطريقة خاطئة. الناس أكثر من اللازم. والواقيات أقل من اللازم.",
+    "reason": "تصحيح تركيب الجملة."
+  },
+  {
+    "target": "106",
+    "index": 457,
+    "id": "106:Line:4E2FD9885C204832A9589DBBF54851EC",
+    "en": "Marrying someone can send you to hell?",
+    "before": "قد يدخلك الزواج بأحد الجحيم؟",
+    "after": "قد يؤدي الزواج من شخص إلى دخولك الجحيم؟",
+    "reason": "تصحيح تركيب الفعل وتعدية الزواج."
+  },
+  {
+    "target": "106",
+    "index": 472,
+    "id": "106:Line:52F47DA684164504BE0109C565495347",
+    "en": "No, really. I’m fine. All I’ve gotta do is sit at a desk. ",
+    "before": "لا، حقا. أنا بخير. كل ما علي الجلوس خلف مكتب. ",
+    "after": "لا، حقا. أنا بخير. كل ما علي فعله هو الجلوس خلف مكتب. ",
+    "reason": "إكمال تركيب الجملة."
+  },
+  {
+    "target": "106",
+    "index": 551,
+    "id": "106:Line:00349D5E0FA74452B774C066349F8B29",
+    "en": "She thinks she’s like you but she’s not. Robert doesn’t need |to keep going out there with no powers putting his life on the line to make up |for assholes like you. |He doesn’t need to be Mecha Man to be a hero.",
+    "before": "تظن نفسها مثلك لكنها ليست كذلك. لا يحتاج روبرت |للخروج بلا قوى والمخاطرة بحياته ليعوض |عن أوغاد مثلك. |لا يحتاج أن يكون ميكا مان ليكون بطلا.",
+    "after": "تظن نفسها مثلك لكنها ليست كذلك. لا يحتاج روبرت |للخروج بلا قوى والمخاطرة بحياته ليعوض |عن أوغاد مثلك. |لا يحتاج إلى أن يكون ميكا مان ليكون بطلا.",
+    "reason": "تصحيح تعدية يحتاج."
+  },
+  {
+    "target": "106",
+    "index": 577,
+    "id": "106:Line:097DF3187CDD4833B6D0BAEE5C240021",
+    "en": "Sure... and you think the Z-Team will be able to tell the difference?",
+    "before": "بالتأكيد... وتظنين فريق Z سيميز الفرق؟",
+    "after": "بالتأكيد... وتظنين أن فريق Z سيميز الفرق؟",
+    "reason": "إكمال تركيب ظن."
+  },
+  {
+    "target": "106",
+    "index": 587,
+    "id": "106:Line:030F326FCEF64B47A832597FBAD6B2AD",
+    "en": "That first week, Visi was gonna walk off the team. |She was feeling low. |Talkin’ about how she was born with powers that always meant she’d end up as a villain... |like it was fated. |So, obviously I gave her the pep talk. |You know, like, that’s all bullshit, you make your own fate, yada, yada -- |I don’t even remember what I said, but I do remember thinking, |“oh fuck... yeah, that must’ve been hard.” |Like, if I didn’t have you, you know, and my Dad, where would I have ended up? ",
+    "before": "في الأسبوع الأول، كادت فيزي تترك الفريق. |كانت محبطة. |تقول إنها ولدت بقوى تحتم أن تصبح شريرة... |كأنه قدرها. |وطبعا أعطيتها كلام التشجيع. |كل هذا هراء، أنت تصنعين قدرك، وكذا وكذا-- |لا أتذكر حتى ما قلته، لكن أتذكر أنني فكرت، |«تبا... أجل، لا بد أن هذا كان صعبا.» |لو لم يكن عندي أنت وأبي، أين كنت سأنتهي؟ ",
+    "after": "في الأسبوع الأول، كادت فيزي تترك الفريق. |كانت محبطة. |تقول إنها ولدت بقوى تحتم أن تصبح شريرة... |كأنه قدرها. |وطبعا أعطيتها كلام التشجيع. |كل هذا هراء، أنت تصنعين قدرك، وكذا وكذا-- |لا أتذكر حتى ما قلته، لكن أتذكر أنني فكرت، |«تبا... أجل، لا بد أن هذا كان صعبا.» |لو لم تكونا أنت وأبي إلى جانبي، أين كنت سأنتهي؟ ",
+    "reason": "تصحيح تركيب الشرط مع الحفاظ على المقاطع."
+  },
+  {
+    "target": "106",
+    "index": 598,
+    "id": "106:Line:534335E9F633469AB70B7C2964DA77B3",
+    "en": "The Faction of Light needs your help to overtake the Faction of Darkness. Preferably before eight when the park closes.",
+    "before": "يحتاج فصيل النور مساعدتكم للتغلب على فصيل الظلام. ويفضل قبل إغلاق الحديقة في الثامنة.",
+    "after": "يحتاج فصيل النور إلى مساعدتكم للتغلب على فصيل الظلام. ويفضل قبل إغلاق الحديقة في الثامنة.",
+    "reason": "تصحيح تعدية يحتاج."
+  },
+  {
+    "target": "106",
+    "index": 606,
+    "id": "106:Line:51EC1D74969B4B8998661E6FB9DEBE35",
+    "en": "The safe? I don't know how to open a fucking safe.",
+    "before": "الخزنة؟ لا أعرف فتح خزنة لعينة.",
+    "after": "الخزنة؟ لا أعرف كيف أفتح خزنة لعينة.",
+    "reason": "تصحيح تركيب الجملة."
+  },
+  {
+    "target": "106",
+    "index": 610,
+    "id": "106:Line:472CDAFB22D74F708E503BDA6294A7FF",
+    "en": "Then we kick in some doors, knock some heads, snatch that shit back |and you’ll be pulsin’ or whatever in no time.",
+    "before": "ثم نقتحم أبوابا ونهشم رؤوسا ونستردها |وستنبض أو أيا كان في وقت قصير.",
+    "after": "ثم نقتحم أبوابا ونهشم رؤوسا ونستردها |وستنبض أو ما شابه في وقت قصير.",
+    "reason": "تصحيح تركيب أو ما شابه."
+  },
+  {
+    "target": "106",
+    "index": 624,
+    "id": "106:Line:3DD3AB9A68624EC8AF2B8EC22865F052",
+    "en": "Told you guys. Dude was one divorce away from a total robot uprising.",
+    "before": "قلت لكم. كان طلاق واحد يفصله عن ثورة روبوتات شاملة.",
+    "after": "قلت لكم. كان يفصله طلاق واحد عن ثورة روبوتات شاملة.",
+    "reason": "تصحيح تركيب الجملة."
+  },
+  {
+    "target": "106",
+    "index": 628,
+    "id": "106:Line:52789A27EEDA4BA38A0604FC8E2EE42E",
+    "en": "Ugh, I wanna betray the Faction of Light so fucking bad.",
+    "before": "آخ، أريد خيانة فصيل النور بشدة لعينة.",
+    "after": "آخ، أريد خيانة فصيل النور بشدة، بحق اللعنة.",
+    "reason": "تصحيح التركيب مع الحفاظ على حدة العبارة."
+  },
+  {
+    "target": "106",
+    "index": 637,
+    "id": "106:Line:32DA38BCAFC14209A5CA22C81F362984",
+    "en": "Vanderstenk wants them destroyed but... I think there's a way to reprogram them.",
+    "before": "يريد فاندرستنك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.",
+    "after": "يريد فاندرستنك تدميرها، لكن... أظن أن هناك طريقة لإعادة برمجتها.",
+    "reason": "إكمال تركيب ظن."
+  },
+  {
+    "target": "106",
+    "index": 686,
+    "id": "106:Line:42C568DA682445E698521AF0A885188F",
+    "en": "Why'd it stop?",
+    "before": "لم توقف؟",
+    "after": "لماذا توقف؟",
+    "reason": "توضيح أداة الاستفهام لتجنب التباسها بالنفي."
+  },
+  {
+    "target": "106",
+    "index": 687,
+    "id": "106:Line:59A7CBB097284A5C93D647653BD56E0A",
+    "en": "Why’d you do all this?",
+    "before": "لم فعلت كل هذا؟",
+    "after": "لماذا فعلت كل هذا؟",
+    "reason": "توضيح أداة الاستفهام لتجنب التباسها بالنفي."
+  },
+  {
+    "target": "106",
+    "index": 689,
+    "id": "106:Line:26486154CBBB42F9B288A5FB7D38734A",
+    "en": "Why’re you holding a lamp?",
+    "before": "لم تحمل مصباحا؟",
+    "after": "لماذا تحمل مصباحا؟",
+    "reason": "توضيح أداة الاستفهام لتجنب التباسها بالنفي."
+  },
+  {
+    "target": "106",
+    "index": 717,
+    "id": "106:Line:2CFCABF0409D408AAF0F6503FE8DBF9D",
+    "en": "You ever think about why we do what we do? Help people?",
+    "before": "هل تفكر لماذا نفعل ما نفعل؟ مساعدة الناس؟",
+    "after": "هل تفكر في سبب ما نفعله؟ في سبب مساعدتنا للناس؟",
+    "reason": "تصحيح تعدية يفكر مع توضيح تركيب السؤال."
+  },
+  {
+    "target": "106",
+    "index": 718,
+    "id": "106:Line:3DCB1D891CC64E73B65FBF54160A7E0E",
+    "en": "You ever worry that a buncha former villains |actually get that same juice from the opposite? |From hurting people?",
+    "before": "ألا تخشى أن حفنة الأشرار السابقين |ينالون المتعة نفسها من العكس؟ |من إيذاء الناس؟",
+    "after": "ألا تخشى أن حفنة الأشرار السابقين |تنال المتعة نفسها من العكس؟ |من إيذاء الناس؟",
+    "reason": "مطابقة الفعل للفاعل حفنة."
+  },
+  {
+    "target": "106",
+    "index": 730,
+    "id": "106:Line:1097F05D92A24211AEF9F1A760E70F6E",
+    "en": "You sure this ain’t vodka?",
+    "before": "أأنت واثق أنه ليس فودكا؟",
+    "after": "أأنت واثق من أن هذا ليس فودكا؟",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "107",
+    "index": 181,
+    "id": "107:Line:1B94CDD5580046E48ABA8194E14A8A61",
+    "en": "Are you sure he’s right about Invisigal?",
+    "before": "هل أنت متأكد أنه محق بشأن إنفيزيغال؟",
+    "after": "هل أنت متأكد من أنه محق بشأن إنفيزيغال؟",
+    "reason": "تصحيح تعدية متأكد."
+  },
+  {
+    "target": "107",
+    "index": 225,
+    "id": "107:Line:2877D6DB9FCE4E468819A5E15B12FFD5",
+    "en": "Fine, I'll fucking say it. What if Chase dies?",
+    "before": "حسنًا، سأقولها اللعنة. ماذا لو مات تشيس؟",
+    "after": "حسنًا، سأقولها، اللعنة. ماذا لو مات تشيس؟",
+    "reason": "تصحيح الترقيم حول الاعتراض."
+  },
+  {
+    "target": "107",
+    "index": 231,
+    "id": "107:Line:1B569C465CF44646B0F1B8C3B36DC137",
+    "en": "Fuckin' useless.",
+    "before": "عديم النفع اللعين.",
+    "after": "عديم النفع، اللعنة.",
+    "reason": "تصحيح تركيب العبارة."
+  },
+  {
+    "target": "107",
+    "index": 237,
+    "id": "107:Line:BED28EFABA68436D86C5FE685CC79AFA",
+    "en": "Goddamn. Alright. Somebody’s a little fuckin’ impatient.",
+    "before": "اللعنة. حسنًا. أحدهم قليل الصبر اللعين.",
+    "after": "اللعنة. حسنًا. أحدهم نافد الصبر، اللعنة.",
+    "reason": "تصحيح التعبير وترقيم الاعتراض."
+  },
+  {
+    "target": "107",
+    "index": 263,
+    "id": "107:Line:009B70884B1F4C01B0640BBEBD4F8E62",
+    "en": "Hope you’re doing okay",
+    "before": "أتمنى أنك بخير",
+    "after": "أتمنى أن تكون بخير",
+    "reason": "تصحيح تركيب أتمنى."
+  },
+  {
+    "target": "107",
+    "index": 264,
+    "id": "107:Line:56E00085A5964F59B7A146058322EE41",
+    "en": "Hope you’re doing okay",
+    "before": "أتمنى أنك بخير",
+    "after": "أتمنى أن تكون بخير",
+    "reason": "تصحيح تركيب أتمنى."
+  },
+  {
+    "target": "107",
+    "index": 293,
+    "id": "107:Line:488F06ECA15342CBBDD23664B3F9C6A5",
+    "en": "I know what it's like to lose a friend on this team... It fucking sucks. Hope I can help.",
+    "before": "أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم بشكل لعين. آمل أن أساعد.",
+    "after": "أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم بحق اللعنة. آمل أن أساعد.",
+    "reason": "تصحيح تركيب العبارة مع الحفاظ على حدتها."
+  },
+  {
+    "target": "107",
+    "index": 294,
+    "id": "107:Line:DEB76F371DD446D4B420D84E8C78DC6B",
+    "en": "I know you’re a kid and you’re sad and shit, but you fuckin’ suck, okay? |You understand what I'm saying?",
+    "before": "أعرف أنك طفل وحزين وما شابه، لكنك سيئ بشكل لعين، حسنًا؟ |أتفهم ما أقوله؟",
+    "after": "أعرف أنك طفل وحزين وما شابه، لكنك سيئ بحق اللعنة، حسنًا؟ |أتفهم ما أقوله؟",
+    "reason": "تصحيح تركيب العبارة مع الحفاظ على حدتها."
+  },
+  {
+    "target": "107",
+    "index": 328,
+    "id": "107:Line:5DB032B38602462D9C617C73331B1AD1",
+    "en": "I-is m-my name Water-- I mean. It's, yes! Yes.",
+    "before": "أ-أليس ا-اسمي ووتر-- أعني. أجل! أجل.",
+    "after": "ه-هل ا-اسمي ووتر-- أعني. إنه، أجل! أجل.",
+    "reason": "تصحيح صيغة السؤال مع الحفاظ على التلعثم."
+  },
+  {
+    "target": "107",
+    "index": 254,
+    "id": "107:Line:2F74C9D36BCE406EB66EF9325CB1F080",
+    "en": "Hey, the only person that put Chase here...",
+    "before": "اسمعوا، الشخص الوحيد الذي تسبب بدخول تشيس إلى هنا...",
+    "after": "اسمعوا، الشخص الوحيد الذي تسبب في دخول تشيس إلى هنا...",
+    "reason": "تصحيح تعدية تسبب."
+  },
+  {
+    "target": "107",
+    "index": 345,
+    "id": "107:Line:4A94A0BD347045419AD5230BB8CFC4BF",
+    "en": "It’s not that, it’s just... a lot. A whole fuckin’ lot.",
+    "before": "ليس هذا، بل الأمر... كثير. كثير بشكل لعين.",
+    "after": "ليس هذا، بل الأمر... كثير. كثير جدًا، بحق اللعنة.",
+    "reason": "تصحيح التركيب مع الحفاظ على حدة العبارة."
+  },
+  {
+    "target": "107",
+    "index": 353,
+    "id": "107:Line:4B3BFFC730634356B9523199E319709C",
+    "en": "I’m not saying you should. I’m just saying you should consider it. |It’s a hundred percent your call.",
+    "before": "لا أقول إنه عليك فعل ذلك. بل أن تفكر فيه. |القرار لك بالكامل.",
+    "after": "لا أقول إن عليك فعل ذلك. بل أقول إن عليك التفكير فيه. |القرار لك بالكامل.",
+    "reason": "تصحيح تركيب القول."
+  },
+  {
+    "target": "107",
+    "index": 388,
+    "id": "107:Line:40A8A0F63AC946A19527C443A99DF926",
+    "en": "None so far. But... I'm sure we'll hear something soon.",
+    "before": "لا شيء حتى الآن. لكن... أنا متأكد أننا سنسمع خبرًا قريبًا.",
+    "after": "لا شيء حتى الآن. لكن... أنا متأكد من أننا سنسمع خبرًا قريبًا.",
+    "reason": "تصحيح تعدية متأكد."
+  },
+  {
+    "target": "107",
+    "index": 412,
+    "id": "107:Line:EB275E3B01224DF39A9A95C1DF1841E1",
+    "en": "Okay, now I don’t know what he’s talking about. |Freckles, you mind tellin’ me what’s goin--",
+    "before": "حسنًا، لا أفهم الآن عما يتحدث. |يا نمش، هل تخبرينني ماذا يحـ--",
+    "after": "حسنًا، لا أفهم الآن ما الذي يتحدث عنه. |يا نمش، هل تخبرينني ماذا يحـ--",
+    "reason": "تصحيح تركيب الاستفهام غير المباشر."
+  },
+  {
+    "target": "107",
+    "index": 430,
+    "id": "107:Line:25ACAED5F9884C19AE20FFA1F4DFC4AF",
+    "en": "Right, it’s a door and I doubt you were actually in his face--",
+    "before": "صحيح، إنه باب، وأشك أنك كنت في وجهه فعلًا--",
+    "after": "صحيح، إنه باب، وأشك في أنك كنت في وجهه فعلًا--",
+    "reason": "تصحيح تعدية أشك."
+  },
+  {
+    "target": "107",
+    "index": 479,
+    "id": "107:Line:53AB55357337493A89944A62E8863951",
+    "en": "They’re right, I don’t deserve anyone's forgiveness, anyone's help, anyone's love... |because I can never repay it. |Nothing I do will ever make up for what I’ve already done to you. |I’d hoped getting the Astral Pulse back would help but... |I couldn’t even do that. ",
+    "before": "إنهم محقون، لا أستحق مغفرة أحد ولا مساعدته ولا حبه... |لأنني لا أستطيع رد الجميل أبدًا. |لن يعوض أي شيء أفعله عما فعلته بك سابقًا. |أملت أن تفيد استعادة النبضة النجمية، لكن... |عجزت حتى عن ذلك. ",
+    "after": "إنهم محقون، لا أستحق مغفرة أحد ولا مساعدته ولا حبه... |لأنني لا أستطيع رد الجميل أبدًا. |لن يعوض أي شيء أفعله ما فعلته بك سابقًا. |أملت أن تفيد استعادة النبضة النجمية، لكن... |عجزت حتى عن ذلك. ",
+    "reason": "تصحيح تعدية يعوض مع الحفاظ على المقاطع."
+  },
+  {
+    "target": "Shared",
+    "index": 1341,
+    "id": "Shared:Line:085B472C333D4258ABD04BB1D3038864",
+    "en": "Coop and Punch Up knew each other from before the Z-Team. Some people say they've been intimate.",
+    "before": "عرفت كوب وبانش أب بعضهما قبل فريق Z. يقول البعض إنهما أقاما علاقة حميمة.",
+    "after": "عرف كوب وبانش أب بعضهما قبل فريق Z. يقول البعض إنهما أقاما علاقة حميمة.",
+    "reason": "تصحيح صيغة الفعل المتقدم على الفاعل."
+  },
+  {
+    "target": "Shared",
+    "index": 1356,
+    "id": "Shared:Line:42AC6A7802504E0A82A94CBF73DCFF69",
+    "en": "Every rank up earns Skill Points. Use them for increasing stats.",
+    "before": "كل ترقية رتبة تمنحك نقاط مهارة. استخدمها لزيادة الإحصاءات.",
+    "after": "كل ترقية في الرتبة تمنحك نقاط مهارة. استخدمها لزيادة الإحصاءات.",
+    "reason": "تصحيح تركيب الإضافة."
+  }
+]

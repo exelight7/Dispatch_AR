@@ -1,0 +1,10 @@
+{
+  "records": 464,
+  "source_records": 464,
+  "translated_or_legitimate_keep": 464,
+  "legitimate_keep": 68,
+  "status": "TRANSLATED",
+  "structural_validation": "PASS",
+  "runtime_reachability": "NOT PROVEN",
+  "game_launched": false
+}

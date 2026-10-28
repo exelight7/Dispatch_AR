@@ -1,0 +1,245 @@
+[
+  {
+    "target": "107",
+    "index": 424,
+    "id": "107:Line:3D3E4DCD160443E59D4EE17364C6BC7F",
+    "en": "Press have a story that an SDN hero got hurt last night ",
+    "before": "وصل خبر للصحافة أن بطلًا من SDN أُصيب الليلة الماضية ",
+    "after": "وصل إلى الصحافة خبر أن بطلًا من SDN أُصيب الليلة الماضية ",
+    "reason": "تصحيح صياغة ورود الخبر مع الحفاظ على المعنى."
+  },
+  {
+    "target": "107",
+    "index": 492,
+    "id": "107:Line:301CAF16131F43FF9D531F5BC863ECB4",
+    "en": "Uh, hey, Bone Zone pissed off the wrong gang and they're holding him hostage! Listen, I know he sucks but he writes my checks. Can you please just rescue him?",
+    "before": "آه، مرحبًا، أغضب بون زون العصابة الخطأ واحتجزته رهينة! اسمع، أعرف أنه سيئ، لكنه يدفع راتبي. هل يمكنكم إنقاذه رجاء؟",
+    "after": "آه، مرحبًا، أغضب بون زون العصابة الخاطئة واحتجزته رهينة! اسمع، أعرف أنه سيئ، لكنه يدفع راتبي. هل يمكنكم إنقاذه رجاء؟",
+    "reason": "مطابقة النعت للمنعوت واتساق النص مع التفريغ الصوتي."
+  },
+  {
+    "target": "108",
+    "index": 29,
+    "id": "108::CB5A5F2742795ACF8B1D30A96A060F82",
+    "en": "\"We've got a plan but we need backup! We could actually turn this around!\"",
+    "before": "\"لدينا خطة، لكننا نحتاج تعزيزات! يمكننا قلب الموازين فعلًا!\"",
+    "after": "\"لدينا خطة، لكننا نحتاج إلى تعزيزات! يمكننا قلب الموازين فعلًا!\"",
+    "reason": "تصحيح تعدية نحتاج."
+  },
+  {
+    "target": "108",
+    "index": 451,
+    "id": "108:KillOrSpareChoiceStat:610DD561425E52711D20099B58957FE4",
+    "en": "^You and {Percentage}^ of players watched as ^Invisigal killed Shroud^, denying you the chance to exact vengeance or show mercy.",
+    "before": "^أنت و{Percentage}^ من اللاعبين شاهدتم ^إنفيزيغال تقتل شراود^، مما حرمكم فرصة الانتقام أو إظهار الرحمة.",
+    "after": "^أنت و{Percentage}^ من اللاعبين شاهدتم ^إنفيزيغال تقتل شراود^، مما حرمكم من فرصة الانتقام أو إظهار الرحمة.",
+    "reason": "تصحيح تعدية حرم."
+  },
+  {
+    "target": "108",
+    "index": 513,
+    "id": "108:Line:5C12FD32792D47979FBD92E1AD422851",
+    "en": "Are we sure we wanna save Waterboy? Nah, just fucking with you.",
+    "before": "هل نحن متأكدون أننا نريد إنقاذ ووتربوي؟ لا، أمازحك اللعنة.",
+    "after": "هل نحن متأكدون أننا نريد إنقاذ ووتربوي؟ لا، أمازحك، اللعنة.",
+    "reason": "ضبط الترقيم مع إبقاء معنى الجملة."
+  },
+  {
+    "target": "108",
+    "index": 574,
+    "id": "108:Line:079F29F097264E7D8CF4FFB853DC305E",
+    "en": "Come on, Coop. We need you to hold it together just a little longer.",
+    "before": "هيا يا كوب. نحتاج أن تتماسكي قليلًا بعد.",
+    "after": "هيا يا كوب. نحتاج أن تتماسكي لفترة أطول قليلًا.",
+    "reason": "تصحيح تركيب تعبير المدة."
+  },
+  {
+    "target": "108",
+    "index": 659,
+    "id": "108:Line:45D508F2E0074765AE1A3242DB29E1F5",
+    "en": "Get your shit in gear.",
+    "before": "استعد للعمل اللعين.",
+    "after": "تحرك بحق الجحيم.",
+    "reason": "تصحيح معنى عبارة الحث على التحرك."
+  },
+  {
+    "target": "108",
+    "index": 747,
+    "id": "108:Line:448DE1EB300F44CBBD5DFA8D51C07DCA",
+    "en": "I always knew I could kick his ass... I just never thought I would actually have to.",
+    "before": "عرفت دائمًا أنني قادرة على ضربه... لكنني لم أتوقع أن أُضطر لذلك فعلًا.",
+    "after": "عرفت دائمًا أنني قادرة على ضربه... لكنني لم أتوقع أن أُضطر إلى ذلك فعلًا.",
+    "reason": "تصحيح تعدية أضطر."
+  },
+  {
+    "target": "108",
+    "index": 790,
+    "id": "108:Line:2973071A253049D99E3E75A258845D0A",
+    "en": "I hope she likes her coffee scalding.",
+    "before": "آمل أنها تحب القهوة حارقة.",
+    "after": "آمل أن تحب القهوة حارقة.",
+    "reason": "تصحيح تركيب آمل."
+  },
+  {
+    "target": "108",
+    "index": 791,
+    "id": "108:Line:00BAD4CB56C3404EB3F8057872ACD5EF",
+    "en": "I hope the fact that I’ve always rooted for you makes up for ever doubting you.",
+    "before": "آمل أن تشجيعي الدائم لك يعوض أي شك انتابني فيك.",
+    "after": "آمل أن يعوض تشجيعي الدائم لك عن أي شك انتابني فيك.",
+    "reason": "تصحيح تركيب آمل وتعدية يعوض."
+  },
+  {
+    "target": "108",
+    "index": 812,
+    "id": "108:Line:3157773F36CD4CC6B6422A38D09EDFF2",
+    "en": "I need... backup... now.",
+    "before": "أحتاج... تعزيزات... الآن.",
+    "after": "أحتاج... إلى تعزيزات... الآن.",
+    "reason": "تصحيح تعدية أحتاج."
+  },
+  {
+    "target": "108",
+    "index": 906,
+    "id": "108:Line:091DB41196954451A384DADDEEABBFEE",
+    "en": "If I’m honest? It felt fuckin’ great. ",
+    "before": "بصراحة؟ كان شعورًا رائعًا بشكل لعين. ",
+    "after": "بصراحة؟ كان شعورًا رائعًا جدًا، اللعنة. ",
+    "reason": "صياغة عربية سليمة مع الحفاظ على حدة التعبير."
+  },
+  {
+    "target": "108",
+    "index": 1090,
+    "id": "108:Line:17DA142D93894EF385F01A36B6023A04",
+    "en": "Not so fucking phenomanal then is he? Nah, I'm just fucking with you. I'm on it.",
+    "before": "ليس فينومامان مذهلًا جدًا إذًا، أليس كذلك؟ لا، أمازحك اللعنة. سأتولى الأمر.",
+    "after": "ليس فينومامان مذهلًا جدًا إذًا، أليس كذلك؟ لا، أمازحك، اللعنة. سأتولى الأمر.",
+    "reason": "تصحيح ترقيم الجملة الاعتراضية."
+  },
+  {
+    "target": "108",
+    "index": 1122,
+    "id": "108:Line:4ADBB45FCEB0493FB1F10575455EAC78",
+    "en": "Oh there’s a ton of booze in the Rec Room. That’s where they got it. |I’m honestly shocked it hasn’t turned into an issue.",
+    "before": "هناك كحول كثير في غرفة الاستراحة. من هناك أحضروه. |بصراحة، أنا مصدومة أنه لم يتحول إلى مشكلة.",
+    "after": "هناك كحول كثير في غرفة الاستراحة. من هناك أحضروه. |بصراحة، أنا مصدومة من أنه لم يتحول إلى مشكلة.",
+    "reason": "تصحيح تعدية مصدومة."
+  },
+  {
+    "target": "108",
+    "index": 1133,
+    "id": "108:Line:55291251B48B44EDA4653D136382ECAB",
+    "en": "Oh, this is fuckin’ hilarious.",
+    "before": "آه، هذا مضحك بشكل لعين.",
+    "after": "آه، هذا مضحك جدًا، اللعنة.",
+    "reason": "تصحيح تركيب التعبير مع الحفاظ على شدته."
+  },
+  {
+    "target": "108",
+    "index": 1184,
+    "id": "108:Line:3D319A60A3344272A90862F407C0DA95",
+    "en": "R-Robert, uh, what if I-I don't think I can do this.",
+    "before": "ر-روبرت، آه، ماذا لو أ-أظن أنني لا أستطيع فعل هذا.",
+    "after": "ر-روبرت، آه، ماذا لو لم أ-أظن أنني أستطيع فعل هذا؟",
+    "reason": "إصلاح تركيب السؤال مع إبقاء التلعثم."
+  },
+  {
+    "target": "108",
+    "index": 1185,
+    "id": "108:Line:1D20EAE8D9254B2685F87789C0DF15DF",
+    "en": "Really feels like he should be the one saving us.",
+    "before": "أشعر فعلًا أنه المفترض به إنقاذنا.",
+    "after": "أشعر فعلًا أنه من المفترض أن ينقذنا.",
+    "reason": "تصحيح تركيب من المفترض."
+  },
+  {
+    "target": "108",
+    "index": 1283,
+    "id": "108:Line:117E65E9F73A4458B82922C71EB51493",
+    "en": "So fuckin' cool! ",
+    "before": "رائع بشكل لعين! ",
+    "after": "رائع جدًا، اللعنة! ",
+    "reason": "صياغة عربية سليمة مع المحافظة على شدة العبارة."
+  },
+  {
+    "target": "108",
+    "index": 1337,
+    "id": "108:Line:007F4C40D3FE4FB384150A82B7350BCD",
+    "en": "That sounds... not worth it. ",
+    "before": "هذا يبدو... لا يستحق العناء. ",
+    "after": "يبدو أن هذا... لا يستحق العناء. ",
+    "reason": "تصحيح تركيب يبدو."
+  },
+  {
+    "target": "108",
+    "index": 1395,
+    "id": "108:Line:1AEC50DEAE7A45479CEAC5959242CE4B",
+    "en": "Think you can fight a little longer?",
+    "before": "أتستطيع القتال قليلًا بعد؟",
+    "after": "أتستطيع مواصلة القتال مدة أطول قليلًا؟",
+    "reason": "تصحيح تركيب المدة."
+  },
+  {
+    "target": "108",
+    "index": 1400,
+    "id": "108:Line:0C49C3EC116940E6A7AD7106FB1BC005",
+    "en": "This fuckin' rules.",
+    "before": "هذا رائع بشكل لعين.",
+    "after": "هذا رائع جدًا، اللعنة.",
+    "reason": "صياغة عربية سليمة مع المحافظة على شدة العبارة."
+  },
+  {
+    "target": "108",
+    "index": 1419,
+    "id": "108:Line:41C066CB9AFE4F69B0C71CE898E20F8C",
+    "en": "Told you to believe me.",
+    "before": "قلت لك أن تصدقني.",
+    "after": "طلبت منك أن تصدقني.",
+    "reason": "تصحيح تركيب فعل الطلب."
+  },
+  {
+    "target": "108",
+    "index": 1504,
+    "id": "108:Line:4C8FE77D8B8F4ECFB4FC294BDB7C9061",
+    "en": "We've got a plan but we need backup! We could actually turn this around!",
+    "before": "لدينا خطة، لكننا نحتاج تعزيزات! يمكننا قلب الموازين فعلًا!",
+    "after": "لدينا خطة، لكننا نحتاج إلى تعزيزات! يمكننا قلب الموازين فعلًا!",
+    "reason": "تصحيح تعدية نحتاج ومطابقة النص مع تفريغه."
+  },
+  {
+    "target": "108",
+    "index": 1506,
+    "id": "108:Line:31236EC36FC64B48820656EC77A38078",
+    "en": "We've had our differences, but I hope he's alright.",
+    "before": "اختلفنا من قبل، لكنني آمل أنه بخير.",
+    "after": "اختلفنا من قبل، لكنني آمل أن يكون بخير.",
+    "reason": "تصحيح تركيب آمل."
+  },
+  {
+    "target": "108",
+    "index": 1514,
+    "id": "108:Line:5DA0D7DAC9B448A2B1A8074002852511",
+    "en": "Well this is fucking hilarious.",
+    "before": "حسنًا، هذا مضحك بشكل لعين.",
+    "after": "حسنًا، هذا مضحك جدًا، اللعنة.",
+    "reason": "صياغة عربية سليمة مع المحافظة على شدة العبارة."
+  },
+  {
+    "target": "108",
+    "index": 1654,
+    "id": "108:Line:461777E7015E47A49D06DE2D91F34A75",
+    "en": "You don’t have powers. You need my help. Just, let me help you. Please.",
+    "before": "ليست لديك قوى. تحتاج مساعدتي. فقط دعني أساعدك. أرجوك.",
+    "after": "ليست لديك قوى. تحتاج إلى مساعدتي. فقط دعني أساعدك. أرجوك.",
+    "reason": "تصحيح تعدية تحتاج."
+  },
+  {
+    "target": "108",
+    "index": 1777,
+    "id": "108:LV_Shift08a.Scenario_SC_02d:VOTranscription",
+    "en": "\"I need... backup... now.\"",
+    "before": "\"أحتاج... تعزيزات... الآن.\"",
+    "after": "\"أحتاج... إلى تعزيزات... الآن.\"",
+    "reason": "تصحيح تعدية أحتاج ومطابقة التفريغ للحوار."
+  }
+]

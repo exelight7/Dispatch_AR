@@ -1,0 +1,300 @@
+900 104:Line:444BA8AC357B4D109CBF4EA2A16C2D1C [Robert]
+EN He's just... nervous.
+AR إنه فقط... متوتر.
+901 104:Line:10610DD4021F49B1A1B897940CCB1E9F [Waterboy]
+EN Heh.
+AR هه.
+902 104:Line:43DC99C1F50546C7BE2E264824965569 [Waterboy]
+EN Heh. Heh. Uh, excuse me.
+AR هه. هه. آه، المعذرة.
+903 104:Line:4AB30DD963B74F9BBD7710DC0AAC54AF [Golem]
+EN Hehehehe.
+AR هههههه.
+904 104:Line:D3C7184AD4784E968E6F9D56FBCC0DA6 [Phenomaman]
+EN Hello Robert. A moment of your time.
+AR مرحبا روبرت. أريد لحظة من وقتك.
+905 104:Line:16CB0DB8C7504B8CA7DB99D7E5A6FC5C [Brainteaser]
+EN Hello, Dispatcher. Would you like to play a little game? Perhaps a <Italic>Brainteaser</>?
+AR مرحبا يا منسق العمليات. أتود لعب لعبة صغيرة؟ ربما <Italic>لغز برينتيزر</>؟
+906 104:Line:3C14B6EC1A4745B0AE0836939E088C06 [Charles]
+EN Help us get this stuff out of our dorm, yeah? You guys do that kinda stuff, right?
+AR ساعدونا في إخراج هذه الأغراض من سكننا، اتفقنا؟ أنتم تقدمون هذه الخدمات، صحيح؟
+907 104:Line:0693FB4E21DE41AF870A647B14313420 [Phenomaman]
+EN Helping is my duty and that duty is done.
+AR المساعدة واجبي وقد أديت هذا الواجب.
+908 104:Line:96B5A00C3B3246FD8F73983D7802D154 [Robert]
+EN Here, hold a Beef. It’ll help. 
+AR خذ، احمل بيف. سيساعدك. 
+909 104:Line:4D676358359B4D97A272362FA7858D53 [Different Office Worker]
+EN Hey I was watching that!
+AR مهلا، كنت أشاهد ذلك!
+910 104:Line:16FEC212E14F412E90217BE7D9670172 [Robert]
+EN Hey Sonar, can you look into their tax filings?
+AR يا سونار، هلا تفحص إقراراتهم الضريبية؟
+911 104:Line:421BB0D830334F13920ED72C2859F163 [Mom]
+EN Hey honey!
+AR مرحبا يا حبيبي!
+912 104:Line:51AF3039691D47D099DDEF3680A3A8FD [Child]
+EN Hey mom!
+AR مرحبا أمي!
+913 104:Line:1BD116F7CF27427B8002C9D9048A62D1 [Blazer]
+EN Hey team! We appreciate you doing your best last shift under the circumstances, but we are here to help! More specifically...
+AR مرحبا يا فريق! نقدر بذل أقصى جهدكم في المناوبة الماضية رغم الظروف، لكننا هنا للمساعدة! وتحديدا...
+914 104:Line:4717928FC5914075AC293081F3B8BDB3 [Robert]
+EN Hey, Flambae, you cook right?
+AR يا فلامباي، أنت تطهو، صحيح؟
+915 104:Line:82534B10D01044EE98AD1803AE35AB6D [Waterboy]
+EN Hey, I leave-- it’s not-- my clothes are waterproof... ish.
+AR مهلا، أنا أترك-- هذا ليس-- ملابسي مقاومة للماء... تقريبا.
+916 104:Line:4865CF6C279340F2A620484A320E41CA [Blonde Blazer]
+EN Hey, I’m Mandy. 
+AR مرحبا، أنا ماندي. 
+917 104:Line:1BCDF573C98C4A2C9FBF7335DD47D395 [Robert]
+EN Hey, Malevola, you watch this show right? Your call.
+AR يا ماليفولا، أنت تشاهدين هذا المسلسل، صحيح؟ القرار لك.
+918 104:Line:5974F979F3AC4DBBA22CE489E2FFE031 [Ray]
+EN Hey, Ray here. We've got another teardown for ya. Mind coming down and doing some demo?
+AR مرحبا، معك راي. لدينا موقع هدم آخر لك. أتأتي لتهدم قليلا؟
+919 104:Line:27D244645AF544ECB3A2F908DA8E888E [Blonde Blazer]
+EN Hey, Robert could you--
+AR يا روبرت، هلا--
+920 104:Line:99087B7C294E43E79D9340DC736A7D72 [Blonde Blazer]
+EN Hey, Robert could you-- Oh. |You have stuff on your face. |What happened here? 
+AR يا روبرت، هلا-- أوه. |على وجهك أشياء. |ماذا حدث هنا؟ 
+921 104:Line:0801C3218A694CEEBDD2A1EF06BBDCC4 [Flambae]
+EN Hey, if you were a civvie, what would your job be?
+AR اسمع، لو كنت مدنيا، ماذا ستكون وظيفتك؟
+922 104:Line:28685C9A25DC452282B3A3F8E802F5F9 [Jerry]
+EN Hey, it's Jerry from Comic Bug. We got a gift of some Mecha Man replicas but with all the bomb threats going on... we just want to be sure.
+AR مرحبا، أنا جيري من كوميك باغ. تلقينا مجسمات ميكا مان هدية، لكن مع كل تهديدات القنابل... نريد الاطمئنان فحسب.
+923 104:Line:06B07824B957456087DD62ADA3B73315 [Rory]
+EN Hey, it's Rory Kacie. One of my teachers called out. There's gotta be someone at SDN that can teach a jiu-jitsu class.
+AR مرحبا، أنا روري كايسي. تغيب أحد مدربي. لا بد أن لدى SDN من يستطيع تدريس الجوجيتسو.
+924 104:Line:6202A86CB1B54FF39BDC6E73F6BEE283 [Chase]
+EN Hey, kid.
+AR مرحبا يا فتى.
+925 104:Line:1810667D7E0A4E40B8125A0E6CAB2BB1 [Invisigal]
+EN Hey, nice work keeping score, big guy.
+AR أحسنت عد النقاط يا ضخم.
+926 104:Line:0FD578598C144D75BE27A576DCA676CD [Brittany]
+EN Hey, so, there's a... mini — no, baby? — tiny Kaiju? On the beach? It's actually pretty cute but like, where's its mom?
+AR مرحبا، هناك... كايجو مصغر، لا، رضيع؟ صغير؟ على الشاطئ؟ إنه لطيف جدا، لكن أين أمه؟
+927 104:Line:45E709532204463EB37984AB9F6CB292 [Galen]
+EN Hey, so, we're a little down on new subscribers this month... Think you can spare a hero to do some recruiting?
+AR مرحبا، عدد المشتركين الجدد منخفض قليلا هذا الشهر... أيمكنكم إرسال بطل لاستقطاب بعضهم؟
+928 104:Line:364D1E4F07834711B8F1F9D84BFA26DA [Malevola]
+EN Hey, take it easy, I've got you.
+AR اهدأ، أمسكت بك.
+929 104:Line:4EBE780709B9433E916AFF2C2D1BF7F2 [Jason]
+EN Hey, this is Jason from Nostalgia Alley. Someone just dropped off a box of games with a note saying there's a bomb inside one of 'em! Can you send someone?
+AR مرحبا، أنا جيسون من نوستالجيا آلي. ترك أحدهم صندوق ألعاب برسالة تقول إن إحداها تحتوي قنبلة! أيمكنكم إرسال أحد؟
+930 104:Line:25139664454D4D4982B383506F6C8145 [Robert]
+EN Heya, Phenomaman? How ya doin’ bud?
+AR مرحبا يا فينومامان؟ كيف حالك يا صاح؟
+931 104:Line:0AEC0CDEA78D4747BF5CDA580F464788 [Robert]
+EN He’s allowed to go home right?
+AR مسموح له بالعودة إلى المنزل، صحيح؟
+932 104:Line:2C5FC5E5D2CE4CB0991F449AAD554A71 [Robert]
+EN His name's Brainteaser, how tricky can he be?
+AR اسمه برينتيزر، كم قد تكون ألغازه صعبة؟
+933 104:Line:1B70C82317224E46BA45E38DAA4E57F0 [Coupe]
+EN Hm. You're braver than I thought. Fine. Return it tomorrow morning, or I will cut out your tongue.
+AR همم. أنت أشجع مما ظننت. حسنا. أعده صباح غد، وإلا قطعت لسانك.
+934 104:Line:3FE6F3B6194E421FB263DA21BD8750C6 [Waterboy]
+EN Hmm?
+AR همم؟
+935 104:Line:B595526972864C99A1816C2ABB008C01 [Robert]
+EN Hmm?
+AR همم؟
+936 104:Line:9E7D6FF5E7ED4FB6AA98D63FA795D134 [Blonde Blazer]
+EN Hmm? What’s that? 
+AR همم؟ ما هذا؟ 
+937 104:Line:3BDDFB3128364A50A55EE1B49749F550 [Waterboy]
+EN Hmph.
+AR همف.
+938 104:Line:41F203DCB35E448BAFBC171081F4374E [Waterboy]
+EN Holy moly!
+AR يا إلهي!
+939 104:Line:3E3746570A054FA49C78AA40F72EE6B9 [Sonar]
+EN Hoooooo man, they're definitely up to no good.
+AR أوووه يا رجل، إنهم يخططون لشر بالتأكيد.
+940 104:Line:FCC72A65F31C4972A942AAB8E08010A8 [Robert]
+EN Hope I had a condom on.
+AR آمل أنني كنت أرتدي واقيا.
+941 104:Line:58F0980A9DFD4C19B8D2EA2E7F8C3419 [Robert]
+EN Hope it was worth the wait. 
+AR آمل أنه استحق الانتظار. 
+942 104:Line:2A9D6635F15C4897BF2565E91BA2E05D [Punch-Up]
+EN How 'bout I do us both a favor and uh, politely decline.
+AR ما رأيك أن أسدي لنا معروفا وأرفض بأدب؟
+943 104:Line:2A8C052CAD404FF69E560D427C740D09 [Malevola]
+EN How about you g-g-go back to wiping up spills, janitor.
+AR ما رأيك أن ت-ت-تعود لمسح السوائل يا عامل النظافة؟
+944 104:Line:420F420CED374766951D5FBFA7F6BBAB [Robert]
+EN How did I do?
+AR كيف كان أدائي؟
+945 104:Line:FAE507996787458C8E5938A737522296 [Robert]
+EN How do you know she’s the only thing you’re passionate about |if you haven’t found anything else you’re passionate about?
+AR كيف تعرف أنها شغفك الوحيد |إن لم تجد شيئا آخر يثير شغفك؟
+946 104:Line:8FBC3C09A25C44D38D9F378AA9997013 [Robert]
+EN How do you move so quiet?
+AR كيف تتحرك بهذا الهدوء؟
+947 104:Line:32DFBB66A67D4E1EA7B3D75F798AD296 [Malevola]
+EN How is wet guy better than a bat?
+AR كيف يكون رجل مبلل أفضل من خفاش؟
+948 104:Line:595A378919004B29983008ABD1AA119D [Phenomaman]
+EN How meaningless...
+AR يا له من عبث...
+949 104:Line:282028448BA14F11AD22C5FE3CC5C54D [Punch Up]
+EN How the fuck are we supposed to do this?
+AR كيف يفترض أن نفعل هذا بحق اللعنة؟
+950 104:Line:C99F27E5338D4C35BFBD91DDB751E3A3 [Robert]
+EN How would you like to have to walk around work the rest of the day with shit all over you. 
+AR ما شعورك لو اضطررت للتجول في العمل بقية اليوم وأنت مغطى بالقذارة؟ 
+951 104:Line:5813450DC2E14C5AB7D38A934947133E [Punch Up]
+EN Hpmh. Alright, but I call dibs on little spoon.
+AR همف. حسنا، لكنني أحجز مكان المحضون.
+952 104:Line:469E9858E6AF46B2A586331784B094FB [Waterboy]
+EN Huh, okay, probably for the best, yeah.
+AR آه، حسنا، ربما هذا أفضل، أجل.
+953 104:Line:3F03F3FB43B441F0A39E22BD09A8C866 [Waterboy]
+EN Huh.
+AR همم.
+954 104:Line:3F6BBE594CC54FF2B7AE175628392D00 [Waterboy]
+EN Huh?
+AR ها؟
+955 104:Line:5EFC0A5DB29D4BCC94D0192D9306D7FD [Waterboy]
+EN I am A-O-good! All-kay. A-O-kay!
+AR أنا ب-خير تماما! كله ج-تمام. كله تمام!
+956 104:Line:1283549D54CA408BB44B4EAA511FAF5C [Phenoma-Man]
+EN I am afraid I will only be a liability on this mission.
+AR أخشى أن أكون عبئا في هذه المهمة.
+957 104:Line:3DC32E8B6D084DEA8E20AECAD69CD026 [Phenomaman]
+EN I am experiencing unpleasant feelings.
+AR أشعر بمشاعر غير سارة.
+958 104:Line:36D614C96BE742179CE1B8A49CEF3607 [Phenoma-Man]
+EN I am forever indebted to you for this kind gesture.
+AR سأظل مدينا لك إلى الأبد على هذه اللفتة الطيبة.
+959 104:Line:105A9D96363A402C85137E7FFB41D822 [Waterboy]
+EN I am going on my way to that place.
+AR أنا أسير في طريقي إلى ذلك المكان.
+960 104:Line:115D4CC2538D44A7833CB4BD5080CCD4 [Prism]
+EN I am going to fuck you up, you little wet freak.
+AR سأبرحك ضربا أيها المسخ المبلل الصغير.
+961 104:Line:547BE82A8CDD48298BD91DE40F9D8000 [Phenomaman]
+EN I am here to help.
+AR أنا هنا للمساعدة.
+962 104:Line:02163AF5FC534E06A73E34EDD2F7049D [Phenoma-Man]
+EN I am honored but... I cannot participate.
+AR يشرفني هذا، لكن... لا يمكنني المشاركة.
+963 104:Line:3F45751CD40548628D37E3871481FF2F [Waterboy]
+EN I am leaking blood. A lot.
+AR دمي يتسرب. بغزارة.
+964 104:Line:350625E64B834EE1B2C6501BA045BB93 [Phenoma-Man]
+EN I am no longer able to remain in the field.
+AR لم أعد قادرا على البقاء في الميدان.
+965 104:Line:015EB5A6AE864BA4BBA3981D86AD1E9F [Phenomaman]
+EN I am not ready to love anyone at this moment in time. Let alone a civilian. They find me intimidating.
+AR لست مستعدا لحب أحد حاليا. خصوصا مدنيا. فهم يهابونني.
+966 104:Line:27E976A2DD924822A2578720A991D238 [Coupe]
+EN I am not romantically interested in unexceptional people. But I'm up to the challenge.
+AR لا أنجذب عاطفيا للأشخاص العاديين. لكنني مستعدة للتحدي.
+967 104:Line:05C0C3B1A2A44A7E95E673D781417FC9 [Robert]
+EN I am not. You said you were underwater and uh, well, now we have Waterboy.
+AR لست كذلك. قلت إنك تغرق في العمل، والآن لدينا ووتربوي.
+968 104:Line:20E969A3EB714186A700CC93C3658D48 [Waterboy]
+EN I am on it like... uh...
+AR سأتولاه كما... آه...
+969 104:Line:516E00812D0043AAAF4ECABDD7B8CB10 [Robert]
+EN I am. Can’t have those either.
+AR أجل. لا أستطيع أكلها أيضا.
+970 104:Line:07D1C65B165544A1BD26097C0DECD93D [Coupe]
+EN I am... glad as well. Strange.
+AR أنا... سعيدة أيضا. غريب.
+971 104:Line:4D6A671170B24885960F48CC21811247 [Blonde Blazer]
+EN I appreciate that, but in the future, any hue shift is a no-go.
+AR أقدر ذلك، لكن مستقبلا، أي تغير في اللون غير مقبول.
+972 104:Line:5A80740782404B028C9EBE67F786ECDE [Phenoma-Man]
+EN I believe I felt that.
+AR أظن أنني شعرت بذلك.
+973 104:Line:146E61D43ADD47B4A29449AF180D27B1 [Phenomaman]
+EN I believe that is how all life forms are.
+AR أعتقد أن جميع أشكال الحياة كذلك.
+974 104:Line:32D665C575184FC5962C226322CB0AF0 [Punch Up]
+EN I believe the technical term is "fuckbuddies".
+AR أعتقد أن المصطلح العلمي هو "أصدقاء نيك".
+975 104:Line:0558E05F1E884F0DA614C35CAD857273 [Punch-Up]
+EN I believe the technical term is "fuckbuddies."
+AR أعتقد أن المصطلح العلمي هو "أصدقاء نيك".
+976 104:Line:52E5171EF8FB48E0BAB89712BD95C38D [Flambae]
+EN I bid you a fuck you.
+AR أودعك بقول: تبا لك.
+977 104:Line:A873314FC78D4A2B9C0CF0B434EA331C [Robert]
+EN I can do this all day. 
+AR أستطيع فعل هذا طوال اليوم. 
+978 104:Line:227EAF937C6F456B9548295AF484C467 [Punch-Up]
+EN I can show those guards some old tricks.
+AR يمكنني تعليم أولئك الحراس بعض الحيل القديمة.
+979 104:Line:4AE7442841F1422B80F777BC5CE54980 [Invisigal]
+EN I can't believe I'm saying this, but Coop has a point.
+AR لا أصدق أنني أقول هذا، لكن كوب محقة.
+980 104:Line:2CA21B78CEC044078C84AE476E06F6CB [Invisigal]
+EN I can't believe I'm saying this, but Sonar has a point.
+AR لا أصدق أنني أقول هذا، لكن سونار محق.
+981 104:Line:4AB7A7704EB74C969D719B5E3158CD1F [Phenomaman]
+EN I can't go on... Not like this.
+AR لا أستطيع الاستمرار... ليس هكذا.
+982 104:Line:2453936AF8CD4FA2836168FC8115FE89 [Phenomaman]
+EN I can't look.
+AR لا أستطيع النظر.
+983 104:Line:5C4C03D58DD24DABBBA30092711FD73F [Phenomaman]
+EN I can't take it.
+AR لا أحتمل.
+984 104:Line:5E37A7B91488434187DF419F2CB95A2F [Waterboy]
+EN I can-- I could get to five.
+AR أستطيع-- يمكنني بلوغ خمسة.
+985 104:Line:4CEFAC2F431746E8970A93BF80AC85B8 [Flambae]
+EN I could use a break.
+AR أحتاج إلى استراحة.
+986 104:Line:E2583198F83E480792BAF644071A4C8D [Invisigal]
+EN I could’ve been. |I could be anywhere. 
+AR كان بإمكاني ذلك. |يمكن أن أكون في أي مكان. 
+987 104:Line:2E4FC9CA0CB94823970E11E6F8F021A0 [Waterboy]
+EN I d-don't think I'm d-doing so good...
+AR ل-لا أظنني أ-أبلي جيدا...
+988 104:Line:338FCE8AEF31486E9839D341F21635CF [Sonar]
+EN I date civvies all the time. There's a lot of people into freaky bat shit.
+AR أواعد المدنيين طوال الوقت. كثيرون يعشقون غرائب الخفافيش.
+989 104:Line:01D4677C66B74253BC6955399B2CD442 [Phenomaman]
+EN I did not know so much pain could be felt on the inside. My outside was always so strong.
+AR لم أعلم أن الداخل يمكن أن يؤلم بهذا القدر. كان ظاهري قويا دائما.
+990 104:Line:577D0CBFC2D54BC7A68D977EB34569B1 [Phenomaman]
+EN I did not know so much pain could be felt on the inside. My outside was always so strong.
+AR لم أعلم أن الداخل يمكن أن يؤلم بهذا القدر. كان ظاهري قويا دائما.
+991 104:Line:35903FAF73494C6C83963380DAF620AA [Robert]
+EN I did. It took like two seconds. I didn't see it.
+AR نظرت. استغرق ثانيتين. لم أره.
+992 104:Line:054241A853234F71A4660143078AE701 [Sonar]
+EN I didn't say that.
+AR لم أقل ذلك.
+993 104:Line:2F091C7241934560AA9BF693FBB3749D [Robert]
+EN I didn't see that there.
+AR لم أر ذلك هناك.
+994 104:Line:77EA4EA94A3C481BB4F7D31279D41589 [Invisigal]
+EN I didn’t finish.
+AR لم أنته.
+995 104:Line:2E9E6D9D23474D2C95D77F33EB01285C [Robert]
+EN I didn’t say that. I just don’t jerk off at work. 
+AR لم أقل ذلك. أنا فقط لا أستمني في العمل. 
+996 104:Line:6298F313CC0C405A87101C8D0B8D40DB [Robert]
+EN I didn’t see the first one, can you give me a recap?
+AR لم أشاهد الجزء الأول، هل تلخصه لي؟
+997 104:Line:3A69FA44C8044BB698ED703D93974A61 [Malevola]
+EN I don't really date. I only yearn.
+AR لا أواعد أحدا حقا. أكتفي بالتوق.
+998 104:Line:3925BFA1B2CB4B0EAEE2274F671915AB [Waterboy]
+EN I don't... Wait... Maybe? Is it? A-a joke?
+AR لا... لحظة... ربما؟ أهي؟ ن-نكتة؟
+999 104:Line:E387EDF28A864DD4AB6378366CCB7C2A [Blonde Blazer]
+EN I don’t have a car.
+AR ليس لدي سيارة.

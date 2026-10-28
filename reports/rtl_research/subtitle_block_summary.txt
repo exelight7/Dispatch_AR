@@ -1,0 +1,325 @@
+ASSET C:\Dispatch_AR\reports\rtl_research\WBP_SubtitleBlock.json
+EXPORT 1 On Finish Letter by Letter Print__DelegateSignature /Script/CoreUObject:Function
+EXPORT 2 ExecuteUbergraph_WBP_SubtitleBlock /Script/CoreUObject:Function
+ INSTANCE ['SubtitleProtoText']
+ INSTANCE ['AnimateWhilePaused']
+ INSTANCE ['Animate While Paused']
+ INSTANCE ['SubtitleShadowProtoText']
+ INSTANCE ['AnimateWhilePaused']
+ INSTANCE ['Animate While Paused']
+ CALL /Script/UMG:UserWidget:OnInitialized
+ CALL Setup Dynamic Material
+ INSTANCE ['SubtitleProtoText']
+ INSTANCE ['OnPrintLetter']
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesLetterboxEnabled']
+ INSTANCE ['OnOptionValueChanged']
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesLetterboxOpacity']
+ INSTANCE ['OnOptionValueChanged']
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesColorEnabled']
+ INSTANCE ['OnOptionValueChanged']
+ INSTANCE ['SubtitleProtoText']
+ INSTANCE ['OnFinishLetterByLetterPrint']
+ INSTANCE ['RetainerBox_Vert']
+ CALL /Script/UMG:RetainerBox:RequestRender
+ INSTANCE ['RetainerBox_Horiz']
+ CALL /Script/UMG:RetainerBox:RequestRender
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesLetterboxEnabled']
+ CALL /Script/Dispatch:DispatchBoolSetting:GetOptionValue
+ INSTANCE ['Letterbox']
+ CALL SetVisibility
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesLetterboxOpacity']
+ CALL /Script/Dispatch:DispatchFloatSetting:GetOptionValue
+ INSTANCE ['Letterbox']
+ CALL /Script/UMG:Image:SetOpacity
+ CALL Update Text Color
+ CALL WBP_SubtitleBlock_C:On Finish Letter by Letter Print__DelegateSignature
+ INSTANCE ['On Finish Letter by Letter Print']
+ CALL /Script/UMG:UserWidget:PreConstruct
+ CALL /Script/AdHocUtils:AdHocUtilsBlueprintLibrary:SetTextWrapAt
+ INSTANCE ['SubtitleProtoText']
+ INSTANCE ['Wrap Text Length']
+ CALL /Script/AdHocUtils:AdHocUtilsBlueprintLibrary:SetTextWrapAt
+ INSTANCE ['SubtitleShadowProtoText']
+ INSTANCE ['Wrap Text Length']
+EXPORT 3 PreConstruct /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 4 On Text Finished Letter by Letter Print /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 5 On Subtitle Color Enabled Changed /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 6 Letterbox Enabled Changed /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 7 Letterbox Opacity Changed /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 8 On Print Letter /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 9 OnInitialized /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 10 Construct /Script/CoreUObject:Function
+ CALL WBP_SubtitleBlock_C:ExecuteUbergraph_WBP_SubtitleBlock
+EXPORT 11 Set Displayed Line /Script/CoreUObject:Function
+ INSTANCE ['SubtitleOverlay']
+ CALL SetVisibility
+ CALL /Script/Engine:KismetMathLibrary:Conv_ColorToLinearColor
+ INSTANCE ['SubtitleColor']
+ CALL Update Text Color
+ CALL Dispatch Filter Text Profanity
+ CALL /Script/AdHocUtils:BlueprintCallbackTextGeneratorFuncs:ProcessLocalizedTextWithCallback
+ CALL Apply Speaker Name if Needed
+ INSTANCE ['SubtitleShadowProtoText']
+ CALL SetText
+ INSTANCE ['SubtitleProtoText']
+ CALL SetText
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesLetterboxEnabled']
+ CALL /Script/Dispatch:DispatchBoolSetting:GetOptionValue
+ INSTANCE ['Letterbox']
+ CALL SetVisibility
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesLetterboxOpacity']
+ CALL /Script/Dispatch:DispatchFloatSetting:GetOptionValue
+ INSTANCE ['Letterbox']
+ CALL /Script/UMG:Image:SetOpacity
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitleTypewriterAnimationEnabled']
+ CALL /Script/Dispatch:DispatchBoolSetting:GetOptionValue
+ INSTANCE ['SubtitleProtoText']
+ CALL PrintLetterByLetter
+ INSTANCE ['SubtitleShadowProtoText']
+ CALL PrintLetterByLetter
+ INSTANCE ['SubtitleProtoText']
+ CALL /Script/UMG:Widget:InvalidateLayoutAndVolatility
+ INSTANCE ['SubtitleShadowProtoText']
+ CALL /Script/UMG:Widget:InvalidateLayoutAndVolatility
+ INSTANCE ['SubtitleProtoText']
+ CALL ShowText
+ INSTANCE ['SubtitleShadowProtoText']
+ CALL ShowText
+EXPORT 12 Stop Displaying Line /Script/CoreUObject:Function
+ INSTANCE ['SubtitleOverlay']
+ CALL SetVisibility
+EXPORT 13 Format As Subtitle Text With Tags /Script/CoreUObject:Function
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</>"}
+ CALL Get Text Tag Opener
+ CALL /Script/Engine:KismetTextLibrary:Conv_StringToText
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "Closer"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": "+0"}
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ CALL Get Text Tag Opener
+ CALL Get Text Tag Opener
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ CALL Get Text Tag Opener
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ CALL /Script/Engine:KismetTextLibrary:Conv_StringToText
+ CALL /Script/Engine:KismetStringLibrary:Replace
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</>"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "Opener"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": "+0"}
+ CALL /Script/Engine:KismetStringLibrary:Replace
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "<Italic>"}
+ CALL /Script/Engine:KismetTextLibrary:Conv_StringToText
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "Content"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": "+0"}
+ CALL /Script/Engine:KismetTextLibrary:Format
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_TextConst, UAssetAPI", "Value": {"$type": "UAssetAPI.Kismet.Bytecode.FScriptText, UAssetAPI", "TextLiteralType": "InvariantText", "LocalizedSource": null, "LocalizedKey": null, "LocalizedNamespace": null, "InvariantLiteralString": {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "{Opener}{Content}{Closer}"}, "LiteralString": null, "StringTableAsset": null, "StringTableId": null, "StringTableKey": null}}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "{Opener}{Content}{Closer}"}
+ CALL /Script/Engine:KismetTextLibrary:Conv_TextToString
+ CALL /Script/Engine:KismetStringLibrary:Replace
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": ""}
+EXPORT 14 Set Has Outline /Script/CoreUObject:Function
+ INSTANCE ['Has Outline']
+ CALL /Script/Engine:KismetMathLibrary:Not_PreBool
+ INSTANCE ['Has Outline']
+ INSTANCE ['RetainerBox_Horiz']
+ CALL /Script/UMG:RetainerBox:SetRetainRendering
+ INSTANCE ['RetainerBox_Vert']
+ CALL /Script/UMG:RetainerBox:SetRetainRendering
+ INSTANCE ['Has Outline']
+ INSTANCE ['RetainerBox_Horiz']
+ CALL SetVisibility
+EXPORT 15 Update Text Color /Script/CoreUObject:Function
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ CALL /Script/Engine:KismetMathLibrary:MakeColor
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": 1.0}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": 1.0}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": 1.0}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": 1.0}
+ INSTANCE ['SubtitlesColorEnabled']
+ CALL /Script/Dispatch:DispatchBoolSetting:GetOptionValue
+ INSTANCE ['Font Material Instance']
+ CALL /Script/Engine:MaterialInstanceDynamic:SetVectorParameterValue
+ INSTANCE ['SubtitleColor']
+EXPORT 16 Apply Speaker Name if Needed /Script/CoreUObject:Function
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ CALL /Script/Engine:KismetTextLibrary:TextIsEmpty
+ CALL /Script/Engine:KismetMathLibrary:Not_PreBool
+ INSTANCE ['SubtitleSpeakerNamesEnabled']
+ CALL /Script/Dispatch:DispatchBoolSetting:GetOptionValue
+ CALL /Script/Engine:KismetMathLibrary:BooleanAND
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "SpeakerName"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": "+0"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "SubtitleContent"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": "+0"}
+ CALL Get Text Tag Opener
+ CALL /Script/Engine:KismetTextLibrary:Conv_StringToText
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "OpeningSpeakerTag"}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": "+0"}
+ CALL /Script/Engine:KismetTextLibrary:Format
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_TextConst, UAssetAPI", "Value": {"$type": "UAssetAPI.Kismet.Bytecode.FScriptText, UAssetAPI", "TextLiteralType": "InvariantText", "LocalizedSource": null, "LocalizedKey": null, "LocalizedNamespace": null, "InvariantLiteralString": {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "{OpeningSpeakerTag}{SpeakerName}: </>{SubtitleContent}"}, "LiteralString": null, "StringTableAsset": null, "StringTableId": null, "StringTableKey": null}}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "{OpeningSpeakerTag}{SpeakerName}: </>{SubtitleContent}"}
+EXPORT 17 Get Text Tag Opener /Script/CoreUObject:Function
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": ""}
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Default_Outline_Large\""}
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Italic_Outline_Large\""}
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Italic_Large\""}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " donthide=\"true\""}
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "<text"}
+ INSTANCE ['LargeSubtitles']
+ CALL /Script/Dispatch:DispatchBoolSetting:GetOptionValue
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Italic_Outline\""}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Default_Large\""}
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Default\""}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Italic\""}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": " style=\"Default_Outline\""}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ INSTANCE ['Has Outline']
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ INSTANCE ['Has Outline']
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": ">"}
+EXPORT 18 Setup Dynamic Material /Script/CoreUObject:Function
+ CALL /Script/Engine:KismetMaterialLibrary:CreateDynamicMaterialInstance
+ INSTANCE ['Font Material Instance']
+ INSTANCE ['SubtitleProtoText']
+ INSTANCE ['OverrideFontMaterial']
+ INSTANCE ['Font Material Instance']
+EXPORT 19 ChangeTextToLarge /Script/CoreUObject:Function
+ INSTANCE ['SubtitleProtoText']
+ CALL SetProtoTextStyleSet
+ INSTANCE ['SubtitleShadowProtoText']
+ CALL SetProtoTextStyleSet
+ INSTANCE ['SubtitleProtoText']
+ CALL /Script/UMG:RichTextBlock:SetTextStyleSet
+ INSTANCE ['SubtitleShadowProtoText']
+ CALL /Script/UMG:RichTextBlock:SetTextStyleSet
+ INSTANCE ['SubtitleProtoText']
+ CALL /Script/UMG:Widget:InvalidateLayoutAndVolatility
+ INSTANCE ['SubtitleShadowProtoText']
+ CALL /Script/UMG:Widget:InvalidateLayoutAndVolatility
+EXPORT 20 WBP_SubtitleBlock_AutoGenFunc /Script/CoreUObject:Function
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": ""}
+EXPORT 21 Set Wrap Text At /Script/CoreUObject:Function
+ INSTANCE ['Wrap Text Length']
+ CALL /Script/AdHocUtils:AdHocUtilsBlueprintLibrary:SetTextWrapAt
+ INSTANCE ['SubtitleProtoText']
+ INSTANCE ['Wrap Text Length']
+ CALL /Script/AdHocUtils:AdHocUtilsBlueprintLibrary:SetTextWrapAt
+ INSTANCE ['SubtitleShadowProtoText']
+ INSTANCE ['Wrap Text Length']
+EXPORT 22 WBP_SubtitleBlock_C /Script/UMG:WidgetBlueprintGeneratedClass
+ PROPERTY WidgetTree 37
+ PROPERTY UberGraphFunction 2
+EXPORT 23 Default__WBP_SubtitleBlock_C WBP_SubtitleBlock_C
+ PROPERTY UberGraphFrame []
+ PROPERTY SubtitleColor [{"$type": "UAssetAPI.PropertyTypes.Structs.LinearColorPropertyData, UAssetAPI", "Name": "SubtitleColor", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FLinearColor, UAssetAPI", "R": "+0", "G": "+0", "B": "+0", "A": "+0"}}]
+ PROPERTY Wrap Text Length 1050.0
+ PROPERTY bHasScriptImplementedTick false
+ PROPERTY bHasScriptImplementedPaint false
+EXPORT 24 Letterbox /Script/UMG:Image
+ PROPERTY Brush [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "SlateColor", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "TintColor", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "LinearColor", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "SpecifiedColor", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.LinearColorPropertyData, UAssetAPI", "Name": "SpecifiedColor", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FLinearColor, UAssetAPI", "R": "+0", "G": "+0", "B": "+0", "A": 1.0}}]}]}]
+ PROPERTY ColorAndOpacity [{"$type": "UAssetAPI.PropertyTypes.Structs.LinearColorPropertyData, UAssetAPI", "Name": "ColorAndOpacity", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FLinearColor, UAssetAPI", "R": 1.0, "G": 1.0, "B": 1.0, "A": 0.5}}]
+ PROPERTY Slot 27
+EXPORT 25 Overlay_0 /Script/UMG:Overlay
+ PROPERTY Slots [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 27}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "1", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 29}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "2", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 28}]
+ PROPERTY Slot 30
+EXPORT 26 SubtitleOverlay /Script/UMG:Overlay
+ PROPERTY Slots [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 30}]
+ PROPERTY bIsVariable true
+ PROPERTY Visibility "ESlateVisibility::Hidden"
+EXPORT 27 OverlaySlot_0 /Script/UMG:OverlaySlot
+ PROPERTY HorizontalAlignment "HAlign_Fill"
+ PROPERTY VerticalAlignment "VAlign_Fill"
+ PROPERTY Parent 25
+ PROPERTY Content 24
+EXPORT 28 OverlaySlot_1 /Script/UMG:OverlaySlot
+ PROPERTY HorizontalAlignment "HAlign_Center"
+ PROPERTY VerticalAlignment "VAlign_Fill"
+ PROPERTY Parent 25
+ PROPERTY Content 33
+EXPORT 29 OverlaySlot_3 /Script/UMG:OverlaySlot
+ PROPERTY HorizontalAlignment "HAlign_Fill"
+ PROPERTY VerticalAlignment "VAlign_Center"
+ PROPERTY Parent 25
+ PROPERTY Content 35
+EXPORT 30 OverlaySlot_4 /Script/UMG:OverlaySlot
+ PROPERTY HorizontalAlignment "HAlign_Center"
+ PROPERTY VerticalAlignment "VAlign_Center"
+ PROPERTY Parent 26
+ PROPERTY Content 25
+EXPORT 31 PanelSlot_0 /Script/UMG:PanelSlot
+ PROPERTY Parent 35
+ PROPERTY Content 36
+EXPORT 32 PanelSlot_0 /Script/UMG:PanelSlot
+ PROPERTY Parent 36
+ PROPERTY Content 34
+EXPORT 33 SubtitleProtoText /Script/ProtoAnimatedText:ProtoRichTextBlock
+ PROPERTY ProtoTextStyleSet -29
+ PROPERTY Text null
+ PROPERTY Justification "ETextJustify::Center"
+ PROPERTY WrapTextAt 1050.0
+ PROPERTY Margin [{"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Left", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Top", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Right", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Bottom", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}]
+ PROPERTY Slot 28
+ PROPERTY Visibility "ESlateVisibility::Visible"
+EXPORT 34 SubtitleShadowProtoText /Script/ProtoAnimatedText:ProtoRichTextBlock
+ PROPERTY ProtoTextStyleSet -29
+ PROPERTY Text null
+ PROPERTY Justification "ETextJustify::Center"
+ PROPERTY WrapTextAt 1050.0
+ PROPERTY Margin [{"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Left", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Top", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Right", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Bottom", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 2.0}]
+ PROPERTY Slot 32
+ PROPERTY Visibility "ESlateVisibility::Visible"
+EXPORT 35 RetainerBox_Horiz /Script/UMG:RetainerBox
+ PROPERTY RenderOnInvalidation true
+ PROPERTY RenderOnPhase false
+ PROPERTY EffectMaterial -69
+ PROPERTY Slots [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 31}]
+ PROPERTY Slot 29
+ PROPERTY RenderTransform [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "Vector2D", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Translation", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.Vector2DPropertyData, UAssetAPI", "Name": "Translation", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI", "X": "+0", "Y": 1.0}}]}]
+EXPORT 36 RetainerBox_Vert /Script/UMG:RetainerBox
+ PROPERTY RenderOnInvalidation true
+ PROPERTY RenderOnPhase false
+ PROPERTY EffectMaterial -70
+ PROPERTY Slots [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 32}]
+ PROPERTY Slot 31
+EXPORT 37 WidgetTree /Script/UMG:WidgetTree
+ PROPERTY RootWidget 26

@@ -1,0 +1,300 @@
+1900 107:ConfessionChoiceStat:2AE5474F4871871B8899ABBC11E23693 []
+EN ^You and {Percentage}^ of players ^didn't know how to feel^ about Invisigal's confession.
+AR ^أنت و{Percentage}^ من اللاعبين ^لم تعرفوا بماذا تشعرون^ تجاه اعتراف إنفيزيغال.
+1901 107:ConfessionChoiceStat:B26C8BFC479C8C410E0EF89D26DF0777 []
+EN ^You and {Percentage}^ of players ^forgave^ Invisigal.
+AR ^أنت و{Percentage}^ من اللاعبين ^سامحتم^ إنفيزيغال.
+1902 107:GlassHimChoiceStat:D5128D50408E63892B1BB689BCB419EA []
+EN ^You and {Percentage}^ of players ^didn't assault^ the bartender.
+AR ^أنت و{Percentage}^ من اللاعبين ^لم تعتدوا^ على الساقي.
+1903 107:GlassHimChoiceStat:BDB0EC1E4F55E46A09AD568CEE28344A []
+EN ^You and {Percentage}^ of players ^glassed^ the bartender.
+AR ^أنت و{Percentage}^ من اللاعبين ^ضربتم الساقي بكأس^.
+1904 107:InvisigalsFateChoiceStat:8DD5D167426C0C1DDE3B398AB1C74947 []
+EN ^You and {Percentage}^ of players ^agreed to cut Invisigal^ from the Z-Team.
+AR ^أنت و{Percentage}^ من اللاعبين ^وافقتم على استبعاد إنفيزيغال^ من فريق Z.
+1905 107:InvisigalsFateChoiceStat:BC7AB6144D63619F78F6219194FB4918 []
+EN ^You and {Percentage}^ of players ^refused to cut Invisigal^ from the Z-Team.
+AR ^أنت و{Percentage}^ من اللاعبين ^رفضتم استبعاد إنفيزيغال^ من فريق Z.
+1906 107:KissTheGirlChoiceStat:9CD48C09490D479877A1D0B2784C0873 []
+EN ^You and {Percentage}^ of players ^leaned into^ Invisigal's kiss.
+AR ^أنت و{Percentage}^ من اللاعبين ^تجاوبتم مع^ قبلة إنفيزيغال.
+1907 107:KissTheGirlChoiceStat:2960C91645D96C1608C069B899A7E132 []
+EN ^You and {Percentage}^ of players ^leaned out^ of Invisigal's kiss.
+AR ^أنت و{Percentage}^ من اللاعبين ^ابتعدتم عن^ قبلة إنفيزيغال.
+1908 107:Line:495A5EC9A4D34C17A88268E3B213E789 [Blazer]
+EN  ... unfortunately we parted ways with her. |She was a member of SDN’s Phoenix Program, |which reforms former villains. |At least it attempts to. |Prior to that, she went by the name Invisibitch.
+AR  ... للأسف افترقت طرقنا. |كانت عضوة في برنامج العنقاء لدى SDN، |الذي يعيد تأهيل الأشرار السابقين. |أو يحاول على الأقل. |وقبل ذلك، كانت تُعرف باسم إنفيزيحقيرة.
+1909 107:Line:17ED776FC6CB4A4285CF4DE6CCD8D5B9 [Blazer]
+EN  ...she was injured working deep cover for us. |So, Invisigal will be out recovering for a bit, |but we’re eagerly awaiting her return to SDN.
+AR  ...أُصيبت أثناء عملها متخفية لصالحنا. |لذا ستغيب إنفيزيغال فترة للتعافي، |ونحن ننتظر عودتها إلى SDN بفارغ الصبر.
+1910 107:Line:0CF57117A1C24BA5952CD890B7270E1D [Blazer]
+EN  ...with distinction at SDN as a dispatcher, for years as Chase. |But you all will know him as Track Star. |A member of the Brave Brigade for years, |it will come as no surprise that |he was willing to put himself in danger |to help a... colleague in need.
+AR  ...بتميز في SDN منسقًا للعمليات لسنوات باسم تشيس. |لكنكم تعرفونه باسم تراك ستار. |فقد كان من لواء الشجعان لسنوات، |ولن يستغرب أحد |استعداده لتعريض نفسه للخطر |لمساعدة... زميل محتاج.
+1911 107:Line:04416CC739334B0EA5553B9E70ED6E9D [Prism]
+EN 'Kay.
+AR حسنًا.
+1912 107:Line:19465BE7AA734C369D3B6FC431600F54 [Robert]
+EN ... Hello?
+AR ... ألو؟
+1913 107:Line:4E12F4301DF44F468AE26A1215CDC4F4 [Shroud]
+EN A bit of a waste to put the fifth through that idiot's skull |but I wanted to make sure it worked after all these years. |Your father was the last person to touch this bullet... and now, |there’s a 16 and a half percent chance it touches you next.
+AR كان هدرًا نوعًا ما أن أطلق الخامسة على جمجمة ذلك الأحمق |لكنني أردت التأكد أنها ما زالت تعمل بعد كل هذه السنين. |كان والدك آخر من لمس هذه الرصاصة... والآن، |هناك احتمال بنسبة 16 ونصف بالمئة أن تكون التالي.
+1914 107:Line:840331D8134740F886EB132CD6DDF450 [Blazer]
+EN About fifty times. You were muttering it the whole flight.
+AR نحو خمسين مرة. ظللت تتمتم بذلك طوال الرحلة.
+1915 107:Line:4602A350C57642CBAC06A5A824735AFB [Blonde Blazer]
+EN About the backup? Yeah. Absolutely. |About taking out half of them? I don’t think I was.
+AR بشأن التعزيزات؟ أجل، بالتأكيد. |أما القضاء على نصفهم؟ فلا أظن أنني كنت محقة.
+1916 107:Line:442808CC00BF464894B0F7484B09B66E [Golem]
+EN Acid is tingly.
+AR الحمض يدغدغ.
+1917 107:Line:4188C38443A14EADAD704E042D6ABFF7 [Golem]
+EN Acid? Not sure, but I'll find out.
+AR حمض؟ لست متأكدًا، لكنني سأكتشف ذلك.
+1918 107:Line:2D8D3DD8CE674BF386EF63E10F802E06 [Punch Up]
+EN Ah just a difference of opinion. I got heated, |got in Golem’s face. |He had every right to punt me froo the wall.
+AR آه، مجرد اختلاف في الرأي. احتد النقاش، |واستفززت غولم. |كان من حقه أن يقذفني عبر الجدار.
+1919 107:Line:3669EDFC587849468C008738A2ED826F [Blazer]
+EN Ah, that’s one of the tricks of the gig. You can’t stop caring.
+AR آه، هذه إحدى حيل المهنة. لا يمكنك التوقف عن الاكتراث.
+1920 107:Line:CC13DE63E9DE4BD2975672838BB9331A [Invisigal]
+EN All I wanted from this was for people to look at me the same way that you... |you look at Blazer. |Even if it was just once, you know?
+AR كل ما أردته من هذا أن ينظر إلي الناس كما... |كما تنظر إلى بليزر. |ولو مرة واحدة، أتفهم؟
+1921 107:Line:2F0441CF81914C3BBEF6243482A7F131 [Invisigal]
+EN All I wanted from this was for you to look at me the same way you look at Blazer... |even if it was just once, you know? That’d have been enough. 
+AR كل ما أردته أن تنظر إلي كما تنظر إلى بليزر... |ولو مرة واحدة، أتفهم؟ كان ذلك سيكفيني. 
+1922 107:Line:4106FE2019D54BE4AE24451B26BA177D [Coupe]
+EN Alright, Golem, it's tough love time.
+AR حسنًا يا غولم، حان وقت المحبة القاسية.
+1923 107:Line:16C20FA91A5C4B549B0BB36F29EEB00D [Punch Up]
+EN Alright, I'll go but only because you asked me to.
+AR حسنًا، سأذهب، لكن فقط لأنك طلبت مني.
+1924 107:Line:CEA3636304764BF19A55C0824181B91F [Robert]
+EN Alright, you boys don’t stay up too late.
+AR حسنًا، لا تسهرا حتى وقت متأخر يا فتيان.
+1925 107:Line:8D8E4EBBD72C4B4EACD10B99788633AF [Robert]
+EN And I hope one day you can forgive me for letting you down.
+AR وأرجو أن تستطيع مسامحتي يومًا على خذلانك.
+1926 107:Line:5D4415A363E640FE929565083217A63F [Malevola]
+EN And by go, we mean cut.
+AR ونقصد برحيلها فصلها.
+1927 107:Line:5760BF08716647DA9DFD91A2CD1A9E55 [Chase]
+EN And it was the same. |My pops had season tickets growing up. |Seats sucked but I just liked bein’ there with him. |So, yeah... when they moved, I was crying like a little bitch too. 
+AR وكان الأمر نفسه. |كان أبي يشتري تذاكر موسمية وأنا صغير. |كانت المقاعد سيئة، لكنني أحببت مجرد الوجود معه. |لذا، أجل... حين انتقلوا، بكيت كطفل تافه أيضًا. 
+1928 107:Line:3E91591793854C2891DC07E2E9F97033 [Sonar]
+EN And that's how it's fucking done.
+AR هكذا يُنجز العمل، اللعنة.
+1929 107:Line:E1E4E4D6852240248E1E9A468C804A3B [Robert]
+EN And what way is that?
+AR وبأي طريقة أنظر؟
+1930 107:Line:12A40E87165C4CED98D9FB9F826E4874 [Robert]
+EN Are you saying I’m crying like a bitch?
+AR أتقول إنني أبكي كطفل تافه؟
+1931 107:Line:1B94CDD5580046E48ABA8194E14A8A61 [Blonde Blazer]
+EN Are you sure he’s right about Invisigal?
+AR هل أنت متأكد من أنه محق بشأن إنفيزيغال؟
+1932 107:Line:2F6CCC553BF14966A075A2BF62F186EB [Phenomaman]
+EN As you wish...
+AR كما تشاء...
+1933 107:Line:13588525C7BC421C8974D083561E78AB [Blazer]
+EN Asking for a statement.
+AR يطلبون تصريحًا.
+1934 107:Line:0125975D2DAC4D428B578F7E94C3C0D2 [Flambae]
+EN Boo.
+AR بو!
+1935 107:Line:20875C98E5784A49BC94F065892F1CE5 [Sonar]
+EN Bro...
+AR يا رجل...
+1936 107:Line:5F22EFDFCF554414976B62D1DCCF11F1 [Robert]
+EN But I’m not cutting Invisigal. |We don’t kick people when they’re down. We lift them up. |And I believe of her what I believe of all of you... |that her heart is in the right place. |It’s what took us from being a team to being this weird, fucked up family. |Look, you’re hurting, okay I get it, I’m hurting, we are all hurting. |Now isn’t the time to cast blame. |It’s the time to come together and heal.
+AR لكنني لن أفصل إنفيزيغال. |نحن لا نركل من سقط. بل نساعده على النهوض. |وأؤمن بها كما أؤمن بكم جميعًا... |بأن قلبها طيب. |هذا ما حولنا من فريق إلى هذه العائلة الغريبة المختلة. |اسمعوا، تتألمون، أفهم ذلك، وأنا أتألم، كلنا نتألم. |هذا ليس وقت إلقاء اللوم. |بل وقت التكاتف والتعافي.
+1937 107:Line:2076E4C5EDAE4418AA9E0C9AF4D0DAE2 [Robert]
+EN C'mon buddy. Spit it out.
+AR هيا يا صاحبي. قل ما عندك.
+1938 107:Line:404407E53AAF40FB87FF333634CAD31D [Robert]
+EN Can I get a Twinkie? 
+AR هل أحصل على كعكة توينكي؟ 
+1939 107:Line:06C6C159E9214AAABDBE580192341BB4 [Robert]
+EN Can I get a swisher thing?
+AR هل أحصل على سيجار سويشر ذاك؟
+1940 107:Line:C75909C441EE40BD82165E55E7307AB5 [Robert]
+EN Can I get back to you? |I really don’t want to think about it right now. 
+AR هل يمكنني إجابتك لاحقًا؟ |لا أريد التفكير في الأمر الآن حقًا. 
+1941 107:Line:4DA907F45067430A86A1AE8F9BD6843D [Robert]
+EN Can I get... a beer?
+AR هل أحصل على... جعة؟
+1942 107:Line:4F358EEF0E914D4793F72821C633347B [Blazer]
+EN Can I tell them it was Track Star?
+AR هل أخبرهم أنه تراك ستار؟
+1943 107:Line:184683DC35684A11BCB1437DFC91B056 [Robert]
+EN Can someone please go get Golem? Before he does more property damage?
+AR هل يذهب أحد لإحضار غولم، رجاء؟ قبل أن يخرب مزيدًا من الممتلكات؟
+1944 107:Line:D373D2DE8571427CA9AF634B063A9DED [Bartender]
+EN Can you motorboat an ass? Probably not right? |End up blowing air up her butthole.
+AR هل يمكنك دفن وجهك بين فلقتي مؤخرة وهزه؟ أظن لا، صحيح؟ |ستنتهي بنفخ الهواء في شرجها.
+1945 107:Line:3F5DEB5E3EF74111BE14E8806D377923 [Robert]
+EN Chase can reveal his identity if he wants to when he wakes up  
+AR بوسع تشيس كشف هويته إن أراد حين يستيقظ  
+1946 107:Line:591593415D0B41038C84CC02AD13393E [Robert]
+EN Chase’d only babysit nights when dad had to deal with something big. |Working late, he called it. |I was fine being alone but I’d still ask to have him watch me |'cause I could guilt trip him into buying me shit. |He never said no. |I made him run a lot back then...
+AR لم يكن تشيس يجالسني ليلًا إلا حين يضطر أبي للتعامل مع أمر مهم. |كان يسميه العمل حتى وقت متأخر. |لم أمانع البقاء وحدي، لكنني كنت أطلب أن يجالسني |لأنني كنت أستدر عطفه ليشتري لي أشياء. |لم يكن يرفض أبدًا. |جعلته يركض كثيرًا آنذاك...
+1947 107:Line:63410567F26944BA9B56573F3B9F1CB8 [Bartender]
+EN Cheers fellas. To the fuckin’ dream... 
+AR في صحتكم يا رفاق. نخب الحلم اللعين... 
+1948 107:Line:150A31CB8A98486DACAEA10D113E20F8 [Robert]
+EN Come on. I don’t want it to end like this. We can figure something out.
+AR هيا. لا أريد أن تنتهي هكذا. يمكننا إيجاد حل.
+1949 107:Line:32E4105F675F436181B8A9E61FDA3A67 [Frenchpress]
+EN Come, Americans, and learn how to be a superhero from the best of the best — the French!
+AR تعالوا أيها الأمريكيون، وتعلموا البطولة الخارقة من خيرة الخيرة، الفرنسيين!
+1950 107:Line:4EFD419D1DC04D92A9D1D19104BD3D45 [Golem]
+EN Cool.
+AR رائع.
+1951 107:Line:76E8FF9DD78E4F4194E2A2F9E0E9BB16 [Robert]
+EN Could you two do me a favor and shut the fuck up? 
+AR هل تسديان إلي معروفًا وتغلقان فميكما اللعينين؟ 
+1952 107:Line:0D52CE40538F4146B11D176B6F83D2A9 [Robert]
+EN Courtney...
+AR كورتني...
+1953 107:Line:5E7665D6CEB348A59D13AC9010AEBD9F [Robert]
+EN Courtney...
+AR كورتني...
+1954 107:Line:25C20AAEF75045C2BEFFA62E7D0E6275 [Robert]
+EN Courtney... I...
+AR كورتني... أنا...
+1955 107:Line:061C3DC5034E40ACA9771BD70E7C8428 [Malevola]
+EN Damn, the pile o' dirt can really put em away huh?
+AR اللعنة، كومة التراب هذه تشرب بنهم فعلًا، صحيح؟
+1956 107:Line:1A9FADCE32AC480D8385114A5B76D244 [Robert]
+EN Dang. How’d you get it?
+AR يا ساتر. كيف حصلت عليه؟
+1957 107:Line:3E56CD23B41549F7A0418A1C0DF1E55F [Coupe]
+EN Death is the end of every story.
+AR الموت نهاية كل قصة.
+1958 107:Line:47407ED3AFC048C9974C9ADFF91A8509 [Phenomaman]
+EN Death makes me feel bad.
+AR الموت يشعرني بالسوء.
+1959 107:Line:394026DB1DC44131A67D734AC78C768F [Beard Guy]
+EN Deep cover... if they only knew.
+AR متخفية... لو أنهم يعرفون.
+1960 107:Line:149AC1E4D4024385BF4F81B0C738DF12 [Shroud]
+EN Do not disrespect one of the last true heroes.
+AR لا تهن أحد آخر الأبطال الحقيقيين.
+1961 107:Line:161F7A9BE09B4BC3941ED5F6E66008A0 [Robert]
+EN Doesn't even matter.
+AR لم يعد الأمر يهم أصلًا.
+1962 107:Line:35884689C40F4C4DB9E69E6975F81AC6 [Chase]
+EN Don’t drink the shit in front of your dad.
+AR لا تشرب هذا القرف أمام أبيك.
+1963 107:Line:07085571532A479388773197E1B3700B [Blonde Blazer]
+EN Don’t worry. I’ve got you. 
+AR لا تقلق. أنا معك. 
+1964 107:Line:5DDE554EEB204EC9AB579C10D6E8AFFD [Punch Up]
+EN Drinking like this only leads to pain. Speakin' from personal experience.
+AR الشرب بهذه الطريقة لا يجلب إلا الألم. أقول هذا عن تجربة.
+1965 107:Line:453ECD2CBC814F428F1BEE1D07DF4178 [Sonar]
+EN Dude's really taking this Visi thing hard...
+AR تأثر الرجل كثيرًا بمشكلة فيزي هذه...
+1966 107:Line:3FD21440558D461BAF5FD1FBFC0B3646 [Randy]
+EN Due to a lack of structural reinforcement, the rain has caused the resort to slide off the cliff.
+AR بسبب غياب التدعيم الإنشائي، تسببت الأمطار بانزلاق المنتجع من على الجرف.
+1967 107:Line:B46163BE03264CFFB3C8B8F9F6BEF589 [Robert]
+EN Everything hurts. At the moment I’m finding it hard to care.
+AR كل شيء يؤلمني. يصعب علي الاكتراث الآن.
+1968 107:Line:238B1A326BF44D16B3ACF6640CDB80E2 [Chase]
+EN Exactly. I knew that would happen. |And that's why you shouldn't drink that shit. |Here, I got you your favorite.
+AR بالضبط. عرفت أن ذلك سيحدث. |ولهذا لا تشرب هذا القرف. |خذ، أحضرت لك ما تفضله.
+1969 107:Line:05596511546745968B28094FD886FECA [Robert]
+EN Exactly...
+AR بالضبط...
+1970 107:Line:1619608482EF471F82C7FE9594972BB8 [Prism]
+EN Excuse me? The fuck makes you think I need therapy?
+AR عفوًا؟ ما الذي جعلك تظن بحق الجحيم أنني أحتاج إلى علاج نفسي؟
+1971 107:Line:46E68E41A40A49A9B8860B2CFB616F4B [Blazer]
+EN Feel the same way. ty
+AR أشعر بالمثل. شكرًا
+1972 107:Line:15F728482B7A4E6EB2789606617B75E8 [Beard Guy]
+EN Feels silly calling it a hideout. |Can you take care of him for me? |Obviously, you two don’t need an introduction.
+AR تبدو تسميته مخبأ سخيفة. |هل تعتني به من أجلي؟ |من الواضح أنكما لا تحتاجان إلى تعارف.
+1973 107:Line:21167A2A0D7F490AB8E5AF47FCCFA557 [Robert]
+EN Figures.
+AR هذا متوقع.
+1974 107:Line:40D7CCA50A4A441F91A796B59705531A [Prism]
+EN Fiiiine, but if Golem gets a speck of dirt on this fit, I will riot.
+AR حسنًااا، لكن إن لوث غولم هذا الزي بذرة تراب فسأقيم الدنيا.
+1975 107:Line:2877D6DB9FCE4E468819A5E15B12FFD5 [Flambae]
+EN Fine, I'll fucking say it. What if Chase dies?
+AR حسنًا، سأقولها، اللعنة. ماذا لو مات تشيس؟
+1976 107:Line:3D1D326AEEEB4C959577A69340DFA5B4 [Invisigal]
+EN Fitting, right? Last time you see me that I’d be in mine.
+AR ملائم، صحيح؟ أن أرتدي بدلتي آخر مرة تراني فيها.
+1977 107:Line:2DD8E97B8B9D4E14BC60280CCB9CF3FC [Teen Boy]
+EN Fuck off, no you’re not. I cry all the time. 
+AR تبًا لك، لست كذلك. أبكي طوال الوقت. 
+1978 107:Line:78F3C0B69DFA49B4A7ECC6C410E44820 [Young Chase]
+EN Fuck off, no you’re not. I cry all the time. 
+AR تبًا لك، لست كذلك. أبكي طوال الوقت. 
+1979 107:Line:57E7AE3B3EE64D83BA129A7E35741ED9 [Blazer]
+EN Fuck. SOrry. Nevermin I dont know.
+AR تبًا. آسفة. انس الأمر لا أعرف.
+1980 107:Line:6A4877303EA645B58CCFE56F13B9E74F [Robert]
+EN Fuck... case in point. 
+AR تبًا... هذا مثال حي. 
+1981 107:Line:1B569C465CF44646B0F1B8C3B36DC137 [Flambae]
+EN Fuckin' useless.
+AR عديم النفع، اللعنة.
+1982 107:Line:04918A0EB91C42CDB2B84F11F8372F67 [Flambae]
+EN Fucking cool it, emo boy.
+AR اهدأ بحق الجحيم أيها الفتى الكئيب.
+1983 107:Line:43BF7FFD990C4511BCF4F1E209697065 [Punch Up]
+EN Gave him the best hug I could muster. I think it helped.
+AR عانقته بأقوى ما استطعت. أظن أن ذلك أفاده.
+1984 107:Line:6C5441632F2F41769345D8FA3CD05042 [Robert]
+EN Get me another drink. I smashed mine.  
+AR أحضر لي شرابًا آخر. حطمت كأسي.  
+1985 107:Line:3F3E9463B1B34E42AB4495B96D5EBB96 [Prism]
+EN Girl, what the fuck even are you?!
+AR يا فتاة، ما أنت بحق الجحيم أصلًا؟!
+1986 107:Line:007C6FC2215D402986DE97D70E8CD586 [Chase]
+EN Go to the bathroom, put the fan on, light it up, then inhale that shit. |Take a deep ass breath, you know?
+AR اذهب إلى الحمام، وشغل المروحة، وأشعله، ثم استنشق ذلك القرف. |خذ نفسًا عميقًا جدًا، أتفهم؟
+1987 107:Line:BED28EFABA68436D86C5FE685CC79AFA [Bartender]
+EN Goddamn. Alright. Somebody’s a little fuckin’ impatient.
+AR اللعنة. حسنًا. أحدهم متعجل قليلًا، اللعنة.
+1988 107:Line:59B607328E2B4D01B54A2E0735DD6900 [Robert]
+EN Golem!
+AR غولم!
+1989 107:Line:2FCCDEA2583E49A9997A14294FC1764C [Robert]
+EN Golem's shit faced. I think he's about to piss mud on the high school.
+AR غولم ثمل تمامًا. أظن أنه على وشك التبول طينًا على المدرسة الثانوية.
+1990 107:Line:0AE1982F83DA4607A014DED3AA8788D4 [Robert]
+EN Golem, I get it. I wanna get shitfaced right now more than anything. But we've got a job to do and I need all of you to just hang in there until the end of the shift. After that, you can do whatever the fuck you want. Cool?
+AR غولم، أفهمك. لا أريد الآن إلا أن أسكر حتى الثمالة. لكن لدينا عمل، وأحتاج أن تتماسكوا جميعًا حتى نهاية المناوبة. بعدها افعلوا ما تشاؤون بحق الجحيم. اتفقنا؟
+1991 107:Line:2C161A5666BA452EA52FE794DB981D2F [Robert]
+EN Golem, you're sturdy, a little acid can't hurt you right?
+AR غولم، أنت صلب، قليل من الحمض لن يؤذيك، صحيح؟
+1992 107:Line:40AAA62385354CD4B13DB002659A210D [Toxic]
+EN Good news buddy. Shroud says he just wants the Astral Pulse. |Which, we all know isn't really yours anyway.
+AR خبر جيد يا صاحبي. يقول شراود إنه يريد النبضة النجمية فقط. |ونعلم جميعًا أنها ليست ملكك أصلًا.
+1993 107:Line:1F2D10BEBF9C4BF0A2B8C5D444C61AE1 [Coupe]
+EN Gross.
+AR مقرف.
+1994 107:Line:146DFD17D4E74D7EA74663933D5CA340 [Malevola]
+EN Happy to help.
+AR يسرني أن أساعد.
+1995 107:Line:A908999747C3487A862785E9D9E5C410 [Robert]
+EN He pays you?
+AR إنه يدفع لك؟
+1996 107:Line:38FAFD70BFD84514A207D3525DF5444F [Blazer]
+EN He really tenderized you.
+AR لقد أوسعك ضربًا فعلًا.
+1997 107:Line:C018032B5D22494295263C7B6FCBCBB4 [Robert]
+EN He was like a big brother to me... |I didn't appreciate it enough.
+AR كان لي كأخ كبير... |لم أقدر ذلك بما يكفي.
+1998 107:Line:33A2069C11FA47F78E5A4C5C383C4E48 [Robert]
+EN Hello everyone, what’s goin’ on?
+AR مرحبًا جميعًا، ما الذي يجري؟
+1999 107:Line:01FEF2BB29724046BC040C764031DA1E [Blazer]
+EN Hey Robert... With everything going on, maybe you should send some of the team to counseling.
+AR مرحبًا روبرت... بعد كل ما يجري، ربما عليك إرسال بعض أفراد الفريق إلى جلسات إرشاد نفسي.

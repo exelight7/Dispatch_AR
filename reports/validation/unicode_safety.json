@@ -1,0 +1,44 @@
+{
+ "records": 12973,
+ "presentation_form_codepoints": 0,
+ "bidi_controls": {
+  "LRE": 0,
+  "RLE": 0,
+  "PDF": 0,
+  "LRO": 0,
+  "RLO": 0,
+  "LRI": 0,
+  "RLI": 0,
+  "FSI": 0,
+  "PDI": 0,
+  "LRM": 0,
+  "RLM": 0,
+  "ALM": 0
+ },
+ "zero_width": {
+  "ZWSP": 0,
+  "ZWNJ": 0,
+  "ZWJ": 0,
+  "WJ": 0,
+  "BOM/ZWNBSP": 0
+ },
+ "possibly_reversed_words": [
+  {
+   "id": "104:Line:34B9EB3372894DA88010C24784F7756F",
+   "target": "104",
+   "index": 728,
+   "check": "possibly_reversed_word",
+   "severity": "WARN",
+   "detail": "الطب (reverse 'بطلا' appears 22x)"
+  },
+  {
+   "id": "106:Line:18FE81039D9A46D495C1F101F543E557",
+   "target": "106",
+   "index": 368,
+   "check": "possibly_reversed_word",
+   "severity": "WARN",
+   "detail": "لوقت (reverse 'تقول' appears 20x)"
+  }
+ ],
+ "records_starting_with_latin_strong_char": 2
+}

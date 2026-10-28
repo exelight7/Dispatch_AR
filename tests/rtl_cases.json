@@ -1,0 +1,11 @@
+[
+  {"id":"arabic","text":"مرحبًا بك في عالم Dispatch.","mode":"grapheme_and_word","runtime_status":"NOT_RUN"},
+  {"id":"mixed","text":"اضغط E للمتابعة، لديك 250 XP.","mode":"grapheme_and_word","runtime_status":"NOT_RUN"},
+  {"id":"question","text":"هل أنت متأكد من أنك تريد الذهاب إلى Dispatch HQ؟","mode":"grapheme_and_word","runtime_status":"NOT_RUN"},
+  {"id":"critical_anchor","text":"أنا لا أعرف ماذا حدث.","mode":"fixed_right_anchor","runtime_status":"NOT_RUN"},
+  {"id":"diacritic","text":"مُرحبًا بك","mode":"grapheme_cluster","runtime_status":"NOT_RUN"},
+  {"id":"lam_alef","text":"لا لأ لآ لإ","mode":"shaping_cluster","runtime_status":"NOT_RUN"},
+  {"id":"wrap","text":"هذا اختبار طويل جدًا لمعرفة طريقة التفاف النص العربي داخل مربع الحوار والتأكد من أن جميع الأسطر تبدأ من الجهة اليمنى.","mode":"multiline","runtime_status":"NOT_RUN"},
+  {"id":"numbers","text":"حصلت على 1,250 XP. HP لديك الآن 75%.","mode":"bidi","runtime_status":"NOT_RUN"},
+  {"id":"punctuation","text":"مرحبًا! ماذا؟ هل أنت متأكد...؟ (اختبار) [اختبار] \"مرحبًا\" : ; - — … % + / \\","mode":"punctuation","runtime_status":"NOT_RUN"}
+]

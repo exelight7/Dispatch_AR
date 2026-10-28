@@ -1,0 +1,118 @@
+{
+ "exe_sha256": "365637a77d4b74a61d198a9927e3dcd437bf3be2247b96fcbe5c2e851ac14923",
+ "functions": {
+  "K2_SetTimer": {
+   "params_rva": "0x40b7620",
+   "function_flags": "0x4022401",
+   "params": [
+    [
+     "Object",
+     "Object"
+    ],
+    [
+     "FunctionName",
+     "Str"
+    ],
+    [
+     "Time",
+     "Float"
+    ],
+    [
+     "bLooping",
+     "Bool"
+    ],
+    [
+     "InitialStartDelay",
+     "Float"
+    ],
+    [
+     "InitialStartDelayVariance",
+     "Float"
+    ],
+    [
+     "ReturnValue",
+     "Struct"
+    ]
+   ]
+  },
+  "K2_ClearTimer": {
+   "params_rva": "0x40b6fe0",
+   "function_flags": "0x4022401",
+   "params": [
+    [
+     "Object",
+     "Object"
+    ],
+    [
+     "FunctionName",
+     "Str"
+    ]
+   ]
+  },
+  "GetTimeSeconds": {
+   "params_rva": "0x409bfc0",
+   "function_flags": "0x14022401",
+   "params": [
+    [
+     "WorldContextObject",
+     "Object"
+    ],
+    [
+     "ReturnValue",
+     "Float"
+    ]
+   ]
+  },
+  "GetUnpausedTimeSeconds": {
+   "params_rva": "0x409c010",
+   "function_flags": "0x14022401",
+   "params": [
+    [
+     "WorldContextObject",
+     "Object"
+    ],
+    [
+     "ReturnValue",
+     "Float"
+    ]
+   ]
+  },
+  "FMax": {
+   "params_rva": "0x40a8330",
+   "function_flags": "0x14022401",
+   "params": [
+    [
+     "A",
+     "Float"
+    ],
+    [
+     "B",
+     "Float"
+    ],
+    [
+     "ReturnValue",
+     "Float"
+    ]
+   ]
+  },
+  "Tick": {
+   "params_rva": "0x40678b0",
+   "function_flags": "0x8020808",
+   "params": [
+    [
+     "MyGeometry",
+     "Struct"
+    ],
+    [
+     "InDeltaTime",
+     "Float"
+    ]
+   ]
+  }
+ },
+ "geometry_import": {
+  "package": "/Script/SlateCore",
+  "shipped_in": "WBP_SimpleFadeSwitcher.uasset",
+  "sha256": "4a3a7dac211e11798ba9e4edb1f83541c4406a34afcebc53ecab843348dc67db"
+ }
+}

@@ -1,0 +1,471 @@
+[
+  {
+    "engine_index": 3357,
+    "namespace": "Core",
+    "key": "Cancel",
+    "source_hash": 949252438,
+    "en": "Cancel"
+  },
+  {
+    "engine_index": 3358,
+    "namespace": "Core",
+    "key": "Continue",
+    "source_hash": 17983271,
+    "en": "Continue"
+  },
+  {
+    "engine_index": 3361,
+    "namespace": "Core",
+    "key": "UrlFailed",
+    "source_hash": 4000305726,
+    "en": "Failed launching URL"
+  },
+  {
+    "engine_index": 3372,
+    "namespace": "Core",
+    "key": "GenericLoading",
+    "source_hash": 3876153790,
+    "en": "Loading..."
+  },
+  {
+    "engine_index": 3375,
+    "namespace": "Core",
+    "key": "No",
+    "source_hash": 980478179,
+    "en": "No"
+  },
+  {
+    "engine_index": 3376,
+    "namespace": "Core",
+    "key": "NoToAll",
+    "source_hash": 359238366,
+    "en": "No to All"
+  },
+  {
+    "engine_index": 3378,
+    "namespace": "Core",
+    "key": "None",
+    "source_hash": 1897401797,
+    "en": "None"
+  },
+  {
+    "engine_index": 3379,
+    "namespace": "Core",
+    "key": "OK",
+    "source_hash": 3649753108,
+    "en": "OK"
+  },
+  {
+    "engine_index": 3394,
+    "namespace": "Core",
+    "key": "PureVirtualFunctionCalledWhileRunningApp",
+    "source_hash": 4190431452,
+    "en": "Pure virtual function being called while application was running (GIsRunning == 1)."
+  },
+  {
+    "engine_index": 3395,
+    "namespace": "Core",
+    "key": "Question",
+    "source_hash": 4224568182,
+    "en": "Question"
+  },
+  {
+    "engine_index": 3397,
+    "namespace": "Core",
+    "key": "Retry",
+    "source_hash": 2352182739,
+    "en": "Retry"
+  },
+  {
+    "engine_index": 3398,
+    "namespace": "Core",
+    "key": "SavingFile",
+    "source_hash": 920343101,
+    "en": "Saving file: {CleanFilename}..."
+  },
+  {
+    "engine_index": 3399,
+    "namespace": "Core",
+    "key": "SavingFiles",
+    "source_hash": 2989031075,
+    "en": "Saving files..."
+  },
+  {
+    "engine_index": 3417,
+    "namespace": "Core",
+    "key": "Yes",
+    "source_hash": 998639455,
+    "en": "Yes"
+  },
+  {
+    "engine_index": 3418,
+    "namespace": "Core",
+    "key": "YesToAll",
+    "source_hash": 1357471288,
+    "en": "Yes to All"
+  },
+  {
+    "engine_index": 3419,
+    "namespace": "Core",
+    "key": "IniFileOutOfDate",
+    "source_hash": 1025645929,
+    "en": "Your ini ({0}) file is outdated. Do you want to automatically update it saving the previous version? Not doing so might cause crashes!"
+  },
+  {
+    "engine_index": 3502,
+    "namespace": "D3D11RHI",
+    "key": "OutOfMemory",
+    "source_hash": 1620337129,
+    "en": "Out of video memory trying to allocate a rendering resource. Make sure your video card has the minimum required memory, try lowering the resolution and/or closing other applications that are running. Exiting..."
+  },
+  {
+    "engine_index": 3503,
+    "namespace": "D3D12RHI",
+    "key": "OutOfMemory",
+    "source_hash": 1620337129,
+    "en": "Out of video memory trying to allocate a rendering resource. Make sure your video card has the minimum required memory, try lowering the resolution and/or closing other applications that are running. Exiting..."
+  },
+  {
+    "engine_index": 4440,
+    "namespace": "Engine",
+    "key": "UsedCheatCommands",
+    "source_hash": 2656415921,
+    "en": "Console commands were used which are disallowed in netplay.  You must restart the game to create a match."
+  },
+  {
+    "engine_index": 4445,
+    "namespace": "Engine",
+    "key": "FailedToLoadDefaultMap",
+    "source_hash": 3137725833,
+    "en": "Error '{0}'. Exiting."
+  },
+  {
+    "engine_index": 4446,
+    "namespace": "Engine",
+    "key": "NetworkDriverInit",
+    "source_hash": 2033823167,
+    "en": "Error creating network driver."
+  },
+  {
+    "engine_index": 4447,
+    "namespace": "Engine",
+    "key": "NetworkInit",
+    "source_hash": 3872455621,
+    "en": "Error initializing network layer."
+  },
+  {
+    "engine_index": 4448,
+    "namespace": "Engine",
+    "key": "PendingNetGameInitFailure",
+    "source_hash": 1515299510,
+    "en": "Error initializing the network driver."
+  },
+  {
+    "engine_index": 4449,
+    "namespace": "Engine",
+    "key": "ComdLineHasInvalidChar",
+    "source_hash": 1191476465,
+    "en": "Error: Command-line contains an invalid '-' character, likely pasted from an email.\nCmdline = {0}"
+  },
+  {
+    "engine_index": 4450,
+    "namespace": "Engine",
+    "key": "InvalidLink",
+    "source_hash": 3417828030,
+    "en": "Invalid Link: {0}"
+  },
+  {
+    "engine_index": 4451,
+    "namespace": "Engine",
+    "key": "InvalidUrl",
+    "source_hash": 2272617397,
+    "en": "Invalid URL: {0}"
+  },
+  {
+    "engine_index": 4457,
+    "namespace": "Engine",
+    "key": "ServerOpen",
+    "source_hash": 915631206,
+    "en": "Servers can't open network URLs"
+  },
+  {
+    "engine_index": 4460,
+    "namespace": "Engine",
+    "key": "DefaultMapNotFound",
+    "source_hash": 3578317726,
+    "en": "The default map '{0}' could not be found. Exiting."
+  },
+  {
+    "engine_index": 4462,
+    "namespace": "Engine",
+    "key": "GlobalShaderCacheFileMissing",
+    "source_hash": 2611762164,
+    "en": "The global shader cache file '{0}' is missing.\n\nYour application is built to load COOKED content. No COOKED content was found; This usually means you did not cook content for this build.\nIt also may indicate missing cooked data for a shader platform(e.g., OpenGL under Windows): Make sure your platform's packaging settings include this Targeted RHI.\n\nAlternatively build and run the UNCOOKED version instead."
+  },
+  {
+    "engine_index": 4463,
+    "namespace": "Engine",
+    "key": "MapNotFoundNoFallback",
+    "source_hash": 1896144951,
+    "en": "The map specified on the commandline '{0}' could not be found. Exiting."
+  },
+  {
+    "engine_index": 4464,
+    "namespace": "Engine",
+    "key": "MapNotFound",
+    "source_hash": 1703887978,
+    "en": "The map specified on the commandline '{0}' could not be found. Would you like to load the default map instead?"
+  },
+  {
+    "engine_index": 4465,
+    "namespace": "Engine",
+    "key": "ClientOutdated",
+    "source_hash": 3123363753,
+    "en": "The match you are trying to join is running an incompatible version of the game.  Please try upgrading your game version."
+  },
+  {
+    "engine_index": 4467,
+    "namespace": "Engine",
+    "key": "UE4RequiresProjectFiles",
+    "source_hash": 2786364372,
+    "en": "UE4 games require a project file as the first parameter."
+  },
+  {
+    "engine_index": 4472,
+    "namespace": "Engine",
+    "key": "ConnectionFailed",
+    "source_hash": 21457021,
+    "en": "Your connection to the host has been lost."
+  },
+  {
+    "engine_index": 4499,
+    "namespace": "EngineInit",
+    "key": "EngineInit_Loading",
+    "source_hash": 3876153790,
+    "en": "Loading..."
+  },
+  {
+    "engine_index": 4500,
+    "namespace": "EngineLoop",
+    "key": "EngineLoop_Initializing",
+    "source_hash": 1843053167,
+    "en": "Initializing..."
+  },
+  {
+    "engine_index": 6038,
+    "namespace": "GameViewportClient",
+    "key": "ConnectingMessage",
+    "source_hash": 3696489751,
+    "en": "CONNECTING"
+  },
+  {
+    "engine_index": 6039,
+    "namespace": "GameViewportClient",
+    "key": "LoadingMessage",
+    "source_hash": 510706014,
+    "en": "LOADING"
+  },
+  {
+    "engine_index": 6040,
+    "namespace": "GameViewportClient",
+    "key": "PausedMessage",
+    "source_hash": 638012053,
+    "en": "PAUSED"
+  },
+  {
+    "engine_index": 6041,
+    "namespace": "GameViewportClient",
+    "key": "PrecachingMessage",
+    "source_hash": 906803058,
+    "en": "PRECACHING"
+  },
+  {
+    "engine_index": 6042,
+    "namespace": "GameViewportClient",
+    "key": "SavingMessage",
+    "source_hash": 4263633258,
+    "en": "SAVING"
+  },
+  {
+    "engine_index": 7110,
+    "namespace": "Launch",
+    "key": "Error_ResolutionTooLow",
+    "source_hash": 710286880,
+    "en": "The current resolution is too low to run this game."
+  },
+  {
+    "engine_index": 8431,
+    "namespace": "MessageDialog",
+    "key": "ReportCrash_Title",
+    "source_hash": 803535113,
+    "en": "Application Crash Detected"
+  },
+  {
+    "engine_index": 8432,
+    "namespace": "MessageDialog",
+    "key": "ReportHangError_Title",
+    "source_hash": 4029983810,
+    "en": "Application Hang Detected"
+  },
+  {
+    "engine_index": 8433,
+    "namespace": "MessageDialog",
+    "key": "MissingGlobalShaderLibraryFiles_Body",
+    "source_hash": 3806633569,
+    "en": "Game files required to initialize the global shader library are missing from:\n\n{0}\n\nPlease make sure the game is installed correctly."
+  },
+  {
+    "engine_index": 8434,
+    "namespace": "MessageDialog",
+    "key": "DefaultMessageTitle",
+    "source_hash": 605008242,
+    "en": "Message"
+  },
+  {
+    "engine_index": 8435,
+    "namespace": "MessageDialog",
+    "key": "MissingGlobalShaderLibraryFiles_Title",
+    "source_hash": 304754557,
+    "en": "Missing game files"
+  },
+  {
+    "engine_index": 8438,
+    "namespace": "MessageDialog",
+    "key": "DefaultSystemErrorTitle",
+    "source_hash": 1227323431,
+    "en": "System Error"
+  },
+  {
+    "engine_index": 8439,
+    "namespace": "MessageDialog",
+    "key": "ReportCrash_Body",
+    "source_hash": 2209751112,
+    "en": "The application has crashed and will now close. We apologize for the inconvenience."
+  },
+  {
+    "engine_index": 8440,
+    "namespace": "MessageDialog",
+    "key": "ReportHangError_Body",
+    "source_hash": 2429124546,
+    "en": "The application has hung and will now close. We apologize for the inconvenience."
+  },
+  {
+    "engine_index": 8441,
+    "namespace": "MessageDialog",
+    "key": "VideoCardDriverIssueReport",
+    "source_hash": 3900064183,
+    "en": "The installed version of the {Vendor} graphics driver has known issues.\nPlease update to the latest driver version.\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}"
+  },
+  {
+    "engine_index": 8442,
+    "namespace": "MessageDialog",
+    "key": "LatestVideoCardDriverIssueReport",
+    "source_hash": 3376373908,
+    "en": "The latest version of the {Vendor} graphics driver has known issues.\nPlease install the recommended driver version.\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}"
+  },
+  {
+    "engine_index": 8443,
+    "namespace": "MessageDialog",
+    "key": "AppHasCrashed",
+    "source_hash": 817254441,
+    "en": "The {0} {1} has crashed and will close"
+  },
+  {
+    "engine_index": 8445,
+    "namespace": "MessageDialog",
+    "key": "TitleVideoCardDriverIssue",
+    "source_hash": 2202420039,
+    "en": "WARNING: Known issues with graphics driver"
+  },
+  {
+    "engine_index": 8909,
+    "namespace": "NetworkErrors",
+    "key": "GenericConnectionFailed",
+    "source_hash": 821884316,
+    "en": "Connection Failed."
+  },
+  {
+    "engine_index": 8910,
+    "namespace": "NetworkErrors",
+    "key": "HostClosedConnection",
+    "source_hash": 1998898636,
+    "en": "Host closed the connection."
+  },
+  {
+    "engine_index": 8911,
+    "namespace": "NetworkErrors",
+    "key": "HostHasLeft",
+    "source_hash": 603210548,
+    "en": "Host has left the game."
+  },
+  {
+    "engine_index": 8912,
+    "namespace": "NetworkErrors",
+    "key": "NETDISCONNECTMSG",
+    "source_hash": 2805310133,
+    "en": "NETDISCONNECT MSG"
+  },
+  {
+    "engine_index": 8913,
+    "namespace": "NetworkErrors",
+    "key": "ClientReliableBufferOverflow",
+    "source_hash": 2336311915,
+    "en": "Outgoing reliable buffer overflow"
+  },
+  {
+    "engine_index": 8914,
+    "namespace": "NetworkErrors",
+    "key": "GenericPendingConnectionFailed",
+    "source_hash": 3246518009,
+    "en": "Pending Connection Failed."
+  },
+  {
+    "engine_index": 20220,
+    "namespace": "WindowsDynamicRHI",
+    "key": "RequiredDX11Feature_11_SM5",
+    "source_hash": 1496998211,
+    "en": "A D3D11-compatible GPU (Feature Level 11.0, Shader Model 5.0) is required to run the engine."
+  },
+  {
+    "engine_index": 20221,
+    "namespace": "WindowsDynamicRHI",
+    "key": "RequiredDX12",
+    "source_hash": 2148498024,
+    "en": "DX12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument."
+  },
+  {
+    "engine_index": 20222,
+    "namespace": "WindowsDynamicRHI",
+    "key": "UseExpressionEncoderDX11",
+    "source_hash": 2513874418,
+    "en": "Fraps has been known to crash D3D11. Please use Microsoft Expression Encoder instead for capturing."
+  },
+  {
+    "engine_index": 20223,
+    "namespace": "WindowsDynamicRHI",
+    "key": "UseExpressionEncoder",
+    "source_hash": 277843931,
+    "en": "Fraps has been known to crash D3D12. Please use Microsoft Expression Encoder instead for capturing."
+  },
+  {
+    "engine_index": 20224,
+    "namespace": "WindowsDynamicRHI",
+    "key": "RequiredOpenGL",
+    "source_hash": 3306673844,
+    "en": "OpenGL 4.3 is required to run the engine."
+  },
+  {
+    "engine_index": 20225,
+    "namespace": "WindowsDynamicRHI",
+    "key": "RequiredVulkan",
+    "source_hash": 3420610599,
+    "en": "Vulkan Driver is required to run the engine."
+  },
+  {
+    "engine_index": 20226,
+    "namespace": "WindowsDynamicRHI",
+    "key": "OpenGLRemoved",
+    "source_hash": 3512771116,
+    "en": "Warning: OpenGL is no longer supported for desktop platforms. The default RHI will be used."
+  }
+]

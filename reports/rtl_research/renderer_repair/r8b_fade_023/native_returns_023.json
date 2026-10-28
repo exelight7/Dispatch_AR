@@ -1,0 +1,3395 @@
+{
+ "exe_sha256": "365637a77d4b74a61d198a9927e3dcd437bf3be2247b96fcbe5c2e851ac14923",
+ "source": "round-019 evidence + round-024 fade natives",
+ "original": "original_wbp_baseline.json",
+ "functions": {
+  "AdHocUtilsBlueprintLibrary.SetTextWrapAt": {
+   "candidates": [
+    {
+     "params_rva": "0x4018320",
+     "outer_rva": "0xca8c00",
+     "function_flags": "0x4022401",
+     "parms_size": 16,
+     "params": [
+      {
+       "name": "TextWidget",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "WrapTextAt",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     6
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "TextWidget",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "WrapTextAt",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "BlueprintCallbackTextGeneratorFuncs.ProcessLocalizedTextWithCallback": {
+   "candidates": [
+    {
+     "params_rva": "0x4018640",
+     "outer_rva": "0xca8650",
+     "function_flags": "0x14022401",
+     "parms_size": 64,
+     "params": [
+      {
+       "name": "Text",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "ProcessorFunction",
+       "type": "Delegate",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Text"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     2
+    ]
+   ],
+   "return": "Text",
+   "params": [
+    {
+     "name": "Text",
+     "type": "Text",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "ProcessorFunction",
+     "type": "Delegate",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "Border.SetContentColorAndOpacity": {
+   "candidates": [
+    {
+     "params_rva": "0x405c930",
+     "outer_rva": "0x1efde20",
+     "function_flags": "0x4820401",
+     "parms_size": 16,
+     "params": [
+      {
+       "name": "InContentColorAndOpacity",
+       "type": "Struct",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     2
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "InContentColorAndOpacity",
+     "type": "Struct",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "Dispatch Filter Text Profanity": {
+   "candidates": [],
+   "argument_counts": [
+    [
+     3,
+     1
+    ]
+   ],
+   "return": null,
+   "params": null,
+   "evidence": "COMPILER_BARE_STATEMENT",
+   "wildcard": false
+  },
+  "DispatchBoolSetting.GetOptionValue": {
+   "candidates": [
+    {
+     "params_rva": "0x4023f50",
+     "outer_rva": "0xdee910",
+     "function_flags": "0x54020401",
+     "parms_size": 1,
+     "params": [],
+     "return": "Enum"
+    },
+    {
+     "params_rva": "0x4024170",
+     "outer_rva": "0xdee720",
+     "function_flags": "0x14020401",
+     "parms_size": 1,
+     "params": [],
+     "return": "Enum"
+    },
+    {
+     "params_rva": "0x40242d0",
+     "outer_rva": "0xdeea30",
+     "function_flags": "0x54020401",
+     "parms_size": 8,
+     "params": [],
+     "return": "Struct"
+    },
+    {
+     "params_rva": "0x40256d0",
+     "outer_rva": "0xdf4020",
+     "function_flags": "0x14020401",
+     "parms_size": 16,
+     "params": [],
+     "return": "Str"
+    },
+    {
+     "params_rva": "0x4025f90",
+     "outer_rva": "0xdf3fc0",
+     "function_flags": "0x14820401",
+     "parms_size": 8,
+     "params": [],
+     "return": "Struct"
+    },
+    {
+     "params_rva": "0x4026b50",
+     "outer_rva": "0xdf7dd0",
+     "function_flags": "0x54020401",
+     "parms_size": 1,
+     "params": [],
+     "return": "Bool"
+    },
+    {
+     "params_rva": "0x4026c60",
+     "outer_rva": "0xdf7e00",
+     "function_flags": "0x14020401",
+     "parms_size": 4,
+     "params": [],
+     "return": "Float"
+    },
+    {
+     "params_rva": "0x4026d70",
+     "outer_rva": "0xdf7e30",
+     "function_flags": "0x14020401",
+     "parms_size": 4,
+     "params": [],
+     "return": "Int"
+    },
+    {
+     "params_rva": "0x4027ce0",
+     "outer_rva": "0xdff0f0",
+     "function_flags": "0x54020401",
+     "parms_size": 8,
+     "params": [],
+     "return": "Struct"
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     9
+    ]
+   ],
+   "return": "Bool",
+   "params": [],
+   "evidence": "COMPILER_BINDING",
+   "wildcard": false
+  },
+  "DispatchFloatSetting.GetOptionValue": {
+   "candidates": [
+    {
+     "params_rva": "0x4023f50",
+     "outer_rva": "0xdee910",
+     "function_flags": "0x54020401",
+     "parms_size": 1,
+     "params": [],
+     "return": "Enum"
+    },
+    {
+     "params_rva": "0x4024170",
+     "outer_rva": "0xdee720",
+     "function_flags": "0x14020401",
+     "parms_size": 1,
+     "params": [],
+     "return": "Enum"
+    },
+    {
+     "params_rva": "0x40242d0",
+     "outer_rva": "0xdeea30",
+     "function_flags": "0x54020401",
+     "parms_size": 8,
+     "params": [],
+     "return": "Struct"
+    },
+    {
+     "params_rva": "0x40256d0",
+     "outer_rva": "0xdf4020",
+     "function_flags": "0x14020401",
+     "parms_size": 16,
+     "params": [],
+     "return": "Str"
+    },
+    {
+     "params_rva": "0x4025f90",
+     "outer_rva": "0xdf3fc0",
+     "function_flags": "0x14820401",
+     "parms_size": 8,
+     "params": [],
+     "return": "Struct"
+    },
+    {
+     "params_rva": "0x4026b50",
+     "outer_rva": "0xdf7dd0",
+     "function_flags": "0x54020401",
+     "parms_size": 1,
+     "params": [],
+     "return": "Bool"
+    },
+    {
+     "params_rva": "0x4026c60",
+     "outer_rva": "0xdf7e00",
+     "function_flags": "0x14020401",
+     "parms_size": 4,
+     "params": [],
+     "return": "Float"
+    },
+    {
+     "params_rva": "0x4026d70",
+     "outer_rva": "0xdf7e30",
+     "function_flags": "0x14020401",
+     "parms_size": 4,
+     "params": [],
+     "return": "Int"
+    },
+    {
+     "params_rva": "0x4027ce0",
+     "outer_rva": "0xdff0f0",
+     "function_flags": "0x54020401",
+     "parms_size": 8,
+     "params": [],
+     "return": "Struct"
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     3
+    ]
+   ],
+   "return": "Float",
+   "params": [],
+   "evidence": "COMPILER_BINDING",
+   "wildcard": false
+  },
+  "DispatchSettingsSubsystem.GetCloudSettings": {
+   "candidates": [
+    {
+     "params_rva": "0x4027150",
+     "outer_rva": "0xdf79e0",
+     "function_flags": "0x14020401",
+     "parms_size": 8,
+     "params": [],
+     "return": "Object"
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     15
+    ]
+   ],
+   "return": "Object",
+   "params": [],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "GameplayStatics.GetTimeSeconds": {
+   "candidates": [
+    {
+     "params_rva": "0x409bfc0",
+     "outer_rva": "0x282d7f0",
+     "function_flags": "0x14022401",
+     "parms_size": 16,
+     "params": [
+      {
+       "name": "WorldContextObject",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     2
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "WorldContextObject",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "GameplayStatics.GetUnpausedTimeSeconds": {
+   "candidates": [
+    {
+     "params_rva": "0x409c010",
+     "outer_rva": "0x282d7f0",
+     "function_flags": "0x14022401",
+     "parms_size": 16,
+     "params": [
+      {
+       "name": "WorldContextObject",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     2
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "WorldContextObject",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "Image.SetOpacity": {
+   "candidates": [
+    {
+     "params_rva": "0x405f990",
+     "outer_rva": "0x1f05720",
+     "function_flags": "0x4020401",
+     "parms_size": 4,
+     "params": [
+      {
+       "name": "InOpacity",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40650a0",
+     "outer_rva": "0x1f14ad0",
+     "function_flags": "0x4020401",
+     "parms_size": 4,
+     "params": [
+      {
+       "name": "InOpacity",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     3
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "InOpacity",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_ALL_CANDIDATES_AGREE",
+   "wildcard": false
+  },
+  "KismetArrayLibrary.Array_Add": {
+   "candidates": [
+    {
+     "params_rva": "0x40a2d40",
+     "outer_rva": "0x284e860",
+     "function_flags": "0x4422401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "TargetArray",
+       "type": "Array",
+       "out": true,
+       "reference": true
+      },
+      {
+       "name": "NewItem",
+       "type": "Int",
+       "out": true,
+       "reference": true
+      }
+     ],
+     "return": "Int"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     2
+    ]
+   ],
+   "return": "Int",
+   "params": [
+    {
+     "name": "TargetArray",
+     "type": "Array",
+     "out": true,
+     "reference": true
+    },
+    {
+     "name": "NewItem",
+     "type": "Int",
+     "out": true,
+     "reference": true
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": true
+  },
+  "KismetArrayLibrary.Array_Get": {
+   "candidates": [
+    {
+     "params_rva": "0x40a2f20",
+     "outer_rva": "0x284e860",
+     "function_flags": "0x14422401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "TargetArray",
+       "type": "Array",
+       "out": true,
+       "reference": true
+      },
+      {
+       "name": "Index",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Item",
+       "type": "Int",
+       "out": true,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     3,
+     2
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "TargetArray",
+     "type": "Array",
+     "out": true,
+     "reference": true
+    },
+    {
+     "name": "Index",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Item",
+     "type": "Int",
+     "out": true,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": true
+  },
+  "KismetInternationalizationLibrary.GetCurrentLanguage": {
+   "candidates": [
+    {
+     "params_rva": "0x40a47d0",
+     "outer_rva": "0x2853e00",
+     "function_flags": "0x14022401",
+     "parms_size": 16,
+     "params": [],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     1
+    ]
+   ],
+   "return": "Str",
+   "params": [],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMaterialLibrary.CreateDynamicMaterialInstance": {
+   "candidates": [
+    {
+     "params_rva": "0x4094a40",
+     "outer_rva": "0x2818aa0",
+     "function_flags": "0x4020400",
+     "parms_size": 8,
+     "params": [],
+     "return": "Object"
+    },
+    {
+     "params_rva": "0x4094b50",
+     "outer_rva": "0x2818db0",
+     "function_flags": "0x4020400",
+     "parms_size": 8,
+     "params": [],
+     "return": "Object"
+    },
+    {
+     "params_rva": "0x40a4b50",
+     "outer_rva": "0x2852f60",
+     "function_flags": "0x4022403",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "WorldContextObject",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Parent",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "OptionalName",
+       "type": "Name",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "CreationFlags",
+       "type": "Enum",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Object"
+    },
+    {
+     "params_rva": "0x40cd330",
+     "outer_rva": "0x28fc9e0",
+     "function_flags": "0x4020400",
+     "parms_size": 32,
+     "params": [
+      {
+       "name": "ElementIndex",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "SourceMaterial",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "OptionalName",
+       "type": "Name",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Object"
+    }
+   ],
+   "argument_counts": [
+    [
+     4,
+     1
+    ]
+   ],
+   "return": "Object",
+   "params": [
+    {
+     "name": "WorldContextObject",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Parent",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "OptionalName",
+     "type": "Name",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "CreationFlags",
+     "type": "Enum",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Add_FloatFloat": {
+   "candidates": [
+    {
+     "params_rva": "0x40a5090",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     1
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "A",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Add_IntInt": {
+   "candidates": [
+    {
+     "params_rva": "0x40a5130",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Int"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     23
+    ]
+   ],
+   "return": "Int",
+   "params": [
+    {
+     "name": "A",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.BooleanAND": {
+   "candidates": [
+    {
+     "params_rva": "0x40a5770",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 3,
+     "params": [
+      {
+       "name": "A",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     223
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.BooleanOR": {
+   "candidates": [
+    {
+     "params_rva": "0x40a5860",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 3,
+     "params": [
+      {
+       "name": "A",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     17
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Conv_ColorToLinearColor": {
+   "candidates": [
+    {
+     "params_rva": "0x40a61c0",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14822401",
+     "parms_size": 20,
+     "params": [
+      {
+       "name": "InColor",
+       "type": "Struct",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Struct"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     1
+    ]
+   ],
+   "return": "Struct",
+   "params": [
+    {
+     "name": "InColor",
+     "type": "Struct",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false,
+   "trivial_store": {
+    "thunks": [
+     {
+      "thunk_rva": "0x28655e0",
+      "result_register": "rdi",
+      "stores": [
+       "286565f movups xmmword ptr [rdi], xmm0"
+      ],
+      "other_uses": [],
+      "store_extent_bytes": 16,
+      "trivial": true
+     }
+    ],
+    "trivial": true
+   }
+  },
+  "KismetMathLibrary.Conv_IntToFloat": {
+   "candidates": [
+    {
+     "params_rva": "0x40a6440",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 8,
+     "params": [
+      {
+       "name": "InInt",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     2
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "InInt",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.EqualEqual_IntInt": {
+   "candidates": [
+    {
+     "params_rva": "0x40a79d0",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     53
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.EqualEqual_ObjectObject": {
+   "candidates": [
+    {
+     "params_rva": "0x40a7b10",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "A",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     2
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.FMax": {
+   "candidates": [
+    {
+     "params_rva": "0x40a8330",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     2
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "A",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.GreaterEqual_FloatFloat": {
+   "candidates": [
+    {
+     "params_rva": "0x40a9730",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     4
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.GreaterEqual_IntInt": {
+   "candidates": [
+    {
+     "params_rva": "0x40a97d0",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     206
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.LessEqual_IntInt": {
+   "candidates": [
+    {
+     "params_rva": "0x40aa400",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     201
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Less_IntInt": {
+   "candidates": [
+    {
+     "params_rva": "0x40aa220",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     22
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.MakeColor": {
+   "candidates": [
+    {
+     "params_rva": "0x40aaf40",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14822401",
+     "parms_size": 32,
+     "params": [
+      {
+       "name": "R",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "G",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "A",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Struct"
+    }
+   ],
+   "argument_counts": [
+    [
+     4,
+     1
+    ]
+   ],
+   "return": "Struct",
+   "params": [
+    {
+     "name": "R",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "G",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "A",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false,
+   "trivial_store": {
+    "thunks": [
+     {
+      "thunk_rva": "0x2872370",
+      "result_register": "rdi",
+      "stores": [
+       "28724b7 movss dword ptr [rdi], xmm0",
+       "28724bb movss dword ptr [rdi + 4], xmm1",
+       "28724c0 movss dword ptr [rdi + 8], xmm2",
+       "28724c5 movss dword ptr [rdi + 0xc], xmm3"
+      ],
+      "other_uses": [],
+      "store_extent_bytes": 16,
+      "trivial": true
+     }
+    ],
+    "trivial": true
+   }
+  },
+  "KismetMathLibrary.Multiply_FloatFloat": {
+   "candidates": [
+    {
+     "params_rva": "0x40ac7a0",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     2
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "A",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Multiply_IntInt": {
+   "candidates": [
+    {
+     "params_rva": "0x40ac890",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Int"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     1
+    ]
+   ],
+   "return": "Int",
+   "params": [
+    {
+     "name": "A",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Not_PreBool": {
+   "candidates": [
+    {
+     "params_rva": "0x40ad2e0",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 2,
+     "params": [
+      {
+       "name": "A",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     23
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.SelectString": {
+   "candidates": [
+    {
+     "params_rva": "0x40af5e0",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 56,
+     "params": [
+      {
+       "name": "A",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "bPickA",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     3,
+     6
+    ]
+   ],
+   "return": "Str",
+   "params": [
+    {
+     "name": "A",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "bPickA",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Subtract_FloatFloat": {
+   "candidates": [
+    {
+     "params_rva": "0x40afa90",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     4
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "A",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Subtract_IntInt": {
+   "candidates": [
+    {
+     "params_rva": "0x40afb30",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Int"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     13
+    ]
+   ],
+   "return": "Int",
+   "params": [
+    {
+     "name": "A",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.Concat_StrStr": {
+   "candidates": [
+    {
+     "params_rva": "0x40b2ed0",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 48,
+     "params": [
+      {
+       "name": "A",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     48
+    ]
+   ],
+   "return": "Str",
+   "params": [
+    {
+     "name": "A",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.Contains": {
+   "candidates": [
+    {
+     "params_rva": "0x40b2f20",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "SearchIn",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Substring",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "bUseCase",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "bSearchFromEnd",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     4,
+     2
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "SearchIn",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Substring",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "bUseCase",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "bSearchFromEnd",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.Conv_IntToString": {
+   "candidates": [
+    {
+     "params_rva": "0x40b3100",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InInt",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     4
+    ]
+   ],
+   "return": "Str",
+   "params": [
+    {
+     "name": "InInt",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.EqualEqual_StrStr": {
+   "candidates": [
+    {
+     "params_rva": "0x40b36f0",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "A",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     9
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "A",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.GetCharacterAsNumber": {
+   "candidates": [
+    {
+     "params_rva": "0x40b37e0",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "SourceString",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Index",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Int"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     4
+    ]
+   ],
+   "return": "Int",
+   "params": [
+    {
+     "name": "SourceString",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Index",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.GetSubstring": {
+   "candidates": [
+    {
+     "params_rva": "0x40b3830",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "SourceString",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "StartIndex",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Length",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     3,
+     12
+    ]
+   ],
+   "return": "Str",
+   "params": [
+    {
+     "name": "SourceString",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "StartIndex",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Length",
+     "type": "Int",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.Len": {
+   "candidates": [
+    {
+     "params_rva": "0x40b3a60",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "S",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Int"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     5
+    ]
+   ],
+   "return": "Int",
+   "params": [
+    {
+     "name": "S",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.Replace": {
+   "candidates": [
+    {
+     "params_rva": "0x40779b0",
+     "outer_rva": "0x2070010",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "Index",
+       "type": "Int",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Replacement",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    },
+    {
+     "params_rva": "0x40b3c40",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 72,
+     "params": [
+      {
+       "name": "SourceString",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "From",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "To",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "SearchCase",
+       "type": "Byte",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     4,
+     9
+    ]
+   ],
+   "return": "Str",
+   "params": [
+    {
+     "name": "SourceString",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "From",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "To",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "SearchCase",
+     "type": "Byte",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetStringLibrary.StartsWith": {
+   "candidates": [
+    {
+     "params_rva": "0x40b3e70",
+     "outer_rva": "0x2889e10",
+     "function_flags": "0x14022401",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "SourceString",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "InPrefix",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "SearchCase",
+       "type": "Byte",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     3,
+     1
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "SourceString",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "InPrefix",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "SearchCase",
+     "type": "Byte",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetSystemLibrary.K2_ClearTimer": {
+   "candidates": [
+    {
+     "params_rva": "0x40b6fe0",
+     "outer_rva": "0x2893b10",
+     "function_flags": "0x4022401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "Object",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "FunctionName",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     2
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "Object",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "FunctionName",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetSystemLibrary.K2_SetTimer": {
+   "candidates": [
+    {
+     "params_rva": "0x40b7620",
+     "outer_rva": "0x2893b10",
+     "function_flags": "0x4022401",
+     "parms_size": 48,
+     "params": [
+      {
+       "name": "Object",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "FunctionName",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Time",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "bLooping",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "InitialStartDelay",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "InitialStartDelayVariance",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Struct"
+    }
+   ],
+   "argument_counts": [
+    [
+     6,
+     1
+    ]
+   ],
+   "return": "Struct",
+   "params": [
+    {
+     "name": "Object",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "FunctionName",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Time",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "bLooping",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "InitialStartDelay",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "InitialStartDelayVariance",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false,
+   "trivial_store": {
+    "thunks": [
+     {
+      "thunk_rva": "0x28a0aa0",
+      "result_register": "r14",
+      "stores": [
+       "28a0cb4 mov qword ptr [r14], rcx"
+      ],
+      "other_uses": [],
+      "store_extent_bytes": 8,
+      "trivial": true
+     }
+    ],
+    "trivial": true
+   }
+  },
+  "KismetSystemLibrary.MakeLiteralString": {
+   "candidates": [
+    {
+     "params_rva": "0x40b7df0",
+     "outer_rva": "0x2893b10",
+     "function_flags": "0x14022401",
+     "parms_size": 32,
+     "params": [
+      {
+       "name": "Value",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     7
+    ]
+   ],
+   "return": "Str",
+   "params": [
+    {
+     "name": "Value",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetTextLibrary.Conv_StringToText": {
+   "candidates": [
+    {
+     "params_rva": "0x40b99b0",
+     "outer_rva": "0x28a8a50",
+     "function_flags": "0x14022401",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "InString",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Text"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     5
+    ]
+   ],
+   "return": "Text",
+   "params": [
+    {
+     "name": "InString",
+     "type": "Str",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetTextLibrary.Conv_TextToString": {
+   "candidates": [
+    {
+     "params_rva": "0x40b9a00",
+     "outer_rva": "0x28a8a50",
+     "function_flags": "0x14422401",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": true,
+       "reference": true
+      }
+     ],
+     "return": "Str"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     3
+    ]
+   ],
+   "return": "Str",
+   "params": [
+    {
+     "name": "InText",
+     "type": "Text",
+     "out": true,
+     "reference": true
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetTextLibrary.Format": {
+   "candidates": [
+    {
+     "params_rva": "0x40b9c30",
+     "outer_rva": "0x28a8a50",
+     "function_flags": "0x14022401",
+     "parms_size": 64,
+     "params": [
+      {
+       "name": "InPattern",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "InArgs",
+       "type": "Array",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Text"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     2
+    ]
+   ],
+   "return": "Text",
+   "params": [
+    {
+     "name": "InPattern",
+     "type": "Text",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "InArgs",
+     "type": "Array",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetTextLibrary.TextIsEmpty": {
+   "candidates": [
+    {
+     "params_rva": "0x40b9f00",
+     "outer_rva": "0x28a8a50",
+     "function_flags": "0x14422401",
+     "parms_size": 32,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": true,
+       "reference": true
+      }
+     ],
+     "return": "Bool"
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     1
+    ]
+   ],
+   "return": "Bool",
+   "params": [
+    {
+     "name": "InText",
+     "type": "Text",
+     "out": true,
+     "reference": true
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "MaterialInstanceDynamic.SetVectorParameterValue": {
+   "candidates": [
+    {
+     "params_rva": "0x40a4c90",
+     "outer_rva": "0x2852f60",
+     "function_flags": "0x4c22403",
+     "parms_size": 40,
+     "params": [
+      {
+       "name": "WorldContextObject",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Collection",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "ParameterName",
+       "type": "Name",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "ParameterValue",
+       "type": "Struct",
+       "out": true,
+       "reference": true
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40bfac0",
+     "outer_rva": "0x28c6e50",
+     "function_flags": "0x4820401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "ParameterName",
+       "type": "Name",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Value",
+       "type": "Struct",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     1
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "ParameterName",
+     "type": "Name",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Value",
+     "type": "Struct",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "PrintLetterByLetter": {
+   "candidates": [
+    {
+     "params_rva": "0x400b680",
+     "outer_rva": "0x9a64c0",
+     "function_flags": "0x4020400",
+     "parms_size": 0,
+     "params": [],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     2
+    ]
+   ],
+   "return": null,
+   "params": [],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "RetainerBox.RequestRender": {
+   "candidates": [
+    {
+     "params_rva": "0x40620a0",
+     "outer_rva": "0x1f0b140",
+     "function_flags": "0x4020401",
+     "parms_size": 0,
+     "params": [],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     6
+    ]
+   ],
+   "return": null,
+   "params": [],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "RetainerBox.SetRetainRendering": {
+   "candidates": [
+    {
+     "params_rva": "0x4062190",
+     "outer_rva": "0x1f0b140",
+     "function_flags": "0x4020401",
+     "parms_size": 1,
+     "params": [
+      {
+       "name": "bInRetainRendering",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     6
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "bInRetainRendering",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "RichTextBlock.SetText": {
+   "candidates": [
+    {
+     "params_rva": "0x405e9e0",
+     "outer_rva": "0x1f024d0",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x405ed70",
+     "outer_rva": "0x1f02a50",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40615a0",
+     "outer_rva": "0x1f0b0e0",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x4061890",
+     "outer_rva": "0x1f0b530",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x4062610",
+     "outer_rva": "0x1f0e1f0",
+     "function_flags": "0x4420400",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": true,
+       "reference": true
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40651e0",
+     "outer_rva": "0x1f14ad0",
+     "function_flags": "0x4020400",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40df0c0",
+     "outer_rva": "0x293ceb0",
+     "function_flags": "0x4020401",
+     "parms_size": 16,
+     "params": [
+      {
+       "name": "Value",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     2
+    ]
+   ],
+   "return": null,
+   "params": null,
+   "evidence": "EXE_ALL_CANDIDATES_AGREE",
+   "wildcard": false
+  },
+  "RichTextBlock.SetTextStyleSet": {
+   "candidates": [
+    {
+     "params_rva": "0x4062660",
+     "outer_rva": "0x1f0e1f0",
+     "function_flags": "0x4020401",
+     "parms_size": 8,
+     "params": [
+      {
+       "name": "NewTextStyleSet",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     8
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "NewTextStyleSet",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "SetProtoTextStyleSet": {
+   "candidates": [
+    {
+     "params_rva": "0x400b720",
+     "outer_rva": "0x9a64c0",
+     "function_flags": "0x4020400",
+     "parms_size": 8,
+     "params": [
+      {
+       "name": "NewTextStyleSet",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     2
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "NewTextStyleSet",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "SetText": {
+   "candidates": [
+    {
+     "params_rva": "0x405e9e0",
+     "outer_rva": "0x1f024d0",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x405ed70",
+     "outer_rva": "0x1f02a50",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40615a0",
+     "outer_rva": "0x1f0b0e0",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x4061890",
+     "outer_rva": "0x1f0b530",
+     "function_flags": "0x4020401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x4062610",
+     "outer_rva": "0x1f0e1f0",
+     "function_flags": "0x4420400",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": true,
+       "reference": true
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40651e0",
+     "outer_rva": "0x1f14ad0",
+     "function_flags": "0x4020400",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "InText",
+       "type": "Text",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40df0c0",
+     "outer_rva": "0x293ceb0",
+     "function_flags": "0x4020401",
+     "parms_size": 16,
+     "params": [
+      {
+       "name": "Value",
+       "type": "Str",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     2
+    ]
+   ],
+   "return": null,
+   "params": null,
+   "evidence": "EXE_ALL_CANDIDATES_AGREE",
+   "wildcard": false
+  },
+  "SetVisibility": {
+   "candidates": [
+    {
+     "params_rva": "0x405ae30",
+     "outer_rva": "0x1e3c250",
+     "function_flags": "0x4020401",
+     "parms_size": 1,
+     "params": [
+      {
+       "name": "InVisibility",
+       "type": "Enum",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x4069400",
+     "outer_rva": "0x1f1edb0",
+     "function_flags": "0x4020400",
+     "parms_size": 1,
+     "params": [
+      {
+       "name": "InVisibility",
+       "type": "Enum",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    },
+    {
+     "params_rva": "0x40d3240",
+     "outer_rva": "0x290d5b0",
+     "function_flags": "0x4020401",
+     "parms_size": 2,
+     "params": [
+      {
+       "name": "bNewVisibility",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "bPropagateToChildren",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     31
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "InVisibility",
+     "type": "Enum",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_ALL_CANDIDATES_AGREE",
+   "wildcard": false
+  },
+  "ShowText": {
+   "candidates": [
+    {
+     "params_rva": "0x400b770",
+     "outer_rva": "0x9a64c0",
+     "function_flags": "0x4020400",
+     "parms_size": 0,
+     "params": [],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     2
+    ]
+   ],
+   "return": null,
+   "params": [],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "SubsystemBlueprintLibrary.GetGameInstanceSubsystem": {
+   "candidates": [
+    {
+     "params_rva": "0x40deb70",
+     "outer_rva": "0x293c6d0",
+     "function_flags": "0x14022401",
+     "parms_size": 24,
+     "params": [
+      {
+       "name": "ContextObject",
+       "type": "Object",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Class",
+       "type": "Class",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Object"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     15
+    ]
+   ],
+   "return": "Object",
+   "params": [
+    {
+     "name": "ContextObject",
+     "type": "Object",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Class",
+     "type": "Class",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "UserWidget.OnInitialized": {
+   "candidates": [
+    {
+     "params_rva": "0x4066910",
+     "outer_rva": "0x1f18c10",
+     "function_flags": "0x8020808",
+     "parms_size": 0,
+     "params": [],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     1
+    ]
+   ],
+   "return": null,
+   "params": [],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "UserWidget.PreConstruct": {
+   "candidates": [
+    {
+     "params_rva": "0x40671d0",
+     "outer_rva": "0x1f18c10",
+     "function_flags": "0x8020808",
+     "parms_size": 1,
+     "params": [
+      {
+       "name": "IsDesignTime",
+       "type": "Bool",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     1,
+     1
+    ]
+   ],
+   "return": null,
+   "params": [
+    {
+     "name": "IsDesignTime",
+     "type": "Bool",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "Widget.InvalidateLayoutAndVolatility": {
+   "candidates": [
+    {
+     "params_rva": "0x4068be0",
+     "outer_rva": "0x1f1edb0",
+     "function_flags": "0x4020401",
+     "parms_size": 0,
+     "params": [],
+     "return": null
+    }
+   ],
+   "argument_counts": [
+    [
+     0,
+     4
+    ]
+   ],
+   "return": null,
+   "params": [],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.Divide_FloatFloat": {
+   "candidates": [
+    {
+     "params_rva": "0x40a71b0",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 12,
+     "params": [
+      {
+       "name": "A",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "B",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     2,
+     1
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "A",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "B",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  },
+  "KismetMathLibrary.FClamp": {
+   "candidates": [
+    {
+     "params_rva": "0x40a7f70",
+     "outer_rva": "0x285ae80",
+     "function_flags": "0x14022401",
+     "parms_size": 16,
+     "params": [
+      {
+       "name": "Value",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Min",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      },
+      {
+       "name": "Max",
+       "type": "Float",
+       "out": false,
+       "reference": false
+      }
+     ],
+     "return": "Float"
+    }
+   ],
+   "argument_counts": [
+    [
+     3,
+     1
+    ]
+   ],
+   "return": "Float",
+   "params": [
+    {
+     "name": "Value",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Min",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    },
+    {
+     "name": "Max",
+     "type": "Float",
+     "out": false,
+     "reference": false
+    }
+   ],
+   "evidence": "EXE_UNIQUE",
+   "wildcard": false
+  }
+ },
+ "negative_controls": {
+  "Concat_StrStr": {
+   "thunks": [
+    {
+     "thunk_rva": "0x288bac0",
+     "result_register": "rdi",
+     "stores": [],
+     "other_uses": [],
+     "store_extent_bytes": 0,
+     "trivial": false
+    }
+   ],
+   "trivial": false
+  },
+  "Conv_StringToText": {
+   "thunks": [
+    {
+     "thunk_rva": "0x28ac0f0",
+     "result_register": "rsi",
+     "stores": [
+      "28ac172 mov qword ptr [rsi], rcx",
+      "28ac180 mov qword ptr [rsi + 8], rcx",
+      "28ac190 mov dword ptr [rsi + 0x10], eax"
+     ],
+     "other_uses": [
+      "28ac16c mov rdx, qword ptr [rsi]",
+      "28ac17c mov rdx, qword ptr [rsi + 8]"
+     ],
+     "store_extent_bytes": 20,
+     "trivial": false
+    }
+   ],
+   "trivial": false
+  }
+ }
+}

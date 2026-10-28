@@ -1,0 +1,194 @@
+{
+ "lam_alef/fg": {
+  "states": 5,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "lam_alef/shadow_retainer": {
+  "states": 5,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "long_wrap/fg": {
+  "states": 40,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "long_wrap/shadow_retainer": {
+  "states": 40,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "mixed_test42/fg": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "mixed_test42/shadow_retainer": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "multi_space/fg": {
+  "states": 5,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "multi_space/shadow_retainer": {
+  "states": 5,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "multiline/fg": {
+  "states": 9,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "multiline/shadow_retainer": {
+  "states": 9,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "paren_test42/fg": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "paren_test42/shadow_retainer": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "price_usd/fg": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "price_usd/shadow_retainer": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "punctuation/fg": {
+  "states": 8,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "punctuation/shadow_retainer": {
+  "states": 8,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "salam/fg": {
+  "states": 3,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "salam/shadow_retainer": {
+  "states": 3,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "salam_marks/fg": {
+  "states": 3,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "salam_marks/shadow_retainer": {
+  "states": 3,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "speaker/fg": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "speaker/shadow_retainer": {
+  "states": 4,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "version/fg": {
+  "states": 5,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ },
+ "version/shadow_retainer": {
+  "states": 5,
+  "start_blank": true,
+  "lit_px_differing_from_final": 0,
+  "px_removed": 0,
+  "end_equals_final": true,
+  "pass": true
+ }
+}

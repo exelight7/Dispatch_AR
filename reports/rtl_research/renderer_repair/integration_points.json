@@ -1,0 +1,801 @@
+{
+  "branch_classification": "ARABIC_BRANCH_REQUIRES_NATIVE_INTEGRATION",
+  "secondary_requirement": "ARABIC_BRANCH_REQUIRES_BLUEPRINT_CODE_CHANGE",
+  "asset_only_branch_proven": false,
+  "evidence_class": "CONFIRMED_FROM_ASSET",
+  "classification_note": "Preferred new native renderer also needs explicit routing changes; no ready branch found",
+  "assets": [
+    {
+      "source": "reports\\rtl_research\\WBP_SubtitleBlock.json",
+      "sha256": "e133662635c1e40b51f30a04b302eb375e5e1f59d9015be00dcb07dddba1730d",
+      "exports": 37,
+      "widgets_and_defaults": [
+        {
+          "export": 23,
+          "name": "Default__WBP_SubtitleBlock_C",
+          "class": "WBP_SubtitleBlock_C",
+          "properties": {
+            "bHasScriptImplementedTick": false,
+            "bHasScriptImplementedPaint": false
+          }
+        },
+        {
+          "export": 24,
+          "name": "Letterbox",
+          "class": "Image",
+          "properties": {}
+        },
+        {
+          "export": 25,
+          "name": "Overlay_0",
+          "class": "Overlay",
+          "properties": {
+            "Slots": [
+              27,
+              29,
+              28
+            ]
+          }
+        },
+        {
+          "export": 26,
+          "name": "SubtitleOverlay",
+          "class": "Overlay",
+          "properties": {
+            "Slots": [
+              30
+            ],
+            "Visibility": "ESlateVisibility::Hidden"
+          }
+        },
+        {
+          "export": 27,
+          "name": "OverlaySlot_0",
+          "class": "OverlaySlot",
+          "properties": {
+            "HorizontalAlignment": "HAlign_Fill",
+            "Parent": 25,
+            "Content": 24
+          }
+        },
+        {
+          "export": 28,
+          "name": "OverlaySlot_1",
+          "class": "OverlaySlot",
+          "properties": {
+            "HorizontalAlignment": "HAlign_Center",
+            "Parent": 25,
+            "Content": 33
+          }
+        },
+        {
+          "export": 29,
+          "name": "OverlaySlot_3",
+          "class": "OverlaySlot",
+          "properties": {
+            "HorizontalAlignment": "HAlign_Fill",
+            "Parent": 25,
+            "Content": 35
+          }
+        },
+        {
+          "export": 30,
+          "name": "OverlaySlot_4",
+          "class": "OverlaySlot",
+          "properties": {
+            "HorizontalAlignment": "HAlign_Center",
+            "Parent": 26,
+            "Content": 25
+          }
+        },
+        {
+          "export": 31,
+          "name": "PanelSlot_0",
+          "class": "PanelSlot",
+          "properties": {
+            "Parent": 35,
+            "Content": 36
+          }
+        },
+        {
+          "export": 32,
+          "name": "PanelSlot_0",
+          "class": "PanelSlot",
+          "properties": {
+            "Parent": 36,
+            "Content": 34
+          }
+        },
+        {
+          "export": 33,
+          "name": "SubtitleProtoText",
+          "class": "ProtoRichTextBlock",
+          "properties": {
+            "Visibility": "ESlateVisibility::Visible"
+          }
+        },
+        {
+          "export": 34,
+          "name": "SubtitleShadowProtoText",
+          "class": "ProtoRichTextBlock",
+          "properties": {
+            "Visibility": "ESlateVisibility::Visible"
+          }
+        },
+        {
+          "export": 35,
+          "name": "RetainerBox_Horiz",
+          "class": "RetainerBox",
+          "properties": {
+            "Slots": [
+              31
+            ]
+          }
+        },
+        {
+          "export": 36,
+          "name": "RetainerBox_Vert",
+          "class": "RetainerBox",
+          "properties": {
+            "Slots": [
+              32
+            ]
+          }
+        },
+        {
+          "export": 37,
+          "name": "WidgetTree",
+          "class": "WidgetTree",
+          "properties": {
+            "RootWidget": 26
+          }
+        }
+      ],
+      "typed_properties": [
+        {
+          "owner_export": 2,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 2,
+          "name": "CallFunc_GetCloudSettings_ReturnValue",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 2,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue_1",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 2,
+          "name": "CallFunc_GetCloudSettings_ReturnValue_1",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 11,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 11,
+          "name": "CallFunc_GetCloudSettings_ReturnValue",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 11,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue_1",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 11,
+          "name": "CallFunc_GetCloudSettings_ReturnValue_1",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 15,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 15,
+          "name": "CallFunc_GetCloudSettings_ReturnValue",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 16,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 16,
+          "name": "CallFunc_GetCloudSettings_ReturnValue",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 17,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 17,
+          "name": "CallFunc_GetCloudSettings_ReturnValue",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 18,
+          "name": "CallFunc_CreateDynamicMaterialInstance_ReturnValue",
+          "class": "MaterialInstanceDynamic"
+        },
+        {
+          "owner_export": 22,
+          "name": "Letterbox",
+          "class": "Image"
+        },
+        {
+          "owner_export": 22,
+          "name": "RetainerBox_Horiz",
+          "class": "RetainerBox"
+        },
+        {
+          "owner_export": 22,
+          "name": "RetainerBox_Vert",
+          "class": "RetainerBox"
+        },
+        {
+          "owner_export": 22,
+          "name": "SubtitleOverlay",
+          "class": "Overlay"
+        },
+        {
+          "owner_export": 22,
+          "name": "SubtitleProtoText",
+          "class": "ProtoRichTextBlock"
+        },
+        {
+          "owner_export": 22,
+          "name": "SubtitleShadowProtoText",
+          "class": "ProtoRichTextBlock"
+        },
+        {
+          "owner_export": 22,
+          "name": "Font Material Instance",
+          "class": "MaterialInstanceDynamic"
+        }
+      ],
+      "function_hooks": [
+        {
+          "export": 1,
+          "name": "On Finish Letter by Letter Print__DelegateSignature",
+          "script_bytes": 3
+        },
+        {
+          "export": 2,
+          "name": "ExecuteUbergraph_WBP_SubtitleBlock",
+          "script_bytes": 1406
+        },
+        {
+          "export": 3,
+          "name": "PreConstruct",
+          "script_bytes": 36
+        },
+        {
+          "export": 4,
+          "name": "On Text Finished Letter by Letter Print",
+          "script_bytes": 36
+        },
+        {
+          "export": 5,
+          "name": "On Subtitle Color Enabled Changed",
+          "script_bytes": 54
+        },
+        {
+          "export": 6,
+          "name": "Letterbox Enabled Changed",
+          "script_bytes": 54
+        },
+        {
+          "export": 7,
+          "name": "Letterbox Opacity Changed",
+          "script_bytes": 54
+        },
+        {
+          "export": 8,
+          "name": "On Print Letter",
+          "script_bytes": 54
+        },
+        {
+          "export": 9,
+          "name": "OnInitialized",
+          "script_bytes": 18
+        },
+        {
+          "export": 10,
+          "name": "Construct",
+          "script_bytes": 18
+        },
+        {
+          "export": 11,
+          "name": "Set Displayed Line",
+          "script_bytes": 1241
+        },
+        {
+          "export": 12,
+          "name": "Stop Displaying Line",
+          "script_bytes": 41
+        },
+        {
+          "export": 13,
+          "name": "Format As Subtitle Text With Tags",
+          "script_bytes": 1328
+        },
+        {
+          "export": 14,
+          "name": "Set Has Outline",
+          "script_bytes": 281
+        },
+        {
+          "export": 15,
+          "name": "Update Text Color",
+          "script_bytes": 304
+        },
+        {
+          "export": 16,
+          "name": "Apply Speaker Name if Needed",
+          "script_bytes": 1116
+        },
+        {
+          "export": 17,
+          "name": "Get Text Tag Opener",
+          "script_bytes": 1199
+        },
+        {
+          "export": 18,
+          "name": "Setup Dynamic Material",
+          "script_bytes": 108
+        },
+        {
+          "export": 19,
+          "name": "ChangeTextToLarge",
+          "script_bytes": 239
+        },
+        {
+          "export": 20,
+          "name": "WBP_SubtitleBlock_AutoGenFunc",
+          "script_bytes": 31
+        },
+        {
+          "export": 21,
+          "name": "Set Wrap Text At",
+          "script_bytes": 86
+        }
+      ],
+      "culture_language_names": [],
+      "switcher_widgets": [],
+      "ordinary_text_widgets": [],
+      "scope_note": "Serialized data and bytecode names in these two exports only; inherited native behavior is not ruled out"
+    },
+    {
+      "source": "reports\\rtl_research\\WBP_SubtitlesWidget.json",
+      "sha256": "37d8bbb7b9d39d46bb3bd372b82c753475b6ba5a126efec659f441de5bd0d6de",
+      "exports": 43,
+      "widgets_and_defaults": [
+        {
+          "export": 19,
+          "name": "Default__WBP_SubtitlesWidget_C",
+          "class": "WBP_SubtitlesWidget_C",
+          "properties": {
+            "bHasScriptImplementedTick": false,
+            "bHasScriptImplementedPaint": false,
+            "Visibility": "ESlateVisibility::HitTestInvisible"
+          }
+        },
+        {
+          "export": 20,
+          "name": "ExpandChoiceSpacing",
+          "class": "MovieScene",
+          "properties": {}
+        },
+        {
+          "export": 21,
+          "name": "EaseInFunction",
+          "class": "MovieSceneBuiltInEasingFunction",
+          "properties": {}
+        },
+        {
+          "export": 22,
+          "name": "EaseOutFunction",
+          "class": "MovieSceneBuiltInEasingFunction",
+          "properties": {}
+        },
+        {
+          "export": 23,
+          "name": "CompiledData",
+          "class": "MovieSceneCompiledData",
+          "properties": {}
+        },
+        {
+          "export": 24,
+          "name": "MovieSceneFloatSection_0",
+          "class": "MovieSceneFloatSection",
+          "properties": {}
+        },
+        {
+          "export": 25,
+          "name": "MovieSceneFloatTrack_0",
+          "class": "MovieSceneFloatTrack",
+          "properties": {}
+        },
+        {
+          "export": 26,
+          "name": "Overlay_0",
+          "class": "Overlay",
+          "properties": {
+            "Slots": [
+              27
+            ]
+          }
+        },
+        {
+          "export": 27,
+          "name": "OverlaySlot_0",
+          "class": "OverlaySlot",
+          "properties": {
+            "HorizontalAlignment": "HAlign_Fill",
+            "Parent": 26,
+            "Content": 34
+          }
+        },
+        {
+          "export": 28,
+          "name": "ChoiceSpacingScalebox",
+          "class": "ScaleBox",
+          "properties": {
+            "Slots": [
+              29
+            ]
+          }
+        },
+        {
+          "export": 29,
+          "name": "ScaleBoxSlot_0",
+          "class": "ScaleBoxSlot",
+          "properties": {
+            "Parent": 28,
+            "Content": 30
+          }
+        },
+        {
+          "export": 30,
+          "name": "ChoiceSpacingSpacer",
+          "class": "Spacer",
+          "properties": {}
+        },
+        {
+          "export": 31,
+          "name": "CinematicsSpacer",
+          "class": "Spacer",
+          "properties": {}
+        },
+        {
+          "export": 32,
+          "name": "ShiftSpacer",
+          "class": "Spacer",
+          "properties": {}
+        },
+        {
+          "export": 33,
+          "name": "ShiftSpacerTop",
+          "class": "Spacer",
+          "properties": {}
+        },
+        {
+          "export": 34,
+          "name": "RootVBox",
+          "class": "VerticalBox",
+          "properties": {
+            "Slots": [
+              37,
+              40,
+              36,
+              38,
+              39
+            ],
+            "Visibility": "ESlateVisibility::HitTestInvisible"
+          }
+        },
+        {
+          "export": 35,
+          "name": "SubtitleBlocksList",
+          "class": "VerticalBox",
+          "properties": {}
+        },
+        {
+          "export": 36,
+          "name": "VerticalBoxSlot_1",
+          "class": "VerticalBoxSlot",
+          "properties": {
+            "Parent": 34,
+            "Content": 35
+          }
+        },
+        {
+          "export": 37,
+          "name": "VerticalBoxSlot_2",
+          "class": "VerticalBoxSlot",
+          "properties": {
+            "Parent": 34,
+            "Content": 31
+          }
+        },
+        {
+          "export": 38,
+          "name": "VerticalBoxSlot_3",
+          "class": "VerticalBoxSlot",
+          "properties": {
+            "Parent": 34,
+            "Content": 28
+          }
+        },
+        {
+          "export": 39,
+          "name": "VerticalBoxSlot_4",
+          "class": "VerticalBoxSlot",
+          "properties": {
+            "Parent": 34,
+            "Content": 32
+          }
+        },
+        {
+          "export": 40,
+          "name": "VerticalBoxSlot_7",
+          "class": "VerticalBoxSlot",
+          "properties": {
+            "Parent": 34,
+            "Content": 33
+          }
+        },
+        {
+          "export": 41,
+          "name": "WBP_StandardStorySafezone",
+          "class": "WBP_StandardStorySafezone_C",
+          "properties": {
+            "Visibility": "ESlateVisibility::HitTestInvisible"
+          }
+        },
+        {
+          "export": 42,
+          "name": "ExpandChoiceSpacing_INST",
+          "class": "WidgetAnimation",
+          "properties": {}
+        },
+        {
+          "export": 43,
+          "name": "WidgetTree",
+          "class": "WidgetTree",
+          "properties": {
+            "RootWidget": 41
+          }
+        }
+      ],
+      "typed_properties": [
+        {
+          "owner_export": 1,
+          "name": "CallFunc_GetPlayerController_ReturnValue",
+          "class": "PlayerController"
+        },
+        {
+          "owner_export": 1,
+          "name": "CallFunc_K2_GetPawn_ReturnValue",
+          "class": "Pawn"
+        },
+        {
+          "owner_export": 1,
+          "name": "CallFunc_Map_Find_Value",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 1,
+          "name": "CallFunc_Array_Get_Item",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 1,
+          "name": "CallFunc_Get_Subtitle_Block_From_Pool_Subtitle_Block",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 1,
+          "name": "CallFunc_AddChildToVerticalBox_ReturnValue",
+          "class": "VerticalBoxSlot"
+        },
+        {
+          "owner_export": 8,
+          "name": "CallFunc_GetGameInstanceSubsystem_ReturnValue",
+          "class": "DispatchSettingsSubsystem"
+        },
+        {
+          "owner_export": 8,
+          "name": "CallFunc_GetCloudSettings_ReturnValue",
+          "class": "DispatchCloudSettings"
+        },
+        {
+          "owner_export": 10,
+          "name": "CallFunc_PlayAnimationReverse_ReturnValue",
+          "class": "UMGSequencePlayer"
+        },
+        {
+          "owner_export": 10,
+          "name": "CallFunc_PlayAnimationForward_ReturnValue",
+          "class": "UMGSequencePlayer"
+        },
+        {
+          "owner_export": 13,
+          "name": "CallFunc_Array_Get_Item",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 14,
+          "name": "Subtitle Block",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 14,
+          "name": "Pooled Widget",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 14,
+          "name": "CallFunc_GetOwningPlayer_ReturnValue",
+          "class": "PlayerController"
+        },
+        {
+          "owner_export": 14,
+          "name": "CallFunc_Create_ReturnValue",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 14,
+          "name": "CallFunc_Array_Get_Item",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 15,
+          "name": "Subtitle Block",
+          "class": "WBP_SubtitleBlock_C"
+        },
+        {
+          "owner_export": 18,
+          "name": "ExpandChoiceSpacing",
+          "class": "WidgetAnimation"
+        },
+        {
+          "owner_export": 18,
+          "name": "ChoiceSpacingSpacer",
+          "class": "Spacer"
+        },
+        {
+          "owner_export": 18,
+          "name": "CinematicsSpacer",
+          "class": "Spacer"
+        },
+        {
+          "owner_export": 18,
+          "name": "RootVBox",
+          "class": "VerticalBox"
+        },
+        {
+          "owner_export": 18,
+          "name": "ShiftSpacer",
+          "class": "Spacer"
+        },
+        {
+          "owner_export": 18,
+          "name": "ShiftSpacerTop",
+          "class": "Spacer"
+        },
+        {
+          "owner_export": 18,
+          "name": "SubtitleBlocksList",
+          "class": "VerticalBox"
+        },
+        {
+          "owner_export": 18,
+          "name": "WBP_StandardStorySafezone",
+          "class": "WBP_StandardStorySafezone_C"
+        }
+      ],
+      "function_hooks": [
+        {
+          "export": 1,
+          "name": "ExecuteUbergraph_WBP_SubtitlesWidget",
+          "script_bytes": 1930
+        },
+        {
+          "export": 2,
+          "name": "Construct",
+          "script_bytes": 18
+        },
+        {
+          "export": 3,
+          "name": "SetTextLocation",
+          "script_bytes": 18
+        },
+        {
+          "export": 4,
+          "name": "Destruct",
+          "script_bytes": 18
+        },
+        {
+          "export": 5,
+          "name": "BP_RemoveAllSubtitles",
+          "script_bytes": 18
+        },
+        {
+          "export": 6,
+          "name": "BP_RemoveSubtitle",
+          "script_bytes": 36
+        },
+        {
+          "export": 7,
+          "name": "BP_AddSubtitle",
+          "script_bytes": 54
+        },
+        {
+          "export": 8,
+          "name": "Get Root VBox Visbility",
+          "script_bytes": 380
+        },
+        {
+          "export": 9,
+          "name": "SetChoiceSpacerHeight",
+          "script_bytes": 86
+        },
+        {
+          "export": 10,
+          "name": "SetChoiceSpacerVisible",
+          "script_bytes": 92
+        },
+        {
+          "export": 11,
+          "name": "BP_SetSubtitlePosition",
+          "script_bytes": 410
+        },
+        {
+          "export": 12,
+          "name": "Format As Subtitle Text With Tags",
+          "script_bytes": 1008
+        },
+        {
+          "export": 13,
+          "name": "UpdateHasOutline",
+          "script_bytes": 452
+        },
+        {
+          "export": 14,
+          "name": "Get Subtitle Block From Pool",
+          "script_bytes": 484
+        },
+        {
+          "export": 15,
+          "name": "Release Subtitle Block to Pool",
+          "script_bytes": 71
+        },
+        {
+          "export": 16,
+          "name": "GetTransferToShiftVisibility",
+          "script_bytes": 23
+        },
+        {
+          "export": 17,
+          "name": "GetTransferToHackingVisibility",
+          "script_bytes": 23
+        }
+      ],
+      "culture_language_names": [],
+      "switcher_widgets": [],
+      "ordinary_text_widgets": [],
+      "scope_note": "Serialized data and bytecode names in these two exports only; inherited native behavior is not ruled out"
+    }
+  ]
+}

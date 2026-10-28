@@ -1,0 +1,107 @@
+{
+  "reviewer": "independent second opinion",
+  "reviewed_proposals": 46,
+  "flagged_proposals": 9,
+  "note": "Only flagged items are listed. All remaining proposals were checked against source text, available speaker and context; no game runtime claim.",
+  "flags": [
+    {
+      "target": "Shared",
+      "index": 1341,
+      "id": "Shared:Line:085B472C333D4258ABD04BB1D3038864",
+      "en": "Coop and Punch Up knew each other from before the Z-Team. Some people say they've been intimate.",
+      "before": "عرفت كوب وبانش أب بعضهما قبل فريق Z. يقول البعض إنهما أقاما علاقة حميمة.",
+      "proposed_after": "عرف كوب وبانش أب بعضهما قبل فريق Z. يقول البعض إنهما أقاما علاقة حميمة.",
+      "recommendation": "replace",
+      "recommended_after": "كوب وبانش أب كانا يعرفان بعضهما قبل فريق Z. يقول البعض إنهما أقاما علاقة حميمة.",
+      "reason": "كوب مؤنثة، فلا يجوز أن يكون حذف تاء الفعل وحده تصحيحًا لـ«عرفت كوب». وضع الاسمين قبل الفعل وتثنيته يتجنب الخطأ ويحافظ على معرفة كل منهما الآخر."
+    },
+    {
+      "target": "107",
+      "index": 479,
+      "id": "107:Line:53AB55357337493A89944A62E8863951",
+      "en": "They’re right, I don’t deserve anyone's forgiveness, anyone's help, anyone's love... |because I can never repay it. |Nothing I do will ever make up for what I’ve already done to you. |I’d hoped getting the Astral Pulse back would help but... |I couldn’t even do that. ",
+      "before": "إنهم محقون، لا أستحق مغفرة أحد ولا مساعدته ولا حبه... |لأنني لا أستطيع رد الجميل أبدًا. |لن يعوض أي شيء أفعله عما فعلته بك سابقًا. |أملت أن تفيد استعادة النبضة النجمية، لكن... |عجزت حتى عن ذلك. ",
+      "proposed_after": "إنهم محقون، لا أستحق مغفرة أحد ولا مساعدته ولا حبه... |لأنني لا أستطيع رد الجميل أبدًا. |لن يعوض أي شيء أفعله ما فعلته بك سابقًا. |أملت أن تفيد استعادة النبضة النجمية، لكن... |عجزت حتى عن ذلك. ",
+      "recommendation": "cancel",
+      "recommended_after": "إنهم محقون، لا أستحق مغفرة أحد ولا مساعدته ولا حبه... |لأنني لا أستطيع رد الجميل أبدًا. |لن يعوض أي شيء أفعله عما فعلته بك سابقًا. |أملت أن تفيد استعادة النبضة النجمية، لكن... |عجزت حتى عن ذلك. ",
+      "reason": "الفعل يعوض يتعدى بعن لمعنى التعويض عن الأذى أو الفعل؛ الجملة الأصلية صحيحة. حذف عن قد يوحي باستبدال الفعل نفسه ويضعف المعنى."
+    },
+    {
+      "target": "106",
+      "index": 624,
+      "id": "106:Line:3DD3AB9A68624EC8AF2B8EC22865F052",
+      "en": "Told you guys. Dude was one divorce away from a total robot uprising.",
+      "before": "قلت لكم. كان طلاق واحد يفصله عن ثورة روبوتات شاملة.",
+      "proposed_after": "قلت لكم. كان يفصله طلاق واحد عن ثورة روبوتات شاملة.",
+      "recommendation": "cancel",
+      "recommended_after": "قلت لكم. كان طلاق واحد يفصله عن ثورة روبوتات شاملة.",
+      "reason": "الجملة الأصلية صحيحة: طلاق اسم كان والجملة الفعلية «يفصله...» خبرها. التقديم المقترح تفضيل أسلوبي فحسب."
+    },
+    {
+      "target": "106",
+      "index": 318,
+      "id": "106:Line:51D580E3FF324A2BA6BD69BC13CADC44",
+      "en": "H-hope he doesn't tax me extra for t-this.",
+      "before": "آ-آمل ألا يزيد ضريبتي ل-لهذا.",
+      "proposed_after": "آ-آمل ألا يزيد ضريبتي ب-بسبب هذا.",
+      "recommendation": "cancel",
+      "recommended_after": "آ-آمل ألا يزيد ضريبتي ل-لهذا.",
+      "reason": "حرف اللام في «لهذا» صالح لبيان السبب، والتكرار المكتوب يعكس تلعثم Waterboy؛ التبديل إلى «ب-بسبب» لا يصلح خطأ نحويًا."
+    },
+    {
+      "target": "107",
+      "index": 237,
+      "id": "107:Line:BED28EFABA68436D86C5FE685CC79AFA",
+      "en": "Goddamn. Alright. Somebody’s a little fuckin’ impatient.",
+      "before": "اللعنة. حسنًا. أحدهم قليل الصبر اللعين.",
+      "proposed_after": "اللعنة. حسنًا. أحدهم نافد الصبر، اللعنة.",
+      "recommendation": "replace",
+      "recommended_after": "اللعنة. حسنًا. أحدهم متعجل قليلًا، اللعنة.",
+      "reason": "الأصل يصف شخصًا قليل الصبر قليلًا؛ «نافد الصبر» يوحي بنفاد الصبر تمامًا. البديل يحتفظ بدرجة الوصف والشتيمة بصورة طبيعية."
+    },
+    {
+      "target": "106",
+      "index": 628,
+      "id": "106:Line:52789A27EEDA4BA38A0604FC8E2EE42E",
+      "en": "Ugh, I wanna betray the Faction of Light so fucking bad.",
+      "before": "آخ، أريد خيانة فصيل النور بشدة لعينة.",
+      "proposed_after": "آخ، أريد خيانة فصيل النور بشدة، بحق اللعنة.",
+      "recommendation": "replace",
+      "recommended_after": "آخ، أريد خيانة فصيل النور بشدة، بحق الجحيم.",
+      "reason": "«بحق اللعنة» صياغة متكلفة هنا؛ البديل تعبير معروف في دليل المشروع ويحفظ الحدة."
+    },
+    {
+      "target": "107",
+      "index": 293,
+      "id": "107:Line:488F06ECA15342CBBDD23664B3F9C6A5",
+      "en": "I know what it's like to lose a friend on this team... It fucking sucks. Hope I can help.",
+      "before": "أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم بشكل لعين. آمل أن أساعد.",
+      "proposed_after": "أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم بحق اللعنة. آمل أن أساعد.",
+      "recommendation": "replace",
+      "recommended_after": "أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم للغاية، اللعنة. آمل أن أساعد.",
+      "reason": "صياغة عربية أكثر سلاسة من «بحق اللعنة»، وتحافظ على شدة العبارة."
+    },
+    {
+      "target": "107",
+      "index": 294,
+      "id": "107:Line:DEB76F371DD446D4B420D84E8C78DC6B",
+      "en": "I know you’re a kid and you’re sad and shit, but you fuckin’ suck, okay? |You understand what I'm saying?",
+      "before": "أعرف أنك طفل وحزين وما شابه، لكنك سيئ بشكل لعين، حسنًا؟ |أتفهم ما أقوله؟",
+      "proposed_after": "أعرف أنك طفل وحزين وما شابه، لكنك سيئ بحق اللعنة، حسنًا؟ |أتفهم ما أقوله؟",
+      "recommendation": "replace",
+      "recommended_after": "أعرف أنك طفل وحزين وما شابه، لكنك سيئ جدًا، اللعنة، حسنًا؟ |أتفهم ما أقوله؟",
+      "reason": "صياغة عربية أكثر سلاسة من «بحق اللعنة» مع حفظ شدة العبارة وعلامة تقسيم الحوار."
+    },
+    {
+      "target": "107",
+      "index": 345,
+      "id": "107:Line:4A94A0BD347045419AD5230BB8CFC4BF",
+      "en": "It’s not that, it’s just... a lot. A whole fuckin’ lot.",
+      "before": "ليس هذا، بل الأمر... كثير. كثير بشكل لعين.",
+      "proposed_after": "ليس هذا، بل الأمر... كثير. كثير جدًا، بحق اللعنة.",
+      "recommendation": "replace",
+      "recommended_after": "ليس هذا، بل الأمر... كثير. كثير جدًا، اللعنة.",
+      "reason": "صياغة عربية أكثر سلاسة من «بحق اللعنة» مع حفظ التكرار والحدة."
+    }
+  ]
+}

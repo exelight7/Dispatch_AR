@@ -1,0 +1,1210 @@
+[
+ {
+  "movie": "Dispatch/Content/Movies/Ep101/101_Credits.webm",
+  "bytes": 37027184,
+  "duration_s": 471.17,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 73,
+  "ocr_samples": [
+   {
+    "frame": "101_Credits_0002.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "101_Credits_0004.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLES MARCOLIM"
+    ]
+   },
+   {
+    "frame": "101_Credits_0005.png",
+    "text": [
+     "LeadProducer",
+     "NATALIE HERMAN"
+    ]
+   },
+   {
+    "frame": "101_Credits_0007.png",
+    "text": [
+     "LANCECANTSTOPOLIS",
+     "JAREDGOLDSTEIN"
+    ]
+   },
+   {
+    "frame": "101_Credits_0008.png",
+    "text": [
+     "AnimationProducer",
+     "TEUNISDERAAT",
+     "Gameplay/TechnologyProducer",
+     "ANASTASIAKOVALEVA"
+    ]
+   },
+   {
+    "frame": "101_Credits_0009.png",
+    "text": [
+     "Senior Ui/UX Designer",
+     "ROBYN WADEY",
+     "LAP PUN CHEUNG"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep101/SDN_EP01_SQ0015-0010x.webm",
+  "bytes": 17361597,
+  "duration_s": 21.83,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep101/SDN_EP01_SQ0080-0030x.webm",
+  "bytes": 3252875,
+  "duration_s": 19.03,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep102/102_Credits.webm",
+  "bytes": 39043768,
+  "duration_s": 480.0,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 75,
+  "ocr_samples": [
+   {
+    "frame": "102_Credits_0001.png",
+    "text": [
+     "Directedby",
+     "NICK HERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "102_Credits_0002.png",
+    "text": [
+     "ArtDirector",
+     "DEREKSTRATTON"
+    ]
+   },
+   {
+    "frame": "102_Credits_0003.png",
+    "text": [
+     "nimation Direct",
+     "ANIKET NATEKAR"
+    ]
+   },
+   {
+    "frame": "102_Credits_0004.png",
+    "text": [
+     "Lead Programmer",
+     "SETHKINGSLEY"
+    ]
+   },
+   {
+    "frame": "102_Credits_0005.png",
+    "text": [
+     "AARONPAUL"
+    ]
+   },
+   {
+    "frame": "102_Credits_0006.png",
+    "text": [
+     "LAURA BAILEY"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep103/103_Credits.webm",
+  "bytes": 36390283,
+  "duration_s": 471.5,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 74,
+  "ocr_samples": [
+   {
+    "frame": "103_Credits_0002.png",
+    "text": [
+     "Writtenby",
+     "SUZEEMATSON",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "103_Credits_0003.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "103_Credits_0004.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLES MARCOLIM"
+    ]
+   },
+   {
+    "frame": "103_Credits_0005.png",
+    "text": [
+     "LeadProducer",
+     "NATALIE HERMAN"
+    ]
+   },
+   {
+    "frame": "103_Credits_0007.png",
+    "text": [
+     "ERIN YVETTE"
+    ]
+   },
+   {
+    "frame": "103_Credits_0008.png",
+    "text": [
+     "ALANAHPEARCE",
+     "LANCECANTSTOPOLIS",
+     "MAYANNABERRIN"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep103/SDN_EP03_SQ0070-0040a.webm",
+  "bytes": 1710404,
+  "duration_s": 7.57,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep103/SDN_EP03_SQ0070-0330b.webm",
+  "bytes": 1111741,
+  "duration_s": 6.2,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep104/104_Credits.webm",
+  "bytes": 35835172,
+  "duration_s": 498.03,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 79,
+  "ocr_samples": [
+   {
+    "frame": "104_Credits_0001.png",
+    "text": [
+     "Directedby",
+     "NICK HERMAN"
+    ]
+   },
+   {
+    "frame": "104_Credits_0003.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "104_Credits_0004.png",
+    "text": [
+     "Lead Programmer",
+     "SETHKINGSLEY"
+    ]
+   },
+   {
+    "frame": "104_Credits_0005.png",
+    "text": [
+     "LeadProducer",
+     "NATALIE HERMAN"
+    ]
+   },
+   {
+    "frame": "104_Credits_0006.png",
+    "text": [
+     "LAURABAILEY"
+    ]
+   },
+   {
+    "frame": "104_Credits_0007.png",
+    "text": [
+     "SEAN MCLOUGHLIN",
+     "CHARLESWHITE"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep104/ChoiceStats/104_DateNight_MoviesWithInvisigal.webm",
+  "bytes": 458360,
+  "duration_s": 4.63,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep104/SDN_EP04_SQ0050-0040c.webm",
+  "bytes": 1371492,
+  "duration_s": 9.27,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep105/105_Credits.webm",
+  "bytes": 37718512,
+  "duration_s": 499.13,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 79,
+  "ocr_samples": [
+   {
+    "frame": "105_Credits_0001.png",
+    "text": [
+     "Directedby",
+     "DENNISLENART",
+     "CHRISREBBERT"
+    ]
+   },
+   {
+    "frame": "105_Credits_0003.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "105_Credits_0004.png",
+    "text": [
+     "Lead Programmer",
+     "SETHKINGSLEY"
+    ]
+   },
+   {
+    "frame": "105_Credits_0005.png",
+    "text": [
+     "LeadProducer",
+     "NATALIE HERMAN"
+    ]
+   },
+   {
+    "frame": "105_Credits_0006.png",
+    "text": [
+     "LAURABAILEY"
+    ]
+   },
+   {
+    "frame": "105_Credits_0007.png",
+    "text": [
+     "SEAN MCLOUGHLIN",
+     "CHARLESWHITE"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep105_SB/SDN_EP05_SQ0010-0005x.webm",
+  "bytes": 167722,
+  "duration_s": 16.47,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep105_SB/SDN_EP05_SQ0010-0020f.webm",
+  "bytes": 1364012,
+  "duration_s": 9.77,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep106/106_Credits.webm",
+  "bytes": 36345382,
+  "duration_s": 479.93,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 76,
+  "ocr_samples": [
+   {
+    "frame": "106_Credits_0001.png",
+    "text": [
+     "Directedby",
+     "CHRISREBBERT"
+    ]
+   },
+   {
+    "frame": "106_Credits_0003.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "106_Credits_0004.png",
+    "text": [
+     "Lead Programmer",
+     "SETHKINGSLEY"
+    ]
+   },
+   {
+    "frame": "106_Credits_0005.png",
+    "text": [
+     "LeadProducer",
+     "NATALIE HERMAN"
+    ]
+   },
+   {
+    "frame": "106_Credits_0006.png",
+    "text": [
+     "LAURABAILEY"
+    ]
+   },
+   {
+    "frame": "106_Credits_0007.png",
+    "text": [
+     "SEAN MCLOUGHLIN",
+     "CHARLESWHITE"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep107/107_Credits.webm",
+  "bytes": 37268525,
+  "duration_s": 488.1,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 78,
+  "ocr_samples": [
+   {
+    "frame": "107_Credits_0001.png",
+    "text": [
+     "Directedby",
+     "NICK HERMAN"
+    ]
+   },
+   {
+    "frame": "107_Credits_0003.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "107_Credits_0004.png",
+    "text": [
+     "Lead Programmer",
+     "SETHKINGSLEY"
+    ]
+   },
+   {
+    "frame": "107_Credits_0005.png",
+    "text": [
+     "LeadProducer",
+     "NATALIE HERMAN"
+    ]
+   },
+   {
+    "frame": "107_Credits_0006.png",
+    "text": [
+     "LAURABAILEY"
+    ]
+   },
+   {
+    "frame": "107_Credits_0007.png",
+    "text": [
+     "SEAN MCLOUGHLIN",
+     "CHARLESWHITE"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_A.webm",
+  "bytes": 258976627,
+  "duration_s": 534.48,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_A_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_A_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_A_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_A_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_A_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_A_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICK HERMAN",
+     "DENNIS LENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_B.webm",
+  "bytes": 257688150,
+  "duration_s": 540.0,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_B_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_B_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_B_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_B_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_B_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_B_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICK HERMAN",
+     "DENNIS LENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_C.webm",
+  "bytes": 257655049,
+  "duration_s": 535.58,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_C_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_C_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_C_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_C_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_C_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_C_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_D.webm",
+  "bytes": 258084824,
+  "duration_s": 537.78,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_D_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_D_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_D_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_D_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_D_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_D_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICKHERMAN",
+     "DENNIS LENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_E.webm",
+  "bytes": 257637985,
+  "duration_s": 540.0,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_E_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_E_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_E_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_E_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_E_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_E_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICK HERMAN",
+     "DENNISLENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_F.webm",
+  "bytes": 257632423,
+  "duration_s": 540.0,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_F_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_F_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_F_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_F_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_F_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_F_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICK HERMAN",
+     "DENNISLENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_G.webm",
+  "bytes": 257958167,
+  "duration_s": 538.9,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_G_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_G_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_G_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_G_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_G_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_G_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICK HERMAN",
+     "DENNIS LENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/Credits_108_H.webm",
+  "bytes": 257578901,
+  "duration_s": 538.9,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 87,
+  "ocr_samples": [
+   {
+    "frame": "Credits_108_H_0001.png",
+    "text": [
+     "DISPATCH"
+    ]
+   },
+   {
+    "frame": "Credits_108_H_0002.png",
+    "text": [
+     "Directedby",
+     "NICKHERMAN",
+     "DENNISLENART"
+    ]
+   },
+   {
+    "frame": "Credits_108_H_0003.png",
+    "text": [
+     "Writtenby",
+     "PIERRESHORETTE"
+    ]
+   },
+   {
+    "frame": "Credits_108_H_0004.png",
+    "text": [
+     "AnimationDirector",
+     "ANIKETNATEKAR"
+    ]
+   },
+   {
+    "frame": "Credits_108_H_0005.png",
+    "text": [
+     "LeadGameDesigner",
+     "CHARLESMARCOLIM",
+     "LeadProgrammer",
+     "SETHKINGSLEY",
+     "LeadProducer",
+     "NATALIEHERMAN"
+    ]
+   },
+   {
+    "frame": "Credits_108_H_0006.png",
+    "text": [
+     "CreativeDirection",
+     "NICK HERMAN",
+     "DENNISLENART"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/SDN_EP08_SQ0030-0050b.webm",
+  "bytes": 4088416,
+  "duration_s": 13.03,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108/SDN_EP08_SQ0130-0175e.webm",
+  "bytes": 1739374,
+  "duration_s": 4.37,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108_MA/SDN_EP08_SQ0060-0056x.webm",
+  "bytes": 39883453,
+  "duration_s": 56.53,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Ep108_MA/SDN_EP08_SQ0080-0170x.webm",
+  "bytes": 64714862,
+  "duration_s": 60.7,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Menus/FTUE_QTE.webm",
+  "bytes": 324328,
+  "duration_s": 1.5,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Menus/MainMenuBackdrop.webm",
+  "bytes": 13554880,
+  "duration_s": 160.13,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 4,
+  "ocr_samples": [
+   {
+    "frame": "MainMenuBackdrop_0022.png",
+    "text": [
+     "SON"
+    ]
+   },
+   {
+    "frame": "MainMenuBackdrop_0023.png",
+    "text": [
+     "SLON"
+    ]
+   },
+   {
+    "frame": "MainMenuBackdrop_0025.png",
+    "text": [
+     "SEN"
+    ]
+   },
+   {
+    "frame": "MainMenuBackdrop_0026.png",
+    "text": [
+     "SON"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Menus/MainMenuBG_101.webm",
+  "bytes": 19316431,
+  "duration_s": 110.17,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 18,
+  "ocr_samples": [
+   {
+    "frame": "MainMenuBG_101_0001.png",
+    "text": [
+     "PHENC",
+     "OBSIDLAN INK"
+    ]
+   },
+   {
+    "frame": "MainMenuBG_101_0002.png",
+    "text": [
+     "PHENC",
+     "OBSIDLAN INK"
+    ]
+   },
+   {
+    "frame": "MainMenuBG_101_0003.png",
+    "text": [
+     "PHEND",
+     "OBSIDLAN INK"
+    ]
+   },
+   {
+    "frame": "MainMenuBG_101_0004.png",
+    "text": [
+     "PHENC",
+     "OBSIDLANINK"
+    ]
+   },
+   {
+    "frame": "MainMenuBG_101_0005.png",
+    "text": [
+     "PHENC",
+     "OBSIDLAN INK"
+    ]
+   },
+   {
+    "frame": "MainMenuBG_101_0006.png",
+    "text": [
+     "PHENC",
+     "OBSIDIANINK"
+    ]
+   }
+  ]
+ },
+ {
+  "movie": "Dispatch/Content/Movies/Menus/SNF_ThankYouScreen_Loop.webm",
+  "bytes": 5531701,
+  "duration_s": 9.33,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 0,
+  "ocr_samples": []
+ },
+ {
+  "movie": "Dispatch/Content/Movies/StartupMovies/Default_Startup.webm",
+  "bytes": 949115,
+  "duration_s": 10.5,
+  "streams": [
+   {
+    "type": "Video",
+    "codec": "vp9 (Profile 0)"
+   }
+  ],
+  "subtitle_streams": 0,
+  "ocr_frames_with_text": 1,
+  "ocr_samples": [
+   {
+    "frame": "Default_Startup_0002.png",
+    "text": [
+     "poy"
+    ]
+   }
+  ]
+ }
+]

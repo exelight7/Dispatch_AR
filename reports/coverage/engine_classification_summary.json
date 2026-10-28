@@ -1,0 +1,6602 @@
+{
+  "source": "extracted/Engine/Content/Localization/Engine/en/Engine.locres",
+  "source_sha256": "06cb30ea757da9e7edc0fa0ea1b500d0c7e311c322fac24e907f00c052ba7e76",
+  "exe_sha256": "365637a77d4b74a61d198a9927e3dcd437bf3be2247b96fcbe5c2e851ac14923",
+  "total_records": 20282,
+  "selected_scope": 464,
+  "classified_outside_scope": 19818,
+  "classes": {
+    "DEVELOPMENT_ONLY_CONFIRMED": 4847,
+    "EDITOR_ONLY_CONFIRMED": 13418,
+    "RUNTIME_LIKELY": 21,
+    "UNUSED_OR_UNREACHABLE_CONFIRMED": 1532
+  },
+  "positive_control": {
+    "selected_records_with_key_and_source_in_exe": 447,
+    "selected_total": 464
+  },
+  "engine_packages_searched": false,
+  "runtime_confirmed_meaning": "Compiled into (or configured for) the shipping build and addressed to the player; display is still NOT runtime-tested.",
+  "namespaces": {
+    "": {
+      "EDITOR_ONLY_CONFIRMED": 618,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5,
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "A3Nodes": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "AIBlueprintHelperLibrary": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "AIModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ALevelVariantSetsActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ARKit": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "AVisualLoggerHUD": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "AbcFile": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "AbcImporter": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AbcImporterUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "Abilities": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ActionMappingDetails": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "Actor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ActorComponent": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ActorDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ActorEditorUtils": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ActorFactoryChaosSolver": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ActorFactoryDatasmithScene": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ActorFactoryDestructible": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "ActorFactoryFieldSystem": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ActorFactoryGeometryCollection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ActorLayerPropertyTypeCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "ActorPalette": {
+      "EDITOR_ONLY_CONFIRMED": 30
+    },
+    "ActorSequence": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ActorSequenceComponentCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ActorSequenceEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ActorSequenceEditorSummoner": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "AddNewGameplayTagSourceWidget": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "AddNewGameplayTagWidget": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "AddNewRestrictedGameplayTagWidget": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "Adjust": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "AdvancedCopyReportDialog": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "AjaDeviceProvider": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "AjaMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "AjaMediaSourceDetailsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AjaMediaTimecodeConfigurationCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "AjaMediaTimecodeReferenceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "AlembicImportFactory": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "AlembicImportOptions": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "AmbientSound": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "Analytics": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "AnalyticsMulticast": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "AndroidCamera": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "AndroidLicenseDialog": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "AndroidMisc": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "AndroidRuntimeSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 54
+    },
+    "AnimGraphNode_ControlRig": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "AnimInstance": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "AnimNode_Inertialization": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AnimNode_SequencePlayer": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "AnimNode_StateMachine": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AnimNodesTrack": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "AnimNotifiesTrack": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "AnimNotify": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "AnimNotifyState_Trail": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "AnimSequence": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "AnimSequenceBase": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AnimSequenceExporterUSD": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AnimationModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AnimationProvider": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "AnimationSharedData": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "AnimationSharingSetupCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "AnimationTickRecordsTrack": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "Anon": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "AppIconWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AppleARKitLiveLink": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "AppleARKitPoseTrackingLiveLink": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "AppleDynamicRHI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "AssetActions_ChaosCacheCollection": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AssetActions_GeometryCollectionCache": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AssetCheck": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "AssetContextMenu": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AssetFixUpRedirectors": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "AssetManagementBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 29
+    },
+    "AssetManager": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AssetManagerEditor": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "AssetPreviewWidget": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AssetRegistry": {
+      "EDITOR_ONLY_CONFIRMED": 1,
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "AssetRenameManager": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "AssetTools": {
+      "EDITOR_ONLY_CONFIRMED": 69
+    },
+    "AssetTypeActions": {
+      "EDITOR_ONLY_CONFIRMED": 456
+    },
+    "AssetTypeActions_DMXEditorLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AssetTypeActions_DataprepAsset": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AssetTypeActions_DataprepAssetInstance": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AssetTypeActions_DataprepAssetInterface": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "AssetTypeActions_DatasmithScene": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "AssetTypeActions_Material": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "AssetTypeActions_NiagaraParameterCollection": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AssetTypeActions_OpenColorIOConfiguration": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "AssetTypeActions_StaticMesh": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "AssetVTConversion": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "AssetValidation": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "AtlasVisualizer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "AttributeDetailsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "AudioDebugger": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "AudioModulation": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "AudioSettings": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "AudioSynesthesiaEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "Automation": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "AutomationExportMenu": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "AutomationTest": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 56
+    },
+    "AutomationTestItem": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "AutomationTesting": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "AxF Importer": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "AxFOptionsWindow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "BasicMathExpressionEvaluator": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "BlackmagicDeviceProvider": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 9
+    },
+    "BlackmagicMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "BlendSpaceBase": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "Blueprint": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "BlueprintEditor": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "BlueprintMaterialTextureLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "BlueprintRetessellation": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "BodyInstance": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "BpAutomation": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "BreakActions": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "BreakMaterialAttributes": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "BspMode": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "BspPalette": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "CLionSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "CacheCollectionDetails": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "CacheEditorPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "CacheManagerActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "CacheManagerDetails": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "CalibrationPointArucosForWallDetailsRow": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "CameraAnimToTemplateSequenceConverter": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "CameraCalibrationCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CameraCalibrationCoreEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CameraCalibrationCurveEditorPanel": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "CameraCalibrationEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "CameraCalibrationEditorPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CameraCalibrationMenu": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "CameraCalibrationPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CameraCalibrationSteps": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "CameraCalibrationStepsController": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "CameraCalibrationToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "CameraCalibrationWidgetHelpers": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CameraComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CameraLensDistortionAlgoCheckerboard": {
+      "EDITOR_ONLY_CONFIRMED": 26
+    },
+    "CameraNodalOffsetAlgoAruco": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "CameraNodalOffsetAlgoCheckerboard": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "CameraNodalOffsetAlgoPoints": {
+      "EDITOR_ONLY_CONFIRMED": 52
+    },
+    "CameraShakePreviewer": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "CameraShakeSourceComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CanCreateActor": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "CascadeToNiagaraConverterModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ChaosCache": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "ChaosCacheEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ChaosCacheManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ChaosDebugSubstepControl": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ChaosEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ChaosNiagaraDestructionDataInterface": {
+      "EDITOR_ONLY_CONFIRMED": 20
+    },
+    "ChaosSelectedRigidBody": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "ChaosSimulationEditorExtender": {
+      "EDITOR_ONLY_CONFIRMED": 37
+    },
+    "ChaosSolverActor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "CheatManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ChunkDownloader": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "CineCameraComponent": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ClipsMetaData": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 16
+    },
+    "ClothingAsset": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "ClothingMeshUtils": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ClusterMeshCommand": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CodeAssetTypeActions": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CodeEditor": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "CodeLiteSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "CodeProjectEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CollapseActions": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "CollapseAllHierarchyCommand": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "CollapseSelectedHierarchyCommand": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "CollectionManager": {
+      "EDITOR_ONLY_CONFIRMED": 55
+    },
+    "CollectionParameterViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "CollisionAnalyzer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "CollisionAnalyzerModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "ColorParameterEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "ColorPicker": {
+      "EDITOR_ONLY_CONFIRMED": 34
+    },
+    "ColorThemesViewer": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "ColorTrashWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CommonBoundActionButton": {
+      "RUNTIME_LIKELY": 1
+    },
+    "CommonDateTimeTextBlock": {
+      "RUNTIME_LIKELY": 2
+    },
+    "CommonDisplayMode": {
+      "EDITOR_ONLY_CONFIRMED": 84
+    },
+    "CommonFrameRates": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 28
+    },
+    "CommonInputPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "CommonUI": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "CommonUIPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "CommonUIUtils": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "CompElement": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "CompElementBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "CompElementEdCommands": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "CompElementEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CompElementManager": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CompElementPickerWindow": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "CompElementPreviewPane": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "CompElementsView": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "CompareNode": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "CompositeCurveTables": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CompositeDataTables": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ComposureDetailCustomizations": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "ComposureExportTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "ComposurePostMoveSettingsPropertyTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "CompressionMemorySummary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "Concert": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "ConcertActivityStream": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ConcertClient": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 30
+    },
+    "ConcertClientInfo": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "ConcertClientTransactionBridge": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ConcertClientTransactionManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "ConcertClientWorkspace": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "ConcertDataStoreTests": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "ConcertFrontend": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 33
+    },
+    "ConcertFrontend.PersistPanel": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "ConcertFrontendUtils": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "ConcertInstanceInfo": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ConcertMain": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ConcertPresenceManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "ConcertServer": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 22
+    },
+    "ConcertServerInfo": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ConcertSessionClientInfo": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ConcertSessionInfo": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "ConcertSettingsUtils": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "ConcertSyncActivitySummary": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 51
+    },
+    "ConcertTakeRecorder": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "ConcertTakeRecorderClientSessionCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "ConcertTakeRecorderCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ConcertVersion": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "ConsoleSlateDebugger": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 19
+    },
+    "ConstraintComponent": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "ConstraintInstance": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "ContentBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 182
+    },
+    "ContentBrowserAssetDataSource": {
+      "EDITOR_ONLY_CONFIRMED": 28
+    },
+    "ContentBrowserClassDataSource": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "ContentBrowserFileDataSource": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "Contexts": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 55
+    },
+    "ControlPointMeshActor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ControlRig": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ControlRigBlueprintActions": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "ControlRigBlueprintFactory": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "ControlRigCompilerDetails": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ControlRigDeveloperModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ControlRigDrawingDetails": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "ControlRigEditMode": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ControlRigEditor": {
+      "EDITOR_ONLY_CONFIRMED": 43
+    },
+    "ControlRigEditorModes": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ControlRigEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 76
+    },
+    "ControlRigElementDetails": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "ControlRigGizmoLibraryFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ControlRigGraphNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ControlRigGraphSchema": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ControlRigRootCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ControlRigSequencerTrackFilters": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "ControlRigVariableDetailsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "Controller": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ConversationDatabase": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "ConversationEditor": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "ConversationEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ConversationEditorFactories": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "ConversationEditorToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "ConversationGraph": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "ConversationInstance": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "Core": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 32,
+      "DEVELOPMENT_ONLY_CONFIRMED": 23
+    },
+    "Core.MessageLog": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "Core.Tests.TextFormatTest": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 13
+    },
+    "CoreAsyncTaskNotification": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "CoreSettings": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CoreTechRetessellateAction": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 9
+    },
+    "CoreUObject": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "CrashReport": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "CrashReportClient": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 21
+    },
+    "CryptoKeys": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "CryptoKeysModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "CryptoKeysSettingsDetails": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "CurveEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "CurveEditorToolCommands": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "CutMultipleWithMultiplePlanes": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "DMXCustomizeDetails": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "DMXEditorApplicationMode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "DMXEditorTabFactories": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DMXEntityFixturePatch": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DMXEntityFixtureTypeFunctionPropertiesDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXEntityFixtureTypeFunctionsDetails": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DMXEntityFixtureTypeModePropertiesDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXEntityFixtureTypeModesDetails": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "DMXFixturePatchNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXFixtureTypeSharedData": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "DMXGDTFImporter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXLibraryPortReferencesCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "DMXLibrarySection": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "DMXLibraryTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "DMXPixelMappingDetailCustomization_FixtureGroup": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXPixelMappingDetailCustomization_Matrix": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DMXPixelMappingDetailCustomization_Renderer": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DMXPixelMappingEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXPixelMappingFixtureGroupComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXPixelMappingMatrixComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXPixelMappingMatrixPixelComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXPixelMappingOutputComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DMXPixelMappingScreenComponent": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DMXPixelMappingToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "DMXPortConfigCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DMXPortConfigCustomizationBase": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DMXProtocolModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DMXWorkflowTabFactory": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "DNAAssetImportFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DNAAssetImportWindow": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "DataRegistry": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "DataRegistryEditor": {
+      "EDITOR_ONLY_CONFIRMED": 28
+    },
+    "DataValidationManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 11
+    },
+    "DataValidationModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 15
+    },
+    "DataprepActionK2Node": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DataprepAsset": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DataprepAssetInterface": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DataprepAssetProducers": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DataprepAssetView": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DataprepBoolFetcherLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepBoolFilter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepContentConsumer": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepCoreUtils": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "DataprepDragAndDrop": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "DataprepEditor": {
+      "EDITOR_ONLY_CONFIRMED": 52
+    },
+    "DataprepEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DataprepEditorUtils": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "DataprepEditorViewport": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "DataprepEditorViewportCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepFloatFetcherLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepFloatFilter": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DataprepGraphActionNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepGraphEditor": {
+      "EDITOR_ONLY_CONFIRMED": 34
+    },
+    "DataprepIntegerFetcherLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DataprepIntegerFilter": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "DataprepIsClassOfFetcher": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepJacketingFilter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepLibraries": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DataprepObjectSelectionFilter": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DataprepOperation": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "DataprepOperators": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepPreviewAssetColumn": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DataprepPreviewOutlinerColumn": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DataprepProducersWidget": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "DataprepSelectionTransform": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepSelectors": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepSlateHelper": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DataprepSringFilter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepSringsArrayFilter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DataprepStats": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "DataprepStringFetcherLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DataprepStringFilter": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DataprepStringsArrayFetcherLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DataprepTessellationOperation": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DatasmithActions": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DatasmithActorImporter": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "DatasmithAreaLightActorDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithBlueprintLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DatasmithC4DImportPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DatasmithCameraImporter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithConsumer": {
+      "EDITOR_ONLY_CONFIRMED": 46
+    },
+    "DatasmithContentEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithDataprepFetcher": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithDisplayHelper": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithEditingOperations": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DatasmithEditingOperationsExperimental": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithFileProducer": {
+      "EDITOR_ONLY_CONFIRMED": 36
+    },
+    "DatasmithImportFactory": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DatasmithImportPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "DatasmithImporter": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "DatasmithImporterUtils": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DatasmithLevelSequenceImporter": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DatasmithLevelVariantSetsImporter": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DatasmithLightImporter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithLoggerNotification": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DatasmithMaterialImporter": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DatasmithMeshOperations": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "DatasmithOpenNurbsTranslator": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DatasmithOptionsWindow": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DatasmithSceneDetails": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DatasmithStaticMeshImporter": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "DatasmithTextureImport": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "DatasmithVREDImporter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DefaultLocalizationServiceProvider": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DefaultSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "DefaultSourceControlProvider": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DelayAction": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "DerivedDataBackendGraph": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DerivedDataCache": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "DesktopPlatform": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "DestructibleMeshEditor": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "Developer.MessageLog": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "DeveloperToolbox": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "Dialogs": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "DirectLinkUI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "DisasterRecoveryClient": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "DisasterRecoverySessionManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "DisasterRecoveryTasks": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "DiscoveringAssetsDialog": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DisplayCluster": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DisplayClusterCameraComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DisplayClusterConfigurator": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DisplayClusterConfiguratorBlueprintEditor": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "DisplayClusterConfiguratorCompiler": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "DisplayClusterConfiguratorComponentClassCombo": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DisplayClusterConfiguratorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DisplayClusterConfiguratorTabSpawners": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "DisplayClusterConfiguratorToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DisplayClusterConfiguratorUtils": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "DisplayClusterConfiguratorVersionUtils": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "DisplayClusterEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DisplayClusterEditorModes": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DisplayClusterICVFXCameraComponentDetailsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "DisplayClusterInterception": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DisplayClusterRootActorDetailsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "DisplayClusterSCSEditorViewport": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "DistortionHandlerPickerDetailCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "DlgNewGeneric": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "DockTab": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "DockTabStack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9,
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "DynamicRHI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ECollectionShareType": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "ECollectionStorageMode": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "EdGraph": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "EdGraphCompiler": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "EditorAssetAutomationTests": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "EditorAutomation": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "EditorFactories": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "EditorLevelLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "EditorLightingBuildPromotionTests": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "EditorModes": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "EditorNotification": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "EditorPythonRunner": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "EditorSkeletalMeshLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "EditorStaticMeshLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "EditorValidationSubsystem": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "ElectraPlayerFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "Emitter": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "EmitterEditorViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "EmitterHandleViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "EnableOrDisableGroup": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "Engine": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 28,
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "Engine.BufferVisualizationMaterials": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 21,
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "EngineScalabiltySettings": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "EngineUtils": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "EnvQueryGenerator": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 52,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "EnvQueryTestDetails": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "EnvTraceDataCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "EnvironmentQueryEditor": {
+      "EDITOR_ONLY_CONFIRMED": 36
+    },
+    "ErrorChecking": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 19
+    },
+    "EvaluateLiveLinkFrame": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "Events": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "ExampleLayoutTest": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 30
+    },
+    "ExclusiveLoadPackageTimeTracker": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ExpressionParser": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "ExpressionParserExamples": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ExternalImagePicker": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "EyeDroppperButton": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "FAndroidCameraFactoryModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "FAndroidDeviceDetectionModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FAndroidMediaFactoryModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "FAndroidPlatformEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "FAndroidTargetPlatform": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "FAssetSearchManager": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FAssetSearchModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FAvfMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "FBXReimport": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FBaseMediaSourceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "FBinkMediaPlayerCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "FBinkMediaPlayerEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "FBinkMediaPlayerEditorToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FBlueprintDifferenceTreeEntry": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FBufferVisualizationData": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "FChaosClothWeightedValueCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FCompElementDragDropOp": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FCompElementEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FControlRigParameterTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 59
+    },
+    "FConversationCompiler": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FDMXEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FDMXEditorUtils": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "FDMXLibraryRecorderAddAllPatchesButtonCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FDMXPixelMappingDragDropOp": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FDMXPixelMappingEditorUtils": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "FDMXPixelMappingToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FDMXPortSelectorItem": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FDataChartsEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FDataRegistryRowUtils": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FDeviceBrowserDefaultPlatformWidgetCreator": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FDeviceManagerModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FDisplayClusterConfiguratorClusterNodeDragDropOp": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FDisplayClusterConfiguratorClusterUtils": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "FDisplayClusterConfiguratorDetailCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 28
+    },
+    "FDisplayClusterConfiguratorPolicyDetailCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FDisplayClusterConfiguratorPolicyParameterCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 29
+    },
+    "FDisplayClusterConfiguratorTreeItemClusterNode": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "FDisplayClusterConfiguratorTreeItemHost": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "FDisplayClusterConfiguratorTreeItemViewport": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FDisplayClusterConfiguratorValidatedDragDropOp": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FDisplayClusterConfiguratorViewCluster": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "FDisplayClusterConfiguratorViewLog": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FDisplayClusterConfiguratorViewOutputMapping": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FDisplayClusterConfiguratorViewTree": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FDisplayClusterConfiguratorViewportDragDropOp": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FEditorSourceFilterService": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "FEnvQueryCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FEventGraphState": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "FFileMediaSourceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FFractureEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "FFractureEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FFrameRate": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FGameplayAbilitiesEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FGameplayCueTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "FGameplayTagContainer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "FGeometryCacheTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FGeometryCollectionTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FGizmoEdMode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FGoogleARCoreServicesModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FGroomCacheTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FHLMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FHoloLensPlatformEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FIOSPlatformEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "FImgMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FImgMediaPlayer": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FImgMediaSourceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "FInputScaleBias": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "FInsightsCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FInsightsSourceFilteringModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "FInterpolateComponentToAction": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FLODUtilities_UpdateAlternateSkinWeights": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FLauncherTask": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FLevelSnapshotsEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FLevelSnapshotsToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "FLinuxTargetPlatformModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FLiveLinkCurveDebugUIModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "FLiveLinkSection": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "FLocationServicesAndroidEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FLocationServicesIOSEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FLogVisualizerModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FLuminPlatformEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "FMacTargetPlatformModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FMagicLeapCameraPreviewFactoryModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "FMagicLeapMediaCodecFactoryModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "FMagicLeapMediaFactoryModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "FManifestUpdateHelper": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "FMediaPlayerEditorToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "FMediaPlayerPropertyTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FMediaPlaylistEditorToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FMediaThumbnailSection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FMediaTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FMessagingDebuggerModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "FMfMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FMfMediaSession": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "FModelingModeAssetAPI": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FModelingToolsEditorMode": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FModelingToolsEditorModeModule": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FModelingToolsEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "FModuleManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FMotionTrailEditorModeEdModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FMovieRenderPipelineEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "FMovieSceneLiveLinkSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "FNetworkPredictionInsightsModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FNetworkPredictionModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FNiagaraComponentRendererPropertiesDetails": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "FNiagaraConstants": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 73
+    },
+    "FNiagaraDataInterfaceDetailsBase": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FNiagaraDataInterfaceGrid2DCollectionDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FNiagaraDataInterfaceGrid3DCollectionDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FNiagaraDataInterfaceMeshRendererInfoDetails": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FNiagaraDataInterfaceSkeletalMeshDetails": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FNiagaraDataInterfaceStaticMeshDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FNiagaraDetailSourcedArrayBuilder": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FNiagaraEditorUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 54
+    },
+    "FNiagaraEventScriptPropertiesCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "FNiagaraPlatformSetCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "FNiagaraVariableAttributeBindingCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "FPLUGIN_NAMEEdModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "FPLUGIN_NAMEModule": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FPlatformMediaSourceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FProfilerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "FProjectLauncherModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FRCWebInterfaceCustomizations": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "FRemoteControlEntityCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FRemoteControlMIDIDeviceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "FRemoteControlProtocolMIDI": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FRemoteControlProtocolMIDIModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FRemoteControlProtocolOSCModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FRemoteSessionModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FSampleToolsEditorModeModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FSampleToolsEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "FSessionFrontendModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FSettingsModule": {
+      "EDITOR_ONLY_CONFIRMED": 26
+    },
+    "FSkeletalMeshImportData": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FSlateReflectorModuleImpl": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "FSlateRemoteModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FStatsViewCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "FSteamVREditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "FStylusInputModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FTcpMessagingModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FTemplateSequenceTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "FTimerTreeViewCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FTraceInsightsModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "FTraceWorldFilter": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "FUdpMessagingModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "FVariantManagerActorNode": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "FVariantManagerColorPropertyNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FVariantManagerEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FVariantManagerEnumPropertyNode": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FVariantManagerOptionPropertyNode": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FVariantManagerPropertyNode": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "FVariantManagerStringPropertyNode": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FVariantManagerStructPropertyNode": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FVariantTreeNode": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FVirtualCameraEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FWaterSplineMetadataDetails": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "FWebMMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "FWindowsMixedRealityDetails": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FWindowsMixedRealityPlatformEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FWmfMediaFactoryModule": {
+      "EDITOR_ONLY_CONFIRMED": 2,
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "FWmfMediaTracks": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FWorldTypeTraceFilter": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "FacialAnimationEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "FastXml": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 15
+    },
+    "FbxAutomationBuilder": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "FileActivityTimingTrack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 17
+    },
+    "FileHelper": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "FilePathBlock": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "FilterObject": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "FilterPreset": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "FilterSetObject": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "FilterableActorPicker": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FindInBT": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "FixtureGroupItem": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "FlipbookEditor": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "FlipbookEditorApp": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "Flurry": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "Fracture": {
+      "EDITOR_ONLY_CONFIRMED": 38
+    },
+    "FractureAutoCluster": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "FractureEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FractureEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FractureEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FractureSettingsWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "FractureToolClusteringOps": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "FractureToolGenerators": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "FrameTimingTrack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "FriendlyShaderPlatformNames": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "FunctionalTest": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "GLTFFactory": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "GLTFOptionsWindow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "GPULightmass": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GameFeatures": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "GameViewport": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "GameplayAbilities": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GameplayAbilitiesEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "GameplayCueDetailsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "GameplayCueEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "GameplayCuePathWarning": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GameplayDebuggerConfig": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "GameplayDebuggerModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "GameplayEffect": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "GameplayEffectTypes": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "GameplayGraphTrack": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "GameplayInsightsModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "GameplayProvider": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "GameplaySharedData": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "GameplayStatics": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "GameplayTagContainerCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "GameplayTagCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "GameplayTagEditor": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "GameplayTagManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "GameplayTagQueryCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "GameplayTagQueryGraphPin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GameplayTagQueryWidget": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GameplayTagReferenceHelperDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GameplayTagSearchFilter": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "GameplayTagWidget": {
+      "EDITOR_ONLY_CONFIRMED": 26
+    },
+    "GameplayTagsK2Node_LiteralGameplayTag": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GameplayTagsSettings": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GameplayTasksComponent": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "GameplayTrack": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 15
+    },
+    "GammaUI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "GenericCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GenericPlatform": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "GenlockProvider": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "GenlockProviderTab": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "GeoReferencing": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "GeomCollectionCacheFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GeomCollectionCacheParamsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "GeomCollectionComponent": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "GeometryCache": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GeometryCacheAbcFileComponentCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "GeometryCacheComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GeometryCacheStreamer": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GeometryCacheTrackAbcFile": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "GeometryCollectionCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "GeometryCollectionDebugDrawWarningMessage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "GeometryCollectionOutliner": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GeometryCollectionSelectRigidBody": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GeometryMode": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "GetDataTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "GitSourceControl": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "GitSourceControl.State": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "GoogleARCore": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "GooglePAD": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "GoogleVR": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 9
+    },
+    "GpuProfiler": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "GraphActionNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GraphEditor": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "GraphPinEditableNameValueWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GraphPinNameListValueWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GraphTrack": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "GroomActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GroomAsset": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GroomBindingBuilder": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "GroomBuilder": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GroomCacheImporter": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GroomCardBuilder": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GroomComponent": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "GroomCreateBindingOptionsWindow": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "GroomCreateFollicleMaskOptionsWindow": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "GroomCreateStrandsTexturesOptionsWindow": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "GroomCustomAssetEditor": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "GroomEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "GroomEditorViewportToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "GroomImportOptionsWindow": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "GroomMaterialDetails": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "GroomRenderingDetails": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "HLMediaModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "HLMediaPlayer": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "HLMediaPlayerTracks": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "HPMotionControllerModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 21
+    },
+    "HUD": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "HairStrands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "HairStrandsFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "HeadMountedDisplay": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "HideSelectedGeometryCollectionCommand ": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "HierarchicalLODUtils": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "HittestGrid": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "HoloLens": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "HoloLensImagesCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "HoloLensLocalizedResourcesCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "HoloLensTargetPlatform": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "HoloLensTargetSettingsCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 69
+    },
+    "HotReload": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "IDataSourceFilterInterface": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "IMovieSceneObjectSpawner": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "IOSPlatformEditor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "IOSTargetSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 67
+    },
+    "ImageComparer": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "ImagePlateEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ImagePlateFileSequenceFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ImagePlateTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "ImageSequenceProtocol": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ImageUtils": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ImmediatePhysics": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "InputCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "InputEditor": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "InputEventVisualizer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "Insights.ReportXmlParser": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "InsightsFilterList": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 18
+    },
+    "InsightsManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "InsightsMenuTools": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "InsightsMesssageLog": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "InsightsTestRunner": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "Insights_TreeNode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 13
+    },
+    "InstalledPlatformInfo": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "InstancedFoliage": {
+      "EDITOR_ONLY_CONFIRMED": 4,
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "InstancedStaticMesh": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "Internationalization": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "K2Node": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "K2Node_CastPatchToTypeCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "K2Node_EnhancedInputAction": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "K2Node_EvaluateLiveLinkCustom": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "K2Node_EvaluateLiveLinkFrame": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 15
+    },
+    "K2Node_ExecutePythonScript": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "K2Node_GameplayCueEvent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "K2Node_GetDMXAttributeValues": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "K2Node_GetDMXAttributeValuesCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "K2Node_GetInputActionValue": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "K2Node_PropertyAccess": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "K2Node_UpdateVirtualSubjectDataBase": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "K2Node_UpdateVirtualSubjectDataTyped": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "KDevelopSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "Kismet": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "KismetMaterialLibrary": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "KismetProcMeshLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "KismetRenderingLibrary": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 21,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "KismetSchema": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "KismetSystemLibrary": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "KismetToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LODActor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "LODPainting": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "LODUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "Landscape": {
+      "EDITOR_ONLY_CONFIRMED": 37
+    },
+    "Landscape.Splines": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "LatentActionManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "LaunchEngineLoop": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LauncherWorker": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "LayoutNamespace": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LensDataAddPointDialog": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "LensDataCurveModel": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LensDataEditPointDialog": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "LensDataListItem": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "LensDataViewer": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "LensDistortionParametersCurveModel": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LensDistortionPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LensDistortionTool": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "LensEncodersCurveModel": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "LensEvaluation": {
+      "EDITOR_ONLY_CONFIRMED": 40
+    },
+    "LensFileTypeActions": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LensFocalLengthCurveModel": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "LensImageCenterCurveModel": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LensInfoStep": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "LensNodalOffsetCurveModel": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "LevelActor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "LevelEditorActions": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LevelEditorTabs": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "LevelEditorToolBar": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LevelSequenceActor": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "LevelSequenceEditor": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "LevelSequenceEditorActorBinding": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "LevelSequenceEditorActorSpawner": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "LevelSequenceEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LevelSequenceEditorFilmOverlays": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "LevelSequenceEditorHelpers": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "LevelSequenceEditorSpawnRegister": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LevelSequencePlaybackContext": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "LevelSnapshotEditorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LevelSnapshotEditorLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "LevelSnapshotFilterFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "LevelSnapshots": {
+      "EDITOR_ONLY_CONFIRMED": 32
+    },
+    "LevelSnapshotsEditor": {
+      "EDITOR_ONLY_CONFIRMED": 68
+    },
+    "LevelUtils": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "LevelVariantSetAssetActions": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "LevelVariantSetsActorCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "LevelVariantSetsEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "LibraryOnlyToggle": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "LidarPointCloud": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "LidarPointCloudEditor": {
+      "EDITOR_ONLY_CONFIRMED": 35
+    },
+    "LidarPointCloudImportUI": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "LightMap2D": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "Lightmass": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "Linker": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1,
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "LinkerLoad": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7,
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "LinuxDynamicRHI": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "LinuxPlatformEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LinuxWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveCodingModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "LiveLinkAnimNode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "LiveLinkBlueprintVirtualSubjectFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkClientCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "LiveLinkClientPanel": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 43
+    },
+    "LiveLinkComponentDetailsCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "LiveLinkDataView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "LiveLinkFreeDSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkLogInstance": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkMasterLockitSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkMasterLockitSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkMasterLockitSourcePanel": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkMessageBusSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "LiveLinkMessageBusSourceEditor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkMessageBusSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "LiveLinkMetaDataDetailCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkMotionController": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "LiveLinkOverNDisplayModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkPrestonMDRSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkPrestonMDRSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkPrestonMDRSourcePanel": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkPropertyTrackEditor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "LiveLinkRole": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "LiveLinkSequencerSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "LiveLinkSequencerTrackFilters": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkSourceSettingsDetailCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkTransformController": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LiveLinkVRPNSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "LiveLinkVirtualSubjectDetailsCustomization": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "LiveLinkVirtualSubjectSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "LiveLinkXRSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "LiveLinkXRSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LoadGuard": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "LoadingProfilerManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LoadingTimingTrack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "LocTextHelper": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 10
+    },
+    "LocalizationDescriptor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "LocalizationService": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "LocalizationServiceProgress": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "LocalizationSourceControl": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "LocalizationTargetTypes": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "LogDebugViewMode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "LogStereoPanorama": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 31
+    },
+    "LogVisualizerApp": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "LogVisualizerReport": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "LuminTargetSettingsDetails": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 25
+    },
+    "MDL Importer": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "MDLOptionsWindow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "MDLUSDShadeMaterialTranslator": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MacGraphicsSwitching": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MacGraphicsSwitchingSettingsDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MacGraphicsSwitchingWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MacPlatform": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "MacPlatformCreateDynamicRHI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "MacPlatformEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MagicLeap": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "MagicLeapARPin": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "MagicLeapController": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 27
+    },
+    "MagicLeapHandTracking": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 26
+    },
+    "MainMenu": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MarkersTimingTrack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "Material": {
+      "EDITOR_ONLY_CONFIRMED": 7,
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "MaterialAnalyzer": {
+      "EDITOR_ONLY_CONFIRMED": 29
+    },
+    "MaterialBakingModule": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MaterialExpression": {
+      "EDITOR_ONLY_CONFIRMED": 48
+    },
+    "MaterialExpressions": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1,
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "MaterialLayersFunctions": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MaterialParameterCollectionTrack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "MaterialShaderQualitySettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "MaterialShared": {
+      "EDITOR_ONLY_CONFIRMED": 30
+    },
+    "MatineeCameraShakeToNewCameraShakeConverter": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "MatineeToLevelSequenceConverter": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MatineeToLevelSequenceModule": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "MediaBundle": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MediaBundleActorDetails": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MediaBundleActorErrorChecking": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "MediaBundleEditor": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "MediaBundleFactoryNew": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MediaCapture": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MediaFrameworkEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MediaFrameworkUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "MediaFrameworkVideoInput": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "MediaIOConfigurationCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "MediaIOCoreDefinitions": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MediaIOCoreDeviceProvider": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "MediaIOCorePlayerBase": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "MediaIODeviceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MediaIOInputConfigurationCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "MediaIOOutputConfigurationCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "MediaIOPermutationsSelectorBuilder": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "MediaPlayerEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MediaProfileEditor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "MediaProfileSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "MediaProfileSettingsOptionsWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "MediaSequenceRecorder": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "MemTagNode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 24
+    },
+    "MemoryGraphTrack": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "MemoryProfilerManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "MemorySharedState": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "Merge": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MergeTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MergeToolUtils": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MeshEditor": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "MeshEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "MeshEditorMode": {
+      "EDITOR_ONLY_CONFIRMED": 43
+    },
+    "MeshEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "MeshEditorSelectionModifiers": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MeshMergeEditorExtensions": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MeshMergeUtils": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "MeshPaint": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MeshPaintCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "MeshPaintEditorMode": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MeshPaintMode": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "MeshPaintModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "MeshProcessingLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MeshProcessingLibraryActions": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MeshProcessingLibraryModule": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "MeshSelection": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MeshSpaceDeformerTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MeshTextureBrush": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MeshUtils": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "MeshVertexBrush": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MessageDialog": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MessageLog": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 9
+    },
+    "MetalRHI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "MobileLauncherProfileWizard": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 42
+    },
+    "MobilePatchingUtils": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 19
+    },
+    "ModelingToolsEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ModulationPatchEditor": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "ModuleDescriptor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "ModuleManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ModuleUI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "MontageTrack": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 10
+    },
+    "MotionTrailEditorMode": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MotionTrailEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MotionTrailTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "MoveUpOneLevelCommand": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovementComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MoviePipeline": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MoviePipelineCLIEncoder": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MoviePipelineCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MoviePipelineConfigAssetEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "MoviePipelineEditorBlueprintLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MoviePipelineLinearExecutorBase": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "MoviePipelinePIEExecutor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MoviePlayerTestLoadingScreen": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "MovieRenderPipeline": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 48
+    },
+    "MovieScene": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MovieScene2DTransformSection": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "MovieScene3DAttachTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieScene3DAttachTrackRecorderFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieScene3DConstraintTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieScene3DPathSection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieScene3DPathTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieScene3DTransformTrackRecorderFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneAnimationTrackRecorderFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneAudioSection": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MovieSceneCameraAnimTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneCameraCutTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneCameraShakeSourceShakeTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneCameraShakeSourceTrigger": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneCameraShakeTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneCaptureProtocol": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "MovieSceneChannels": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "MovieSceneCinematicShotTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneClipboard": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MovieSceneComposureExportTrack": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MovieSceneControlParameterRigSection": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "MovieSceneDMXLibraryTrackRecorder": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneEventSystem": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "MovieSceneEventTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MovieSceneFadeTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneGeometryCacheTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneGeometryCollectionTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneGroomCacheTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneImagePlateTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneLevelVisibilityTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneLiveLinkCameraControllerTrack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneLiveLinkControllerTrackRecorderFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneLiveLinkSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneLiveLinkSubSectionAnimation": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneLiveLinkSubSectionBasicRole": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneLiveLinkSubSectionProperties": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "MovieSceneMarginSection": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "MovieSceneMaterialParameterCollectionTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneNameableTrack": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MovieSceneNiagaraEmitterTimedSection": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "MovieSceneNiagaraEmitterTrack": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "MovieSceneParameterControlRigTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneParticleTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneParticleTrackRecorderFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieScenePropertyTrackTrackRecorderFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneReplayTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneSkeletalAnimationSection": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "MovieSceneSkeletalAnimationTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneSlomoTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneSpawnTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneSpawnTrackRecorderFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneSubTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneTakeTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneTransformSection": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "MovieSceneVisibilityTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MovieSceneVisibilityTrackRecorderFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "MultiBox": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "MultiUserClient": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 41
+    },
+    "MultiUserClientUtils": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "NamespaceMetadata": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 53
+    },
+    "NativeCodeGenerationTool": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "Navigation": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "NetEventNode": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "NetworkPredictionInsights": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "NetworkPredictionInsightsModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "NetworkingProfilerManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "NewPluginWizard": {
+      "EDITOR_ONLY_CONFIRMED": 28
+    },
+    "Niagara": {
+      "EDITOR_ONLY_CONFIRMED": 81
+    },
+    "NiagaraActions": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "NiagaraBakerSettingsDetails": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraBakerViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraBakerViewport": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "NiagaraCompiler": {
+      "EDITOR_ONLY_CONFIRMED": 114
+    },
+    "NiagaraComponentDetails": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraConvert": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraConvertNodeViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraConvertPinSocket": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "NiagaraConvertPinSocketViewModel.h": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraCurveEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraDataInterface": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraDataInterfaceCamera": {
+      "EDITOR_ONLY_CONFIRMED": 9,
+      "DEVELOPMENT_ONLY_CONFIRMED": 30
+    },
+    "NiagaraDataInterfaceCollisionQuery": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 23,
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraDataInterfaceCurveBase": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraDataInterfaceCurveDetails": {
+      "EDITOR_ONLY_CONFIRMED": 23
+    },
+    "NiagaraDataInterfaceCurveTypeEditorUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraDataInterfaceDetails": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraDataInterfaceError": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraDataInterfaceFeedback": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraDataInterfaceGrid2DCollection": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraDataInterfaceGrid3DCollection": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraDataInterfaceIntRenderTarget": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "NiagaraDataInterfaceMeshRendererInfo": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraDataInterfaceOcclusion": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10,
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraDataInterfaceParticleRead": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "NiagaraDataInterfaceSimpleCounter": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "NiagaraDataInterfaceSkeletalMesh": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "NiagaraDataInterfaceSkeletalMesh_BoneSampling": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "NiagaraDataInterfaceSkeletalMesh_TriangleSampling": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraDataInterfaceSkeletalMesh_VertexSampling": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraDataInterfaceSpline": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 15
+    },
+    "NiagaraDataInterfaceStaticMesh": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "NiagaraDataInterfaceVectorField": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraDataInterfaceWater": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraDebugger": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "NiagaraEditor": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraEditorPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraEmitter": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraEmitterEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraEmitterFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraEmitterInputEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraEmitterTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraEmitterViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraFilter": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "NiagaraFunctionCallNodeDetails": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "NiagaraFunctionLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "NiagaraGeneratedCodeView": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "NiagaraGraph": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraGraphActionWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraGraphPinAdd": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraMeshRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraMessageManager": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraMessageUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "NiagaraMessages": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "NiagaraNode": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "NiagaraNodeAssigment": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "NiagaraNodeConvert": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraNodeCustomHlsl": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraNodeDataSetRead": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraNodeEmitter": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "NiagaraNodeFunctionCall": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "NiagaraNodeIf": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraNodeInput": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraNodeOp": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraNodeOutput": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "NiagaraNodeOutputTag": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraNodeParameterMapBase": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "NiagaraNodeParameterMapFor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraNodeParameterMapGet": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "NiagaraNodeParameterMapSet": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraNodeReroute": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraNodeSelect": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "NiagaraNodeSimTargetSelector": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraNodeStaticSwitch": {
+      "EDITOR_ONLY_CONFIRMED": 23
+    },
+    "NiagaraNodeUsageSelector": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraNodeWithDynamicPins": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "NiagaraNodeWriteDataSet": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraOpInfo": {
+      "EDITOR_ONLY_CONFIRMED": 219
+    },
+    "NiagaraOutlinerCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "NiagaraOverviewGraph": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "NiagaraOverviewGraphViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraOverviewNodeStackItem": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "NiagaraOverviewStack": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraOverviewStackNode": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraParameterCollectionCustomNodeBuilder": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraParameterCollectionEditor": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "NiagaraParameterCollectionViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraParameterDefinitionsPanel": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraParameterDefinitionsPanelViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraParameterDefinitionsToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "NiagaraParameterMapPalleteItem": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraParameterMapView": {
+      "EDITOR_ONLY_CONFIRMED": 54
+    },
+    "NiagaraParameterName": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraParameterPanel": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "NiagaraParameterPanelViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 69
+    },
+    "NiagaraPerformanceBaselines": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "NiagaraPinTypeSelector": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraPlatformSet": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraRibbonRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraSchema": {
+      "EDITOR_ONLY_CONFIRMED": 48
+    },
+    "NiagaraScratchPad": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "NiagaraScratchPadCommandContext": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "NiagaraScratchPadScriptName": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraScratchPadScriptViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraScratchPadViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "NiagaraScriptAssetTypeActions": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraScriptDetails": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "NiagaraScriptGraph": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "NiagaraScriptGraphViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraScriptInputCollection": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "NiagaraScriptMergeManager": {
+      "EDITOR_ONLY_CONFIRMED": 37
+    },
+    "NiagaraScriptOutputCollection": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraScriptStatsViewModel": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "NiagaraScriptToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "NiagaraScriptVariableVariableDetails": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraScriptVersionWidget": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "NiagaraSequencerTrackFilters": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraSpriteRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraStack": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "NiagaraStackClipboardUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "NiagaraStackCommandContext": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraStackEditorWidgetsUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "NiagaraStackEntry": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraStackErrorItem": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraStackEventHandlerGroup": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraStackFunctionInputCondition": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraStackFunctionInputName": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "NiagaraStackFunctionInputValue": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "NiagaraStackGraphUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "NiagaraStackItemExpander": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraStackItemGroupAddMenu": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraStackModuleItem": {
+      "EDITOR_ONLY_CONFIRMED": 80
+    },
+    "NiagaraStackParameterStoreEntryName": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraStackParameterStoreEntryValue": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "NiagaraStackPropertyRowUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "NiagaraStackSimulationStagesGroup": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraStackTableRow": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "NiagaraStackViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 68
+    },
+    "NiagaraStaticSwitchNodeDetails": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "NiagaraSystem": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "NiagaraSystemEditor": {
+      "EDITOR_ONLY_CONFIRMED": 53
+    },
+    "NiagaraSystemFactory": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "NiagaraSystemSpawnSection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "NiagaraSystemTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "NiagaraSystemViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "NiagaraSystemViewportToolBar": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "NiagaraTypeDefinition": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "NodalOffsetTool": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "NullSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "OCIOConfiguration": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "ObjectEventsTrack": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "ObjectPropertiesTrack": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "OculusAudio": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "OculusEditor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "OculusInput": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 45
+    },
+    "OculusPlatformToolWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 70
+    },
+    "OculusRift": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 16
+    },
+    "OculusToolWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 49
+    },
+    "OneSky": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "OneSkyLocalizationService": {
+      "EDITOR_ONLY_CONFIRMED": 33
+    },
+    "OneSkyLocalizationService.State": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "Oodle": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "OpenColorIOColorSpaceConversionCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "OpenColorIOColorSpaceCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "OpenColorIOConfigurationCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "OpenColorIOEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "OpenGLDrv": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "OpenXRHandTracking": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "OpenXRMsftHandInteraction": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "OutputLog": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "PLUGIN_NAMEEdModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PackageReportDialog": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "Paper2D": {
+      "EDITOR_ONLY_CONFIRMED": 104
+    },
+    "Paper2DEditor": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "PaperEditor": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "PaperGeometryEditing": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "ParticleComponents": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ParticleModules": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "ParticleParameterTrack": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "PerforceConnection": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "PerforceSourceControl": {
+      "EDITOR_ONLY_CONFIRMED": 23
+    },
+    "PerforceSourceControl.State": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "Photography": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "PhysicsAsset": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "PhysicsInterface_PhysX": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "PixelStreamingPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PlacementMode": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "PlasticSourceControl": {
+      "EDITOR_ONLY_CONFIRMED": 20
+    },
+    "PlasticSourceControl.State": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "PlatformAudio": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "PlatformInfo": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "PluginBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PluginCategories": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "PluginCategoryTreeItem": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PluginDescriptor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "PluginListTile": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "PluginManager": {
+      "EDITOR_ONLY_CONFIRMED": 9,
+      "RUNTIME_LIKELY": 14
+    },
+    "PluginManifest": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "PluginUtils": {
+      "EDITOR_ONLY_CONFIRMED": 29
+    },
+    "PluginsEditor": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "PointCloudImportSettings": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "PolyglotTextData": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "PortableObjectFormatDOM": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "PostMoveSettingsImportDialog": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "PostMoveSettingsPropertyTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PostMoveSettingsTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "PostMoves": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "PreLoadManager.BuildPatchServices": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "PreviewPlatform": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "PrimaryAssetIdCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PrimaryAssetTypeCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PrimitiveComponent": {
+      "EDITOR_ONLY_CONFIRMED": 16,
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "ProRes": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "ProceduralFoliage": {
+      "EDITOR_ONLY_CONFIRMED": 2,
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ProceduralMeshComponentDetails": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ProfileVisualizerModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "Profiler": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ProfilerDataSource": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "ProfilerSample": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "ProjectDescriptor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "ProjectLauncherBuildValidation": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "ProjectManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "PropertyAccessEditor": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "PropertyBinding": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "PropertyCustomizationHelpers": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "PropertyEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ProtocolBindingViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "ProtocolEntityViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "ProximityUpdate": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "PyGenUtil": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "Python": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "PythonScriptPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 21
+    },
+    "PythonScriptRemoteExecution": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "RawInputPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 30
+    },
+    "RayTracingDebugVisualizationMenuCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 22
+    },
+    "RealtimeProfileLineGraph": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "RealtimeProfiler": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "ReferenceViewer": {
+      "EDITOR_ONLY_CONFIRMED": 32
+    },
+    "ReferenceViewerSchema": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "ReimportHairStrandsFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RemoteControl": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RemoteControlLogger": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RemoteControlPanel": {
+      "EDITOR_ONLY_CONFIRMED": 37
+    },
+    "RemoteControlPanelActor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RemoteControlPanelEntitiesList": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RemoteControlPreset": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RemoteControlPresetActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RemoteControlPresetEditorToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "RemoteControlProtocolDMX": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RemoteControlProtocolOSC": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RemoteControlProtocolWidgets": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "RemoteControlSettings": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RemoteControlUI": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RemoteControlWebInterface": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "RemoteSessionStream": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 23
+    },
+    "RemoveSelectedGeometryCollectionCommand ": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RenameGameplayTag": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "RenameNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "RenderDocPlugin": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "Renderer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 22,
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "RendererSettings": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "ReplayTrackEditor": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "ResonanceAudio": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "RiderSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "RigCurveContainerTabSummoner": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RigHierarchyTabSummoner": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RigInfluenceMapTabSummoner": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RigStackTabSummoner": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RigValidationTabSummoner": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "RiggingModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "S3DerivedDataBackend": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SActiveSession": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 16
+    },
+    "SAggregatorStatus": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "SAnimGraphSchematicView": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "SAssetPickerButton": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SAutomationGraphicalResultBox": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "SAutomationTestItemContextMenu": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SAutomationWindowCommandBar": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SBarVisualizer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "SBinkMediaPlayerWidgets": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SBlueprintMerge": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "SCAQueryDetails": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "SCS": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SCameraCalibrationCurveEditorView": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SCameraCalibrationRemovePointDialog": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SCaptureDialog": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SCapturedActorsWidget": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SCapturedPropertiesWidget": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SCinematicLevelViewport": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "SClassTraceFilteringWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SCodeView": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "SCollisionAnalyzer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 20
+    },
+    "SComboBox": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SCompElementPreviewDialog": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SConcertBrowser": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 83
+    },
+    "SConcertScrollBox": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SConcertSessionActivities": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 37
+    },
+    "SConcertSessionRecovery": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "SControlHierarchy": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SControlRigGraphNode": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SControlRigGraphPinEditableNameValueWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SControlRigGraphPinNameListValueWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SControlRigProfilingView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 18
+    },
+    "SControlRigStackView": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SControlRigUnitCombo": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SControlRigValidationWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SConversationDiff": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 15
+    },
+    "SCurveControlContainer": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SDMXActivityMonitor": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SDMXChannelsMonitor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SDMXEntityListBase": {
+      "EDITOR_ONLY_CONFIRMED": 40
+    },
+    "SDMXEntityReferenceGraphPin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDMXEntitySelectorDropdownMenu": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "SDMXFader": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SDMXFixturePatcher": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SDMXGDTFOptionWindow": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "SDMXInputPortReferenceGraphPin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDMXMonitorSourceSelector": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SDMXOutputConsole": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SDMXOutputConsolePortSelector": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SDMXOutputFaderList": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "SDMXOutputPortReferenceGraphPin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDMXPatchTool": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "SDMXPatchedUniverse": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SDMXPixelMappingDesignerView": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SDMXPixelMappingHierarchyView": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SDMXPixelMappingPreviewView": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SDMXPixelMappingSurface": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDMXPixelMappingTransformHandle": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDMXProtocolNamePicker": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SDataGraph": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SDataProviderActivities": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "SDataProviderActivityFilter": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 12
+    },
+    "SDataProviderListView": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "SDataprepActionBlock": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SDataprepActionStep": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDataprepFilter": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SDataprepLinkToParameter": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SDataprepPalette": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "SDataprepParameterizationLinkIcon": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDependencyRow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "SDeviceApps": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "SDeviceAppsAppListRow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "SDeviceBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SDeviceBrowserContextMenu": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SDeviceBrowserDefaultPlatformAddWidget": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SDeviceBrowserDeviceAdder": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SDeviceBrowserDeviceListRow": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SDeviceBrowserFilterBar": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SDeviceDetails": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SDeviceManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 9
+    },
+    "SDeviceProcesses": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 13
+    },
+    "SDeviceQuickInfo": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 12
+    },
+    "SDirectLinkStreamManager": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 11
+    },
+    "SDisasterRecoveryHub": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 19
+    },
+    "SDisplayClusterConfigurationSearchableComboBox": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDisplayClusterConfiguratorCanvasNode": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SDisplayClusterConfiguratorExternalImagePicker": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SDisplayClusterConfiguratorGraphEditor": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "SDisplayClusterConfiguratorNewAssetDialog": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDisplayClusterConfiguratorNewBlueprintDialog": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SDisplayClusterConfiguratorNewClusterItemDialog": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "SDisplayClusterConfiguratorOutputMappingToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "SDisplayClusterConfiguratorResizer": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDisplayClusterConfiguratorViewOutputMapping": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SDisplayClusterConfiguratorViewTree": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SDisplayClusterConfiguratorViewportNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SDisplayClusterConfiguratorWindowNode": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SEditableComboBox": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SEventGraph": {
+      "EDITOR_ONLY_CONFIRMED": 112
+    },
+    "SEventGraphTooltip": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "SEventsTree": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "SExternalImageReference": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "SFacialAnimationBulkImporter": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SFilePathPicker": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SFilterPreset": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 19
+    },
+    "SFilterWidget": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SFiltersAndPresets": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 26
+    },
+    "SFrameRateEntryBox": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "SFrameRatePicker": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SFrameTrack": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "SGameplayCueEditor": {
+      "EDITOR_ONLY_CONFIRMED": 21
+    },
+    "SGameplayCuePickerDialog": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SGameplayCuePickerDialogEvents": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SGameplayInsightsTransportControls": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SGitSourceControlSettings": {
+      "EDITOR_ONLY_CONFIRMED": 28
+    },
+    "SHeaderRow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "SInsightsSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "SLevelSequenceTakeEditor": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SListView": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SLiveLinkCurveDebugUI": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SLiveLinkFreeDSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SLiveLinkSubjectRepresentationPicker": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "SLiveLinkVRPNSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SLiveLinkXRSourceFactory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SLoadingProfilerWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "SLogView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 44
+    },
+    "SLogWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SLuminLocalizedAppNameListWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SLuminLocalizedAppNameWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SLuminLocalizedIconListWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SLuminLocalizedIconWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "SLuminPathPickerWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMaterialOptions": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SMediaPlayerEditorInfo": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SMediaPlayerEditorMedia": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "SMediaPlayerEditorStats": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SMediaPlayerEditorViewer": {
+      "EDITOR_ONLY_CONFIRMED": 67
+    },
+    "SMediaPlayerEditorViewport": {
+      "EDITOR_ONLY_CONFIRMED": 20
+    },
+    "SMediaPlaylistEditorMedia": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SMemTagTreeView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 92
+    },
+    "SMemoryProfilerWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "SMenuAnchor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMenuEntryBlock": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMergeAssetPickerView": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SMergeDetailsView": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SMergeGraphView": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SMergeTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SMessageLog": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SMessageLogCategoryListRow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SMessageLogMessageListRow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "SMessagingAddressTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMessagingBreakpoints": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SMessagingBreakpointsTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMessagingDebugger": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "SMessagingDebuggerToolbar": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "SMessagingDispatchStateTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 20
+    },
+    "SMessagingEndpointDetails": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "SMessagingEndpoints": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SMessagingEndpointsFilterBar": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMessagingEndpointsTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "SMessagingHistory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 15
+    },
+    "SMessagingHistoryTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 21
+    },
+    "SMessagingInterceptorTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMessagingInterceptors": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SMessagingMessageData": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SMessagingMessageDetails": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 18
+    },
+    "SMessagingTypes": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SMessagingTypesFilterBar": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMessagingTypesTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SMissingWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SMoviePipelineConfigPanel": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "SMoviePipelineConfigSettings": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SMoviePipelineEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SMoviePipelineQueueEditor": {
+      "EDITOR_ONLY_CONFIRMED": 21
+    },
+    "SMoviePipelineQueuePanel": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "SMultiDumpBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SMultipleOptionTable": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SNetStatsView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 69
+    },
+    "SNetworkPredictionWindow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "SNetworkingProfilerWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 17
+    },
+    "SNewEmitterDialog": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "SNewSystemDialog": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "SNiagaraAssetSelector": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SNiagaraBakerViewportToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "SNiagaraDebugger": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 63
+    },
+    "SNiagaraGraphNodeConvert": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SNiagaraGraphNodeFunctionCallWithSpecifiers": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SNiagaraGraphNodeInput": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SNiagaraGraphNodeWriteDataSet": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SNiagaraNamePropertySelector": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SNiagaraNewAssetDialog": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SNiagaraParameterMenu": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SNiagaraSpreadsheetView": {
+      "EDITOR_ONLY_CONFIRMED": 32
+    },
+    "SNiagaraStackEntryWidget": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SNiagaraStackIssueIcon": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "SNiagaraStackItemGroupAddButton": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SNiagaraStackRowPerfWidget": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "SNiagaraSystemViewport": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SObjectBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "SObjectTableRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SOpenColorIOColorPicker": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SOpenColorIODisplay": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "SOutputLog": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 25
+    },
+    "SPackageDetails": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "SPacketContentView": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "SPacketView": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SPerforceSourceControlSettings": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "SPlasticSourceControlSettings": {
+      "EDITOR_ONLY_CONFIRMED": 30
+    },
+    "SPlatformSetupMessage": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 9
+    },
+    "SProfilerFPSChartPanel": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "SProfilerSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "SProfilerWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 16
+    },
+    "SProjectLauncher": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "SProjectLauncherArchivePage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SProjectLauncherBuildConfigurationSelector": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SProjectLauncherBuildPage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 17
+    },
+    "SProjectLauncherBuildTaskSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SProjectLauncherBuildValidation": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SProjectLauncherCookByTheBookSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 70
+    },
+    "SProjectLauncherCookModeSelector": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "SProjectLauncherCookOnTheFlySettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SProjectLauncherCookPage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "SProjectLauncherCookedPlatforms": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "SProjectLauncherDeployFileServerSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SProjectLauncherDeployRepositorySettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "SProjectLauncherDeployTargetListRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SProjectLauncherDeployTargets": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "SProjectLauncherDeployTaskSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SProjectLauncherDeployToDeviceSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SProjectLauncherDeviceGroupSelector": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SProjectLauncherDevicesPage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "SProjectLauncherInstanceTypeSelector": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "SProjectLauncherLaunchPage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "SProjectLauncherLaunchRoleEditor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 17
+    },
+    "SProjectLauncherLaunchTaskSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SProjectLauncherPackagePage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "SProjectLauncherPackagingSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 13
+    },
+    "SProjectLauncherPreviewPage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 37
+    },
+    "SProjectLauncherProfileLaunchButton": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SProjectLauncherProfileListView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SProjectLauncherProfileNameDescEditor": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SProjectLauncherProgress": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 26
+    },
+    "SProjectLauncherProjectPage": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SProjectLauncherSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "SProjectLauncherSimpleDeviceListRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "SProjectLauncherSimpleDeviceListView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "SProjectLauncherTaskListRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "SProjectLauncherUnrealProjectPicker": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "SProjectLauncherValidation": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 27
+    },
+    "SProjectLauncherVariantSelector": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SPropertyAccessNode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SReflectorToolTipWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "SRigCurveContainer": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "SRigHierarchy": {
+      "EDITOR_ONLY_CONFIRMED": 49
+    },
+    "SRotatorInputBox": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "SScreenShotBrowser": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 13
+    },
+    "SSessionBrowser": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 23
+    },
+    "SSessionBrowserTreeRow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "SSessionConsoleCommandBar": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "SSessionConsoleFilterBar": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "SSessionConsolePanel": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "SSessionConsoleShortcutWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SSessionFrontend": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "SSessionHistory": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SSessionInfoWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 15
+    },
+    "SSettingsEditor": {
+      "EDITOR_ONLY_CONFIRMED": 30
+    },
+    "SSettingsEditorCheckoutNotice": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "SSlateFrameSchematicView": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "SSlateNavigationSimulation": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 21
+    },
+    "SSlateOptions": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 10
+    },
+    "SSlateTraceFlags": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SSourceControlLogin": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "SSourceControlPicker": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SSourceFilteringTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SStageMonitorPanel": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "SStartPageWindow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 59
+    },
+    "SStatsView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 76
+    },
+    "SSubversionSourceControlSettings": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "STableTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 45
+    },
+    "STableViewTesting": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 35
+    },
+    "STakePresetAssetEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "STakeRecorderCockpit": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "STakeRecorderPanel": {
+      "EDITOR_ONLY_CONFIRMED": 23
+    },
+    "STakeRecorderSources": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "STakeRecorderTabContent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "STestSuite": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 214
+    },
+    "STextureEditorViewport": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "STimecodeSynchronizercSourceViewport": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "STimedDataGenlock": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "STimedDataListView": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "STimedDataMonitorPanel": {
+      "EDITOR_ONLY_CONFIRMED": 48
+    },
+    "STimedDataTimecodeProvider": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "STimelinesContainer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "STimerTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 23
+    },
+    "STimerView": {
+      "EDITOR_ONLY_CONFIRMED": 42
+    },
+    "STimersView": {
+      "EDITOR_ONLY_CONFIRMED": 50
+    },
+    "STimersViewCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "STimingDiagramWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "STimingProfilerWindow": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "STimingView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 57
+    },
+    "STraceDataFilterWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 21
+    },
+    "STraceSourceFilteringWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 18
+    },
+    "STreeMap": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 10
+    },
+    "STreeView": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "STypeFunctionsDetails": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "SUSDLayersTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "SUsdPrimPropertiesList": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SUsdStage": {
+      "EDITOR_ONLY_CONFIRMED": 45
+    },
+    "SUserTraceFilteringWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 15
+    },
+    "SVariableMappingWidget": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SVariantManager": {
+      "EDITOR_ONLY_CONFIRMED": 35
+    },
+    "SVariantManagerActorListView": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SVariantManagerNodeTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SVariantValueView": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SVectorInputBox": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "SVisualLogger": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "SVisualLoggerFilters": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "SVisualLoggerStatusView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SVisualLoggerToolbar": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "SWidgetHittestGrid": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 23
+    },
+    "SWidgetReflector": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 58
+    },
+    "SWindow": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SWizard": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SWorldFilterWidget": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SampleToolsEditorModeToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SavePackage": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SavePackage2": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "Scalability": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "SceneCaptureComponent": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SceneComponent": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5,
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SceneRendering": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "ScopedModifierDetails": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "ScreenshotComparison": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 15
+    },
+    "ScriptCore": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 19,
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ScriptInputCollection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ScriptParameterViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "ScriptVariableCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SearchBox": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "SelectAllInClusterCommand": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SelectProximityCommand": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SelectSiblingsCommand": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SelectedGeometryCollectionCommand": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SelectedToggleGeometryCollectionCommand": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SequenceRecorder": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "Sequencer": {
+      "EDITOR_ONLY_CONFIRMED": 28
+    },
+    "SequencerTrackBPEditor": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SessionFrontend": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SetMaterialAttributes": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "ShaderCompiler": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "ShaderCompilingManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "ShaderFormatsPropertyDetails": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 14
+    },
+    "ShadowMap2D": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "Shotgun": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "SimpleDialogModule": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "SizeMap": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 19
+    },
+    "SkeletalMeshActor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SkeletalMeshComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SkeletalMeshComponentPhysics": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SkeletalMeshCurvesTrack": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SkeletalMeshPoseTrack": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "Skeleton": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SkeltalMeshBuilder": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "SkyAtmosphereComponent": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SkyLightComponent": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "Slate": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SlateAsyncTaskNotification": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SlateCore": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SlateD3DRenderer": {
+      "RUNTIME_LIKELY": 2
+    },
+    "SlateDebugger": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 24
+    },
+    "SlateDebugging": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "SlateFileDialogsNamespace": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "SlateFrameGraphTrack": {
+      "EDITOR_ONLY_CONFIRMED": 27
+    },
+    "SlateInsightsModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "SlateNavigationSimulatioN": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "SlateNotifications": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SlateStyleSet": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2,
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 7
+    },
+    "SlateTestSuite": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SlateTimingViewSession": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SlateWidgetStyleSet": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SmartSnapping": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SoundCueTemplateSettings": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SoundCueTemplatesEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SoundModImporterFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SoundNodeBranch": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "SoundNodeDialoguePlayer": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SoundNodeModPlayer": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SoundNodeSwitch": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SoundNodeWavePlayer": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SourceCodeAccessModule": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "SourceControl": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "SourceControlHelpers": {
+      "EDITOR_ONLY_CONFIRMED": 17
+    },
+    "SourceControlProgress": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "SourceControlTests": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "SourceFilteringEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "Spatialization": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "SpawnRegister": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SpeedTreeImportDataDetails": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SpeedTreeImportFactory": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "SplineMeshActor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SpriteCategory": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "SpriteEditor": {
+      "EDITOR_ONLY_CONFIRMED": 54
+    },
+    "SpriterImporter": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "StackFunctionInputBinder": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "StackModuleItemLinkedInputCollection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "StackModuleItemOutputCollection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "StackObject": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 8
+    },
+    "StageMessageTypeDetailCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "StageMonitorEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "StageMonitoringPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "StaticLightingSystem": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 31,
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "StaticMesh": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "StaticMeshActor": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "StaticMeshComponent": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1,
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "StaticMeshEditor": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "StaticMeshEditorExtension": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "StaticMeshEditorExtensionToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "StaticMeshLODSettings": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "StatsFile": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "StatsNode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 35
+    },
+    "Status": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "SteamAudio": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 51
+    },
+    "SteamVRInputAnimNode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "SteamVRInputDevice": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 73
+    },
+    "SteamVRSetWristTransformAnimNode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "StereoCaptureDoneAction": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "StereoPanorama": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "StringFormatter": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1,
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "StylusInputDebugWidget": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 10
+    },
+    "SubversionSourceControl": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "SubversionSourceControl.State": {
+      "EDITOR_ONLY_CONFIRMED": 33
+    },
+    "SwitchActorCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "SwitchActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SwitchDynamicRHI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "SwitchboardEditor": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "SwitchboardEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "Synthesis": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "SystemScriptViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TGenericMacTargetPlatform": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "TGenericWindowsTargetPlatform": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "TLinuxTargetPlatform": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "TabCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "TabManagement": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TabManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "Table": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "TableCellValueSorter": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "TakeMetaData": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "TakePresetActions": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TakePresetToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "TakeRecorder": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "TakeRecorderBlueprintLibrary": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TakeRecorderCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TakeRecorderDMXLibrarySource": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "TakeRecorderLiveLink": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "TakeRecorderModule": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "TakeRecorderSources": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "TakeRecorderSourcesCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TakeRecorderUtils": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TakesBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TargetPlatform": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "TaskGraph": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "TempLocTextLiveLink": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "TemplateSequence": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "TemplateSequenceEditor": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "TemplateSequenceTrack": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TestSuite": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 5
+    },
+    "TestSuite1": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 11
+    },
+    "TestSuite2": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "Text3D": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TextFormatter": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "TextPropertyTest": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "TextRenderComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TextureAlignMode": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TexturePaintSetting": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TexturePaintSettings": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "TextureRenderTarget2D": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "TextureStreamingBuild": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "ThemeColorBlock": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 9
+    },
+    "ThreadTimingTrack": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 9
+    },
+    "TileMapEditor": {
+      "EDITOR_ONLY_CONFIRMED": 19
+    },
+    "TileSetEditor": {
+      "EDITOR_ONLY_CONFIRMED": 15
+    },
+    "TimeManagement": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 5
+    },
+    "TimecodeProviderTab": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "TimecodeSynchronizer": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "TimecodeSynchronizerEditor": {
+      "EDITOR_ONLY_CONFIRMED": 30
+    },
+    "TimecodeSynchronizerEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "TimedDataMonitorEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "TimedDataNumericEntryBox": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "TimerNode": {
+      "EDITOR_ONLY_CONFIRMED": 35
+    },
+    "Timespan": {
+      "RUNTIME_LIKELY": 2
+    },
+    "TimingProfilerManager": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "ToolBar": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "ToolMenuSubsystem": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "Toolbox": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "TraceInsightsModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "TutorialCategories": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 18
+    },
+    "UAddPatchTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UAddPrimitiveTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UAlignObjectsTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UAttributeEditorTool": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "UBakeMeshAttributeMapsTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UBakeTransformTool": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UBaseBrushTool": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "UBaseCreateFromSelectedTool": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UBaseMeshProcessingTool": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UBreakpoint": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "UBspConversionTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UCSGMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UClickDragTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UCombineMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "UConvertToPolygonsTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UCurveControlPointsMechanic": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UDeformMeshPolygonsTool": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UDisplaceMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UDrawAndRevolveTool": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UDrawPolyPathTool": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UDrawPolygonTool": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UDynamicMeshSculptTool": {
+      "EDITOR_ONLY_CONFIRMED": 32
+    },
+    "UEdgeLoopInsertionTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UEditMeshMaterialsTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UEditMeshPolygonsTool": {
+      "EDITOR_ONLY_CONFIRMED": 59
+    },
+    "UEditNormalsTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UEditPivotTool": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UEditUVIslandsTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UEmptySourceFilter": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "UExtractCollisionGeometryTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UGameplayAbilitiesBlueprintFactory": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UGenerateLODMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UGroomCardsEditorTool": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "UGroomToMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UGroundTruthDataFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UGroupEdgeInsertionTool": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UHoleFillTool": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UIActionRouter": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "UICommands": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UICommands.ActorPalette": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.AssetManagerEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 40
+    },
+    "UICommands.AutomationTest": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "UICommands.CacheEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UICommands.CameraCalibrationCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.CameraShakePreviewer": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.ClusterMeshCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.CodeProjectEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.CollapseAllHierarchyCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.CollapseSelectedHierarchyCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.CompElementEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 34
+    },
+    "UICommands.ControlRigBlueprintCommands": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "UICommands.ControlRigEditModeCommands": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "UICommands.ControlRigHierarchyCommands": {
+      "EDITOR_ONLY_CONFIRMED": 40
+    },
+    "UICommands.ControlRigStackCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.ConversationEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "UICommands.CurveContainerCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.CurveEditorToolCommands": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UICommands.DMXEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "UICommands.DMXPixelMappingEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UICommands.DataprepEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UICommands.DataprepEditorViewport": {
+      "EDITOR_ONLY_CONFIRMED": 22
+    },
+    "UICommands.DatasmithImporter": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.DestructibleMeshEditor": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UICommands.DeviceDetailsCommands": {
+      "EDITOR_ONLY_CONFIRMED": 20
+    },
+    "UICommands.DisplayClusterConfiguratorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 54
+    },
+    "UICommands.EnvironmentQueryEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.FDisplayClusterConfiguratorTreeViewCommands": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UICommands.FExampleAssetEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FInsightsCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "UICommands.FLoadingProfilerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "UICommands.FMediaPlayerEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "UICommands.FMemoryProfilerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "UICommands.FMessagingDebuggerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "UICommands.FNetworkingProfilerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "UICommands.FNewGizmoEnableModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FOculusEditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FPLUGIN_NAMEModule": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.FProfilerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 32
+    },
+    "UICommands.FSteamVREditorModule": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 12
+    },
+    "UICommands.FTimingProfilerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 20
+    },
+    "UICommands.FVariantManagerEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 34
+    },
+    "UICommands.FVisualLoggerCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 22
+    },
+    "UICommands.FlipbookEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "UICommands.FractureAutoCluster": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FractureBrick": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FractureClusterMagnet": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FractureClustered": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FractureEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UICommands.FracturePlanar": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FractureRadial": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FractureSlice": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.FractureToolClusteringOps": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "UICommands.FractureToolEmbed": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.FractureToolGenerators": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.FractureToolSelectionOps": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "UICommands.FractureUniform": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.GroomEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 36
+    },
+    "UICommands.GroomViewportLODCommands": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.HideSelectedGeometryCollectionCommand ": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.LevelSequenceEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UICommands.LevelSnapshotsEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.LidarPointCloudEditor": {
+      "EDITOR_ONLY_CONFIRMED": 48
+    },
+    "UICommands.LiveLinkClientCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "UICommands.LogWidgetCommands": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.MacMenu": {
+      "EDITOR_ONLY_CONFIRMED": 24
+    },
+    "UICommands.MediaProfileCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "UICommands.MeshEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 38
+    },
+    "UICommands.MeshEditorMode": {
+      "EDITOR_ONLY_CONFIRMED": 46
+    },
+    "UICommands.MeshEditorSelectionModifiers": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.MeshPaintEditorModeCommands": {
+      "EDITOR_ONLY_CONFIRMED": 42
+    },
+    "UICommands.ModelingToolsCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.ModelingToolsManagerCommands": {
+      "EDITOR_ONLY_CONFIRMED": 162
+    },
+    "UICommands.MotionTrailEditorModeCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.MoveUpOneLevelCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.MoviePipelineCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.MultiUserClient": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 8
+    },
+    "UICommands.NetworkPredictionCommands": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UICommands.NiagaraEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 80
+    },
+    "UICommands.NiagaraParameterPanel": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.OneSkyLocalizationService": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "UICommands.ProjectLauncherCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 16
+    },
+    "UICommands.RemoveSelectedGeometryCollectionCommand ": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.RenderDocPlugin": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UICommands.SConversationDiff": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.SNiagaraGraphNodeInput": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "UICommands.SStatsView": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UICommands.STestSuite": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 16
+    },
+    "UICommands.STimerTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.STimersView": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.SelectAllInClusterCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.SelectProximityCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.SelectSiblingsCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.SelectedGeometryCollectionCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.SelectedToggleGeometryCollectionCommand": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.SessionConsoleCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "UICommands.SpriteEditor": {
+      "EDITOR_ONLY_CONFIRMED": 42
+    },
+    "UICommands.StaticMeshEditorExtensionToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UICommands.SwitchboardEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.TabCommands": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "UICommands.TakeRecorderCommands": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UICommands.TakeRecorderSourcesCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.TileMapEditor": {
+      "EDITOR_ONLY_CONFIRMED": 48
+    },
+    "UICommands.TileSetEditor": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "UICommands.TimecodeSynchronizerEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.UnHideAllGeometryCollectionCommand ": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UICommands.WaterSplineComponentVisualizer": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UICommands.WaterWavesEditorCommands": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UInputRouter": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "UInteractiveGizmoManager": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UInteractiveTool": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UInteractiveToolManager": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UIntervalGizmo": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UK2Node_DMXCastToFixtureType": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "UK2Node_DataprepProducer": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UK2Node_GetDMXFixturePatch": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UK2Node_InputDebugKey": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 13
+    },
+    "UK2Node_PixelMappingBaseComponent": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UK2Node_PixelMappingRendererComponent": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UKismetAnimationLibrary": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "UKismetArrayLibrary": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 7
+    },
+    "UKismetMathLibrary": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 10,
+      "DEVELOPMENT_ONLY_CONFIRMED": 4
+    },
+    "UKismetSystemLibrary": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4,
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UMG": {
+      "EDITOR_ONLY_CONFIRMED": 27,
+      "DEVELOPMENT_ONLY_CONFIRMED": 15
+    },
+    "UMGAnimation": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UMGEditor": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UMediaPlayerFactoryNew": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UMergeMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UMeshAttributePaintTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UMeshBoundaryToolBase": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UMeshInspectorTool": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UMeshSculptToolBase": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "UMeshSelectionTool": {
+      "EDITOR_ONLY_CONFIRMED": 31
+    },
+    "UMeshSurfacePointTool": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UMeshTangentsTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UMeshToVolumeTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UMeshVertexSculptTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UMirrorTool": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UMovieSceneAnimationTrackRecorderSettings": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UMovieSceneSequence": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "UNiagaraComponentRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "UNiagaraDataInterface2DArrayTexture": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UNiagaraDataInterfaceCubeTexture": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UNiagaraDataInterfaceTexture": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "UNiagaraDataInterfaceVolumeTexture": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UNiagaraLightRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UNiagaraMeshRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UNiagaraNodeDataSetBase": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UNiagaraRibbonRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UNiagaraSpriteRendererProperties": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UNiagaraStackEmitterItemGroup": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UNiagaraStackEventScriptItemGroup": {
+      "EDITOR_ONLY_CONFIRMED": 10
+    },
+    "UNiagaraStackFunctionInputCollection": {
+      "EDITOR_ONLY_CONFIRMED": 21
+    },
+    "UNiagaraStackParameterStoreEntry": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "UNiagaraStackParameterStoreGroup": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "UNiagaraStackRenderItemGroup": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UNiagaraStackRendererItem": {
+      "EDITOR_ONLY_CONFIRMED": 20
+    },
+    "UNiagaraStackScriptItemGroup": {
+      "EDITOR_ONLY_CONFIRMED": 50
+    },
+    "UNiagaraStackSimulationStageGroup": {
+      "EDITOR_ONLY_CONFIRMED": 16
+    },
+    "UNiagaraStackSystemItemGroup": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UObject": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "UObjectToolTips": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UOffsetMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UOnAcceptHandleSourcesProperties": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "UParameterizeMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UPhysicsInspectorTool": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UPlaneCutTool": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "UPolygonOnMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UPolygonSelectionMechanic": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "UProjectToTargetTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "URemeshMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "URemoveOccludedTrianglesTool": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "URevolveBoundaryTool": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "URuntimeVirtualTextureComponent": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USDConversionUtils": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "USDErrorUtils": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "USDGeomMeshConversion": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "USDImportPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 25
+    },
+    "USDLayerUtils": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "USDOptionsWindow": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "USDPrimAttributesViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "USDReferencesList": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USDSchemaTranslator": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USDShadeConversion": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "USDStageActor": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "USDStageAssetImportFactory": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "USDStageImportContext": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USDStageImporter": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "USDTransactor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USDUtilitiesModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USDVariantSetsList": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "USelfUnionMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "USetCollisionGeometryTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UShapeSprayTool": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USimplifyMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "USingleClickTool": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "USmoothMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "USpaceCurveDeformationMechanic": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UStaticMesh": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UTakeRecorderActorSource": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UTakeRecorderCameraCutSource": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UTakeRecorderLevelSequenceSource": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UTakeRecorderLevelVisibilitySource": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UTakeRecorderMicrophoneAudioSource": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UTakeRecorderNearbySpawnedActorSource": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "UTakeRecorderPlayerSource": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UTakeRecorderWorldSource": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UTemplateSequenceSection": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UTransformGizmo": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UTransformMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 12
+    },
+    "UTransformProxy": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UUVLayoutTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UUVProjectionTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UVGenerationFlattenMappingTool": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "UVGenerationTool": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "UVGenerationToolbar": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UViewModeUtils": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 28
+    },
+    "UVolumeToMeshTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UVoxelBlendMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UVoxelCSGMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UVoxelMorphologyMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UVoxelSolidifyMeshesTool": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UWeldMeshEdgesTool": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UnHideAllGeometryCollectionCommand ": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnicodeBlock": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 272
+    },
+    "UnitConversion": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "UnrealBuildConfigurations": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "UnrealClient": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "UnrealEd": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 17,
+      "EDITOR_ONLY_CONFIRMED": 310
+    },
+    "UnrealEd.GeomModifier": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UnrealEd.GeomModifier_Clip": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Create": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Delete": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Edit": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Extrude": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Flip": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Lathe": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Optimize": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Pen": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UnrealEd.GeomModifier_Triangulate": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Turn": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.GeomModifier_Weld": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UnrealEd.Test": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 3
+    },
+    "UnrealEditor": {
+      "EDITOR_ONLY_CONFIRMED": 11
+    },
+    "UnrealEngine": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 22,
+      "DEVELOPMENT_ONLY_CONFIRMED": 1
+    },
+    "UnrealUSDWrapper": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "UsdSkelRoot": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "UsdSkeletalDataConversion": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UsdStageEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "UsdStageInfo": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "UsdStageTreeView": {
+      "EDITOR_ONLY_CONFIRMED": 30
+    },
+    "UsdStageViewModel": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "UserDefinedImageCaptureProtocol": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "VCamModifierFactory": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "VPBookmark": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "VPBookmarkListView": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "VPCameraUIBase": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "VPCustomUIHandler": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "VPUtilitiesEditor": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "VariantManager": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "VariantManagerFunctionPropertyNode": {
+      "EDITOR_ONLY_CONFIRMED": 18
+    },
+    "VariantManagerModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "VariantManagerTableRow": {
+      "EDITOR_ONLY_CONFIRMED": 3
+    },
+    "VariantManagerVariantNode": {
+      "EDITOR_ONLY_CONFIRMED": 14
+    },
+    "VariantManagerVariantSetNode": {
+      "EDITOR_ONLY_CONFIRMED": 20
+    },
+    "VectorParameterEditor": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "VehicleTransmissionDataCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 9
+    },
+    "VertexColorImportOptions": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "VertexColorImportOptionsCustomization": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "VertexPaintSettings": {
+      "EDITOR_ONLY_CONFIRMED": 7
+    },
+    "VideoInputDisplayUtilities": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "VirtualHeightfieldMeshEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "VirtualHeightfieldMeshModule": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "VirtualProductionUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "VisualStudioCodeSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "VisualStudioSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 10
+    },
+    "VisualizeRT": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 10
+    },
+    "VisualizeRenderTargets": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "VulkanRHI": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "Water": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "WaterBodyActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "WaterBodyIslandActorFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WaterBrushManager": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "WaterBrushManagerFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WaterEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WaterEditorToolkit": {
+      "EDITOR_ONLY_CONFIRMED": 6
+    },
+    "WaterLandscapeBrush": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "WaterSplineComponentVisualizer": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "WaterSubsystem": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "WaterWavesAssetFactory": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WaterWavesEditor": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WebBrowser": {
+      "EDITOR_ONLY_CONFIRMED": 8
+    },
+    "WebBrowserHandler": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WebRemoteControl": {
+      "EDITOR_ONLY_CONFIRMED": 4
+    },
+    "WidgetBlock": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WidgetEventLog": {
+      "EDITOR_ONLY_CONFIRMED": 13
+    },
+    "WidgetGallery": {
+      "EDITOR_ONLY_CONFIRMED": 63
+    },
+    "WidgetMaterialTrackUtilities": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "WidgetReflectorNode": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "WidgetSnapshotVisualizer": {
+      "EDITOR_ONLY_CONFIRMED": 5
+    },
+    "WindowTitleBar": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 3
+    },
+    "WindowsMixedReality": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    },
+    "WindowsMixedRealityHMD": {
+      "DEVELOPMENT_ONLY_CONFIRMED": 2
+    },
+    "WindowsMixedRealityHandTracking": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 4
+    },
+    "WindowsMixedRealitySpatialInput": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 25
+    },
+    "WindowsPlatform": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1,
+      "DEVELOPMENT_ONLY_CONFIRMED": 6
+    },
+    "WindowsPlatformEditorModule": {
+      "EDITOR_ONLY_CONFIRMED": 2
+    },
+    "WmfMedia": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "World": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "XCodeSourceCodeAccessor": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 2
+    },
+    "XmlParser": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 6
+    },
+    "nDisplayPlugin": {
+      "EDITOR_ONLY_CONFIRMED": 1
+    },
+    "x": {
+      "UNUSED_OR_UNREACHABLE_CONFIRMED": 1
+    }
+  }
+}

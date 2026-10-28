@@ -1,0 +1,300 @@
+300 101:Line:0CF3F482D9B74D6694E8265AA727AFDE [Blonde Blazer]
+EN Oh, God. Your arm.
+AR يا إلهي. ذراعك.
+301 101:Line:512C450BF8A64D0D8195D2B156DBD621 [Toxic]
+EN Oh, hey. Boss man says if you’re planning on diverting puss pow-- |sorry, pulse power to the boosters, it won’t work.
+AR آه، مهلا. يقول الزعيم إن كنت تنوي تحويل طاقة النبـ... |عفوا، النبضة إلى المعززات، فلن تنجح.
+302 101:Line:BF17A261B09D4826A75497B1292B2402 [Mecha Man]
+EN Oh, my glass slipped and I made a little mess.
+AR آه، انزلق كأسي وأحدثت فوضى صغيرة.
+303 101:Line:3095EE46965043F09CBDAD4AE29A57E0 [Mecha Man]
+EN Oh, wait, wait, oh I know it...
+AR آه، انتظر، انتظر، أعرفها...
+304 101:Line:8E130DEAD423453E944416409C5B4A91 [Mecha Man]
+EN Oh, wow, are you a superhero? That’s so cool. Is this your power? |You’re like, tell people obvious shit guy?
+AR يا للعجب، هل أنت بطل خارق؟ هذا رائع. أهذه قوتك؟ |أنت رجل يخبر الناس بأمور بديهية تافهة؟
+305 101:Line:D1B1E02E7FA74FF3AA0E5330078562C9 [Blonde Blazer]
+EN Oh. No.
+AR آه. لا.
+306 101:Line:37E9D120DB0F42B28ABE4922EF57E393 [Blonde Blazer]
+EN Oh. Right. I was supposed to test you at the bar. Here.
+AR آه. صحيح. كان يفترض أن أختبرك في الحانة. تفضل.
+307 101:Line:4D621922FA834C26A5D4095BA46C09E9 [Robert]
+EN Oh. Shit that's me. Right.
+AR آه. تبا، هذا أنا. صحيح.
+308 101:Line:14AAFB261C4046E1AB5BC64AF2515A7C [Blonde Blazer]
+EN Oh. Uh, I don’t know about that. I’m just a corporate, hero for hire. |You’re the real deal. You’re the famous one.
+AR آه. لا أدري بشأن ذلك. أنا مجرد بطلة مأجورة لدى شركة. |أنت البطل الحقيقي. أنت المشهور.
+309 101:Line:5F468A5109584E4CA7E9FC4484E67BA4 [Soothing Goon]
+EN Ohhh. Maybe we can go virallll...
+AR آآه. ربما ننتشر كالناررر...
+310 101:Line:CFFFFCB99FB34505AAC9ECD2EC7B166E [Mecha Man]
+EN Ok, Shroud wanted the Astral Pulse and Mecha Man gone. |He got both. I’m not sure I mattered much.
+AR حسنا، أراد شراود النبضة النجمية والتخلص من ميكا مان. |ونال كليهما. لا أظن أنني كنت مهما جدا.
+311 101:Line:A4ADABE1BDB240DF9F89C57C48E4271C [Blonde Blazer]
+EN Okay I’ll tell you, but only after you tell me how you ended up with a name like that.
+AR حسنا، سأخبرك، لكن بعد أن تخبرني كيف حصلت على اسم كهذا.
+312 101:Line:5CB9DA570B2040CFACE55D099B1D1C23 [Brickhouse]
+EN Okay okay okay.
+AR حسنا حسنا حسنا.
+313 101:Line:751D9D8D1EB7449D99C2E0704A747FF6 [Mecha Man]
+EN Okay, but have you done this before? 'cause maybe-- |Owwwww, wow-kay. Wow, that's, that's okay. Thank you.
+AR حسنا، لكن هل فعلت هذا من قبل؟ لأنه ربما-- |آآآآه، واو، حسنا. واو، هذا... هذا جيد. شكرا.
+314 101:Line:0B162A41B79E4127BBB0BEFC00F3BB0D [Soothing Goon]
+EN Okay, okay, uh, uh-- Steel--Steel Mill. |Llewelyn uh, Llewelyn Steel Works okay? Fuck.
+AR حسنا، حسنا، آه-- مصنع--مصنع الصلب. |ليولين... مصنع ليولين للصلب، حسنا؟ تبا.
+315 101:Line:CC0959A367704214823A03ED28414DFF [Robert]
+EN Okay, so that didn’t go so great... |but I really feel like I got a sense of where I need to improve to get to where...
+AR حسنا، لم يسر ذلك جيدا... |لكنني أشعر أنني فهمت ما علي تحسينه لأصل إلى...
+316 101:Line:57DF362BF7DA42969B2FDA0C1D8747B2 [Mecha Man]
+EN Okay... hopefully it’s nothing too... scandalous.
+AR حسنا... آمل ألا يكون الأمر... فاضحا جدا.
+317 101:Line:22AB0D2EC8A645D98F1CF87B2EB3ADC0 [Phenomaman]
+EN On SDN's state of the art graph, we can see an analysis of what skills the call required.
+AR على مخطط SDN المتطور، نرى تحليلا للمهارات التي يتطلبها البلاغ.
+318 101:Line:2A55789689664FF89D8E9D96DD9FFB08 [Phenomaman]
+EN On my way, citizens!
+AR في طريقي إليكم أيها المواطنون!
+319 101:Line:42783F3AEB6640629B6E834BDC21F1F5 [Phenomaman]
+EN On to the next.
+AR إلى التالي.
+320 101:Line:2ECC2CAFEF784ED5B5378D32E75E99ED [Brickhouse]
+EN On your mark.
+AR خذ مكانك.
+321 101:Line:1A2A7BF83A0A41CAB348F7E3A485E919 [Mecha Man]
+EN One at a time please.
+AR واحدا تلو الآخر رجاء.
+322 101:Line:73CE8B8860F84CB3A0337ED895437FD3 [Blonde Blazer]
+EN One of them is on that roof.
+AR أحدهم فوق ذلك السطح.
+323 101:Line:1831A504569E4C5F9F50D4B505E296E9 [Phenomaman]
+EN One of your heroes needs you!
+AR أحد أبطالك يحتاج إليك!
+324 101:Line:0E967E5E15B94720882BA713F46AA889 [Phenomaman]
+EN Onward. Upward. Forward.
+AR إلى الأمام. إلى الأعلى. إلى المستقبل.
+325 101:Line:31D98D32C8BA4DC2BED28E9DFEB331D8 [Phenomaman]
+EN Organized criminals, often led by figurehead super villains, are the scourge of Southern California. We work tirelessly to root them out.
+AR المجرمون المنظمون، وغالبا ما يقودهم أشرار خارقون بارزون، آفة جنوب كاليفورنيا. نعمل بلا كلل لاجتثاثهم.
+326 101:Line:21BC3A3A98554C209F800BCBEE20158D [Phenomaman]
+EN Our shift is done now. It is time for lunch.
+AR انتهت مناوبتنا الآن. حان وقت الغداء.
+327 101:Line:511DD1A4B45B4397BF96DFBC38C73049 [Phenomaman]
+EN Our sky eye. An ear on the ground. The deciding vote.
+AR عيننا في السماء. وأذننا على الأرض. وصوت الحسم.
+328 101:Line:40DBDE0192634B449995F70A266A75A4 [Soothing Goon]
+EN Perfectly good? |I assumed that cum-stained thing was already in the dumpster--
+AR سليما تماما؟ |افترضت أن ذلك الشيء الملطخ بالمني كان في الحاوية أصلا--
+329 101:Line:42A159CFF49B4773AE22CC6074AC6C6E [Phenomaman]
+EN Phenomamal!
+AR فينومامذهل!
+330 101:Line:3059367083AE4E52A1B5C9E70FD3BF09 [Blonde Blazer]
+EN Phew. |Hi. I’m Blonde Blazer. |I work over at Superhero Dispatch Network.
+AR أف. |مرحبا. أنا بلوند بليزر. |أعمل في شبكة تنسيق الأبطال الخارقين.
+331 101:Line:371FA70FC95145BDA664AB07B3B3B81E [Toxic]
+EN Piece of shit!
+AR يا حقير!
+332 101:Line:437801BE00844EE89D4D4AA86534FFC6 [Toxic]
+EN Piece of shit. 
+AR حقير. 
+333 101:Line:3E5E18E27E0E4A30896767E901BDB78F [Brainbook]
+EN Poor marks on that one.
+AR تقييم ضعيف لهذا.
+334 101:Line:BDFDEE4B682F45FE805CD6AFC5242158 [Blonde Blazer]
+EN Pop it on. This is part of the assessment. |And don’t move too much in there. |You’re sitting on the edge of a billboard.
+AR ارتدها. هذا جزء من التقييم. |ولا تتحرك كثيرا هناك. |أنت جالس على حافة لوحة إعلانية.
+335 101:Line:7F8B2CACCF174E248334B14E7C7995D8 [Mecha Man]
+EN Pretty much is the same as pretty much, buddy boy.
+AR «تقريبا» تعني «تقريبا» يا صاح.
+336 101:Line:1C1BC02628FD48B2B8C3B6CF3E9F6379 [Speedster]
+EN Quick thinking.
+AR سرعة بديهة.
+337 101:Line:0ED10D2317CD45A38ABA24FB135E28F3 [Sweetalker]
+EN Raincheck.
+AR نؤجلها.
+338 101:Line:28C7948228E14705AE2210AA7AFF0CF7 [Brickhouse]
+EN Ready if you need me.
+AR جاهز إن احتجتني.
+339 101:Line:873ACC85CD8A450FB9B11054C55D6C17 [Mecha Man]
+EN Relax. I’m leaving.
+AR اهدأ. سأغادر.
+340 101:Line:CAFACE6D72AB45959D0A05F2070FC66F [Robert]
+EN Remember? Of course. He’s like family... that I haven’t talked to in a while. |What about him?
+AR أتذكره؟ بالطبع. إنه كالعائلة... التي لم أكلمها منذ مدة. |ماذا بشأنه؟
+341 101:Line:57204BAA7D444C5FB02AD4C2B90092AA [Equilibrium]
+EN Rescuing civilians and taking down villains? Just another Tuesday for me.
+AR إنقاذ المدنيين وهزيمة الأشرار؟ مجرد يوم عمل عادي.
+342 101:Line:6D5BA629251440F6B05230C0EE84A160 [Mecha Man]
+EN Right now, I'm someone with nothing to lose... |which is probably bad news for you.
+AR أنا الآن شخص ليس لديه ما يخسره... |وهذا على الأرجح خبر سيئ لك.
+343 101:Line:03F2BFA2CCFA415A8619172471D56183 [Orangeski]
+EN Right. Well, that feels heavy, |but I don't know you so I don't give a fuck.
+AR صحيح. يبدو هذا مؤلما، |لكنني لا أعرفك، لذا لا يهمني إطلاقا.
+344 101:Line:3088F89EFA7C40B29C6604AE24ACD529 [Charles Kingsley]
+EN Right. You’re unimportant. Which leads me to my next question. Most heroes avenge their family. You, did the opposite. You killed their legacy. How disappointed would your dad be if he were here right now?
+AR صحيح. أنت غير مهم. وهذا يقودني إلى سؤالي التالي. معظم الأبطال ينتقمون لعائلاتهم. وأنت فعلت العكس. قتلت إرثهم. ما مدى خيبة أمل أبيك لو كان هنا الآن؟
+345 101:Line:7B9728A67C1B46A28CFDD6FF13A478E7 [Final Reporter]
+EN Right. You’re unimportant. Which leads me to my next question. |Most heroes avenge their family. You, did the opposite. |You killed their legacy. |How disappointed would your dad be if he were here right now?
+AR صحيح. أنت غير مهم. وهذا يقودني إلى سؤالي التالي. |معظم الأبطال ينتقمون لعائلاتهم. وأنت فعلت العكس. |قتلت إرثهم. |ما مدى خيبة أمل أبيك لو كان هنا الآن؟
+346 101:Line:995C3D5B7B504836B0A88976899C9611 [Mecha Man]
+EN Right... I don’t think infamous is the same as famous, but--
+AR صحيح... لا أظن أن سوء السمعة هو الشهرة، لكن--
+347 101:Line:584C7B2F55A74F14982FA50E357EB489 [Mecha Man]
+EN Ruin?
+AR الخراب؟
+348 101:Line:0A96E5B896194C4FB006FF47081163BE [Phenomaman]
+EN SDN solves all problems, big and small. We never ignore the people of the city, particularly the elderly.
+AR تحل SDN كل المشكلات، الكبيرة والصغيرة. لا نتجاهل سكان المدينة أبدا، وخصوصا المسنين.
+349 101:Line:19F8340E4B0D45D8AE5589C4793E6B8C [Phenomaman]
+EN SDN values work-life balance. When the bell rings, your shift will end very soon.
+AR تقدر SDN التوازن بين العمل والحياة. عند رنين الجرس، توشك مناوبتك على الانتهاء.
+350 101:Line:26A6702C96014AD0BFA41C045770EB02 [Blonde Blazer]
+EN Sacrifice everything to be a superhero to the point of financial...
+AR تضحي بكل شيء لتكون بطلا خارقا حتى تصل ماليا إلى...
+351 101:Line:38FEF27788314E949689469FFFA30195 [Robert]
+EN See. This is more like how I thought this would go...
+AR أرأيت؟ هكذا توقعت أن تسير الأمور...
+352 101:Line:21CF56C2FA0E415995024A683282C457 [Robert]
+EN Shit. My nose is bleeding. Thought I was getting emotionally snotty.
+AR تبا. أنفي ينزف. ظننته مخاطا من التأثر.
+353 101:Line:076D54589057411881A2C15DDEE03849 [Blonde Blazer]
+EN Shit. Sorry. Sorry.
+AR تبا. آسفة. آسفة.
+354 101:Line:3A349378D60640C1AE9C82B6ADC920AF [Punch-Up]
+EN Shit. Yeah, you’re right. Anybody got a rug?
+AR تبا. أجل، أنت محقة. هل لدى أحد بساط؟
+355 101:Line:08D4E8EE58CB40E197D0CF2193E28154 [Toxic]
+EN Shroud’s augments are pretty good when normies like you use ‘em, |but when you put ‘em on someone who already has powers... |fuckin' chef's kiss.
+AR تعزيزات شراود جيدة حين يستخدمها عاديون مثلك، |لكن حين تضعها على شخص ذي قوى أصلا... |تصبح تحفة لعينة.
+356 101:Line:5E8AFE4BB73743DDA6FF494E3979B4F5 [Brickhouse]
+EN Shut it down.
+AR عطله.
+357 101:Line:04A24A9FF35F404A93239336C2317587 [Robert]
+EN Sir. If you want something to scream about, I’ll give you something to scream about.
+AR سيدي، إن أردت سببا للصراخ، فسأعطيك سببا للصراخ.
+358 101:Line:3930E0FF1E82425C8C8E1813BE9C9C92 [Speedster]
+EN Slow and steady.
+AR ببطء وثبات.
+359 101:Line:FE60AF760A75427F91CEF0367780FEAB [Blonde Blazer]
+EN So are you drunk yet, or what?
+AR إذن، هل ثملت أم ماذا؟
+360 101:Line:C24E2E4D838549819FD7027AA9A5BDA8 [Robert]
+EN So this was, like, some sort of interview?
+AR إذن، كان هذا نوعا من المقابلات؟
+361 101:Line:3CE38D12183147FC9A035C8DCE7AEA53 [Toxic]
+EN So whaddaya got left on them shields? |I said forty percent but boss man says you’re down to twenty-eight, and he is not wrong about these things.
+AR كم بقي في دروعك؟ |قلت أربعين بالمئة، لكن الزعيم يقول إنك عند ثمانية وعشرين، وهو لا يخطئ في هذه الأمور.
+362 101:Line:F26971803CBA41D0BA540B7624AAE20F [Mecha Man]
+EN So you’ll understand when the check comes.
+AR إذن ستفهم حين تأتي الفاتورة.
+363 101:Line:476E3A60B3664ACF901D507836C45B36 [Phenomaman]
+EN So, Dispatcher, where do we start?
+AR حسنا يا منسق العمليات، من أين نبدأ؟
+364 101:Line:25DE2ECA641445EBB76376F3DBEB6908 [Soothing Goon]
+EN So, after that bullet tore through his insides, |he still had enough time to know how absolutely fucked he was, |and just pissed himself like a little bitch. It was like, so much piss. |'cause your dad was wearing shorts so it just--
+AR إذن، بعد أن مزقت الرصاصة أحشاءه، |ظل لديه وقت كاف ليدرك كم انتهى أمره تماما، |فتبول على نفسه كحقير صغير. كان بولا كثيرا جدا. |لأن أباك كان يرتدي سروالا قصيرا، لذا--
+365 101:Line:6F8559713A854D06A09FA072B82C236D [Robert]
+EN So, when do we get started?
+AR إذن، متى نبدأ؟
+366 101:Line:6E8C99237A4E499CBA1886D488057547 [Coupe]
+EN Some people become scared before they even know they're hurt... |like babies.
+AR بعض الناس يخافون قبل أن يدركوا أنهم أصيبوا... |كالأطفال.
+367 101:Line:30E63DC690374D2E871355ECEBD0355F [Pom Pom]
+EN Sometimes the solution is brains, not brawn. SDN's diverse array of heroes can solve any problem.
+AR أحيانا يكمن الحل في العقل لا العضلات. تشكيلة أبطال SDN المتنوعة تستطيع حل أي مشكلة.
+368 101:Line:0FCFDBDE90B64320B4FCFDC574E2AD81 [Phenomaman]
+EN Sometimes, a hero can use their talents to tip the scales. They are superheroes, after all!
+AR أحيانا، يستطيع بطل استخدام مواهبه لترجيح الكفة. فهم أبطال خارقون في النهاية!
+369 101:Line:B79AF13D6C1F48D4B4D09B45B6B3E66F [Robert]
+EN Sorry I’m late.
+AR آسف على التأخير.
+370 101:Line:D635ECC35E53454883EA6464ADAC822A [Blonde Blazer]
+EN Sorry, I’m actually here with... a purpose and...
+AR آسفة، أنا هنا في الواقع... لغرض... و...
+371 101:Line:335DE349AAD145E396D49A2D511AD620 [Mecha Man]
+EN Sorry, which way was that?
+AR عفوا، أي اتجاه كان ذاك؟
+372 101:Line:545AB49052AD4EC2BD3591F9A9DD08A6 [Coupe]
+EN Sorry. I choked on my spit.
+AR آسفة. شرقت بلعابي.
+373 101:Line:1BF7A43B7F4E43F19FA939D98631F94A [Equilibrium]
+EN Speaking of hospitals, did you know SDN offers a robust benefits package for all full time employees?
+AR بذكر المستشفيات، هل تعلم أن SDN تقدم حزمة مزايا شاملة لكل موظفي الدوام الكامل؟
+374 101:Line:2916C8E42A474D34BB302AEABBC69A5C [Pom Pom]
+EN Speaking of retirement, quick question, Phenomaman — does SDN offer 401K matching?
+AR بذكر التقاعد، سؤال سريع يا فينومامان: هل تضاهي SDN مساهمات خطة 401K؟
+375 101:Line:2BAC86FD869949038503AB1FAC035DD9 [Brickhouse]
+EN Speaking of traffic and going places, does SDN offer paid time off to take vacations?
+AR بذكر الزحام والذهاب لأماكن، هل تقدم SDN إجازات مدفوعة للسفر؟
+376 101:Line:5E645F75B39A466DA4AFD008F7410DFB [Mecha Man]
+EN Starting to think I didn’t need to waste a perfectly good mattress to break your fall.
+AR بدأت أظن أنني لم أحتج إلى إهدار فراش سليم تماما لتخفيف سقوطك.
+377 101:Line:0964C964C615445A8FB86C89E7D3570F [Mecha Man]
+EN Status?
+AR الوضع؟
+378 101:Line:94584FC601E146E98C6491B28DF5368A [News Anchor]
+EN Stay tuned to find out.
+AR ترقبوا لتعرفوا.
+379 101:Line:6211929290F64477BE6F207FB991B1C2 [Robert]
+EN Still mortified about that.
+AR ما زلت أشعر بالخجل الشديد من ذلك.
+380 101:Line:AD1E15E8BF4B463891710A135E9B9ED3 [Robert]
+EN Stop screaming, goddamnit!
+AR توقف عن الصراخ، اللعنة!
+381 101:Line:4D9FE04062424DC88F6B054E14D770FF [Brickhouse]
+EN Stopping power.
+AR قوة الإيقاف.
+382 101:Line:2A89B04837DD488FB2E1D53B1E5DACD5 [Phenomaman]
+EN Such an array of brave heroes to choose from! How could you possibly pick just one!
+AR يا لها من تشكيلة أبطال شجعان للاختيار منها! كيف تختار واحدا فقط؟
+383 101:Line:1165E50C72E94D33BA42A25260DB6323 [Mecha Man]
+EN System check. Calculate the damage per second hitting shields, |then tell me how many seconds I need to divert Astral Pulse energy to rocket boosters.
+AR فحص النظام. احسب الضرر الذي يصيب الدروع في الثانية، |ثم أخبرني كم ثانية أحتاج لتحويل طاقة النبضة النجمية إلى المعززات الصاروخية.
+384 101:Line:F69EB5AF35474D6D9892A627CD547917 [Mecha Man]
+EN Teeth don’t work that way, you’re thinking of fingers and dicks-- |you, ya know what? Give it a shot.
+AR الأسنان لا تعمل هكذا، أنت تفكر في الأصابع والقضبان-- |أتعلم؟ جرب.
+385 101:Line:CB17C9B0DF364187823963661BC7EA35 [Blonde Blazer]
+EN Thank you. |So how’d you afford all that? |You must’ve spent hundreds of thousands--
+AR شكرا. |كيف تحملت تكاليف كل ذلك؟ |لا بد أنك أنفقت مئات الآلاف--
+386 101:Line:D7AD80DF02E6477796437AF8080AE82E [Mecha Man]
+EN That feels like a challenge...
+AR يبدو هذا تحديًا...
+387 101:Line:41AA3E14135D493DA9B690D1FDB98CFF [Robert]
+EN That felt pretty natural to me... |in that it’s natural for me to end up mid tier. |That said, for a first time it feels pretty...
+AR بدا لي هذا طبيعيا جدا... |إذ من الطبيعي أن أنتهي في المستوى المتوسط. |ومع ذلك، للمرة الأولى، يبدو...
+388 101:Line:8DAA9663AFBC4437B79A02AB5F672E1F [Blonde Blazer]
+EN That guy I threw... he landed on the roof, right?
+AR الرجل الذي رميته... سقط على السطح، صحيح؟
+389 101:Line:206C9EEB69084EA79F637735846FA453 [Phenomaman]
+EN That sounds like me, Phenomaman!
+AR هذا يشبهني، فينومامان!
+390 101:Line:8F8FDE343CEF4A078054F9A21DB52A7C [Mecha Man]
+EN That was... impressive.
+AR كان ذلك... مبهرا.
+391 101:Line:1667821D461E464F9D8A2E12264385F6 [Phenomaman]
+EN That's phenomenal!
+AR هذا مذهل!
+392 101:Line:D0A85AB51E74488ABA97499639B8C494 [Soothing Voice]
+EN That’s a bit of an understatement...
+AR هذا تهوين للأمر بعض الشيء...
+393 101:Line:317CC91F10AC4FB0AD00A55FDD3492A4 [Blonde Blazer]
+EN That’s actually--
+AR هذا في الواقع--
+394 101:Line:907216B169794FE7A09F8AC00F3520B8 [Blonde Blazer]
+EN That’s the idea. But just until we get your suit put back together.
+AR تلك هي الفكرة. لكن إلى أن نعيد تجميع بدلتك فقط.
+395 101:Line:B517BA07438C4FD5B7A6FE5DB2F168C7 [Blonde Blazer]
+EN That’s water. That. See? How it has ice in it?
+AR هذا ماء. ذاك. أترى؟ فيه ثلج.
+396 101:Line:7770E7B130874DA5AE2513C79AEC9419 [Robert]
+EN That’s what I said.
+AR هذا ما قلته.
+397 101:Line:5A67E837EAA642098207E484539AE18F [Blonde Blazer]
+EN The Third?! Three times this happened?
+AR الثالث؟! حدث هذا ثلاث مرات؟
+398 101:Line:F4E5B002DD1B45E6A84031730543D29C [News Anchor]
+EN The death of Mecha Man... again.
+AR موت ميكا مان... مجددا.
+399 101:Line:54E8CF7949934D07BFDF56B6B36BE160 [Nurse]
+EN The diabolical super villain El Diablo is attacking Los Angeles General!
+AR الشرير الخارق الشيطاني إل ديابلو يهاجم مستشفى لوس أنجلوس العام!

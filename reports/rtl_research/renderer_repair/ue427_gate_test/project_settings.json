@@ -1,0 +1,30 @@
+{
+  "project": "RevealTest (C++ module RevealTest, Runtime; harness code under WITH_EDITOR)",
+  "uproject_EngineAssociation": "5.8",
+  "template": "none (hand-written minimal C++ project, no Starter Content, no maps; startup map /Engine/Maps/Entry)",
+  "DefaultGame.ini ProjectPackagingSettings": {
+    "UsePakFile": true,
+    "bUseIoStore": false,
+    "bShareMaterialShaderCode": true,
+    "bSharedMaterialNativeLibraries": true,
+    "bDeterministicShaderCodeOrder": false,
+    "BlueprintNativizationMethod": "Disabled",
+    "DirectoriesToAlwaysCook": ["/Game/ArabicReveal"],
+    "note": "mirrors the DISPATCH DefaultGame.ini flags recorded in round 004; the inline cook variant temporarily set bShareMaterialShaderCode/bSharedMaterialNativeLibraries=False"
+  },
+  "assets_created_by_harness": {
+    "/Game/ArabicReveal/FF_Roboto_Regular": "UFontFace, Inline, from Engine/Content/Slate/Fonts/Roboto-Regular.ttf",
+    "/Game/ArabicReveal/FF_NotoNaskhArabicUI_Regular": "UFontFace, Inline, from Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf (engine-shipped font)",
+    "/Game/ArabicReveal/F_ArabicReveal": "UFont Runtime composite: default Roboto, sub-typeface NotoNaskhArabicUI for U+0600-06FF, 0750-077F, 08A0-08FF, FB50-FDFF, FE70-FEFF",
+    "/Game/ArabicReveal/RT_ArabicReveal": "UTextureRenderTarget2D 1x1 RTF_RGBA16f, ClearColor (-1,0,0,1)",
+    "/Game/ArabicReveal/M_ArabicReveal": "UMaterial, MD_UI, BLEND_Translucent, Unlit (see materials/M_ArabicReveal.md)",
+    "/Game/ArabicReveal/MI_ArabicReveal_FG": "MIC: SubtitleColor white, DebugMode 0, DecodeMode 1",
+    "/Game/ArabicReveal/MI_ArabicReveal_Shadow": "MIC: SubtitleColor (0.3,0.7,1), DebugMode 0, DecodeMode 1",
+    "/Game/ArabicReveal/MI_ArabicReveal_Debug": "MIC: DebugMode 2 (constant white => pixel = VertexColor)",
+    "/Game/ArabicReveal/DT_ArabicReveal": "DataTable of FRichTextStyleRow: rows Default, u0..u254; font F_ArabicReveal 28, FontMaterial MI_ArabicReveal_FG, ColorAndOpacity (srgb_to_linear((i+1)/255),1,1,1), ShadowOffset 0",
+    "/Game/ArabicReveal/DT_ArabicReveal_Shadow": "same rows with MI_ArabicReveal_Shadow"
+  },
+  "widgets": "URichTextBlock (AutoWrapText true, Justification Center, TextStyleSet = DT), URetainerBox (default RenderOnInvalidation unless stated), UBorder for parent tint/opacity tests",
+  "markup": "whitespace-only units: <uN>word</> with whitespace and newlines outside the tags (Default row); a token without a letter joins the previous unit",
+  "test_strings": "tools/ue427_stock_reveal_test/TestData/corpus.json"
+}

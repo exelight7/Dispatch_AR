@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "UE4.27 ISOLATED TEST - NOT DISPATCH. Stock RichTextBlock Arabic reveal gates G1-G5.",
+	"Modules": [
+		{
+			"Name": "RevealTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

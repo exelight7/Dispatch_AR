@@ -1,0 +1,223 @@
+{
+  "checked": 12509,
+  "candidates": [
+    {
+      "id": "101:Line:5F218C496412425B9065D86715532153",
+      "index": 613,
+      "en": "Yes! 10's across the board!",
+      "ar": "نعم! عشر درجات في كل شيء!",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "10": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "104::DFF47FBD4298322CEFFA94AB7ABD97FB",
+      "index": 248,
+      "en": "Phenomaman needs only 1 second of rest and heroes sent with him on a call have their rest time reduced by half. ",
+      "ar": "يحتاج فينومامان إلى ثانية راحة واحدة فقط، وتقل مدة راحة الأبطال المرسلين معه إلى النصف. ",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "1": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "104::706AFC424612AD5D3A0AB49D85040E0E",
+      "index": 249,
+      "en": "Phenomaman needs only 1 second of rest.",
+      "ar": "يحتاج فينومامان إلى ثانية راحة واحدة فقط.",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "1": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "104::8FAE503F4E1E727FF8EFCD8EE93D0269",
+      "index": 250,
+      "en": "Phenomaman needs only ^2 seconds^ of ^rest^, however if any call ^fails or misses^, he will be depressed and need ^45 seconds^ of ^rest^.",
+      "ar": "يحتاج فينومامان إلى ^ثانيتين^ من ^الراحة^ فقط، لكن إن ^فشل بلاغ أو فات^، يكتئب ويحتاج إلى ^45 ثانية^ من ^الراحة^.",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "2": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "104::775F3E024BB937F1EC099691FD267DEF",
+      "index": 332,
+      "en": "Waterboy assigns himself if he hasn't been sent on a call in a while. He gains 1 point for the most required stat for that call.",
+      "ar": "يكلف ووتربوي نفسه إن لم يرسل في بلاغ منذ مدة. يكتسب نقطة في السمة الأكثر طلبا لذلك البلاغ.",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "1": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106::46181FCE42135E86C19BE5B2701EDE15",
+      "index": 176,
+      "en": "^^2_POSTS_BLOCKED^^",
+      "ar": "^^حظر_2_منشورات^^",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "2": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106::23AB903B437E8DE4995EAAA7A2A35129",
+      "index": 177,
+      "en": "^^3_POSTS_BLOCKED^^",
+      "ar": "^^حظر_3_منشورات^^",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "3": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106:Line:4853C51BF389489390C5CB92467B60BE",
+      "index": 358,
+      "en": "I definitely saw the ghost of my 4th grade algebra teacher once. She's still got it.",
+      "ar": "رأيت بالتأكيد شبح معلمة جبر الصف الرابع مرة. ما زالت فاتنة.",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "4": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106:Line:16C949B730ED4C5DA2092062EDBDAAF5",
+      "index": 427,
+      "en": "It's the 401k matching, isn't it?",
+      "ar": "إنها مساهمة الشركة في التقاعد، أليس كذلك؟",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "401": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106:Line:3A8CD62F040D45F992B5ACDE168FE501",
+      "index": 510,
+      "en": "Okay, were the tacos actually good or was it just 3am?",
+      "ar": "هل كانت التاكو لذيذة فعلا أم أن الساعة الثالثة فجرا؟",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "3": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106:Line:1FEBE4158AD941519A998DA2424261F5",
+      "index": 661,
+      "en": "Well, what you missed was 3 AM tacos leading to 4 AM heartburn followed by 5 AM diarrhea. |And despite all that, it was lovely.",
+      "ar": "فاتتك تاكو الثالثة فجرا، ثم حرقة الرابعة، ثم إسهال الخامسة. |ورغم ذلك كله، كانت ليلة جميلة.",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "3": 1,
+            "4": 1,
+            "5": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106:NodeTitle:373843111BF44EAF8DC1D356C0FF1E50",
+      "index": 851,
+      "en": "You missed 3am tacos.",
+      "ar": "فاتتك تاكو الثالثة فجرا.",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "3": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "108:LV_Shift08b.Scenario_SC_16:ScenarioBulletPoint_0",
+      "index": 1858,
+      "en": "• ^Deliver^ a large iced matcha green tea latte with oat milk, 2 pumps vanilla syrup, 1 pump white mocha sauce, strawberry puree, topped with caramel drizzle, light ice for Vanderstenk's girlfriend",
+      "ar": "• ^أوصل^ لاتيه شاي أخضر ماتشا مثلجًا كبيرًا بحليب الشوفان و2 ضغطة من شراب الفانيلا و1 ضغطة من صلصة الموكا البيضاء وهريس الفراولة ورشة كراميل وثلج خفيف، لحبيبة فاندرستينك",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "2": 1,
+            "1": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "OtherContent::70CB3B974E9079E9024DAEA035E40E00",
+      "index": 10,
+      "en": "Export non mult 4",
+      "ar": "تصدير القيم غير المضاعفة لـ4",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "4": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "OtherContent::C6019BA443063E74DD524D87EA5D9023",
+      "index": 22,
+      "en": "Print non mult 4",
+      "ar": "طباعة القيم غير المضاعفة لـ4",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "4": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "OtherContent::AAF8B08F46862195289405B0BD5759BA",
+      "index": 32,
+      "en": "The age in seconds divided by lifetime in seconds. Useful for animation as the value is between 0 and 1.",
+      "ar": "العمر بالثواني مقسومًا على مدة الحياة بالثواني. يفيد التحريك لأن القيمة تقع بين 0 و1.",
+      "flags": [
+        {
+          "missing_numeric_literals": {
+            "1": 1
+          }
+        }
+      ]
+    }
+  ],
+  "review_notes": {
+    "401k": "106:427 restored the specific 401(k) plan reference.",
+    "numeric_words": "Arabic dual forms and spoken ordinal/time words preserve the source values; they need not repeat digits.",
+    "regex_prefixes": "Arabic prefixes before digits caused false numeric-boundary candidates; source digits are present in108:1858 and OtherContent10/22/32.",
+    "coded_feedback": "106:176/177 preserve2/3 within underscore-delimited display feedback.",
+    "naming": "Vanderstenk spelling needs reconciliation with the distinct English surname variants; no blanket replacement performed."
+  }
+}

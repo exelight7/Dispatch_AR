@@ -1,0 +1,362 @@
+[
+  {
+    "target": "104",
+    "index": 520,
+    "id": "104:Line:5E8BA45C4DA342E4B3AFC958E86D11EC",
+    "en": "D-did you see?! I was on-- fire! No! Water. I was on water!",
+    "before": "أ-رأيت؟! كنت مشتعلا-- نارا! لا! ماء. كنت مشتعلا ماء!",
+    "after": "أ-رأيت؟! كنت مشتعلا-- نارا! لا! ماء. كنت مشتعلا بالماء!",
+    "reason": "تصحيح تعدية الفعل مع إبقاء المزحة."
+  },
+  {
+    "target": "104",
+    "index": 692,
+    "id": "104:Line:52E5171EF8FB48E0BAB89712BD95C38D",
+    "en": "I bid you a fuck you.",
+    "before": "أودعك بتبا لك.",
+    "after": "أودعك بقول: تبا لك.",
+    "reason": "إصلاح تركيب العبارة مع الحفاظ على حدتها."
+  },
+  {
+    "target": "104",
+    "index": 874,
+    "id": "104:Line:506356FCB50541E1AE92DFE1363ED5E9",
+    "en": "It appears that I have gotten stronger.",
+    "before": "يبدو أنني ازدادت قوتي.",
+    "after": "يبدو أن قوتي ازدادت.",
+    "reason": "تصحيح تركيب الجملة."
+  },
+  {
+    "target": "104",
+    "index": 1013,
+    "id": "104:Line:10BE9325F69644FA8B05D27382EDEC62",
+    "en": "Noted.",
+    "before": "علم.",
+    "after": "مفهوم.",
+    "reason": "توضيح جواب الإقرار وتجنب التباس صيغة المبني للمجهول."
+  },
+  {
+    "target": "104",
+    "index": 1014,
+    "id": "104:Line:14A837792CF04F0198D64BACC6B9FEEC",
+    "en": "Noted. Can you just... hang in there a little longer. I'll see what I can do.",
+    "before": "علم. هلا... تصمد قليلا بعد. سأرى ما بوسعي فعله.",
+    "after": "مفهوم. هلا... تصمد مدة أطول قليلا؟ سأرى ما بوسعي فعله.",
+    "reason": "تصحيح تركيب مدة الصمود وصيغة السؤال."
+  },
+  {
+    "target": "104",
+    "index": 1015,
+    "id": "104:Line:452E5559C3D040968CABE6D148FA49D0",
+    "en": "Noted. Can you just... hang in there a little longer. I'll see what I can do.",
+    "before": "علم. هلا... تصمد قليلا بعد. سأرى ما بوسعي فعله.",
+    "after": "مفهوم. هلا... تصمد مدة أطول قليلا؟ سأرى ما بوسعي فعله.",
+    "reason": "تصحيح تركيب مدة الصمود وصيغة السؤال."
+  },
+  {
+    "target": "104",
+    "index": 1016,
+    "id": "104:Line:FDF61738C83645818BF52F38DC94E66E",
+    "en": "Noted. Well, tell me how it is. I wanted to see that one.",
+    "before": "علم. أخبريني كيف هو. أردت مشاهدة ذلك الفيلم.",
+    "after": "مفهوم. أخبريني كيف هو. أردت مشاهدة ذلك الفيلم.",
+    "reason": "توضيح جواب الإقرار وتجنب التباس صيغة المبني للمجهول."
+  },
+  {
+    "target": "104",
+    "index": 1046,
+    "id": "104:Line:2E3DA95677C44969BEF3931413804C3D",
+    "en": "Oh, man, that feels very better. <Italic>Much</> better.",
+    "before": "يا رجل، أشعر بتحسن شديد. <Italic>كبير</>.",
+    "after": "يا رجل، أشعر بتحسن شديد. <Italic>تحسن كبير</>.",
+    "reason": "استكمال العبارة داخل الوسم مع الحفاظ عليه."
+  },
+  {
+    "target": "104",
+    "index": 1047,
+    "id": "104:Line:FFF34FA3C37E412D8EED7C04F5803617",
+    "en": "Oh, no don't worry. I got this... thing tonight |and they were supposed to send the dress yesterday-- |this isn't why you're here but can you zip me up? ",
+    "before": "لا، لا تقلق. لدي هذه المناسبة الليلة، |وكان يفترض أن يرسلوا الفستان أمس-- |لم تأت لهذا، لكن هلا تغلق سحابي؟ ",
+    "after": "لا، لا تقلق. لدي هذه المناسبة الليلة، |وكان يفترض أن يرسلوا الفستان أمس-- |لم تأت لهذا، لكن هلا تغلق سحاب فستاني؟ ",
+    "reason": "توضيح المضاف إليه وصياغة طلب إغلاق سحاب الفستان."
+  },
+  {
+    "target": "104",
+    "index": 1163,
+    "id": "104:Line:3D21723BDD144F058D85382D0A43707D",
+    "en": "Shit. He looks rough. ",
+    "before": "تبا. حاله مزر. ",
+    "after": "تبا. حاله يرثى لها. ",
+    "reason": "إصلاح العبارة دون الاعتماد على ضبط كلمة منقوصة ملتبسة."
+  },
+  {
+    "target": "104",
+    "index": 1180,
+    "id": "104:Line:381E6CC3109248C5883678459B494051",
+    "en": "Some things you just can't teach.",
+    "before": "بعض الأمور لا تعلم.",
+    "after": "بعض الأمور لا يمكن تعلمها.",
+    "reason": "إزالة التباس صيغة الفعل المبني للمجهول."
+  },
+  {
+    "target": "104",
+    "index": 1187,
+    "id": "104:Line:C819BBACC08F4047BF46F584C2F51013",
+    "en": "Sorry, I just have a thing against obviously gorgeous women fishing for compliments. ",
+    "before": "آسف، لكنني لا أطيق الجميلات الواضحات وهن يستجدين المديح. ",
+    "after": "آسف، لكنني لا أطيق النساء الجميلات جدا وهن يستجدين المديح. ",
+    "reason": "تصحيح وصف النساء بدل الوصف الملتبس."
+  },
+  {
+    "target": "104",
+    "index": 1371,
+    "id": "104:Line:0D5C5C07B1F94446B61DA3ED5711529B",
+    "en": "What do you mean he got away?! You better find him, man!",
+    "before": "ماذا تعني بهرب؟ عليك العثور عليه يا رجل!",
+    "after": "ماذا تقصد بأنه هرب؟ عليك العثور عليه يا رجل!",
+    "reason": "تصحيح تركيب السؤال."
+  },
+  {
+    "target": "104",
+    "index": 1407,
+    "id": "104:Line:2B4847D569BD4ADCA805C4F2CE84126F",
+    "en": "Why do you need it? You're in the field.",
+    "before": "لم تحتاجها؟ أنت في الميدان.",
+    "after": "لماذا تحتاجها؟ أنت في الميدان.",
+    "reason": "توضيح أداة الاستفهام وتجنب التباسها بالنفي."
+  },
+  {
+    "target": "104",
+    "index": 1409,
+    "id": "104:Line:C629350DF6774CB0B9731503ECAD5B87",
+    "en": "Why is he here so late?",
+    "before": "لم هو هنا في هذا الوقت المتأخر؟",
+    "after": "لماذا هو هنا في هذا الوقت المتأخر؟",
+    "reason": "توضيح أداة الاستفهام وتجنب التباسها بالنفي."
+  },
+  {
+    "target": "104",
+    "index": 1526,
+    "id": "104:Line:C2DF0EA5586949E397A8BF9B3D9399A2",
+    "en": "You’re, what? Two inches shorter?",
+    "before": "أنت أقصر بماذا؟ بوصتين؟",
+    "after": "أنت أقصر بكم؟ بوصتين؟",
+    "reason": "تصحيح أداة السؤال عن المقدار."
+  },
+  {
+    "target": "104",
+    "index": 1597,
+    "id": "104:LV_Shift04a.Scenario_SC_11b:VOTranscription",
+    "en": "\"What do you mean he got away?! You better find him, man!\"",
+    "before": "\"ماذا تعني بهرب؟ عليك العثور عليه يا رجل!\"",
+    "after": "\"ماذا تقصد بأنه هرب؟ عليك العثور عليه يا رجل!\"",
+    "reason": "تصحيح تركيب السؤال في نسخة النص الصوتي."
+  },
+  {
+    "target": "105",
+    "index": 272,
+    "id": "105:Line:524750CEB0A74F1AAC2E9A05D8045C1A",
+    "en": "Besides burning all those shitty candles your aunties gave you.",
+    "before": "غير حرق كل تلك الشموع الرديئة التي أهدتك عماتك.",
+    "after": "غير حرق كل تلك الشموع الرديئة التي أهدتك إياها عماتك.",
+    "reason": "استكمال مفعول الإهداء."
+  },
+  {
+    "target": "105",
+    "index": 345,
+    "id": "105:Line:59CE71BC393E4C33970737C0A24479CD",
+    "en": "Fuck you mean temporarily? Bitch you blind foreva!",
+    "before": "ماذا تقصد بمؤقتا؟ أنت أعمى للأبد يا حقير!",
+    "after": "ماذا تقصد بقولك مؤقتا؟ أنت أعمى للأبد يا حقير!",
+    "reason": "تصحيح تركيب السؤال عن معنى الكلمة."
+  },
+  {
+    "target": "105",
+    "index": 348,
+    "id": "105:Line:479FA88C95054CC6B058A7D88F128F2F",
+    "en": "Fuck. We're locked out.",
+    "before": "تبا. منع دخولنا.",
+    "after": "تبا. مُنعنا من الدخول.",
+    "reason": "توضيح المبني للمجهول وتصحيح التعبير."
+  },
+  {
+    "target": "105",
+    "index": 375,
+    "id": "105:Line:4F72F5B11E5C4F45977140382531F969",
+    "en": "Heard.",
+    "before": "علم.",
+    "after": "مفهوم.",
+    "reason": "توضيح الإقرار بدل صيغة ملتبسة."
+  },
+  {
+    "target": "105",
+    "index": 412,
+    "id": "105:Line:03F716B68F8C4C09810948F5FCE2C258",
+    "en": "I can pose. Let the folks admire the merchandise.",
+    "before": "أستطيع الاستعراض. ليدعوا الناس يتأملون البضاعة.",
+    "after": "أستطيع الاستعراض. ليتأمل الناس البضاعة.",
+    "reason": "تصحيح تركيب فعل الأمر مع الحفاظ على المعنى."
+  },
+  {
+    "target": "105",
+    "index": 473,
+    "id": "105:Line:03DA8EE2FD9F4B7BB405E8105E0E8C7A",
+    "en": "I'm here to hustle.",
+    "before": "أنا هنا لأكد.",
+    "after": "أنا هنا لأكدح.",
+    "reason": "إزالة التباس الفعل مع فعل التأكيد."
+  },
+  {
+    "target": "105",
+    "index": 518,
+    "id": "105:Line:2F615AB64E99470DB4632194A3EDA354",
+    "en": "I’m thankful that our breakup has given me time to learn about myself, |but unfortunately what I’ve learned is that I hate me. ",
+    "before": "أنا ممتن لأن الانفصال أتاح لي معرفة نفسي، |لكن للأسف ما تعلمته أنني أكرهني. ",
+    "after": "أنا ممتن لأن الانفصال أتاح لي معرفة نفسي، |لكن للأسف ما تعلمته أنني أكره نفسي. ",
+    "reason": "تصحيح ضمير المفعول العائد على المتكلم."
+  },
+  {
+    "target": "105",
+    "index": 522,
+    "id": "105:Line:0D84F9AC6C0945E5935F3C327A1E3C36",
+    "en": "Just a little longer...",
+    "before": "قليلا بعد...",
+    "after": "وقت أطول قليلا...",
+    "reason": "تصحيح التعبير عن المدة."
+  },
+  {
+    "target": "105",
+    "index": 599,
+    "id": "105:Line:3C8F8AA4DF5E457D908D847575A11D6A",
+    "en": "Noted.",
+    "before": "علم.",
+    "after": "مفهوم.",
+    "reason": "توضيح الإقرار بدل صيغة ملتبسة."
+  },
+  {
+    "target": "105",
+    "index": 618,
+    "id": "105:Line:4981665A6E504F0DA00CC2F596E80762",
+    "en": "Oh-- Uh. I-it's an honor to be n-nominated.",
+    "before": "آه-- ي-يشرفني أن أ-أرشح.",
+    "after": "آه-- ي-يشرفني أن ي-يرشحوني.",
+    "reason": "توضيح المبني للمجهول مع الحفاظ على التلعثم."
+  },
+  {
+    "target": "105",
+    "index": 629,
+    "id": "105:Line:1BD07E440007423FA3D25D5CA53082CE",
+    "en": "Okie-- Got it-- Understood.",
+    "before": "حسـ-- فهمت-- علم.",
+    "after": "حسـ-- فهمت-- مفهوم.",
+    "reason": "توضيح الإقرار بدل صيغة ملتبسة."
+  },
+  {
+    "target": "105",
+    "index": 652,
+    "id": "105:Line:2291B29F2CFB4FC589E9C8D2BDFF6F1A",
+    "en": "Robbie, I saw some shit. I think there's mole people that live down here...",
+    "before": "روبي، رأيت أشياء. أظن أناس الخلد يعيشون هنا...",
+    "after": "روبي، رأيت أشياء. أظن أن أناس الخلد يعيشون هنا...",
+    "reason": "تصحيح تركيب الجملة مع الإبقاء على تسمية أناس الخلد المتبعة في المشروع."
+  },
+  {
+    "target": "105",
+    "index": 677,
+    "id": "105:Line:000EA64F2FAD49319EFE72708F660164",
+    "en": "So this is what civvies do to feel \"special\"? Get up on stage and suck at singing?",
+    "before": "إذن هكذا يشعر المدنيون بأنهم \"مميزون\"؟ يصعدون المسرح ويغنون بفشل؟",
+    "after": "إذن هكذا يشعر المدنيون بأنهم \"مميزون\"؟ يصعدون المسرح ويفشلون في الغناء؟",
+    "reason": "إصلاح تركيب التعبير عن الفشل."
+  },
+  {
+    "target": "105",
+    "index": 680,
+    "id": "105:Line:03C0E587AB2F434B93D810B86FE1F3F9",
+    "en": "So you can see, umm, why I'm worried about getting incinerated.",
+    "before": "إذن تفهمون لم أخشى أن أحترق.",
+    "after": "إذن تفهمون لماذا أخشى أن أحترق.",
+    "reason": "توضيح أداة الاستفهام وتجنب التباسها بالنفي."
+  },
+  {
+    "target": "105",
+    "index": 681,
+    "id": "105:Line:2288458754744B9D92D0A2EFF9537DC1",
+    "en": "So you can see, umm, why I'm worried about getting incinerated.",
+    "before": "إذن تفهمون لم أخشى أن أحترق.",
+    "after": "إذن تفهمون لماذا أخشى أن أحترق.",
+    "reason": "توضيح أداة الاستفهام وتجنب التباسها بالنفي."
+  },
+  {
+    "target": "105",
+    "index": 696,
+    "id": "105:Line:0774FCA4BBDC4EF3BC181D8FA852F1A9",
+    "en": "Spend some time with us, come on, we know you don’t have plans.",
+    "before": "اقضوا بعض الوقت معنا، هيا، نعرف أنه ليست لديكم خطط.",
+    "after": "اقضوا بعض الوقت معنا، هيا، نعرف أنكم لا تملكون خططا.",
+    "reason": "تصحيح تركيب خبر أن."
+  },
+  {
+    "target": "105",
+    "index": 747,
+    "id": "105:Line:29D1453321BA4B4FB343F70DE34AC065",
+    "en": "This is the job for me!",
+    "before": "هذه مهمتي المناسبة!",
+    "after": "هذه هي المهمة المناسبة لي!",
+    "reason": "تصحيح تركيب الوصف."
+  },
+  {
+    "target": "105",
+    "index": 763,
+    "id": "105:Line:31DEFAA18018421692D5398BB245D842",
+    "en": "Torrance Middle School is hosting an anti-bullying seminar and it would mean a lot if a hero could come talk to the students... and their parents.",
+    "before": "تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لنا الكثير أن يحدث بطل الطلاب... وأهاليهم.",
+    "after": "تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لنا الكثير أن يتحدث بطل إلى الطلاب... وأهاليهم.",
+    "reason": "تصحيح تركيب الفعل وإزالة الالتباس في قراءته."
+  },
+  {
+    "target": "105",
+    "index": 792,
+    "id": "105:Line:1A979995E7584B3CADD0F0F2D6F191C5",
+    "en": "We all pay for who we used to be. |Sooner you get it over with, sooner we get a fresh start.",
+    "before": "ندفع جميعا ثمن ماضينا. |كلما أنهيت هذا أسرع، بدأنا من جديد أسرع.",
+    "after": "ندفع جميعا ثمن ماضينا. |كلما أسرعت في إنهاء هذا، بدأنا من جديد أسرع.",
+    "reason": "تصحيح جملة المقارنة الزمنية."
+  },
+  {
+    "target": "105",
+    "index": 793,
+    "id": "105:Line:2ABD8CA57B1248029B43F0BA91C74E27",
+    "en": "We all pay for who we used to be. |Sooner you get it over with, sooner we get a fresh start.",
+    "before": "ندفع جميعا ثمن ماضينا. |كلما أنهيت هذا أسرع، بدأنا من جديد أسرع.",
+    "after": "ندفع جميعا ثمن ماضينا. |كلما أسرعت في إنهاء هذا، بدأنا من جديد أسرع.",
+    "reason": "تصحيح جملة المقارنة الزمنية."
+  },
+  {
+    "target": "105",
+    "index": 833,
+    "id": "105:Line:32DB6B1E9C9843AAA11CC6EFE40481AD",
+    "en": "Why’s everyone -- Do I look like a bitch? Don’t answer that. |Fuck. Is he big? He’s got big guy voice.",
+    "before": "لم الجميع-- هل أبدو حقيرا؟ لا تجب. |تبا. هل هو ضخم؟ صوته صوت ضخم.",
+    "after": "لماذا الجميع-- هل أبدو حقيرا؟ لا تجب. |تبا. هل هو ضخم؟ صوته يوحي بأنه ضخم.",
+    "reason": "توضيح أداة الاستفهام في العبارة المقطوعة. تصحيح تركيب وصف الصوت."
+  },
+  {
+    "target": "105",
+    "index": 834,
+    "id": "105:Line:2D6791BD42494C8DA5AE8985034AECDA",
+    "en": "Why’s everyone -- do I look like a bitch? Don’t answer that. Fuck. Is he big? He’s got big guy voice.",
+    "before": "لم الجميع-- هل أبدو حقيرا؟ لا تجب. تبا. هل هو ضخم؟ صوته صوت ضخم.",
+    "after": "لماذا الجميع-- هل أبدو حقيرا؟ لا تجب. تبا. هل هو ضخم؟ صوته يوحي بأنه ضخم.",
+    "reason": "توضيح أداة الاستفهام في العبارة المقطوعة. تصحيح تركيب وصف الصوت."
+  },
+  {
+    "target": "105",
+    "index": 1090,
+    "id": "105:SecondDateVisiChoiceStat:DC4192974FD3C3481A0EA18DB965D8A5",
+    "en": "^You and {Percentage}^ of players told Invisigal they could ^just be friends^.",
+    "before": "^أنت و{Percentage}^ من اللاعبين أخبرتم إنفيزيغال بإمكانكم ^البقاء أصدقاء فقط^.",
+    "after": "^أنت و{Percentage}^ من اللاعبين أخبرتم إنفيزيغال أن بإمكانكم ^البقاء أصدقاء فقط^.",
+    "reason": "إصلاح تركيب الجملة التابعة."
+  }
+]

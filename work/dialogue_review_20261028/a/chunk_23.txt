@@ -1,0 +1,261 @@
+2300 107:Line:4EDE4B754B8B4492A3881827AEF0E042 [Robert]
+EN Yeah. That makes sense.
+AR أجل. هذا منطقي.
+2301 107:Line:0519F9F62B9B4F6FAB3049B30A98FB80 [Robert]
+EN Yeah... I saw the footage.
+AR أجل... رأيت التسجيل.
+2302 107:Line:457AA431335B49119399ACBE96B16532 [Coupe]
+EN Yes, apologies, my mind was elsewhere.
+AR أجل، أعتذر، كنت شاردة الذهن.
+2303 107:Line:4F7011B7908E4922B8851E789513B50B [Chase]
+EN Yes, bitch. That’s exactly what I’m saying. 
+AR نعم أيها الحقير. هذا ما أقوله بالضبط. 
+2304 107:Line:9AF1060E3B984B8189F67B81DABBD945 [Invisigal]
+EN Yes, you do. 
+AR بل تعرف. 
+2305 107:Line:0BC7706869FE48A3B350A039BB895AC1 [Shroud]
+EN You actually believe that. Show him.
+AR أنت تؤمن بذلك فعلًا. أره.
+2306 107:Line:FF750D544EE44079AFD3E1AC13600721 [Invisigal]
+EN You can’t fuckin’ forgive me. |You haven’t even... like... processed what’s going on. 
+AR لا يمكنك مسامحتي بحق الجحيم. |أنت لم... حتى... تستوعب ما يجري. 
+2307 107:Line:46273ED365CD47EBB812803FB205C3F7 [Punch-Up]
+EN You coulda led with that.
+AR كان بإمكانك أن تبدأ بذلك.
+2308 107:Line:C59431F61D6C46AEA2486283CEAB54A0 [Robert]
+EN You did villain shit while you were a villain. |Does it change things that you directed it at me? No. It doesn’t. That’s in the past. |You’re not the same person that was there that night... neither am I.
+AR فعلت أمورًا شريرة حين كنت شريرة. |هل يغير الأمر أنك وجهتها إلي؟ لا. لا يغيره. هذا من الماضي. |لست الشخص نفسه الذي كان هناك تلك الليلة... ولا أنا.
+2309 107:Line:05B65E3AF1C44BCF84886DCA1990D3E6 [Invisigal]
+EN You gonna say something?
+AR هل ستقول شيئًا؟
+2310 107:Line:54C94C68884E4E54898C6C615C22D16C [Bartender]
+EN You got a problem?
+AR لديك مشكلة؟
+2311 107:Line:2AA56F3DA58446C49A5262CED881B450 [Robert]
+EN You know, Waterboy, I wish I had an answer for you, |I just... in this case I really don’t know.
+AR تعرف يا ووتربوي، ليت لدي إجابة لك، |لكنني... لا أعرف حقًا في هذه الحالة.
+2312 107:Line:2AB9E0EEA6E44F7886B4E752594817C7 [Shroud]
+EN You made them nervous.
+AR أنت جعلتهم يتوترون.
+2313 107:Line:3A5CE6CAB3BC42E4959C8D847DDF4564 [Robert]
+EN You okay, bud?
+AR هل أنت بخير يا صاحبي؟
+2314 107:Line:5990CFA44A734755A024DE36FCBDD710 [Robert]
+EN You said anything... |or are you going to let me down too? 
+AR قلت أي شيء... |أم أنك ستخذلني أنت أيضًا؟ 
+2315 107:Line:073E95774D294C03981F2955FEB9628F [Robert]
+EN You saved me... again.
+AR أنقذتني... مجددًا.
+2316 107:Line:4E72B8A624854221A265301E56FBDF8D [Blazer]
+EN You should know I was going to take you to the actual Hollywood sign. |Not as sturdy as you’d thi--
+AR عليك أن تعرفي أنني كنت سآخذك إلى لافتة هوليوود الحقيقية. |ليست بمتانة ما تظـ--
+2317 107:Line:3C143798684A413B8399FF23BEF6FB18 [Shroud]
+EN You trusted her, didn’t you... |It’s okay. She fooled me too.
+AR وثقت بها، أليس كذلك... |لا بأس. خدعتني أنا أيضًا.
+2318 107:Line:4B0DE8FADD694085BE6DC7D615336C58 [Robert]
+EN You went in, knowing the risks. |What you were willing to put on the line to help me.
+AR دخلت وأنت تعرف المخاطر. |وما كنت مستعدًا للمخاطرة به لمساعدتي.
+2319 107:Line:3F16ACD046AD41E2AFFB1C91360DAF0C [Malevola]
+EN You've got a little...
+AR هناك قليل من...
+2320 107:Line:3BDD0C4479794415B833F7E134E71A2A [Shroud]
+EN You, your Dad, Chase, your little team of turncoats-- |you think you can beat the bad by being good, |but there’s no solving human nature. |You can’t stop evil. |All you can do is control it.
+AR أنت وأبوك وتشيس وفريقك الصغير من المنشقين-- |تظنون أنكم تهزمون الشر بكونكم أخيارًا، |لكن لا علاج للطبيعة البشرية. |لا يمكنكم إيقاف الشر. |كل ما يمكنكم فعله هو التحكم فيه.
+2321 107:Line:19A202CA5A864AC5912AA4E687A9C89C [Robert]
+EN You... you were bluffing.
+AR أنت... كنت تخادع.
+2322 107:Line:1BFDE17493604C11896656310DF87389 [Chase]
+EN Your favorite.
+AR ما تفضله.
+2323 107:Line:577271027BEB440385C3BE8D14DDFD38 [Shroud]
+EN Your invisible girlfriend stole my Astral Pulse to give it to you. |Where the fuck is it?
+AR حبيبتك الخفية سرقت نبضتي النجمية لتعطيك إياها. |أين هي بحق الجحيم؟
+2324 107:Line:253C0BA74FE34BC2AA3B5D5EF9DC194F [Robert]
+EN You’re probably right... |just need to sit here for like... a few weeks... |then I’ll be... right as rain.
+AR ربما أنت محق... |أحتاج للجلوس هنا... بضعة أسابيع... |ثم سأصبح... بخير تمامًا.
+2325 107:Line:0B9CDB8E7CA74A27A0D88EE751050289 [Malevola]
+EN You’ve cut one of us already for far less. And why? |To send a message? To set a standard? |Well, where’s that talk now?
+AR فصلت أحدنا من قبل لأقل من ذلك بكثير. ولماذا؟ |لتوجه رسالة؟ لتضع معيارًا؟ |أين ذلك الكلام الآن؟
+2326 107:Line:ADB2190200864A04AF582C656937AFD3 [Blazer]
+EN Yup makes sense
+AR أجل منطقي
+2327 107:Line:055A9A9C7D094DC6A0B295D70F14EA56 [Golem]
+EN [crying and hurling]
+AR [بكاء وتقيؤ]
+2328 107:Line:58A60CB9530C46BEBFF603639D6BA203 [Golem]
+EN [crying and hurling]
+AR [بكاء وتقيؤ]
+2329 107:Line:28AA9FD21E6941FDB169F11B43CBD4F5 [Sonar]
+EN [fart sound] Bullshit.
+AR [صوت ضرطة] هراء.
+2330 107:Line:281BC837A4E848AF9019F1FB5F58AF02 [Golem]
+EN [grumbles]
+AR [تذمر]
+2331 107:Line:042CD05221984BDBA2D8EB79FD66CECC [Golem]
+EN [hurling intensifies]
+AR [اشتداد القيء]
+2332 107:Line:52BC5C5B0AE64FD2B6F92A4F3FDE7CDD [Bartender]
+EN [laughing]
+AR [ضحك]
+2333 107:Line:1FB3A6305BB04A27BAF8FC1376CAA95E [Bartender]
+EN [motorboat sounds]
+AR [أصوات نفخ بالشفاه]
+2334 107:LV_Shift03b.Scenario_BP_Scenario_TrainingFlying:VOTranscription []
+EN "Let's learn to fly! Your flight capable heroes need a flight license."
+AR "لنتعلم الطيران! أبطالك القادرون على الطيران يحتاجون إلى رخصة طيران."
+2335 107:LV_Shift07.Scenario_SC_01__34:VOTranscription []
+EN "Got a ton of beached whales off the coast, could really use some help getting them back in the ocean."
+AR "هناك حيتان كثيرة جانحة على الساحل، نحتاج فعلًا إلى مساعدة لإعادتها إلى المحيط."
+2336 107:LV_Shift07.Scenario_SC_05__38:VOTranscription []
+EN "Got a super down here who control bugs. They have beef with one of our farmers using pesticides."
+AR "هناك صاحبة قوى تتحكم بالحشرات. إنها ناقمة على أحد مزارعينا لاستخدامه المبيدات."
+2337 107:LV_Shift07.Scenario_SC_10__43:VOTranscription []
+EN "We need backup down here, there's a mass pile-up and the tanker caught fire!"
+AR "نحتاج إلى تعزيزات هنا، هناك تصادم جماعي واشتعلت الشاحنة الصهريجية!"
+2338 107:LV_Shift07.Scenario_SC_12:VOTranscription []
+EN "[crying and hurling, cars honking]"
+AR "[بكاء وتقيؤ وأبواق سيارات]"
+2339 107:LV_Shift07.Scenario_SC_MES_1B:VOTranscription []
+EN "Red Ring's coordinating strikes across Torrance. Looks like they're hitting the port next."
+AR "تنسق الحلقة الحمراء هجمات في أنحاء تورانس. يبدو أن الميناء هدفهم التالي."
+2340 107:NodeTitle:442736F82D5541B6852264FE676CDD0A []
+EN Absolutely not.
+AR قطعًا لا.
+2341 107:NodeTitle:402D33A5DCAB42A38B0F83999DDE9841 []
+EN Can't believe you found me.
+AR لا أصدق أنك وجدتني.
+2342 107:NodeTitle:D34D2A41427349DAB0294D599579EAFA []
+EN Could you shut the fuck up?
+AR هلا أغلقت فمك اللعين؟
+2343 107:NodeTitle:D87E9D2053BB49F9B423A46B625B2D1F []
+EN Get me another drink.
+AR أحضر لي شرابًا آخر.
+2344 107:NodeTitle:86245DEC8AC84F369AF71C7BDC970127 []
+EN He was like a brother.
+AR كان لي كأخ.
+2345 107:NodeTitle:17A59072879640859B825915F7EC182F []
+EN I care about you.
+AR أنا أهتم بك.
+2346 107:NodeTitle:5C75B48C83CD479D941BBFD943AE79A9 []
+EN I care about you.
+AR أنا أهتم بك.
+2347 107:NodeTitle:3495BF3B78BD4FC98689C1D577897DF2 []
+EN I don't have it.
+AR إنها ليست معي.
+2348 107:NodeTitle:10E5E1D942B64660BF885619242532C7 []
+EN I don't know what to feel.
+AR لا أعرف بماذا أشعر.
+2349 107:NodeTitle:12B7AD32AD8A44D18CDA3DC9D54A463D []
+EN I don't want this.
+AR لا أريد هذا.
+2350 107:NodeTitle:58D3C83793834BECA4EDC2DCEAF6152A []
+EN I don't want this.
+AR لا أريد هذا.
+2351 107:NodeTitle:E1CF4B20F6CA4EEBBAAD9BCA246B6C2E []
+EN I forgive you.
+AR أسامحك.
+2352 107:NodeTitle:12631343F66E4830923D90BB10EB9D16 []
+EN I honestly don't know.
+AR بصراحة، لا أعرف.
+2353 107:NodeTitle:CF9ADAE8751C407CB151AEFA437123FA []
+EN I should've kept in touch.
+AR كان علي البقاء على تواصل.
+2354 107:NodeTitle:7C336C21DF304A908E68775A5E3BD0DB []
+EN I trust her.
+AR أثق بها.
+2355 107:NodeTitle:E4096BF6D4764F2F9DD776A2A6FDE644 []
+EN I was lost for a while.
+AR كنت تائهًا فترة.
+2356 107:NodeTitle:DB693959A5274CDA967F396CC248079D []
+EN I'll get back to you.
+AR سأجيبك لاحقًا.
+2357 107:NodeTitle:015749F0ED844D2AA2676A5B7ED36004 []
+EN I'm going to kill you.
+AR سأقتلك.
+2358 107:NodeTitle:513E5DDAADFA49159F3BFE2C467257D1 []
+EN It's not your fault.
+AR ليس ذنبك.
+2359 107:NodeTitle:EDF9922525164EE9977B9AAA327FF8E9 []
+EN Might make things worse.
+AR قد يزيد الأمور سوءًا.
+2360 107:NodeTitle:1FBA13562D03463EA4D0B07856850847 []
+EN Mind changing the subject?
+AR هلا غيرنا الموضوع؟
+2361 107:NodeTitle:C667C0D67CD242A09FC660DB60426A52 []
+EN She really fucked up.
+AR لقد أفسدت الأمر تمامًا، اللعنة.
+2362 107:NodeTitle:1F5F5C574DA149CA931A382BB20E4D8E []
+EN She's planning something.
+AR إنها تخطط لشيء.
+2363 107:NodeTitle:3BF28A607688403EBD5D59F75011F16F []
+EN Thanks for saving me.
+AR شكرًا لإنقاذي.
+2364 107:NodeTitle:08D50951DC5846BFB906F53251652027 []
+EN There's no backup, is there?
+AR لا توجد تعزيزات، أليس كذلك؟
+2365 107:NodeTitle:5F0EB708D1384BAABC5EAD4A534D4974 []
+EN They decided, not me.
+AR هم قرروا، لا أنا.
+2366 107:NodeTitle:11D5875B812E4F5B84BA8BA54C0F0159 []
+EN They'll come around.
+AR سيغيرون رأيهم.
+2367 107:NodeTitle:343D0D75FDC04C6F9726FFE227E62446 []
+EN We're done.
+AR انتهينا.
+2368 107:NodeTitle:5E005CE4E9E34EAAA221E88E23E974D8 []
+EN What's goin' on?
+AR ما الذي يجري؟
+2369 107:NodeTitle:B3DDD2F802FB42F2A4D5F5BA9AFBB674 []
+EN Who cares?
+AR من يهتم؟
+2370 107:NodeTitle:30FA447F26384B4896B0FE0F6BD81937 []
+EN Who threw him out the door?
+AR من رماه عبر الباب؟
+2371 107:NodeTitle:457ABEA36F2745499902E276765632A7 []
+EN Who's paying for this?
+AR من سيدفع ثمن هذا؟
+2372 107:NodeTitle:38C0F1C3723B4973ACE9799BC0E75E3F []
+EN Yeah, I think he did.
+AR أجل، أظنه فعل الصواب.
+2373 107:NodeTitle:1EEE80C355254B0EB0000A8B73D775E4 []
+EN You gave me no choice
+AR لم تتركي لي خيارًا
+2374 107:NodeTitle:0B1D13178BF24A02B7331AE3A191AFB6 []
+EN [Beer]
+AR [جعة]
+2375 107:NodeTitle:6B7112CDAFFB4707B5650FBDB2EC1580 []
+EN [Cigar]
+AR [سيجار]
+2376 107:NodeTitle:123BD0735EDE4622884FC8767F574B75 []
+EN [Cut Her]
+AR [افصلها]
+2377 107:NodeTitle:593CA9584C434BF5A180D2587ABAB878 []
+EN [Defend Her]
+AR [دافع عنها]
+2378 107:NodeTitle:A7E6FAA813FF48688B42AFDD2629C784 []
+EN [Glass Him]
+AR [اضربه بالكأس]
+2379 107:NodeTitle:E9CD86ABEFF34647B93270116D847B65 []
+EN [Invisigal]
+AR [إنفيزيغال]
+2380 107:NodeTitle:11DA68015BA244729212D2A06CB7245C []
+EN [Lean In]
+AR [تجاوب مع القبلة]
+2381 107:NodeTitle:37CB980A3FD246BCA8F8F2AE9AAEC6CD []
+EN [Lean Out]
+AR [ابتعد عن القبلة]
+2382 107:NodeTitle:AE36B7BE415B4D6D9394FBE38181EB3E []
+EN [Let It Go]
+AR [تغاض عن الأمر]
+2383 107:NodeTitle:2B560024628A44B29394E1236D0CF1EA []
+EN [Spit In His Face]
+AR [ابصق في وجهه]
+2384 107:NodeTitle:E03880D8055E49BDA30CBECE4EEA8B55 []
+EN [Track Star]
+AR [تراك ستار]
+2385 107:NodeTitle:0A74F793E06B46EFA20F1E32ED9616AB []
+EN [Twinkies]
+AR [توينكي]
+2386 107:StoreRunChoiceStat:C2B39ABA41AA7062633AA585FEF45FEC []
+EN ^You and {Percentage}^ of players chose ^twinkies^.
+AR ^أنت و{Percentage}^ من اللاعبين اخترتم ^توينكي^.

@@ -1,0 +1,1858 @@
+{
+  "EngineRuntime:FInputChord:ModAppender": {
+    "en": "+",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  "EngineRuntime:FInputChord:KeyName_Alt": {
+    "en": "Alt",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  "EngineRuntime:FInputChord:KeyName_Command": {
+    "en": "Cmd",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  "EngineRuntime:FInputChord:KeyName_Control": {
+    "en": "Ctrl",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  "EngineRuntime:FInputChord:KeyName_Shift": {
+    "en": "Shift",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  "EngineRuntime:FInputChord:FourModifiers": {
+    "en": "{Mod1}{Appender1}{Mod2}{Appender2}{Mod3}{Appender3}{Mod4}{Appender4}{Key}",
+    "reason": "Technical modifier/key-chord notation or formatting placeholders."
+  },
+  "EngineRuntime:InputKeys:AndroidSubCateogry": {
+    "en": "Android",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:BackSpace": {
+    "en": "Backspace",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:CapsLockShort": {
+    "en": "Caps",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:CapsLock": {
+    "en": "Caps Lock",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:DeleteShort": {
+    "en": "Del",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Delete": {
+    "en": "Delete",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:End": {
+    "en": "End",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Enter": {
+    "en": "Enter",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:EscapeShort": {
+    "en": "Esc",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Escape": {
+    "en": "Escape",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F1": {
+    "en": "F1",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F10": {
+    "en": "F10",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F11": {
+    "en": "F11",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F12": {
+    "en": "F12",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F2": {
+    "en": "F2",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F3": {
+    "en": "F3",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F4": {
+    "en": "F4",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F5": {
+    "en": "F5",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F6": {
+    "en": "F6",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F7": {
+    "en": "F7",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F8": {
+    "en": "F8",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:F9": {
+    "en": "F9",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:ForwardDelete": {
+    "en": "Fn+Delete",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:DaydreamSubCategory": {
+    "en": "Google Daydream",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:ViveSubCategory": {
+    "en": "HTC Vive",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:Home": {
+    "en": "Home",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:InsertShort": {
+    "en": "Ins",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Insert": {
+    "en": "Insert",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Multiply": {
+    "en": "Num *",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Add": {
+    "en": "Num +",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Subtract": {
+    "en": "Num -",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Decimal": {
+    "en": "Num .",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Divide": {
+    "en": "Num /",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadZero": {
+    "en": "Num 0",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadOne": {
+    "en": "Num 1",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadTwo": {
+    "en": "Num 2",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadThree": {
+    "en": "Num 3",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadFour": {
+    "en": "Num 4",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadFive": {
+    "en": "Num 5",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadSix": {
+    "en": "Num 6",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadSeven": {
+    "en": "Num 7",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadEight": {
+    "en": "Num 8",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumPadNine": {
+    "en": "Num 9",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:NumLock": {
+    "en": "Num Lock",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:OculusTouchSubCategory": {
+    "en": "Oculus Touch",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:PS4SubCategory": {
+    "en": "PS4",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:PS4_Special": {
+    "en": "PS4_Special",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:PageDown": {
+    "en": "Page Down",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:PageUp": {
+    "en": "Page Up",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:Pause": {
+    "en": "Pause",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:PageDownShort": {
+    "en": "PgDn",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:PageUpShort": {
+    "en": "PgUp",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:ScrollLock": {
+    "en": "Scroll Lock",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:SpaceBarShort": {
+    "en": "Space",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:SpaceBar": {
+    "en": "Space Bar",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:SteamSubCateogry": {
+    "en": "Steam",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:Tab": {
+    "en": "Tab",
+    "reason": "Technical physical keyboard/controller key name or identifier, preserved per style."
+  },
+  "EngineRuntime:InputKeys:ValveIndexSubCategory": {
+    "en": "Valve Index",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:MixedRealitySubCategory": {
+    "en": "Windows Mixed Reality",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:XBoxOneSubCateogry": {
+    "en": "XBox One",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeySelector:DefaultKeySelectionText": {
+    "en": "...",
+    "reason": "Pure punctuation."
+  },
+  "EngineRuntime:SlateAccessibility:Slate": {
+    "en": "Slate",
+    "reason": "Platform, device or framework brand/name."
+  },
+  "EngineRuntime:InputKeys:Acceleration": {
+    "en": "Acceleration",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Ampersand": {
+    "en": "Ampersand",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Android_Back": {
+    "en": "Android Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Android_Menu": {
+    "en": "Android Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Android_Volume_Down": {
+    "en": "Android Volume Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Android_Volume_Up": {
+    "en": "Android Volume Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:AnyKey": {
+    "en": "Any Key",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Apostrophe": {
+    "en": "Apostrophe",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Asterix": {
+    "en": "Asterisk",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Backslash": {
+    "en": "Backslash",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Caret": {
+    "en": "Caret",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Colon": {
+    "en": "Colon",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Comma": {
+    "en": "Comma",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Left_Select_Click": {
+    "en": "Daydream (L) Select",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Left_Trackpad_Click": {
+    "en": "Daydream (L) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Left_Trackpad_Touch": {
+    "en": "Daydream (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Left_Trackpad_X": {
+    "en": "Daydream (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Left_Trackpad_Y": {
+    "en": "Daydream (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Right_Select_Click": {
+    "en": "Daydream (R) Select",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Right_Trackpad_Click": {
+    "en": "Daydream (R) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Right_Trackpad_Touch": {
+    "en": "Daydream (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Right_Trackpad_X": {
+    "en": "Daydream (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Daydream_Right_Trackpad_Y": {
+    "en": "Daydream (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Dollar": {
+    "en": "Dollar",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Down": {
+    "en": "Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Equals": {
+    "en": "Equals",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Exclamation": {
+    "en": "Exclamation",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gesture_Flick": {
+    "en": "Flick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:GamepadSubCategory": {
+    "en": "Gamepad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Bottom": {
+    "en": "Gamepad A",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Right": {
+    "en": "Gamepad B",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:XBoxOne_Gamepad_Special_Left": {
+    "en": "Gamepad Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Right": {
+    "en": "Gamepad Circle",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_DPad_Down": {
+    "en": "Gamepad D-pad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_DPad_Left": {
+    "en": "Gamepad D-pad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_DPad_Right": {
+    "en": "Gamepad D-pad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_DPad_Up": {
+    "en": "Gamepad D-pad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_FaceButton_Bottom": {
+    "en": "Gamepad Face Button Bottom",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_FaceButton_Left": {
+    "en": "Gamepad Face Button Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_FaceButton_Right": {
+    "en": "Gamepad Face Button Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_FaceButton_Top": {
+    "en": "Gamepad Face Button Top",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_LeftShoulder": {
+    "en": "Gamepad L1",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_LeftTrigger": {
+    "en": "Gamepad L2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_LeftTriggerAxis": {
+    "en": "Gamepad L2 Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_LeftThumbstick": {
+    "en": "Gamepad L3",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftShoulder": {
+    "en": "Gamepad Left Shoulder",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_Left2D": {
+    "en": "Gamepad Left Thumbstick 2D-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftThumbstick": {
+    "en": "Gamepad Left Thumbstick Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftStick_Down": {
+    "en": "Gamepad Left Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftStick_Left": {
+    "en": "Gamepad Left Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftStick_Right": {
+    "en": "Gamepad Left Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftStick_Up": {
+    "en": "Gamepad Left Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftX": {
+    "en": "Gamepad Left Thumbstick X-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftY": {
+    "en": "Gamepad Left Thumbstick Y-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftTrigger": {
+    "en": "Gamepad Left Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_LeftTriggerAxis": {
+    "en": "Gamepad Left Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_Special_Right": {
+    "en": "Gamepad Options",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_RightShoulder": {
+    "en": "Gamepad R1",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_RightTrigger": {
+    "en": "Gamepad R2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_RightTriggerAxis": {
+    "en": "Gamepad R2 Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_RightThumbstick": {
+    "en": "Gamepad R3",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightShoulder": {
+    "en": "Gamepad Right Shoulder",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_Right2D": {
+    "en": "Gamepad Right Thumbstick 2D-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightThumbstick": {
+    "en": "Gamepad Right Thumbstick Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightStick_Down": {
+    "en": "Gamepad Right Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightStick_Left": {
+    "en": "Gamepad Right Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightStick_Right": {
+    "en": "Gamepad Right Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightStick_Up": {
+    "en": "Gamepad Right Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightX": {
+    "en": "Gamepad Right Thumbstick X-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightY": {
+    "en": "Gamepad Right Thumbstick Y-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightTrigger": {
+    "en": "Gamepad Right Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_RightTriggerAxis": {
+    "en": "Gamepad Right Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_Special_Left": {
+    "en": "Gamepad Special Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gamepad_Special_Right": {
+    "en": "Gamepad Special Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Left": {
+    "en": "Gamepad Square",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:XBoxOne_Gamepad_Special_Right": {
+    "en": "Gamepad Start",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_Special_Left": {
+    "en": "Gamepad Touchpad Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Top": {
+    "en": "Gamepad Triangle",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Bottom": {
+    "en": "Gamepad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Left": {
+    "en": "Gamepad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Top": {
+    "en": "Gamepad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:GestureSubCateogry": {
+    "en": "Gesture",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Global_Back": {
+    "en": "Global Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Global_Menu": {
+    "en": "Global Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Global_Pause": {
+    "en": "Global Pause",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Global_Play": {
+    "en": "Global Play",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Global_View": {
+    "en": "Global View",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gravity": {
+    "en": "Gravity",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Hyphen": {
+    "en": "Hyphen",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:KeyboardSubCategory": {
+    "en": "Keyboard",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Left": {
+    "en": "Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:LeftAlt": {
+    "en": "Left Alt",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:LeftBracket": {
+    "en": "Left Bracket",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:LeftCommand": {
+    "en": "Left Cmd",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:LeftControl": {
+    "en": "Left Ctrl",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:LeftMouseButton": {
+    "en": "Left Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:LeftParantheses": {
+    "en": "Left Parantheses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:LeftShift": {
+    "en": "Left Shift",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MiddleMouseButton": {
+    "en": "Middle Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Grip_Click": {
+    "en": "Mixed Reality (L) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Menu_Click": {
+    "en": "Mixed Reality (L) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Click": {
+    "en": "Mixed Reality (L) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Down": {
+    "en": "Mixed Reality (L) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Left": {
+    "en": "Mixed Reality (L) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Right": {
+    "en": "Mixed Reality (L) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Up": {
+    "en": "Mixed Reality (L) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_X": {
+    "en": "Mixed Reality (L) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Y": {
+    "en": "Mixed Reality (L) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Click": {
+    "en": "Mixed Reality (L) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Down": {
+    "en": "Mixed Reality (L) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Left": {
+    "en": "Mixed Reality (L) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Right": {
+    "en": "Mixed Reality (L) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Touch": {
+    "en": "Mixed Reality (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Up": {
+    "en": "Mixed Reality (L) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_X": {
+    "en": "Mixed Reality (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Y": {
+    "en": "Mixed Reality (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trigger_Click": {
+    "en": "Mixed Reality (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Left_Trigger_Axis": {
+    "en": "Mixed Reality (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Grip_Click": {
+    "en": "Mixed Reality (R) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Menu_Click": {
+    "en": "Mixed Reality (R) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Click": {
+    "en": "Mixed Reality (R) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Down": {
+    "en": "Mixed Reality (R) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Left": {
+    "en": "Mixed Reality (R) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Right": {
+    "en": "Mixed Reality (R) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Up": {
+    "en": "Mixed Reality (R) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_X": {
+    "en": "Mixed Reality (R) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Y": {
+    "en": "Mixed Reality (R) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Click": {
+    "en": "Mixed Reality (R) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Down": {
+    "en": "Mixed Reality (R) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Left": {
+    "en": "Mixed Reality (R) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Right": {
+    "en": "Mixed Reality (R) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Touch": {
+    "en": "Mixed Reality (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Up": {
+    "en": "Mixed Reality (R) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_X": {
+    "en": "Mixed Reality (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Y": {
+    "en": "Mixed Reality (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trigger_Click": {
+    "en": "Mixed Reality (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MixedReality_Right_Trigger_Axis": {
+    "en": "Mixed Reality (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MotionSubCateogry": {
+    "en": "Motion",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MouseSubCategory": {
+    "en": "Mouse",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MouseWheelAxis": {
+    "en": "Mouse Wheel Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MouseScrollDown": {
+    "en": "Mouse Wheel Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MouseScrollUp": {
+    "en": "Mouse Wheel Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MouseX": {
+    "en": "Mouse X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Mouse2D": {
+    "en": "Mouse XY 2D-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:MouseY": {
+    "en": "Mouse Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Grip_Click": {
+    "en": "Oculus Touch (L) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Grip_Axis": {
+    "en": "Oculus Touch (L) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Menu_Click": {
+    "en": "Oculus Touch (L) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Click": {
+    "en": "Oculus Touch (L) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Down": {
+    "en": "Oculus Touch (L) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Left": {
+    "en": "Oculus Touch (L) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Right": {
+    "en": "Oculus Touch (L) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Touch": {
+    "en": "Oculus Touch (L) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Up": {
+    "en": "Oculus Touch (L) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_X": {
+    "en": "Oculus Touch (L) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Y": {
+    "en": "Oculus Touch (L) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Trigger_Click": {
+    "en": "Oculus Touch (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Trigger_Axis": {
+    "en": "Oculus Touch (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Trigger_Touch": {
+    "en": "Oculus Touch (L) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_X_Click": {
+    "en": "Oculus Touch (L) X Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_X_Touch": {
+    "en": "Oculus Touch (L) X Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Y_Click": {
+    "en": "Oculus Touch (L) Y Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Left_Y_Touch": {
+    "en": "Oculus Touch (L) Y Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_A_Click": {
+    "en": "Oculus Touch (R) A Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_A_Touch": {
+    "en": "Oculus Touch (R) A Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_B_Click": {
+    "en": "Oculus Touch (R) B Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_B_Touch": {
+    "en": "Oculus Touch (R) B Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Grip_Click": {
+    "en": "Oculus Touch (R) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Grip_Axis": {
+    "en": "Oculus Touch (R) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_System_Click": {
+    "en": "Oculus Touch (R) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Click": {
+    "en": "Oculus Touch (R) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Down": {
+    "en": "Oculus Touch (R) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Left": {
+    "en": "Oculus Touch (R) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Right": {
+    "en": "Oculus Touch (R) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Touch": {
+    "en": "Oculus Touch (R) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Up": {
+    "en": "Oculus Touch (R) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_X": {
+    "en": "Oculus Touch (R) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Y": {
+    "en": "Oculus Touch (R) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Trigger_Click": {
+    "en": "Oculus Touch (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Trigger_Axis": {
+    "en": "Oculus Touch (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:OculusTouch_Right_Trigger_Touch": {
+    "en": "Oculus Touch (R) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_Special_Left_X": {
+    "en": "PS4 Touchpad Button X Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:PS4_Gamepad_Special_Left_Y": {
+    "en": "PS4 Touchpad Button Y Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Period": {
+    "en": "Period",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gesture_Pinch": {
+    "en": "Pinch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Quote": {
+    "en": "Quote",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Right": {
+    "en": "Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RightAlt": {
+    "en": "Right Alt",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RightBracket": {
+    "en": "Right Bracket",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RightCommand": {
+    "en": "Right Cmd",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RightControl": {
+    "en": "Right Ctrl",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RightMouseButton": {
+    "en": "Right Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RightParantheses": {
+    "en": "Right Parantheses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RightShift": {
+    "en": "Right Shift",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Gesture_Rotate": {
+    "en": "Rotate",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:RotationRate": {
+    "en": "Rotation Rate",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Semicolon": {
+    "en": "Semicolon",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Slash": {
+    "en": "Slash",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Steam_Back_Left": {
+    "en": "Steam Back Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Steam_Back_Right": {
+    "en": "Steam Back Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Steam_Touch_0": {
+    "en": "Steam Touch 0",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Steam_Touch_1": {
+    "en": "Steam Touch 1",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Steam_Touch_2": {
+    "en": "Steam Touch 2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Steam_Touch_3": {
+    "en": "Steam Touch 3",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ThumbMouseButton": {
+    "en": "Thumb Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ThumbMouseButton2": {
+    "en": "Thumb Mouse Button 2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Tilt": {
+    "en": "Tilt",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:TouchSubCateogry": {
+    "en": "Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:TouchFormat": {
+    "en": "Touch {0}",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Underscore": {
+    "en": "Underscore",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Up": {
+    "en": "Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_A_Click": {
+    "en": "Valve Index (L) A Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_A_Touch": {
+    "en": "Valve Index (L) A Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_B_Click": {
+    "en": "Valve Index (L) B Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_B_Touch": {
+    "en": "Valve Index (L) B Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Grip_Axis": {
+    "en": "Valve Index (L) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Grip_Force": {
+    "en": "Valve Index (L) Grip Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_System_Click": {
+    "en": "Valve Index (L) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_System_Touch": {
+    "en": "Valve Index (L) System Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Click": {
+    "en": "Valve Index (L) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Down": {
+    "en": "Valve Index (L) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Left": {
+    "en": "Valve Index (L) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Right": {
+    "en": "Valve Index (L) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Touch": {
+    "en": "Valve Index (L) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Up": {
+    "en": "Valve Index (L) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_X": {
+    "en": "Valve Index (L) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Y": {
+    "en": "Valve Index (L) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Down": {
+    "en": "Valve Index (L) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Force": {
+    "en": "Valve Index (L) Trackpad Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Left": {
+    "en": "Valve Index (L) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Right": {
+    "en": "Valve Index (L) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Touch": {
+    "en": "Valve Index (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Up": {
+    "en": "Valve Index (L) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_X": {
+    "en": "Valve Index (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Y": {
+    "en": "Valve Index (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trigger_Click": {
+    "en": "Valve Index (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trigger_Axis": {
+    "en": "Valve Index (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Left_Trigger_Touch": {
+    "en": "Valve Index (L) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_A_Click": {
+    "en": "Valve Index (R) A Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_A_Touch": {
+    "en": "Valve Index (R) A Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_B_Click": {
+    "en": "Valve Index (R) B Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_B_Touch": {
+    "en": "Valve Index (R) B Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Grip_Axis": {
+    "en": "Valve Index (R) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Grip_Force": {
+    "en": "Valve Index (R) Grip Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_System_Click": {
+    "en": "Valve Index (R) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_System_Touch": {
+    "en": "Valve Index (R) System Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Click": {
+    "en": "Valve Index (R) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Down": {
+    "en": "Valve Index (R) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Left": {
+    "en": "Valve Index (R) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Right": {
+    "en": "Valve Index (R) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Touch": {
+    "en": "Valve Index (R) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Up": {
+    "en": "Valve Index (R) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_X": {
+    "en": "Valve Index (R) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Y": {
+    "en": "Valve Index (R) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Down": {
+    "en": "Valve Index (R) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Force": {
+    "en": "Valve Index (R) Trackpad Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Left": {
+    "en": "Valve Index (R) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Right": {
+    "en": "Valve Index (R) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Touch": {
+    "en": "Valve Index (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Up": {
+    "en": "Valve Index (R) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_X": {
+    "en": "Valve Index (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Y": {
+    "en": "Valve Index (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trigger_Click": {
+    "en": "Valve Index (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trigger_Axis": {
+    "en": "Valve Index (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:ValveIndex_Right_Trigger_Touch": {
+    "en": "Valve Index (R) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Grip_Click": {
+    "en": "Vive (L) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Menu_Click": {
+    "en": "Vive (L) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_System_Click": {
+    "en": "Vive (L) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_Click": {
+    "en": "Vive (L) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_Down": {
+    "en": "Vive (L) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_Left": {
+    "en": "Vive (L) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_Right": {
+    "en": "Vive (L) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_Touch": {
+    "en": "Vive (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_Up": {
+    "en": "Vive (L) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_X": {
+    "en": "Vive (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trackpad_Y": {
+    "en": "Vive (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trigger_Click": {
+    "en": "Vive (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Left_Trigger_Axis": {
+    "en": "Vive (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Grip_Click": {
+    "en": "Vive (R) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Menu_Click": {
+    "en": "Vive (R) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_System_Click": {
+    "en": "Vive (R) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_Click": {
+    "en": "Vive (R) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_Down": {
+    "en": "Vive (R) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_Left": {
+    "en": "Vive (R) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_Right": {
+    "en": "Vive (R) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_Touch": {
+    "en": "Vive (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_Up": {
+    "en": "Vive (R) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_X": {
+    "en": "Vive (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trackpad_Y": {
+    "en": "Vive (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trigger_Click": {
+    "en": "Vive (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeys:Vive_Right_Trigger_Axis": {
+    "en": "Vive (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "EngineRuntime:InputKeySelector:DefaultEmptyText": {
+    "en": "Empty",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::7A8CB35C407C1E03E7DAC5A164F6832E": {
+    "en": "Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::41F40E5F400982383485EE8AA7D44407": {
+    "en": "Dispatch Pre-alpha X.X.X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::9BF7B9654D9DF6713083FEA74B58CE09": {
+    "en": "Restore All Defaults",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::993C49574B179151E1224B9DE10C6A9E": {
+    "en": "SETTINGS 01",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::0AFFAB4144154455F3FE36B731F9C587": {
+    "en": "Setting Name",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::4F1A7CF444388E2D350B94997E73E9CC": {
+    "en": "Setting Name",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::9125690D4BBDA0865A96D9964C91A09A": {
+    "en": "Settings",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::2B3123B343150DCC3ED35FA87C4A5AAF": {
+    "en": "Settings Name",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared::0A57359F4F7D69D6011895A06E01372A": {
+    "en": "Unlimited",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingCategoryAccessibility": {
+    "en": "Accessibility",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:AnalyticsEnabled": {
+    "en": "Allow Remote Analytics",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitleTypewriterAnimationEnabled": {
+    "en": "Animation",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitlesLetterboxEnabled": {
+    "en": "Background",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitlesLetterboxOpacity": {
+    "en": "Background Opacity",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:CensorshipStyleBlackout": {
+    "en": "Blackout",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:Commentary_Cast": {
+    "en": "Cast",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:CensorshipStyle": {
+    "en": "Censorship Style",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:CensorshipStyleChaotic": {
+    "en": "Chaotic",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:QuickTimeEventsOff": {
+    "en": "Cinematic (Off)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MusicVolumeCinematics": {
+    "en": "Cinematic Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MusicVolumeCinematics_Nintendo": {
+    "en": "Cinematic Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:ColorblindSetting": {
+    "en": "Colorblind Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:ColorblindIntensitySetting": {
+    "en": "Colorblind Mode Intensity",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:Commentary": {
+    "en": "Commentary",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:CommentaryVolume": {
+    "en": "Commentary Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:CommentaryVolume_Nintendo": {
+    "en": "Commentary Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:ControllerPreset": {
+    "en": "Controller Binding",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingCategoryControls": {
+    "en": "Controls",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:Commentary_Crew": {
+    "en": "Crew",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:CensorshipStyleTooltip": {
+    "en": "Customize your censorship experience.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:Commentary_Dev": {
+    "en": "Developer",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:DialogueBoost": {
+    "en": "Dialogue Boost",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingCategoryDisplay": {
+    "en": "Display",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:FullscreenEnabled": {
+    "en": "Display Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingCategoryFilters": {
+    "en": "Filters",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingsCensorFull": {
+    "en": "Full",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:FullscreenEnabledTrue": {
+    "en": "Fullscreen",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:GamepadType": {
+    "en": "Gamepad Type",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingCategoryGeneral": {
+    "en": "General",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MasterVolume": {
+    "en": "Global Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MasterVolume_Nintendo": {
+    "en": "Global Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:QuickTimeEventsOn": {
+    "en": "Interactive (On)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:Language": {
+    "en": "Language",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:LargeSubtitlesOn": {
+    "en": "Large",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingCategoryMisc": {
+    "en": "Misc",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MonitorAdditiveFX": {
+    "en": "Monitor Additive FX",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MonitorVisualWarping": {
+    "en": "Monitor Visual Warping",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MonoAudio": {
+    "en": "Mono-Mix Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:CensorshipStyleMosaic": {
+    "en": "Mosaic",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MKBPreset": {
+    "en": "Mouse and Keyboard Binding",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingsOff": {
+    "en": "Off",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingsOn": {
+    "en": "On",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingsCensorPartial": {
+    "en": "Partial",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:PauseOnLostFocus": {
+    "en": "Pause On Lost Focus",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitlesColorEnabledTrue": {
+    "en": "Per-Character",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:StreamerModeCensoredAudio": {
+    "en": "Profanity Censorship",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:QuickTimeEvents": {
+    "en": "Quick-Time Events",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:DisableCopyrightedMusic": {
+    "en": "Replace Licensed Music",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SFXVolume": {
+    "en": "SFX Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SFXVolume_Nintendo": {
+    "en": "SFX Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MusicVolumeGameplay": {
+    "en": "Shift Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:MusicVolumeGameplay_Nintendo": {
+    "en": "Shift Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingCategorySound": {
+    "en": "Sound",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitleSpeakerNamesEnabled": {
+    "en": "Speaker Names",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:LargeSubtitlesOff": {
+    "en": "Standard",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:StoryboardMode": {
+    "en": "Storyboard Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitlesColorEnabled": {
+    "en": "Subtitle Color",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingSubCategorySubtitles": {
+    "en": "Subtitles",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitlesEnabled": {
+    "en": "Subtitles",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:LargeSubtitles": {
+    "en": "Text Size",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:HackingEasyMode": {
+    "en": "Unlimited Hacking Attempts",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:VOVolume": {
+    "en": "VO Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:VOVolume_Nintendo": {
+    "en": "VO Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:VSyncEnabled": {
+    "en": "VSync",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:StreamerModeCensorBars": {
+    "en": "Visual Censorship",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SubtitlesColorEnabledFalse": {
+    "en": "White",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:FullscreenEnabledFalse": {
+    "en": "Windowed",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:WindowedResolution": {
+    "en": "Windowed Resolution",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingsCensorFullTooltip": {
+    "en": "^Full:^ All nudity and obscene gestures are censored.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings:SettingsPartialTooltip": {
+    "en": "^Partial:^ Only genitalia are censored.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings.ColorblindSetting:Deuteranope": {
+    "en": "Deuteranopia (Green-Blind)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings.ColorblindSetting:NormalVision": {
+    "en": "None",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings.ColorblindSetting:Protanope": {
+    "en": "Protanopia (Red-Blind)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:DispatchSettings.ColorblindSetting:Tritanope": {
+    "en": "Tritanopia (Blue-Blind)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:FirstTimeUserExperience:BlurbNudity": {
+    "en": "Turn ON to censor visuals such as nudity.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:SettingsSubtitlePreview:TestSubtitle": {
+    "en": "This is how subtitles will appear.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_InputBindingPresets:Default": {
+    "en": "Default",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_InputBindingPresets:LeftHanded": {
+    "en": "Left Handed",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_InputBindingPresets:LowFlexibility": {
+    "en": "Low Flexibility",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_InputBindingPresets:RightHanded": {
+    "en": "Right Handed",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_MenuTitles:Settings": {
+    "en": "Settings",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:AnalyticsPermission": {
+    "en": "Analytics Consent",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:MusicVolumeCinematics": {
+    "en": "Cinematic Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:EditResponse": {
+    "en": "Edit Response",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:MasterVolume": {
+    "en": "Global Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:Licenses": {
+    "en": "Licenses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:PCLicensesButton": {
+    "en": "Licenses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:LicensedMusicVerify": {
+    "en": "Our game features licensed music, all of which has been whitelisted and should be OK to stream and share with others. We think the experience is best with this set to off, but the feature is here for those who want to be extra safe.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:LicensedMusicAlt": {
+    "en": "Our game features licensed music, some of which isn’t cleared for streaming or sharing. This setting lets you replace any non-whitelisted tracks with safe-to-stream alternatives.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:ConsolePermissionsButton": {
+    "en": "Permissions and Licenses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:SFXVolume": {
+    "en": "SFX Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:MusicVolumeGameplay": {
+    "en": "Shift Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:TermsOfService": {
+    "en": "Terms of Service",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  "Shared:ST_SettingsMenu:VOVolume": {
+    "en": "VO Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  }
+}

@@ -1,0 +1,300 @@
+800 104:Line:2016A66947C248AF974CD9384A49B4AF [Brainteaser]
+EN Correct! My greatest nemesis... Mecha Man Prime...
+AR صحيح! ألد أعدائي... ميكا مان برايم...
+801 104:Line:56E14053B802495A998B0BE6509396D4 [Phenoma-Man]
+EN Could've guessed that...
+AR كان بوسعي تخمين ذلك...
+802 104:Line:0046C8BA54ED45A4B71E11EFE9C20B41 [Phenomaman]
+EN Couple? You aren't my typical romantic companion, but I could be persuaded.
+AR ثنائي؟ لست شريكي العاطفي المعتاد، لكن يمكن إقناعي.
+803 104:Line:1D47A2A394D6418084AA0D28525009DF [Phenoma-Man]
+EN Crime is much easier to stop without an open wound.
+AR إيقاف الجريمة أسهل بكثير دون جرح مفتوح.
+804 104:Line:5E8BA45C4DA342E4B3AFC958E86D11EC [Waterboy]
+EN D-did you see?! I was on-- fire! No! Water. I was on water!
+AR أ-رأيت؟! كنت مشتعلا-- نارا! لا! ماء. كنت مشتعلا بالماء!
+805 104:Line:0BC8BE15F2E442498B8BD659EBE26BB4 [Waterboy]
+EN D-don't worry about me! All good!
+AR ل-لا تقلق علي! كل شيء تمام!
+806 104:Line:4F8363052CFC4324A2B94DFBF7AC40FD [Waterboy]
+EN Damn it.
+AR اللعنة.
+807 104:Line:257D9E8A361B4AA9BA28EC8C0970AB42 [Prism]
+EN Damn.
+AR تبا.
+808 104:Line:38CFA54D318B41828C25782A6CE7466F [Waterboy]
+EN Damn.
+AR تبا.
+809 104:Line:43DAA76704EB4F3D8AD41F489A51F69F [Prism]
+EN Damn.
+AR تبا.
+810 104:Line:57CC4BFF37454EB2941C1C50D7808E99 [Prism]
+EN Damn.
+AR تبا.
+811 104:Line:4F9A30E4067148C19AF5FA3ADA287CEC [Invisigal]
+EN Damn. And I thought I was depressed.
+AR تبا. وأنا ظننت نفسي مكتئبة.
+812 104:Line:56493E5A8FB54314BFB9C4DDD27E7F85 [Waterboy]
+EN Dang it. Sorry for cursing.
+AR يا خيبتي. آسف على الشتيمة.
+813 104:Line:5360C161FA3547819B273888A3992D9C [Invisigal]
+EN Dick.
+AR وغد.
+814 104:Line:51240208EAAB4BA9A81C92B27C6FDAD4 [Flambae]
+EN Dickhead.
+AR يا أحمق.
+815 104:Line:3D1274AD38DA4596A489EF8BD12647C3 [Malevola]
+EN Did I just get ditched by Phenomaman?
+AR هل تخلص مني فينومامان للتو؟
+816 104:Line:5ABB023EF79C44ED9A32E810680A0ABD [Blonde Blazer]
+EN Did you eat my lunch? Why would you do that?
+AR أأكلت غدائي؟ لماذا تفعل ذلك؟
+817 104:Line:57E31B3E30B7463285275F8DE8ECCB94 [Punch Up]
+EN Did you hit your head slipping on one of your fucking puddles?
+AR هل ضربت رأسك حين انزلقت في إحدى بركك اللعينة؟
+818 104:Line:95251BD9922B4BD39A808D49F96BFD4A [Robert]
+EN Did you just give me an updown?
+AR هل تأملتني من رأسي إلى قدمي للتو؟
+819 104:Line:2C999ADCDA3B4D8F82EBB32E4E47BFE5 [Robert]
+EN Did you know that the Michelin star ratings were created by the tire company? |They gave high ratings to restaurants away from the cities |to get people to drive more and buy new tires.
+AR أتعلم أن شركة الإطارات هي من ابتكرت تصنيف نجوم ميشلان؟ |أعطوا تقييمات عالية للمطاعم البعيدة عن المدن |ليزيد الناس قيادتهم ويشتروا إطارات جديدة.
+820 104:Line:10BDC0D86CF3420E8B5CEC731827527E [Punch Up]
+EN Didn't he <Italic>also</> get fired?
+AR ألم يطرد <Italic>هو أيضا</>؟
+821 104:Line:ED4D3BF8957B4571AC16C764AA4D287C [Robert]
+EN Didn’t realize you had a plan.
+AR لم أدرك أن لديك خطة.
+822 104:Line:5DEBB4D30374436F9326CBEF3782C5E7 [Invisigal]
+EN Difficult because you dumped him?
+AR صعب لأنك تركته؟
+823 104:Line:1A42C996269F473990B67D84BA4DF226 [Phenomaman]
+EN Do not fear, Malevola. You have my support.
+AR لا تخافي يا ماليفولا. أنا أساندك.
+824 104:Line:09F6ABF9BC4343FE9C423C952E52C85E [Robert]
+EN Do you feel better after saying how you feel out loud?
+AR أتشعر بتحسن بعدما عبرت عن مشاعرك بصوت عال؟
+825 104:Line:345201610BAC4253A87B55B224FD3D14 [Robert]
+EN Do you like Sour Patch Kids?
+AR أتحب حلوى ساور باتش كيدز؟
+826 104:Line:863FD74454D645349A94C6A5AC253864 [Robert]
+EN Do you like--
+AR أتحب--
+827 104:Line:08080621A4D341C98C843BF33A61681B [Phenomaman]
+EN Do you think there is someone else? |Perhaps another lover could be the cause of all this? 
+AR أتظن أن هناك شخصا آخر؟ |ربما حبيب آخر وراء كل هذا؟ 
+828 104:Line:D937EE786B524A028FF0B319CD4DAF7E [Phenomaman]
+EN Do you? These days I find its ability to rise each morning irritatingly optimistic.
+AR حقا؟ أجد شروقها كل صباح تفاؤلا يغيظني هذه الأيام.
+829 104:Line:3F245FFA970542738B1DCFE40D80FEA2 [Robert]
+EN Does he look up to me or-- Wait, does he know I’m Mecha Man?
+AR هل يعتبرني قدوة أم-- لحظة، هل يعرف أنني ميكا مان؟
+830 104:Line:5363E603F83B45499C4638C60FABAF17 [Punch Up]
+EN Don't even try it.
+AR لا تحاول حتى.
+831 104:Line:116BBB5B2ECF4C258A15B94BA8B7ACF7 [Malevola]
+EN Don't mention it. Seriously.. don't.
+AR لا تذكر الأمر. بجدية... لا تذكره.
+832 104:Line:3D4629B7B6EC4AFCB5F7706B3D53CEB5 [Waterboy]
+EN Don't mind if I do!
+AR يسعدني ذلك!
+833 104:Line:230A551476F944279FB300FB42AD7A80 [Flambae]
+EN Don't mind me.
+AR لا تهتموا بي.
+834 104:Line:5E96AB761A5A4228811BD8431A1F4E28 [Punch Up]
+EN Don't quit your day job, kid.
+AR تمسك بوظيفتك يا فتى.
+835 104:Line:2C11E11A91E749D8BF99A27D158B69D5 [Galen]
+EN Don't say I didn't warn you.
+AR لا تقل إنني لم أحذرك.
+836 104:Line:556C28E22FA84EA89E2F65B4AA78BE8C [Malevola]
+EN Don't tell me you pissed yourself...
+AR لا تقل إنك بللت نفسك...
+837 104:Line:46A3983D5F6844788D46396906C9DFDB [Sonar]
+EN Don't you worry Mr. Robertson. I am on it!
+AR لا تقلق يا سيد روبرتسون. سأتولى الأمر!
+838 104:Line:3EBA26E0854F4ABC85373EC0034731BA [Chase]
+EN Don’t fuck this up.
+AR لا تفسد هذا بحق اللعنة.
+839 104:Line:47ADDF9105AA47288C6623C436B2CDEA [Robert]
+EN Don’t hurt yourself kid.
+AR لا تؤذ نفسك يا فتى.
+840 104:Line:DBFE2A18751C4D818D1D9C94AF5F2B3E [Robert]
+EN Don’t worry about it, Waterboy.
+AR لا تقلق بشأنه يا ووتربوي.
+841 104:Line:513DA2C91D1842A28E9043D0E9A1882B [Invisigal]
+EN Don’t you got some dementia to onset?
+AR أليس لديك خرف ينتظرك؟
+842 104:Line:A371D09D7C574FA08C9340DC3E01DB6E [Chase]
+EN Don’t you got some work to do?
+AR أليس لديك عمل تؤديه؟
+843 104:Line:368290CB49594EF3AF003D6B05106838 [Coupe]
+EN Drive better next time.
+AR قُد بشكل أفضل المرة المقبلة.
+844 104:Line:09C07BB6C3D14A57B6090610B3B1543F [Flambae]
+EN Driver's shaken but safe. Bitch.
+AR السائق مصدوم لكنه سالم. يا حقير.
+845 104:Line:0A566BC82F564553A8D32E5F57348610 [Phenoma-Man]
+EN Due to your healing, we are best friends now.
+AR لأنك شفيتني، أصبحنا أعز صديقين.
+846 104:Line:5E559EC14EC142A393B49D4075A15CA0 [Waterboy]
+EN ETA... Moment... Mo-moment... Momentarily.
+AR موعد الوصول... لحظة... ل-لحظة... بعد لحظات.
+847 104:Line:D310CF4A15674247B90FF88FE2ED01B9 [Phenomaman]
+EN Earlier that day Blazer and I had breakfast at the rim of an active volcano. |Then we made love.
+AR صباح ذلك اليوم، تناولت الإفطار مع بليزر عند فوهة بركان نشط. |ثم مارسنا الحب.
+848 104:Line:4EA246D2485347958BA36919A212C0A2 [Robert]
+EN Ease up, it's his first day.
+AR هون عليه، إنه يومه الأول.
+849 104:Line:1902F600696345C7927667BAC474250D [Waterboy]
+EN Evening.
+AR مساء الخير.
+850 104:Line:12675D39F8BE4EF0AFB102A597F02969 [Phenomaman]
+EN Every attempt I have made to love food as one loves a woman has ended in disaster.
+AR كل محاولة مني لأحب الطعام كما أحب المرأة انتهت بكارثة.
+851 104:Line:172596B4A9104169BD8A82608E398596 [Robert]
+EN Everyone relax. I'm sure it's just a very unfortunate coincidence.
+AR اهدؤوا جميعا. أنا متأكد أنها مجرد مصادفة مؤسفة للغاية.
+852 104:Line:20D60AA352004AC5B42856634D99E3AA [Chase]
+EN Exactly how I feel.
+AR هذا شعوري تماما.
+853 104:Line:4F27227605F342B6913DB552997512FE [Malevola]
+EN Excuse me?
+AR عفوا؟
+854 104:Line:1AFDDDCC93AF41BDAB9F893A792244A3 [Robert]
+EN Far from it. I’m actually trying to subtly tell you that, you know... 
+AR على العكس تماما. أحاول إخبارك بتلميح لطيف، أتعلمين... 
+855 104:Line:0A47C06133174FAEA02F8F6F12C2F441 [Phenomaman]
+EN Fascinating! Such small stature and yet... the muscle definition...
+AR مذهل! قامة قصيرة جدا، ومع ذلك... تلك العضلات البارزة...
+856 104:Line:52599B1A33D94EF7986E782C8E13C003 [Punch-Up]
+EN Fat chance you fecking gobshite.
+AR في أحلامك يا أحمق لعين.
+857 104:Line:12CE112DBA0B4FCA94D4EABE4F0E3AE0 [Punch-Up]
+EN Fine. I've got thick skin.
+AR حسنا. أنا لا أتأثر بسهولة.
+858 104:Line:5127A8781E80489C920A062CF0465820 [Punch Up]
+EN Flaunting that like it's a fecking accomplishment.
+AR تتباهى به كأنه إنجاز لعين.
+859 104:Line:F760BACFD2FF4D3887FB02E93CB06466 [Robert]
+EN Floating buckets of popcorn do tend to draw a lot of attention.
+AR دلاء الفشار العائمة تلفت الأنظار كثيرا فعلا.
+860 104:Line:07E06A6776E9446F91EBB9820122121B [Robert]
+EN Fly them to the hospital.
+AR طِر بهم إلى المستشفى.
+861 104:Line:E4B5A28C84AF4F63BE6D1241CBD94DDC [Blonde Blazer]
+EN For now? Yeah. |Obviously, we can revisit it but Waterboy is already a trainee, sorta, |and you already know Phenomaman got cut by DTLA. |Thanks for getting him out of the parking lot by the way.
+AR حاليا؟ أجل. |بالطبع يمكن إعادة النظر، لكن ووتربوي متدرب بالفعل، نوعا ما، |وأنت تعلم أن فرع وسط لوس أنجلوس طرد فينومامان. |شكرا لإخراجه من موقف السيارات بالمناسبة.
+862 104:Line:297B1BE3E556428FA323D33905FD6D08 [Prism]
+EN For real?
+AR حقا؟
+863 104:Line:38930CEBCBC54A588529D14DA71DD851 [Phenomaman]
+EN Forgive me, I assumed given your embittered expressions and tragic demeaor...
+AR سامحني، افترضت ذلك بسبب تعبيراتك المريرة وهيئتك المأساوية...
+864 104:Line:01D3E3C8CB5D43FFBB1C3C4167129064 [Punch Up]
+EN Frankly I'm surprised anybody subscribes to this shite.
+AR بصراحة، أستغرب أن يشترك أحد في هذا الهراء.
+865 104:Line:2A950E90F846439B9311295F6739D2AD [Malevola]
+EN Fuck me dead, I think I broke something.
+AR تبا لي، أظنني كسرت شيئا.
+866 104:Line:1FED2D2DF0CF42DCB822E6E0076652DB [Prism]
+EN Fuck yeah, I love the drama.
+AR أجل بحق اللعنة، أحب الدراما.
+867 104:Line:06854E710A174D1D8E139893EB4F099F [Sonar]
+EN Fuck yeah, dream team.
+AR أجل بحق اللعنة، فريق الأحلام.
+868 104:Line:2ACBCD9CBBC5483C96EB59E91E457011 [Waterboy]
+EN Fuck you.
+AR تبا لك.
+869 104:Line:96CF708DE048429AB638BBEF3A64F255 [Invisigal]
+EN Fuck you. 
+AR تبا لك. 
+870 104:Line:06F899A73A254BF99CF2A6CACD58C086 [Waterboy]
+EN Fuck.
+AR تبا.
+871 104:Line:515DA3904835416EB10C0B3D7EC73762 [Punch-Up]
+EN Fuck.
+AR تبا.
+872 104:Line:3CC154EA81E04349BB83351269D49721 [Invisigal]
+EN Fucker.
+AR ابن الكلب.
+873 104:Line:20619368E00E488D9DB19783CDB9F519 [Waterboy]
+EN G-great-- Good shift, uh-- Sh-shift every-- G-g-go Z-Team!
+AR ر-رائع-- مناوبة موفقة، آه-- مناوبة للجـ-- ت-ت-تقدم يا فريق Z!
+874 104:Line:153D9C98C0B64452A028A2E0728FFBEA [Robert]
+EN Get it out of your systems, he's not going anywhere.
+AR أفرغوا ما في جعبتكم، سيبقى هنا.
+875 104:Line:32754AC9AF5F42E0ADA0629B62625D4B [Phenomaman]
+EN Given my track record, this success is unsurprising.
+AR بالنظر إلى سجلي، هذا النجاح لا يفاجئني.
+876 104:Line:2D67ADA10DAB4ABBBFD41EAFF917599C [Malevola]
+EN Glad you made the cut though. Imagine if it was Coop and Visi together.
+AR لكنني سعيدة ببقائك. تخيل لو اجتمعت كوب وفيزي.
+877 104:Line:0D5C135198AE4409A3BF63C992FB8217 [Phenoma-Man]
+EN Glorious work, team!
+AR عمل مجيد يا فريق!
+878 104:Line:50123BD055E64E3A95897572B6FC54DA [Phenomaman]
+EN Good shift fellow heroes.
+AR مناوبة موفقة يا زملائي الأبطال.
+879 104:Line:129F0FF00C1F4E40B808D4A4C1BD55F9 [Flambae]
+EN Good, Phenomaman's gone. He'll only slow me down.
+AR جيد، رحل فينومامان. لن يفعل سوى إبطائي.
+880 104:Line:2A8C1F233B6D4EE69F20760394307B03 [Punch Up]
+EN Good. He should be.
+AR جيد. وهذا ما يجب.
+881 104:Line:37561DF0AC7E43FF84E08B31672AA10A [Waterboy]
+EN Good... Good morn-- Eve-- H-hello.
+AR طاب... صباح الخـ-- مساء-- م-مرحبا.
+882 104:Line:3BE6FCC8D2D14477B0A666C91D98085D [Dan]
+EN Got a hero to put on a show? We need Terrence the Turtle to beat someone up. For team morale.
+AR لديكم بطل يقدم عرضا؟ نحتاج أن يضرب تيرنس السلحفاة أحدا. لرفع معنويات الفريق.
+883 104:Line:4766CE25AE4241028B98F8DDCA1CAC9C [Waterboy]
+EN Great feeling, great feeling. I'll try not to get used to it. I've been hurt before.
+AR شعور رائع، رائع. سأحاول ألا أعتاد عليه. لقد خُذلت من قبل.
+884 104:Line:9CBBD90F9C654DA6A0115A0A1F44BFB9 [Blonde Blazer]
+EN Great, yeah. Thanks. I’m...
+AR رائع، أجل. شكرا. أنا...
+885 104:Line:0BA5899AE7C14F2DBC697C8D1BA92CA0 [Prism]
+EN Great. Imma drink my spicy water.
+AR رائع. سأشرب مائي الحار.
+886 104:Line:41976756B6B3406EB424EFA4A3FA6D11 [Invisigal]
+EN Gross. You sound just like her.
+AR مقرف. تتكلم تماما مثلها.
+887 104:Line:194A23ABB0314125991A417B21757621 [Malevola]
+EN Guess I'm the new top hero in town, eh?
+AR يبدو أنني أصبحت البطلة الأولى في المدينة، ها؟
+888 104:Line:35FF5F5E56094A318B92C905A42FFE6C [Waterboy]
+EN H-hey, c-can we arm wrestle again after work?
+AR م-مرحبا، ه-هل نتصارع بالأذرع مجددا بعد العمل؟
+889 104:Line:54BCFAC76B8D4186915525BE237EF2A4 [Waterboy]
+EN H-holy spit!
+AR ي-يا للبصاق المقدس!
+890 104:Line:42831F8C67594415B632290BB1B34C04 [Golem]
+EN Hard on the outside, soft on the inside.
+AR قاس من الخارج، رقيق من الداخل.
+891 104:Line:20EFBFF6CE8247D9BE0BE64DF45DAB5C [Flambae]
+EN Has he tried not being sad?
+AR هل جرب ألا يكون حزينا؟
+892 104:Line:3B27F6C2D04A44539472712D1D6AC2C7 [Tv Anchor]
+EN Has the Southland's biggest hero lost his mind? |Is he depressed? Suicidal? |Authorities are working to clear traffic, |and mental health professionals are reportedly on the way to assist.
+AR هل فقد أعظم أبطال ساوثلاند عقله؟ |أهو مكتئب؟ يفكر في الانتحار؟ |تعمل السلطات على إخلاء الطريق، |وتفيد التقارير بأن مختصي الصحة النفسية في طريقهم للمساعدة.
+893 104:Line:4EE827A96D384C37B830E1B791C5A082 [Brainteaser]
+EN Have you been paying attention? Answer my riddles one, two, three and I will gladly turn myself in.
+AR هل كنت منتبها؟ أجب عن ألغازي، واحد واثنان وثلاثة، وسأسلم نفسي بكل سرور.
+894 104:Line:CBC4387632D342E98F5B8F106CC583BA [Robert]
+EN Have you considered talking to someone. |Maybe seeing a therapist? 
+AR هل فكرت في التحدث إلى أحد؟ |ربما زيارة معالج نفسي؟ 
+895 104:Line:0427D00D63DA411A9042A11342F7D3F9 [Coupe]
+EN He had to borrow one of mine.
+AR اضطر إلى استعارة واحدة مني.
+896 104:Line:1FDE6E772C7240B4B8D625286ABD662B [Blazer]
+EN He may be new to this, but Robert and I believe he will make a great addition to the team.
+AR قد يكون مبتدئا، لكن روبرت وأنا نؤمن بأنه سيكون إضافة رائعة للفريق.
+897 104:Line:0EDD5E63299349C4A11117DCFBEC77FF [Coupe]
+EN He may have been a pervert, but he was our pervert.
+AR ربما كان منحرفا، لكنه كان منحرفنا.
+898 104:Line:2D39FEAD53F3402FB3563088C998F163 [Joe]
+EN He's a mindreader. She has x-ray vision. Together they are... the ultimate invasion of privacy. Oh, sorry. Is this SDN? We need help...
+AR هو يقرأ الأفكار. وهي ترى بالأشعة السينية. معا يشكلان... الانتهاك المثالي للخصوصية. آه، آسف. هل هذه SDN؟ نحتاج للمساعدة...
+899 104:Line:063CBB67EDB14607B278E96C6A9D7719 [Punch-Up]
+EN He's a shit janitor. He leaves puddles everywhere and he doesn't even own a knife!
+AR إنه عامل نظافة فاشل. يترك بركا في كل مكان، ولا يملك حتى سكينا!

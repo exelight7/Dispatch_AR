@@ -1,0 +1,300 @@
+400 101:Line:AC486B45BB044ECEA6482C3C006C50A8 [Mecha Man]
+EN The fire?
+AR الحريق؟
+401 101:Line:21AB6CF9375B4463BB487EEE71EB211F [Blonde Blazer]
+EN The folks at SDN are the best in the business and we're striving to create a safer, stronger city every single day.
+AR فريق SDN الأفضل في مجاله، ونحن نسعى كل يوم لبناء مدينة أكثر أمانا وقوة.
+402 101:Line:5EE443B49A174E5084EF3BC11C81EC4D [Phenomaman]
+EN The more that my skills align with the needs of the job, the more likely I am to succeed!
+AR كلما توافقت مهاراتي مع احتياجات المهمة، زادت فرصتي في النجاح!
+403 101:Line:5EE72DA0DEEF46F4BACEEC2738C65711 [Curator]
+EN The museum is doing an exhibit on local superheroes and need a guest speaker!
+AR يقيم المتحف معرضا عن الأبطال الخارقين المحليين ويحتاج إلى متحدث ضيف!
+404 101:Line:074B0419414B4AE6A6AC5FBAA482549F [Ashley Rhiness]
+EN The public outpouring. The vigils. A lot of them were worried you wouldn’t wake up.
+AR تعاطف الناس. ووقفات التضامن. خشي كثيرون ألا تستيقظ.
+405 101:Line:9E8CF31D07324FBDA8359DCE9FB0EB11 [Pc Reporter 2]
+EN The public outpouring. The vigils. |A lot of them were worried you wouldn’t wake up.
+AR تعاطف الناس. ووقفات التضامن. |خشي كثيرون ألا تستيقظ.
+406 101:Line:1C2190259F714D0BB6E62042D8644C61 [Brainbook]
+EN The smart choice.
+AR الخيار الذكي.
+407 101:Line:1346DA54827B43B2A5DA3FC6952A442C [Brickhouse]
+EN The walls didn't stand a chance.
+AR لم تكن للجدران فرصة.
+408 101:Line:CEC6F1A00E6646C097F0C705449F597F [Blonde Blazer]
+EN The way I went about things tonight... I’m sorry. |It was all a little loose. A little unprofessional.
+AR الطريقة التي تصرفت بها الليلة... آسفة. |كان كل شيء مرتجلا قليلا. وغير مهني بعض الشيء.
+409 101:Line:3D4EE893972A4EF5910C2F65B3279972 [Phenomaman]
+EN The way you resolve a call may lead to new calls like this one.
+AR قد تؤدي طريقة حلك لبلاغ إلى بلاغات جديدة كهذا.
+410 101:Line:2F0598FFB89741538F4BE62C6AA4E12F [Blonde Blazer]
+EN Then I’ll hate you forever... and I’ll push you off this billboard.
+AR حينها سأكرهك إلى الأبد... وسأدفعك من هذه اللوحة الإعلانية.
+411 101:Line:9DF7E9D14B7543948E164102512EAE1A [Robert]
+EN There was grandpa Bobby, then my dad, who I called dad, but everyone else called Robbie, and then me, |Robert, 'cause I wanted to be taken seriously.
+AR كان هناك جدي بوبي، ثم أبي الذي ناديته أبي، لكن الآخرين نادوه روبي، ثم أنا، |روبرت، لأنني أردت أن يأخذني الناس بجدية.
+412 101:Line:412F3ABB513945E88E08993C40FDA7C8 [Civilian]
+EN There's a giant monster attacking downtown! Save us, SDN!
+AR وحش عملاق يهاجم وسط المدينة! أنقذونا يا SDN!
+413 101:Line:51DD81E05C5D4FD88D18FE2E415C923B [Phenomaman]
+EN There's no such thing as a "perfect fit". Use your intellect and your roster to your advantage.
+AR لا وجود لشخص مثالي للمهمة. استخدم ذكاءك وفريقك لصالحك.
+414 101:Line:271F341E10D444798C850702224A4A71 [Mecha Man]
+EN There. Easy way.
+AR ها أنت. الطريقة السهلة.
+415 101:Line:1C1E03A58B504FC2A27A639D1BAE9424 [Mecha Man]
+EN There’s been a lot of speculation about my health and the state of the Mecha Man suit, |and I’m here to put that speculation to rest. |The suit has been damaged beyond my ability to repair, |so I will be stepping back from superhero work... |effective immediately.
+AR كثرت التكهنات حول صحتي وحالة بدلة ميكا مان، |وأنا هنا لوضع حد لها. |تضررت البدلة بما يفوق قدرتي على إصلاحها، |لذا سأتنحى عن عمل الأبطال الخارقين... |بدءا من الآن.
+416 101:Line:2E020D4E3A7943DBADF7D3929DC73BF1 [Phenomaman]
+EN These choices need the right skill. Remember each of your hero's strengths and weaknesses.
+AR تتطلب هذه الخيارات المهارة المناسبة. تذكر نقاط قوة كل بطل وضعفه.
+417 101:Line:8847485989DF45339D3C702A69BAA307 [News Anchor]
+EN This first suit was dubbed by some fans as Mecha Man ‘Prime.’ |Three generations of pilot, their identities kept secret, have given everything to protect this community...
+AR أطلق بعض المعجبين على هذه البدلة الأولى اسم ميكا مان «برايم». |ثلاثة أجيال من القادة، ظلت هوياتهم سرية، قدموا كل شيء لحماية هذا المجتمع...
+418 101:Line:46D5F0923A1B474A8BC820C86484E839 [Phenomaman]
+EN This graph will show you what a hero does well and not so well.
+AR سيوضح لك هذا المخطط ما يجيده البطل وما لا يجيده.
+419 101:Line:17EE4B2EA00F43088DEB9697A29688CA [Toxic]
+EN This is a limited time offer dude, what's up? |You were so fucking talkative earlier.
+AR هذا عرض محدود الوقت يا رجل، ما بك؟ |كنت كثير الثرثرة قبل قليل.
+420 101:Line:F0EB8D725B2A4C2695AA042B95799C09 [Mecha Man]
+EN This is like pure alcohol.
+AR هذا كأنه كحول خالص.
+421 101:Line:1B96F5CF455F46838DF37B852DFF108D [Brickhouse]
+EN This is very not good.
+AR هذا سيئ جدا.
+422 101:Line:363FE63B36EA4B27B315A493EEBC2E81 [Phenomaman]
+EN This outcome is all thanks to you!
+AR هذه النتيجة بفضلك تماما!
+423 101:Line:3A347B6114D74A1782004137E67C033D [Mecha Man]
+EN Thought he doesn’t burn?
+AR ظننت أنه لا يحترق؟
+424 101:Line:47BE62E4F26C48D0A7F03D5CA17F4A91 [Robert]
+EN Time to finish this.
+AR حان وقت إنهاء هذا.
+425 101:Line:1E8DA64ECF8540D69B62294A7D4AB448 [Phenomaman]
+EN Together we can do it together.
+AR معا، نستطيع فعلها معا.
+426 101:Line:31BB3B83EAF7497094B60CE162A77FC9 [Phenomaman]
+EN Too true.
+AR صحيح جدا.
+427 101:Line:205DA81AA822470D98D7A04E02C05FF7 [Speedster]
+EN Try and keep up.
+AR حاول مجاراتي.
+428 101:Line:2C2EC3A67EE942C4993CE318F0A06456 [Charles Kingsley]
+EN Two parter. First, why didn’t Shroud kill you? You haven’t been conscious for months. It’d be easy money taking you out.
+AR سؤال من جزأين. أولا، لماذا لم يقتلك شراود؟ كنت فاقد الوعي لأشهر. كان التخلص منك سهلا ومربحا.
+429 101:Line:A32356B85A5D4117906BFF9FA5A5BE41 [Final Reporter]
+EN Two parter. First, why didn’t Shroud kill you? |You haven’t been conscious for months. |It’d be easy money taking you out.
+AR سؤال من جزأين. أولا، لماذا لم يقتلك شراود؟ |كنت فاقد الوعي لأشهر. |كان التخلص منك سهلا ومربحا.
+430 101:Line:118C746C487C4D238CFA9527D3C6E421 [Mecha Man]
+EN Ugh, figures.
+AR أف، طبعا.
+431 101:Line:5FF51E8F1E2047188E1A75D97FA99E73 [Mecha Man]
+EN Ugh. Where the fuck is Shroud?
+AR أف. أين شراود بحق الجحيم؟
+432 101:Line:03730871EF624B24BDD66D1A67C1BFBF [Robert]
+EN Uh, I don’t think so.
+AR لا أظن ذلك.
+433 101:Line:8ABC97BD1F534406BA933B369415265D [Robert]
+EN Uh, is there a ladder? Or...
+AR هل يوجد سلم؟ أم...
+434 101:Line:5106D412F6334D02939DB029409E4008 [Mecha Man]
+EN Uh, it’s cool, I was just admiring the art on this dumpster. |Can’t tell why anyone would put those words together. |Why’re you holding drinks?
+AR لا بأس، كنت أتأمل الفن على حاوية القمامة هذه. |لا أفهم لماذا قد يجمع أحد تلك الكلمات معا. |لماذا تحملين مشروبات؟
+435 101:Line:16190D73ED40489CB48494A0819C3706 [Blonde Blazer]
+EN Uhh someone I work with, it's, yeah...
+AR آه، شخص أعمل معه، إنه... أجل...
+436 101:Line:037CDE7016D74316983C66DDCF76504F [Robert]
+EN Unprofessional? I’m not sure that that applies to this but--
+AR غير مهني؟ لست واثقا من أن هذا ينطبق هنا، لكن--
+437 101:Line:5643516922EA426197E7B830EECC8EC2 [Blonde Blazer]
+EN Unstable. Damaged. Unfit. Batshit. Dipshit. |I don’t know. Whatever you wanna call it.
+AR مضطرب. محطم. غير مؤهل. مجنون. أحمق. |لا أدري. سمه ما شئت.
+438 101:Line:56DC698C02B549DAB981A74E4096D738 [Brickhouse]
+EN Unstoppable force? Immovable object? I'm both.
+AR قوة لا تقاوم؟ جسم لا يتحرك؟ أنا كلاهما.
+439 101:Line:B3843C82F0F249259D602A2F811680B5 [News Anchor]
+EN Up next, |is Mecha Man a Mecha quitter?
+AR بعد قليل، |هل صار ميكا مان ميكا هاربًا؟
+440 101:Line:F8517B5A02C94CE8AD9715B96A328078 [News Anchor]
+EN Up next...
+AR بعد قليل...
+441 101:Line:5D72DDDAC2A241E0B4EB31B066FEEA95 [Mecha Man]
+EN WHOOOOOOOOOOOOO! FUCK YEAH!
+AR ووووووو! أجل، اللعنة!
+442 101:Line:349D79E4B29F47EBA8399641D986B4C1 [Mecha Man]
+EN Wait, it’s coming back to me... Hold on, yeah, it’s coming back to me...
+AR انتظر، بدأت أتذكر... لحظة، أجل، بدأت أتذكر...
+443 101:Line:D18C8FB405CB4A32814BF3E760E8DEE4 [Mecha Man]
+EN Wait, oh shit I do remember you. |You’re that shitty villain I busted up.
+AR انتظر، تبا، أتذكرك فعلا. |أنت ذلك الشرير التافه الذي حطمته.
+444 101:Line:0DD4F56B9B22407386C9F868B211BEE8 [Robert]
+EN Wait, so you want me dispatching? What’s that even mean?
+AR مهلا، تريدينني أن أنسق العمليات؟ ماذا يعني ذلك أصلا؟
+445 101:Line:A2047B71F6104D18AC8476C576373366 [Robert]
+EN Wait, so you want me dispatching? What’s that even mean?
+AR مهلا، تريدينني أن أنسق العمليات؟ ماذا يعني ذلك أصلا؟
+446 101:Line:63205463F8EE48C88996F34BCF50F467 [Robert]
+EN Wait. You want me to sit in an office and dispatch heroes?
+AR مهلا. تريدينني أن أجلس في مكتب وأرسل الأبطال؟
+447 101:Line:277DF368D1C649E9B3DC85CFD4507463 [Mecha Man System]
+EN Warning. Warning. Warning. Warning.
+AR تحذير. تحذير. تحذير. تحذير.
+448 101:Line:897130EEEBB64E5486D344407B2B376D [Blonde Blazer]
+EN We can work with this.
+AR يمكننا الاستفادة من هذا.
+449 101:Line:5A1BE954ABB944DDA736262A343096A7 [Sweetalker]
+EN We couldn't have done it without you, Dispatcher.
+AR لم نكن لننجح دونك يا منسق العمليات.
+450 101:Line:FF55FF16216545D29FB7AA6FEB485673 [Soothing Voice]
+EN We don't have to get into it.
+AR لسنا مضطرين للخوض فيه.
+451 101:Line:31C19BC0311B4A92BC61F8E71FAAE385 [Security]
+EN We've got a potential villain hideout on the college campus.
+AR لدينا مخبأ محتمل للأشرار في الحرم الجامعي.
+452 101:Line:16E60FA530CC482695B8A11F858D550C [Phenomaman]
+EN We've located the headquarters of a notorious organized crime syndicate — the Devils of Los Angeles.
+AR حددنا مقر عصابة إجرامية منظمة سيئة السمعة، شياطين لوس أنجلوس.
+453 101:Line:473DFEE1AF924BFFB5A00A919536CAEF [Phenomaman]
+EN Well well, it appears we've got our first call from a subscriber!
+AR حسنا حسنا، يبدو أننا تلقينا أول اتصال من مشترك!
+454 101:Line:03A9AD0122FC4196A24204BE9D4035AD [Mecha Man]
+EN Well, I don't have a suit, and I don't have any superpowers so, yeah, short of a miracle... pretty much.
+AR حسنا، لا أملك بدلة ولا قوى خارقة، لذا، أجل، ما لم تحدث معجزة... تقريبا.
+455 101:Line:7FF041F1870E4E8397E81621C845C614 [Mecha Man]
+EN Well, I have to say Blazer, that does sound intriguing.
+AR يجب أن أقول يا بليزر، يبدو ذلك مثيرا للاهتمام.
+456 101:Line:5132D7D2B69D429BB9E2A25C7693107C [Soothing Voice]
+EN Well, he’s more than gone, 'cause he’s fuckin’ dead. |That’s the most gone you can be.
+AR حسنا، إنه أكثر من راحل، فهو ميت، اللعنة. |وهذا أقصى الرحيل.
+457 101:Line:BF7791AFCBFE41099378A450755CE8DB [Robert]
+EN Well, it looks like I’m great at this so, that’s gonna be bad for your negotiating position. |Expect a lengthy...
+AR يبدو أنني رائع في هذا، لذا سيضعف ذلك موقفك التفاوضي. |توقعي فترة طويلة من...
+458 101:Line:163464CDFA484F17BE234DDBA85FEDAB [Mecha Man]
+EN Well, propositions late at night in a bar can go any number of ways.
+AR العروض المتأخرة ليلا في حانة قد تتخذ مسارات كثيرة.
+459 101:Line:115DE8FEE9384B52B57F1C36C633C153 [Orangeski]
+EN Well, what nothing you have, you're about to lose again.
+AR حسنا، ذلك اللاشيء الذي تملكه، ستخسره مجددا الآن.
+460 101:Line:13E0B5CB480E47E6A90919459DE0D326 [Blonde Blazer]
+EN Well, you see why we thought of-- well, why Track Star thought of you.
+AR حسنا، ترى لماذا فكرنا-- أقصد لماذا فكر تراك ستار فيك.
+461 101:Line:CE34EA71F7E64B27A6DA1840704EEBE8 [Orangeski]
+EN Well, you're gonna be wishin' you had it right now.
+AR ستتمنى لو كانت لديك الآن.
+462 101:Line:20602D35FBD64BC8825E5B7C83644F2B [Soothing Voice]
+EN Well, you’re gonna see him even less now, 'cause he’s dead.
+AR حسنا، ستراه أقل الآن، لأنه ميت.
+463 101:Line:2DFDEFCE818B4CFAB56BEC5E5F192058 [Robert]
+EN Were you a good boy?
+AR هل كنت فتى مطيعا؟
+464 101:Line:9F645EC7A50047BDB40A190E788C2CB6 [Blonde Blazer]
+EN Wh- why did you do it?
+AR لـ... لماذا فعلت ذلك؟
+465 101:Line:6C7A446F36644BEC85530661E1027DB2 [Blonde Blazer]
+EN Wh-what do you mean? Like different colored dicks?
+AR مـ... ماذا تقصد؟ كقضبان بألوان مختلفة؟
+466 101:Line:38F8B3D64E3A4AE2A1299CD5FB340774 [Sweetalker]
+EN What I can I say? A lot actually...
+AR ماذا أقول؟ الكثير في الواقع...
+467 101:Line:9523235E3AF0486DAC023B89D6FD0392 [Mecha Man]
+EN What a sad sentence.
+AR يا لها من عبارة حزينة.
+468 101:Line:76792774799A49D89A3DB4644DF019DA [Robert]
+EN What does that hmm mean? Just say what you wanna say.
+AR ماذا تعني «همم» تلك؟ قولي ما تريدين قوله وحسب.
+469 101:Line:93158689C83447D5B70D9E4F06650B06 [Robert]
+EN What is it?
+AR ما الأمر؟
+470 101:Line:D2451F89B0DD4677AF29FC38184039CC [Mecha Man]
+EN What makes you say that?
+AR ما الذي يجعلك تقولين ذلك؟
+471 101:Line:E702EE71960F45D99C78B9D0B88FC0F5 [Flambae]
+EN What song is that?
+AR أي أغنية هذه؟
+472 101:Line:0D08B9D99F65457D9DFF7BF3288AFEB4 [Robert]
+EN What the fuck is a PTO?
+AR ما معنى الإجازة المدفوعة بحق الجحيم؟
+473 101:Line:09791AB5D3BA458FB45117A4139804E0 [Greenski]
+EN What the-
+AR ما الـ--
+474 101:Line:1C650ED876BB4E93ADD157A910494BFB [Reporter C]
+EN What's next for Mecha Man?
+AR ما الخطوة التالية لميكا مان؟
+475 101:Line:F8E327A5FBCA4AD7B030E211F43FB4E0 [Mecha Man]
+EN Whatever the case, |I'm enough to deal with a pack of fuckin' skittles idiots like you.
+AR أيا كان الأمر، |أنا كاف للتعامل مع حفنة حمقى بألوان سكيتلز مثلكم.
+476 101:Line:4AF2BCD22B0C4FFD9258714A2CB44B0A [Mecha Man]
+EN What’re you doing?
+AR ماذا تفعلين؟
+477 101:Line:B63210E3FEFD405BA2429104302AFC3C [Robert]
+EN What’s dispatching even mean?
+AR ماذا يعني تنسيق العمليات أصلا؟
+478 101:Line:94124C5DA116499DB9BF40F99DA20273 [Robert]
+EN What’s going on?
+AR ماذا يجري؟
+479 101:Line:101B6D5D9C3C4F27A796FE66B92CBE5C [Phenomaman]
+EN When a hero returns to SDN, they'll need some much needed R&R. That stands for rest and relaxation.
+AR حين يعود بطل إلى SDN، سيحتاج إلى الراحة والاسترخاء المستحقين.
+480 101:Line:15E7B1A311CA457D88EE34D5BC14CCCF [Mecha Man]
+EN Who?
+AR من؟
+481 101:Line:CB7FC6FA87E84CC1AEC12639574F8B09 [Soothing Goon]
+EN Whoaooaoaononono--
+AR واااو لا لا لا--
+482 101:Line:1EAF5AE7FFAF4765964D6F1018F0698A [Blonde Blazer]
+EN Whoops.
+AR أوبس.
+483 101:Line:58492D753D3E45EF966514F15AB0ECD2 [Robert]
+EN Windy up here tonight huh?
+AR الرياح شديدة هنا الليلة، أليس كذلك؟
+484 101:Line:27314BABF4A8440EB28066011E6CF498 [Robert]
+EN Windy up here tonight. |No telling where you’ll land.
+AR الرياح شديدة هنا الليلة. |لا نعرف أين ستحط.
+485 101:Line:52C190CC3CF94B558FE8D7C034E29716 [Rafters Goon1]
+EN Woah! |Shit! He’s here!
+AR واو! |تبا! إنه هنا!
+486 101:Line:3BA99CB8C8EE4860B10F0DEAA957B319 [Robert]
+EN Wow...
+AR واو...
+487 101:Line:4255B8FFA6AF444DACFA652268A63891 [Robert]
+EN Yeah you’re right... This was a pretty unprofessional way to recruit someone into your corporate bullshit.
+AR أجل، أنت محقة... كانت طريقة غير مهنية جدا لتجنيد أحد في هراء شركاتكم.
+488 101:Line:A04550FE1682410692020FC82FA4001F [Mecha Man]
+EN Yeah, I basically burned through my entire inheritance keeping it going. |Last couple years have just been duct tape and sheer determination.
+AR أجل، أنفقت تقريبا كل ميراثي لإبقائها تعمل. |في آخر عامين، لم يبق سوى الشريط اللاصق والعزيمة.
+489 101:Line:FA2CEBAE9A124DEFA4AD701720C54E66 [Person On The Street]
+EN Yeah, I mean, it seems like it’d be better if he died than be a mecha coward, you know? |What kind of example is he setting?
+AR أجل، أعني، يبدو أنه كان من الأفضل لو مات عوض أن يكون ميكا جبانا، أتفهم؟ |أي قدوة يقدمها؟
+490 101:Line:B7567874D0CA4CF69B0AAFA264743D49 [Blonde Blazer]
+EN Yeah, I’m just trying to figure out if this is a fit or not. You know? |Then it’s just a matter of picking the right moment.
+AR أجل، أحاول فقط معرفة مدى ملاءمتك، أتفهم؟ |وبعدها لا يبقى سوى اختيار اللحظة المناسبة.
+491 101:Line:B3B1C2F4C9D34E178333B27DF8A698C1 [Robert]
+EN Yeah, he was the youngest member of the Brave Brigade so, he was kind of my babysitter for a while. How’s he doing?
+AR أجل، كان أصغر أعضاء لواء الشجعان، لذا كان أشبه بجليس أطفال لي مدة. كيف حاله؟
+492 101:Line:48F34140F3924F59A7FD1C97C3A7195E [Toxic]
+EN Yeah, no shit, that’s the point.
+AR أجل، واضح، هذا هو المقصود.
+493 101:Line:6601FCF2E3BA4F719CDC79245D5D194B [Blonde Blazer]
+EN Yeah, that’s usually like a second date kinda thing with me.
+AR أجل، بالنسبة إلي، هذا عادة من أمور الموعد الثاني.
+494 101:Line:0D2C0520C8864315B9AD73D56F3C9D17 [Mecha Man]
+EN Yeah, well you know what, they can taste the rainbow in jail.
+AR حسنا، يمكنهم تذوق قوس قزح في السجن.
+495 101:Line:DE96866EC5F244589418DA3F326A4298 [Redski]
+EN Yeah, you. Go go fuckin hobo ranger. Who the fuck are you?
+AR أجل، أنت. انطلق يا حارس المتشردين اللعين. من أنت بحق الجحيم؟
+496 101:Line:B1BA325D77334C57BE11E4E4B45F327A [Blonde Blazer]
+EN Yeah.
+AR أجل.
+497 101:Line:EEC272F425A049EBB35862A011DB4B62 [Mecha Man]
+EN Yeah. All you assholes. I was fucking watching that.
+AR أجل. أنتم جميعا أيها الأوغاد. كنت أشاهد ذلك، اللعنة.
+498 101:Line:3DFC26655B5249A8BA93561B95648061 [Mecha Man]
+EN Yeah. All you assholes. Pretty disrespectful for you to be doing that in front of me.
+AR أجل. أنتم جميعا أيها الأوغاد. من قلة الاحترام أن تفعلوا ذلك أمامي.
+499 101:Line:EDC908FA319B490E943A4A363AB030AE [Mecha Man]
+EN Yeah. Does that, not sound convincing enough?
+AR أجل. ألا يبدو ذلك مقنعا بما يكفي؟

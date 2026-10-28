@@ -1,0 +1,23 @@
+{
+  "evidence_regeneration_identical": true,
+  "output_sha256": {
+    "functions.json": "ba566d75b61435bb887d3315ff14af6f92fa4e89e8ee35c7ad70b47f3c361e14",
+    "xrefs.json": "ca9fe3c8a4f61f7629bd45248e268e1b72339fed5c8c8238547acf3f2124bd9d",
+    "results.json": "043137f96858c942728f4b788327a12894d2478668bc5c99ca79714837fed830",
+    "excerpts.md": "9f4fc9653e07b452570e0681bdca4f4d798b8548bd218093aa50f11c2dae532d"
+  },
+  "existing_distribution_hashes_match": true,
+  "aes_scan_files": 15,
+  "aes_hits": 0,
+  "existing_helper_sha256": {
+    "pe.py": "d6accc5961d865b29efe1323cf5a6f4bc925243967b12ec2584d5972f4b9be87",
+    "disfn.py": "9a62892417fae6ef46d515cb4e84dcfa2d7241882026dcca0cdb76f7f071e129",
+    "lin.py": "b34f6a547a8219a98c0a075dd926943409057280307cc1529c8f3207ce8c0f86"
+  },
+  "final_aes_scan_files": 18,
+  "final_aes_hits": 0,
+  "report_sections_verified": 16,
+  "supervisor_copy_byte_identical": true,
+  "tool_sha256": "ea94d8c0fd712b0bc63e410590a23b4cb22d217f1f38e9a5926b7af23321d0e1",
+  "report_path": "C:\\Users\\USER\\OneDrive\\Desktop\\lastnews\\report_002.md"
+}

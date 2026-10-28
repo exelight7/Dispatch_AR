@@ -1,0 +1,1903 @@
+{
+  "pak_sha256": "88db2b97f376855bfa43d2f9fe400a8b10cc533a104aeb72e26b61a5d6381533",
+  "pak_bytes": 1465537,
+  "zip_sha256": "d6648b3f228a24060e02d9ea7c9d301623cc07af5d0aad793569b3ef2654ae66",
+  "targets": 14,
+  "records": 12973,
+  "changed_records_since_installed": 270,
+  "both_complete_builds_byte_identical": true,
+  "all_new_locres_match_current_translation": true,
+  "original_identities_preserved": true,
+  "changes": [
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "FCBC06138B5243F8A598039E46CA2574",
+      "before": "...ولماذا تفوح منه رائحة شعر محترق؟",
+      "after": "...ولماذا كانت تفوح منه رائحة شعر محترق؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "34BED35B67A5444D9EE8243C08638EC0",
+      "before": "مهلا! يا ميكا تافه. اغرب عن وجهي اللعين.",
+      "after": "مهلا! يا ميكا تافه. اخرج من هنا، اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "D77EF0B805BF4E839F5003EFCC16061E",
+      "before": "آمل أن يقتلك شراود كما قتل أباك. |آمل أن يجلد مؤخرتك الحقيرة المعقدة من أبيها حتى الموت. |أتسمعني؟ آخ!",
+      "after": "آمل أن يقتلك شراود كما قتل أباك. |آمل أن يجلد مؤخرتك الحقيرة حتى الموت، أيها المصاب بعقدة الأب. |أتسمعني؟ آخ!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "5D8279DB1FA4457ABBB8E9A79CF4AA1F",
+      "before": "قدت البلطجية إلى فخ بينما أرشد المدنيين إلى الأمان. ستتولى الشرطة الباقي.",
+      "after": "قدت البلطجية إلى فخ بينما أرشدت المدنيين إلى الأمان. ستتولى الشرطة الباقي."
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "AB6BB301139845FC9C0AF5849CF6728F",
+      "before": "أنا ثملة قليلا. لا أمزح هكذا عادة. |أظن أن فيزي بدأت تؤثر في.",
+      "after": "أنا ثملة قليلا. لا أمزح هكذا عادة. |أظن أن فيزي بدأت تؤثر فيّ."
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "089B93CCC0154BB0A0C700F7BF72CD5D",
+      "before": "كنت أحبه.",
+      "after": "كنت تحبه."
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "037CDE7016D74316983C66DDCF76504F",
+      "before": "غير مهني؟ لست واثقا أن هذا ينطبق هنا، لكن--",
+      "after": "غير مهني؟ لست واثقا من أن هذا ينطبق هنا، لكن--"
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "Line",
+      "key": "5132D7D2B69D429BB9E2A25C7693107C",
+      "before": "حسنا، إنه أكثر من راحل، فهو ميت لعنة الله. |وهذا أقصى الرحيل.",
+      "after": "حسنا، إنه أكثر من راحل، فهو ميت، اللعنة. |وهذا أقصى الرحيل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "NodeTitle",
+      "key": "9B32B3E1057C422CAB489077771D757A",
+      "before": "[قبلها]",
+      "after": "[قبّلها]"
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "WeCanWorkWithThisChoiceStat",
+      "key": "50B36F8B447E8B8D110A1EAAC7C35E68",
+      "before": "^أنت و{Percentage}^ من اللاعبين ^لم تقبلوا^ بليزر.",
+      "after": "^أنت و{Percentage}^ من اللاعبين ^لم تقبّلوا^ بليزر."
+    },
+    {
+      "file": "Dispatch/Content/Localization/101/ar/101.locres",
+      "namespace": "WeCanWorkWithThisChoiceStat",
+      "key": "8C6B079244B8AAE672DFC194C473565A",
+      "before": "^أنت و{Percentage}^ من اللاعبين ^قبلتم^ بليزر.",
+      "after": "^أنت و{Percentage}^ من اللاعبين ^قبّلتم^ بليزر."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "E7D50080EBBF410C97B280744B960BAE",
+      "before": "أعترف أنني لم أعانق أحدا منذ مدة، لكن هل يمكنك التوقف؟",
+      "after": "أعترف بأنني لم أعانق أحدا منذ مدة، لكن هل يمكنك التوقف؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "E40C474B5AD641698E8433346A421609",
+      "before": "أمتأكد أن عمرك ليس ثمانين عاما فعلا؟ ",
+      "after": "أمتأكد من أن عمرك ليس ثمانين عاما فعلا؟ "
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "2BC7E3357CFB4B8D9EF322AD03913862",
+      "before": "اللعنة، منع دخولي.",
+      "after": "اللعنة، مُنعت من الدخول."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "5D73BE0265FC4765ADCA234646CE3424",
+      "before": "لا تنادني عزيزي... لكن شكرا يا رجل.",
+      "after": "لا تنادني عزيزتي... لكن شكرا يا رجل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "316CF34EA0C3483FAE5E05F0B7D16629",
+      "before": "لا تقلق. لقد طعنت من قبل.",
+      "after": "لا تقلق. لقد طُعنت من قبل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "452B61445F4E49F682EE89D529663808",
+      "before": "إياك أن تخبر كوب بهذا. لن يدعوني أنساه أبدا.",
+      "after": "إياك أن تخبر كوب بهذا. لن أتخلص من الإحراج أبدا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "8B8534D93A0F445AA28D1A5CC7A36A3F",
+      "before": "أولا، كان المكان محطما حين وصلت. |ثانيا، أنا واثقة أن غراني يفضل خصيتين مشويتين |على فقدان ذراعه. أما الشرير... تبا، تحدث المصائب.",
+      "after": "أولا، كان المكان محطما حين وصلت. |ثانيا، أنا واثقة من أن غراني يفضل خصيتين مشويتين |على فقدان ذراعه. أما الشرير... تبا، تحدث المصائب."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "2BC00C9B2F32462E9C8C7AE37A0606BD",
+      "before": "نصيحة رائعة لعنة الله يا ملازم دان.",
+      "after": "نصيحة رائعة، اللعنة، يا ملازم دان."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "52CEAAA0A26D47FBAED0A239F6470E96",
+      "before": "قال إنني اعتقلت بتهمة التهرب الضريبي. ليت ذلك صحيح!",
+      "after": "قال إنني اعتقلت بتهمة التهرب الضريبي. ليت ذلك صحيحا!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "9322068417B7469DA9B57D1526798775",
+      "before": "هيا. عليك التوقف عن سؤال الناس ذلك.",
+      "after": "هيا. عليك التوقف عن طرح هذا السؤال على الناس."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "F4DA9D2AA5D34267B0CCF7EEDEE9C7DB",
+      "before": "هاه؟ |كلا يا أخي. لا. لا. لا لا يا صاح. اسمع، اسمع-- |هناك ثلاثة رجال آخرين هنا اسمهم روي. |لذا أظن أننا نتعارك ونتصارع وأسحقك، |ثم، كما تعرف، تكون قد ترويت. |أتفهمني يا أخي؟ هذا... ما... هذا ما أظنه...",
+      "after": "هاه؟ |كلا يا أخي. لا. لا. لا لا يا صاح. اسمع، اسمع-- |هناك ثلاثة رجال آخرون هنا اسمهم روي. |لذا أظن أننا نتعارك ونتصارع وأسحقك، |ثم، كما تعرف، تكون قد ترويت. |أتفهمني يا أخي؟ هذا... ما... هذا ما أظنه..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "2A7D35D878A74F2F89BD30CBE3E5C893",
+      "before": "لا أستطيع أن أعدك بنجاحها، فقط بأن أبذل قصارى جهدي. ",
+      "after": "لا أستطيع أن أعدك بنجاحها، وإنما أعدك ببذل قصارى جهدي. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "F6875BE87AEB45C6B0B88A12140712B1",
+      "before": "لا أريد الجلوس هنا والتفكير فيه |ونحن يفترض أن نفعل... أيا كان. |أمور الأبطال الخارقين.",
+      "after": "لا أريد الجلوس هنا والتفكير فيه |بينما يُفترض بنا أن نفعل... أيا كان. |أمور الأبطال الخارقين."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "372BB605C91F45A7B851AE2745886F61",
+      "before": "حرصت أن تكون أهدافي أشخاصا فقط، لا لوحات.",
+      "after": "حرصت على أن تكون أهدافي أشخاصا فقط، لا لوحات."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "4F6A55A9BE96456DA9AE3C3E5877F866",
+      "before": "لم يبق في طاقة.",
+      "after": "لم تبق لدي طاقة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "57D68A7AB88A4A19B8F5265FCFCBD64A",
+      "before": "أعني... إخافة الأطفال، أحب جزء في العمل لي بوضوح.",
+      "after": "أعني... إخافة الأطفال، هذا الجزء المفضل لدي من العمل طبعا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "58E37494E01C4E15ADC33A244A16852C",
+      "before": "أنا موهوب لدرجة أنني أبهر نفسي، اللعنة.",
+      "after": "أنا موهوبة لدرجة أنني أبهر نفسي، اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "5E86C589A28E40F688C56D2FC74BDD84",
+      "before": "أمنح الناس حسن الظن. مشكلتها الكبرى الآن أنها في قاع الترتيب تماما.",
+      "after": "أحسن الظن بالناس. مشكلتها الكبرى الآن أنها في قاع الترتيب تماما."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "0DB3F4D1FDC2410C83BB6424751F537C",
+      "before": "أنا بخير... لكن هذا الرجل... أقل بخير.",
+      "after": "أنا بخير... لكن هذا الرجل... حالته أسوأ."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "E9B35EA7741649948F6672BF9B0DB7C8",
+      "before": "أنا واثق أنهم يستطيعون استيعاب شخص آخر. |خصوصا في مناسبة مميزة كهذه.",
+      "after": "أنا واثق من أنهم يستطيعون استيعاب شخص آخر. |خصوصا في مناسبة مميزة كهذه."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "48E655AFCCE4488E951758BF4EF2BC6D",
+      "before": "لنر هذه التلال جبلا.",
+      "after": "لنُرِ هذه التلال جبلا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "33E1C63551C240648973E58B116D423E",
+      "before": "تمن أمنية يا ابن العاهرة.",
+      "after": "تمنَّ أمنية يا ابن العاهرة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "4107FA54743B492AB6782E562FC7CE3F",
+      "before": "يا رجل، كان هنا تماما. لو أستطيع التحدث إليه فقط...",
+      "after": "يا رجل، كان هنا تماما. ليتني أستطيع التحدث إليه..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "67AA0DFAAC2C411DB590316DB9078CCE",
+      "before": "والآن، هل تتراجع قليلا؟ |عرف عن قوة إقلاعي أنها تصعق الكائنات الصغيرة. |مذهل.",
+      "after": "والآن، هل تتراجع قليلا؟ |عُرف عن قوة إقلاعي أنها تصعق الكائنات الصغيرة. |مذهل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "4DB1683C662A48DDB95ECF00A6BA5A50",
+      "before": "تبا، ذلك النادي أغلق. كانت لديهم أفضل مناشف.",
+      "after": "تبا، ذلك النادي أغلق. كانت لديهم أفضل المناشف."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "2794751BD9854353A903B883165EFFD2",
+      "before": "آه، هذا؟ أنا أحمى فقط.",
+      "after": "آه، هذا؟ أنا أحمّي نفسي فقط."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "22D7B04E40E843A2BABD3259B1C8F66F",
+      "before": "لم أكن واثقة أنك ستحضر.",
+      "after": "لم أكن واثقة من أنك ستحضر."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "D77605E9BCE345A9BBAA3F10A6E2B415",
+      "before": "آه-- لا... لا... ليس ضروريا إن-- أنا واثق أنني...",
+      "after": "آه-- لا... لا... ليس ضروريا إن-- أنا واثق من أنني..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "532E497735174E719CDEB20B57167590",
+      "before": "حسنا، توقف. أولا، لم نتبادل قبلة، أنت قبلتني. |ثانيا، هذا ليس من شأنك اللعين.",
+      "after": "حسنا، توقف. أولا، لم نتبادل قبلة، أنت قبّلتني. |ثانيا، هذا ليس من شأنك اللعين."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "5E78A5B8C6F24E94AA593E24FDCBD1C4",
+      "before": "حلوى فرقاعية لكن أحرق. كحلوى فرقاعية حارة.",
+      "after": "حلوى فرقاعية لكنها أكثر حرارة. كحلوى فرقاعية حارة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "5A88D70260584C55B19E6C4A21BF9892",
+      "before": "بريزم. ولدت ونشأت في ميشيغان. قوتها غريبة. تسلح أشعة الضوء أو شيء كهذا. كثير من هذه الأمور تخمين.",
+      "after": "بريزم. ولدت ونشأت في ميشيغان. قوتها غريبة. تستخدم أشعة الضوء كسلاح أو شيء كهذا. كثير من هذه الأمور تخمين."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "056105D838514F1CBCDA98BE0435CEB7",
+      "before": "دورة المياه. أقصد. إنها هناك. |آسفة. في العمل أميل لأن أكون قليلا... ",
+      "after": "دورة المياه. أقصد. إنها هناك. |آسفة. في العمل أميل إلى أن أكون قليلا... "
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "A009261447FD4258867B384E73962C7C",
+      "before": "إنها الأقل إعجابا لي... أسوأهم جميعا. ",
+      "after": "إنها الأقل تفضيلا لدي... أسوأهم جميعا. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "3F7CA3FD3CE84B7A97343B1CEDD3B4F2",
+      "before": "رائحته كلحم مقدد قليلا. مقرف لكنه ليس سيئا تماما.",
+      "after": "رائحته تشبه رائحة اللحم المقدد قليلا. مقرف لكنه ليس سيئا تماما."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "3563F8AFCB934273943CB1FCAD66B172",
+      "before": "سرق الفن المسروق مجددا. يا للإنجاز اللعين.",
+      "after": "سُرق الفن المسروق مجددا. يا للإنجاز اللعين."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "B3898CA168524AB78DB6C1878AC817A8",
+      "before": "هذا-- أجل. |ربما الأفضل ألا نقبل بعضنا. ",
+      "after": "هذا-- أجل. |ربما الأفضل ألا نقبّل بعضنا. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "9A9E49A7AE9144AE9D06DF32A18BA84A",
+      "before": "البدلة ليست ما جعلني بطلا خارقا. |طريقتي في أداء عملي اللعين هي ما جعلتني ميكا مان.",
+      "after": "البدلة ليست ما جعلني بطلا خارقا. |طريقتي في أداء عملي اللعين هي ما جعلني ميكا مان."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "2F0AA4893A444650BEDF27E0EEDDAEA0",
+      "before": "لم يكن الجو مناسبا في تلك. أستطيع أفضل.",
+      "after": "لم يكن الجو مناسبا في تلك. أستطيع تقديم أداء أفضل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "9C388C91305542A8A6ECC74695066D62",
+      "before": "قد يكون هذا أسرع انتهاك للموارد البشرية من موظف جديد في التاريخ.",
+      "after": "قد تكون هذه أسرع مخالفة لسياسات الموارد البشرية تتعلق بموظف جديد في التاريخ."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "350EC9B1981D4510B908CE152F068EA7",
+      "before": "من يستطيع أفضل مني؟",
+      "after": "من يستطيع تقديم أداء أفضل مني؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "4644066B39024D31A225D6702B98F1DE",
+      "before": "أجل، أنا واثقة أنها تفعل ذلك عمدا.",
+      "after": "أجل، أنا واثقة من أنها تفعل ذلك عمدا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "219376864E1D4950AE16611C8DFB90EF",
+      "before": "أجل، أنا واثقة أن هذا بالضبط ما يحاول تجنبه.",
+      "after": "أجل، أنا واثقة من أن هذا بالضبط ما يحاول تجنبه."
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "4D0C256D0FDB4653BD77F2D978F85BD7",
+      "before": "تحب دونات القضيب الطويلة الكبيرة المحشوة بالقشدة. فهمت يا رجل. |أتحب دونات القضيب في حلقك أم في مؤخرتك أم كليهما؟",
+      "after": "تحب دونات القضيب الطويلة الكبيرة المحشوة بالقشدة. فهمت يا رجل. |أتحب دونات القضيب في حلقك أم في مؤخرتك أم في كليهما؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/102/ar/102.locres",
+      "namespace": "Line",
+      "key": "41B4C565B58C470CB17B226A02D0090D",
+      "before": "أمتأكد أننا لا نعمل بالعمولة؟",
+      "after": "أمتأكد من أننا لا نعمل بالعمولة؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "",
+      "key": "42E4E3C5426981A8F038CF91B79C4C71",
+      "before": "\"مرحبا روبرت؟ أنا واثق أن المحتال على الخط...\"",
+      "after": "\"مرحبا روبرت؟ أنا واثق من أن المحتال على الخط...\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "D62EC16F677F4B98B13047EFBB5CEA0E",
+      "before": "كوب، أنا واثق أنك تعرفين سبب استدعائك.",
+      "after": "كوب، أنا واثق من أنك تعرفين سبب استدعائك."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "259A24A18D654E63891CDA2ACFF973E2",
+      "before": "لا تغر.",
+      "after": "لا تشعر بالغيرة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "580D7255DF9842E79F9FFCEBDC51B554",
+      "before": "أشك أنهم يائسون إلى هذا الحد يا حبيبتي.",
+      "after": "أشك في أنهم يائسون إلى هذا الحد يا حبيبتي."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "123C99F0F59646A69A70EC39488171BE",
+      "before": "فعل الفتح الطارئ.",
+      "after": "فُعّل الفتح الطارئ."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "0249559950344CC98A50407A28EED8FB",
+      "before": "مرحبا روبرت؟ أنا واثق أن المحتال على الخط...",
+      "after": "مرحبا روبرت؟ أنا واثق من أن المحتال على الخط..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "06B760FE09034EDB9479B7A53BD8BD90",
+      "before": "أخبرته أن المفترض أن يساعده على القلق، فقفز داخله فورا.",
+      "after": "أخبرته أن من المفترض أن يساعده على تخفيف القلق، فقفز داخله فورا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "5F65DED13D0A4B7891567BE43F3A1234",
+      "before": "أعمل عميانا هنا. لا أرى شيئا.",
+      "after": "أعمل على غير هدى هنا. لا أرى شيئا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "F56AADC51CC34533BA8BCEEA8665BC4E",
+      "before": "لست واثقا كيف ستسير الأمور.",
+      "after": "لست واثقا من كيفية سير الأمور."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "5BBEF756C1074E8388F858AB955BC115",
+      "before": "جار إيقاعي.",
+      "after": "واكب إيقاعي."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "B032F814D0DE4AB9BEEF44EFA363B041",
+      "before": "مم، أنا واثقة أن هذا ما قلته.",
+      "after": "مم، أنا واثقة من أن هذا ما قلته."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "3BCDF4B501C347DBA12CAAE5A3CD7A3F",
+      "before": "آه، الموجود في القاعة؟ يتحدث كل ساعة. |إنفيزيغال صعدت. |القبض على لايتنينغسترك منحها دفعة هائلة.",
+      "after": "آه، الموجود في القاعة؟ يتم تحديثه كل ساعة. |إنفيزيغال صعدت. |القبض على لايتنينغسترك منحها دفعة هائلة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "B79B39DD20524966995E0CCB45EE91CC",
+      "before": "حسنا يا فريق، أعرف أن بليزر ذكرت أن أحدا سيطرد، |لكن لا تدعوا ذلك يشتتكم عن العمل الجيد. |هذا ما ستقيمون عليه. ",
+      "after": "حسنا يا فريق، أعرف أن بليزر ذكرت أن أحدا سيطرد، |لكن لا تدعوا ذلك يشتتكم عن العمل الجيد. |هذا ما ستُقيَّمون على أساسه. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "813ACB3298BA41F0B72A0900F6F2576B",
+      "before": "إذن، أنا واثق أنك تعرف سبب وجودك هنا...",
+      "after": "إذن، أنا واثق من أنك تعرف سبب وجودك هنا..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "7F7782FC0AC445399EBD1161854BCD02",
+      "before": "سونار إذن. |احتاج إلى منارة استغاثته قبل أن يغادر المبنى اليوم حتى، |لذا لست واثقا أن هذا سينجح.",
+      "after": "سونار إذن. |احتاج إلى منارة استغاثته قبل أن يغادر المبنى اليوم حتى، |لذا لست واثقا من أن هذا سينجح."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "82EFA240A0D840048FABB44B5A0BDF09",
+      "before": "أهذه أنت يا فتاة الدونات؟ |أمتأكدة أنك تريدين فعل هذا مجددا؟",
+      "after": "أهذه أنت يا فتاة الدونات؟ |أمتأكدة من أنك تريدين فعل هذا مجددا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "3A7ED24119BF44439834ABAAC3715207",
+      "before": "الكلب يوافقني أن أجواء كوب عفنة.",
+      "after": "الكلب يوافقني على أن أجواء كوب عفنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "F7373DA126A84B3D9D0B34EFA6C85AC8",
+      "before": "هذا خطأ أيضا. |بالطبع أقيم معكم جميعا. |هل... ألا تعرفون ما الوظيفة؟ |ماذا يحدث بحق الجحيم؟",
+      "after": "هذا خطأ أيضا. |بالطبع يجري تقييمي معكم جميعا. |هل... ألا تعرفون ما الوظيفة؟ |ماذا يحدث بحق الجحيم؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "AF975871CA054D97950C04B098DC5A9D",
+      "before": "للأسف، إنها لعنة لكم |لأن لا شيء في الكون يهدر أكثر من الإمكانات. |ورغم شيوع ذلك، يبدو أن أحدا لا ينسى. |هذا ما يتهامسون به حين تغادر الغرفة. |«فلان كانت لديه إمكانات كبيرة». يلاحقك ذلك إلى الأبد. |أنا هنا لأساعدكم على رفع لعنة الإمكانات... |بجعلكم تفعلون شيئا بها بحق الجحيم.",
+      "after": "للأسف، إنها لعنة لكم |لأن لا شيء في الكون يهدر أكثر من الإمكانات. |ورغم شيوع ذلك، يبدو أن أحدا لا ينسى. |هذا ما يتهامسون به حين تغادرون الغرفة. |«فلان كانت لديه إمكانات كبيرة». يلاحقكم ذلك إلى الأبد. |أنا هنا لأساعدكم على رفع لعنة الإمكانات... |بجعلكم تفعلون شيئا بها بحق الجحيم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "5E0F1777F62A40C29C6A08685364313A",
+      "before": "أجل، أظنه عقابا. لكن الآن فرصتك <Italic>للطعن</> بي أفضل بسيفك... أفهمت؟",
+      "after": "أجل، أظنه عقابا. لكن فرصتك <Italic>لطعني</> بسيفك أفضل الآن... أفهمت؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "1F4467AD87B54D5087CC614AC8219F6B",
+      "before": "أجل، بالضبط... لا أتابع كرة القدم، لكنني أفهم. |اسمع، أعرف أن علي ألا أحابي أحدا هنا، |لكن حتى لو كانت في القاع، |لست واثقة أنني كنت سأدعك تطردها.",
+      "after": "أجل، بالضبط... لا أتابع كرة القدم، لكنني أفهم. |اسمع، أعرف أن علي ألا أحابي أحدا هنا، |لكن حتى لو كانت في القاع، |لست واثقة من أنني كنت سأدعك تطردها."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "2DA22EAA18F8483BABD2E28B11C4B04B",
+      "before": "أمتأكد أننا السبب؟ ربما القهوة تسبب لك الإسهال مع تقدمك في السن.",
+      "after": "أمتأكد من أننا السبب؟ ربما القهوة تسبب لك الإسهال مع تقدمك في السن."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "5839C9DDF2EC4D4893B7E3DE0554D821",
+      "before": "تريدني أن أتفوق بالكلام على أتباع طائفة؟ يا أخي، هذا سهل جدا أفعله وأنا نائم. ثم إن الوعي الأسمى ركيزة أساسية في دورتي الإلكترونية ذات الأجزاء الثلاثة عشر.",
+      "after": "تريدني أن أتفوق بالكلام على أتباع طائفة؟ يا أخي، هذا سهل جدا لدرجة أنني أستطيع فعله وأنا نائم. ثم إن الوعي الأسمى ركيزة أساسية في دورتي الإلكترونية ذات الأجزاء الثلاثة عشر."
+    },
+    {
+      "file": "Dispatch/Content/Localization/103/ar/103.locres",
+      "namespace": "Line",
+      "key": "76A4029C0D0F4ED3847D246B592D5331",
+      "before": "أنتم. كل واحد منكم، أكوام الخراء المحترق المشتعلة تلك. |أنت خصوصا. |الآن، يمكنكم البقاء أكوام خراء كما كنتم طوال حياتكم... |أو يمكننا تغيير المسار.",
+      "after": "أنتم. أنتم جميعا أكوام الخراء المحترق المشتعلة تلك. |أنت خصوصا. |الآن، يمكنكم البقاء أكوام خراء كما كنتم طوال حياتكم... |أو يمكننا تغيير المسار."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "4CDD4FBC993B4273B4AE1D655703D037",
+      "before": "حسنا يا بني، لنرهم معا.",
+      "after": "حسنا يا بني، لنُرِهم معا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "5E8BA45C4DA342E4B3AFC958E86D11EC",
+      "before": "أ-رأيت؟! كنت مشتعلا-- نارا! لا! ماء. كنت مشتعلا ماء!",
+      "after": "أ-رأيت؟! كنت مشتعلا-- نارا! لا! ماء. كنت مشتعلا بالماء!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "368290CB49594EF3AF003D6B05106838",
+      "before": "قد بشكل أفضل المرة المقبلة.",
+      "after": "قُد بشكل أفضل المرة المقبلة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "1AFDDDCC93AF41BDAB9F893A792244A3",
+      "before": "بعيدا عن ذلك. أحاول إخبارك بتلميح لطيف، أتعلمين... ",
+      "after": "على العكس تماما. أحاول إخبارك بتلميح لطيف، أتعلمين... "
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "07E06A6776E9446F91EBB9820122121B",
+      "before": "طر بهم إلى المستشفى.",
+      "after": "طِر بهم إلى المستشفى."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "4766CE25AE4241028B98F8DDCA1CAC9C",
+      "before": "شعور رائع، رائع. سأحاول ألا أعتاد عليه. لقد خذلت من قبل.",
+      "after": "شعور رائع، رائع. سأحاول ألا أعتاد عليه. لقد خُذلت من قبل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "5EFC0A5DB29D4BCC94D0192D9306D7FD",
+      "before": "أنا ب-خير تمام! كله ج-تمام. كله تمام!",
+      "after": "أنا ب-خير تماما! كله ج-تمام. كله تمام!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "52E5171EF8FB48E0BAB89712BD95C38D",
+      "before": "أودعك بتبا لك.",
+      "after": "أودعك بقول: تبا لك."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "10E1060ABFEA4B019392E3B9B4445677",
+      "before": "هل يمكن إرجاع هذا ابن الكلب؟",
+      "after": "هل يمكن إرجاع ابن الكلب هذا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "506356FCB50541E1AE92DFE1363ED5E9",
+      "before": "يبدو أنني ازدادت قوتي.",
+      "after": "يبدو أن قوتي ازدادت."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "ECF3ED9845604C9EBCBECBEE3A8D6B7C",
+      "before": "اسمع يا فينومامان... |أخبرك فقط لأنني لا أريدك أن تسمع من غيري... |لقد قبلت بليزر.",
+      "after": "اسمع يا فينومامان... |أخبرك فقط لأنني لا أريدك أن تسمع من غيري... |لقد قبّلت بليزر."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "5165F0D496FC44CF86984FA50921F164",
+      "before": "لا، لحظة. هي لم تقبلني. |لم تفعل شيئا خطأ. أنا من قبلها. ",
+      "after": "لا، لحظة. هي لم تقبّلني. |لم تفعل شيئا خطأ. أنا من قبّلها. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "10BE9325F69644FA8B05D27382EDEC62",
+      "before": "علم.",
+      "after": "مفهوم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "14A837792CF04F0198D64BACC6B9FEEC",
+      "before": "علم. هلا... تصمد قليلا بعد. سأرى ما بوسعي فعله.",
+      "after": "مفهوم. هلا... تصمد مدة أطول قليلا؟ سأرى ما بوسعي فعله."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "452E5559C3D040968CABE6D148FA49D0",
+      "before": "علم. هلا... تصمد قليلا بعد. سأرى ما بوسعي فعله.",
+      "after": "مفهوم. هلا... تصمد مدة أطول قليلا؟ سأرى ما بوسعي فعله."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "FDF61738C83645818BF52F38DC94E66E",
+      "before": "علم. أخبريني كيف هو. أردت مشاهدة ذلك الفيلم.",
+      "after": "مفهوم. أخبريني كيف هو. أردت مشاهدة ذلك الفيلم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "2E3DA95677C44969BEF3931413804C3D",
+      "before": "يا رجل، أشعر بتحسن شديد. <Italic>كبير</>.",
+      "after": "يا رجل، أشعر بتحسن شديد. <Italic>تحسن كبير</>."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "FFF34FA3C37E412D8EED7C04F5803617",
+      "before": "لا، لا تقلق. لدي هذه المناسبة الليلة، |وكان يفترض أن يرسلوا الفستان أمس-- |لم تأت لهذا، لكن هلا تغلق سحابي؟ ",
+      "after": "لا، لا تقلق. لدي هذه المناسبة الليلة، |وكان يفترض أن يرسلوا الفستان أمس-- |لم تأت لهذا، لكن هلا تغلق سحاب فستاني؟ "
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "3D21723BDD144F058D85382D0A43707D",
+      "before": "تبا. حاله مزر. ",
+      "after": "تبا. حاله يرثى لها. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "381E6CC3109248C5883678459B494051",
+      "before": "بعض الأمور لا تعلم.",
+      "after": "بعض الأمور لا يمكن تعليمها."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "C819BBACC08F4047BF46F584C2F51013",
+      "before": "آسف، لكنني لا أطيق الجميلات الواضحات وهن يستجدين المديح. ",
+      "after": "آسف، لكنني لا أطيق النساء الجميلات جدا وهن يستجدين المديح. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "2323DEECED084569925A0526425EE958",
+      "before": "كانا يتواعدان. |حبيبتي السابقة كانت أطول مني. |كانت تقبل جبيني كثيرا. كان ذلك جميلا.|عما كنا نتحدث؟ آه، صحيح. |احذر ذلك الوغد الصغير الناقم كسارة البندق.",
+      "after": "كانا يتواعدان. |حبيبتي السابقة كانت أطول مني. |كانت تقبّل جبيني كثيرا. كان ذلك جميلا.|عما كنا نتحدث؟ آه، صحيح. |احذر ذلك الوغد الصغير الناقم كسارة البندق."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "0D5C5C07B1F94446B61DA3ED5711529B",
+      "before": "ماذا تعني بهرب؟ عليك العثور عليه يا رجل!",
+      "after": "ماذا تقصد بأنه هرب؟ عليك العثور عليه يا رجل!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "2B4847D569BD4ADCA805C4F2CE84126F",
+      "before": "لم تحتاجها؟ أنت في الميدان.",
+      "after": "لماذا تحتاجها؟ أنت في الميدان."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "C629350DF6774CB0B9731503ECAD5B87",
+      "before": "لم هو هنا في هذا الوقت المتأخر؟",
+      "after": "لماذا هو هنا في هذا الوقت المتأخر؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "4A93655FFB8A48AD8796823DD259E8E5",
+      "before": "تول هذه إذن، فلا يعرف الوغد إلا وغد مثله.",
+      "after": "تولَّ هذه إذن، فلا يعرف الوغد إلا وغد مثله."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "84E10AD8819742D2BF9BA93428873AFC",
+      "before": "يبدو أن كل شيء مستور، ونتفق أن هذا الأهم. ",
+      "after": "يبدو أن كل شيء مستور، ونتفق على أن هذا الأهم. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "Line",
+      "key": "C2DF0EA5586949E397A8BF9B3D9399A2",
+      "before": "أنت أقصر بماذا؟ بوصتين؟",
+      "after": "أنت أقصر بكم؟ بوصتين؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "LV_Shift04a.Scenario_SC_11b",
+      "key": "VOTranscription",
+      "before": "\"ماذا تعني بهرب؟ عليك العثور عليه يا رجل!\"",
+      "after": "\"ماذا تقصد بأنه هرب؟ عليك العثور عليه يا رجل!\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "NodeTitle",
+      "key": "FACFE31893E7465EA81818C3E01CFE84",
+      "before": "لقد قبلتها.",
+      "after": "لقد قبّلتها."
+    },
+    {
+      "file": "Dispatch/Content/Localization/104/ar/104.locres",
+      "namespace": "NodeTitle",
+      "key": "DC5109152B104B8DAA9FBFFC039269E3",
+      "before": "[قبلها]",
+      "after": "[قبّلها]"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "",
+      "key": "9D740BED41405F32C364CA88A0B55B1F",
+      "before": "\"السيد قط وحده هناك... خائف وجائع جدا... أرجوكم جدوا صغيري!\" ",
+      "after": "\"السيد قط وحده هناك... خائف وجائع جدا... أرجوكم اعثروا على صغيري!\" "
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "",
+      "key": "953A8BF24A8980B0BC35F6861BB6CCB2",
+      "before": "\"تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لهم الكثير أن يحدثهم بطل.\" ",
+      "after": "\"تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لهم الكثير أن يحدّثهم بطل.\" "
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "15258CBFFCD44BE3B1EB0CBAD35468C9",
+      "before": "<Italic>أنا حقير، اسمي روبرت، حقير اسمه روبرت،</>|<Italic>أنا حقير أجل أنا حقير، حقير لعين جدا،</>|<Italic>لا آمال لدي ولا أحلام، وقضيبي صغير ضئيل،</>|<Italic>ولا يعمل حتى لأنني مصاب بضعف الانتصاب،</>|<Italic>فتقبلوني كما أنا، مجرد رجل حقير صغير...</>",
+      "after": "<Italic>أنا حقير، اسمي روبرت، حقير اسمه روبرت،</>|<Italic>أنا حقير أجل أنا حقير، حقير لعين جدا،</>|<Italic>لا آمال لدي ولا أحلام، وقضيبي صغير ضئيل،</>|<Italic>ولا يعمل حتى لأنني مصاب بضعف الانتصاب،</>|<Italic>فتقبّلوني كما أنا، مجرد رجل حقير صغير...</>"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "D8B42098FC924E3A9389C6FF4FA39738",
+      "before": "وهذا ليس فخا. أنا الاثنان. |بدا ذلك غريبا جهرا، لكنكم تفهمون قصدي.",
+      "after": "وهذا ليس فخا. أنا الاثنان. |بدا ذلك غريبا جهرا، لكنك تفهم قصدي."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "524750CEB0A74F1AAC2E9A05D8045C1A",
+      "before": "غير حرق كل تلك الشموع الرديئة التي أهدتك عماتك.",
+      "after": "غير حرق كل تلك الشموع الرديئة التي أهدتك إياها عماتك."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "541F7437956D4D8D9F6D436F89D840E0",
+      "before": "خمسة كؤوس ويسكي فاخر؟",
+      "after": "خمس كؤوس ويسكي فاخر؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "59CE71BC393E4C33970737C0A24479CD",
+      "before": "ماذا تقصد بمؤقتا؟ أنت أعمى للأبد يا حقير!",
+      "after": "ماذا تقصد بقولك مؤقتا؟ أنت أعمى للأبد يا حقير!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "479FA88C95054CC6B058A7D88F128F2F",
+      "before": "تبا. منع دخولنا.",
+      "after": "تبا. مُنعنا من الدخول."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "12C8410E946549FDB64FA3EC148FA753",
+      "before": "تحول لغبار.",
+      "after": "تحوّل إلى غبار."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "4F72F5B11E5C4F45977140382531F969",
+      "before": "علم.",
+      "after": "مفهوم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "396BA0DDBAE3479F864E68F4DB8D4AC0",
+      "before": "مرحبا يا صاح. دعني أشتر لك شرابا--",
+      "after": "مرحبا يا صاح. دعني أشترِ لك شرابا--"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "5F83242473244D02AE055C570C47DF7B",
+      "before": "كما قلت، كلاهما أنت. |وأتعلم، أنت من يعجبني. |لذا سأكون سعيدا في الحالتين.",
+      "after": "كما قلت، كلاهما أنت. |وأتعلمين، أنت من يعجبني. |لذا سأكون سعيدا في الحالتين."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "03F716B68F8C4C09810948F5FCE2C258",
+      "before": "أستطيع الاستعراض. ليدعوا الناس يتأملون البضاعة.",
+      "after": "أستطيع الاستعراض. ليتأمل الناس البضاعة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "3568B577C6FD4DFEBB3C9FA0353D2BB8",
+      "before": "لم أرد المغادرة حقا، لكنني شرحت خطر المدينة، فأعطوني حلوى كراميل تعبيرا عن الامتنان.",
+      "after": "لم أرد المغادرة حقا، لكنني شرحت الخطر الذي يهدد المدينة، فأعطوني حلوى كراميل تعبيرا عن الامتنان."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "4D8DC647683D4BD0AFE2458C0ECE133B",
+      "before": "أشك أن ديردري ضحيته الوحيدة. لنحذف جميع ملفات حاسوبه المحمول.",
+      "after": "أشك في أن ديردري ضحيته الوحيدة. لنحذف جميع ملفات حاسوبه المحمول."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "767A2E91056C41928D185BB71619DEFF",
+      "before": "أعني، السردين حانة أشرار. لست واثقا أنني سأنسجم.",
+      "after": "أعني، السردين حانة أشرار. لست واثقا من أنني سأنسجم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "D072538F846143DF8BDBD69FE94949E8",
+      "before": "نحن أصدقاء، صحيح؟ اكسب أصدقاءك بعض المال.",
+      "after": "نحن أصدقاء، صحيح؟ أكسب أصدقاءك بعض المال."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "03DA8EE2FD9F4B7BB405E8105E0E8C7A",
+      "before": "أنا هنا لأكد.",
+      "after": "أنا هنا لأكدح."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "2D2E4422E53B46E1979D3A0DE22F7E86",
+      "before": "ل-لست واثقا أن هذا الرجل يعرف ما يفعل.",
+      "after": "ل-لست واثقا من أن هذا الرجل يعرف ما يفعل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "2F615AB64E99470DB4632194A3EDA354",
+      "before": "أنا ممتن لأن الانفصال أتاح لي معرفة نفسي، |لكن للأسف ما تعلمته أنني أكرهني. ",
+      "after": "أنا ممتن لأن الانفصال أتاح لي معرفة نفسي، |لكن للأسف ما تعلمته أنني أكره نفسي. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "0D84F9AC6C0945E5935F3C327A1E3C36",
+      "before": "قليلا بعد...",
+      "after": "وقت أطول قليلا..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "55B9F2C7B61E4AFAA0C0B47EC826D53F",
+      "before": "يبدو أن الحلقة الحمراء وراء هذا. لكن ماذا يخططون؟",
+      "after": "يبدو أن الحلقة الحمراء وراء هذا. لكن ما الذي يخططون له؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "4AE342C25B4D49ADBBC9E8DFA2A75119",
+      "before": "السيد قط وحده هناك... خائف وجائع جدا... أرجوكم جدوا صغيري!",
+      "after": "السيد قط وحده هناك... خائف وجائع جدا... أرجوكم اعثروا على صغيري!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "1FC9D9CE45834236B4D6BE49CC98C830",
+      "before": "لا. أم. تسعة كؤوس ويسكي رديء.",
+      "after": "لا. أم. تسع كؤوس ويسكي رديء."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "3C8F8AA4DF5E457D908D847575A11D6A",
+      "before": "علم.",
+      "after": "مفهوم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "5548D559E91343DDBE3812AD39C76177",
+      "before": "آه، لا أدري... أيهما تفضلين؟",
+      "after": "آه، لا أدري... أيهما تفضل؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "4981665A6E504F0DA00CC2F596E80762",
+      "before": "آه-- ي-يشرفني أن أ-أرشح.",
+      "after": "آه-- ي-يشرفني أن ي-يرشحوني."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "1BD07E440007423FA3D25D5CA53082CE",
+      "before": "حسـ-- فهمت-- علم.",
+      "after": "حسـ-- فهمت-- مفهوم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "2291B29F2CFB4FC589E9C8D2BDFF6F1A",
+      "before": "روبي، رأيت أشياء. أظن أناس الخلد يعيشون هنا...",
+      "after": "روبي، رأيت أشياء. أظن أن أناس الخلد يعيشون هنا..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "000EA64F2FAD49319EFE72708F660164",
+      "before": "إذن هكذا يشعر المدنيون بأنهم \"مميزون\"؟ يصعدون المسرح ويغنون بفشل؟",
+      "after": "إذن هكذا يشعر المدنيون بأنهم \"مميزون\"؟ يصعدون المسرح ويفشلون في الغناء؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "03C0E587AB2F434B93D810B86FE1F3F9",
+      "before": "إذن تفهمون لم أخشى أن أحترق.",
+      "after": "إذن تفهمون لماذا أخشى أن أحترق."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "2288458754744B9D92D0A2EFF9537DC1",
+      "before": "إذن تفهمون لم أخشى أن أحترق.",
+      "after": "إذن تفهمون لماذا أخشى أن أحترق."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "0774FCA4BBDC4EF3BC181D8FA852F1A9",
+      "before": "اقضوا بعض الوقت معنا، هيا، نعرف أنه ليست لديكم خطط.",
+      "after": "اقضوا بعض الوقت معنا، هيا، نعرف أنكم لا تملكون خططا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "3C092EDAF4D646DD99E0F58D2DECBA09",
+      "before": "صحيح بحق اللعنة. |وأنت، حان وقت تقبل أنك فقدت قدرتك.|والتظاهر بالعكس يضايق الجميع بشدة.",
+      "after": "صحيح بحق اللعنة. |وأنت، حان وقت تقبّل أنك فقدت قدرتك.|والتظاهر بالعكس يضايق الجميع بشدة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "5FC467677EFE4D42BF9095784A27CEBF",
+      "before": "ماذا تقصد بأنني لست المطلوب؟ أنا مطلوب الجميع.",
+      "after": "ماذا تقصد بأنني لست ما تبحث عنه؟ أنا ما يبحث عنه الجميع."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "29D1453321BA4B4FB343F70DE34AC065",
+      "before": "هذه مهمتي المناسبة!",
+      "after": "هذه هي المهمة المناسبة لي!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "56E83C37BD2149E1B42AC9F344B09AA4",
+      "before": "ثلاث تاكوهات ثلاثية القرمشة، أجل. تمتمت بها خمسين مرة. فقط |كل هذه. كلها الشيء نفسه. |كل طبق هنا مجرد إعادة خلط للمكونات الخمسة نفسها حرفيا. |صلصة حارة؟",
+      "after": "ثلاث تاكوهات ثلاثية القرمشة، أجل. تمتمت بها خمسين مرة. فقط |كُل هذه. كلها الشيء نفسه. |كل طبق هنا مجرد إعادة خلط للمكونات الخمسة نفسها حرفيا. |صلصة حارة؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "31DEFAA18018421692D5398BB245D842",
+      "before": "تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لنا الكثير أن يحدث بطل الطلاب... وأهاليهم.",
+      "after": "تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لنا الكثير أن يتحدث بطل إلى الطلاب... وأهاليهم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "1A979995E7584B3CADD0F0F2D6F191C5",
+      "before": "ندفع جميعا ثمن ماضينا. |كلما أنهيت هذا أسرع، بدأنا من جديد أسرع.",
+      "after": "ندفع جميعا ثمن ماضينا. |كلما أسرعت في إنهاء هذا، بدأنا من جديد أسرع."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "2ABD8CA57B1248029B43F0BA91C74E27",
+      "before": "ندفع جميعا ثمن ماضينا. |كلما أنهيت هذا أسرع، بدأنا من جديد أسرع.",
+      "after": "ندفع جميعا ثمن ماضينا. |كلما أسرعت في إنهاء هذا، بدأنا من جديد أسرع."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "32DB6B1E9C9843AAA11CC6EFE40481AD",
+      "before": "لم الجميع-- هل أبدو حقيرا؟ لا تجب. |تبا. هل هو ضخم؟ صوته صوت ضخم.",
+      "after": "لماذا الجميع-- هل أبدو حقيرا؟ لا تجب. |تبا. هل هو ضخم؟ صوته يوحي بأنه ضخم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "2D6791BD42494C8DA5AE8985034AECDA",
+      "before": "لم الجميع-- هل أبدو حقيرا؟ لا تجب. تبا. هل هو ضخم؟ صوته صوت ضخم.",
+      "after": "لماذا الجميع-- هل أبدو حقيرا؟ لا تجب. تبا. هل هو ضخم؟ صوته يوحي بأنه ضخم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "F21142BF664243DFA059E5DBBD2DDFC6",
+      "before": "يمكنك شراء الشراب لهم وضمان ألا يطردوا. |يمكنك صفهم ومصهم واحدا واحدا-- |لكنهم سيظنونك ربما البطل الذي دمر حياتهم.",
+      "after": "يمكنك شراء الشراب لهم وضمان ألا يطردوا. |يمكنك صفهم ومصهم واحدا واحدا-- |لكنهم سيظنون أنك ربما تكون البطل الذي دمر حياتهم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "24AD783A382540A08C7E9DFB4AE337BF",
+      "before": "أتغار أو شيء؟ إن أردت العشاء معي، كان يكفي أن تسأل.",
+      "after": "أتغار أو ما شابه؟ إن أردت العشاء معي، كان يكفي أن تسأل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "Line",
+      "key": "E0D92EF240B84BA6A52AF74696A68881",
+      "before": "تعرف أن هذا غير صحيح... |لست واثقا أن أباك سيريد هذا.",
+      "after": "تعرف أن هذا غير صحيح... |لست واثقا من أن أباك سيريد هذا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "NodeTitle",
+      "key": "28E0A9AA23784C76AB8E79F2A15B6D42",
+      "before": "دعني أشتر لك شرابا.",
+      "after": "دعني أشترِ لك شرابا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/105/ar/105.locres",
+      "namespace": "SecondDateVisiChoiceStat",
+      "key": "DC4192974FD3C3481A0EA18DB965D8A5",
+      "before": "^أنت و{Percentage}^ من اللاعبين أخبرتم إنفيزيغال بإمكانكم ^البقاء أصدقاء فقط^.",
+      "after": "^أنت و{Percentage}^ من اللاعبين أخبرتم إنفيزيغال أن بإمكانكم ^البقاء أصدقاء فقط^."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "",
+      "key": "5D055FCA492A21868E988EAC8645D9BE",
+      "before": "\"دعني أقلهم. أقصد الجليد، لا الناس. أرسلني. أعدك ألا أشوي أحدا.\"",
+      "after": "\"دعني أقليهم. أقصد الجليد، لا الناس. أرسلني. أعدك ألا أشوي أحدا.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "34E1E35AD1104738938F5BAC103995DF",
+      "before": "كدت لا تكفي.",
+      "after": "«كدت» لا تكفي."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "0CA8B1B95C314A52A43349786C4F6E69",
+      "before": "أأنت واثق أنه سينجح؟ |نلت من انكسار القلب ما يكفيني اليوم. ",
+      "after": "أأنت واثق من أن ذلك سينجح؟ |نلت من انكسار القلب ما يكفيني اليوم. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "0A04A8C0E8534CC9B162567B082E08AA",
+      "before": "لكن لا بد أن أحدهم شارك الموقع بمجموعة الأشرار |فالمكان يعج بالحمقى. |الخبر الجيد أنهم لا يعرفون مكانها أيضا. ",
+      "after": "لكن لا بد أن أحدهم شارك الموقع في مجموعة الأشرار |فالمكان يعج بالحمقى. |الخبر الجيد أنهم لا يعرفون مكانها أيضا. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "49828BF059C543A5A98A1D0F5DF7775D",
+      "before": "لا تطلق النار على ما لا ترى.",
+      "after": "لا يمكنك إطلاق النار على ما لا تراه."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "37D6D0AA1890468287525F16A48B87A1",
+      "before": "منزل يحتاج لبعض الدفء بالتأكيد.",
+      "after": "منزل يحتاج إلى بعض الدفء بالتأكيد."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "3967F3EF70D94E6EA9D1A638954A7753",
+      "before": "لا تظنني لا أرى. واضح على وجهك الغبي. |أنت معجب بها. لذا علي كرهها عنا معا.",
+      "after": "لا تظنني لا أرى. الأمر واضح على وجهك الغبي. |أنت معجب بها. لذا علي كرهها عنا معا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "31F8AD34058F4E0CA4C012ECDAF4F873",
+      "before": "أخيرا، بدأت أظن أن زوجة فاندرستنك تفتقر للذوق والعقل معا.",
+      "after": "أخيرا، بدأت أظن أن زوجة فاندرستنك تفتقر إلى الذوق والعقل معا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "3181C17302A84ACBAF4CB627B1AE8CE9",
+      "before": "فلامباي حقير، أنتم محقون جميعا، لكن لنقلها في وجهه حين يعود. الآن على أحد معالجة الجليد.",
+      "after": "فلامباي حقير، أنتم محقون جميعا، لكن لنقلها في وجهه حين يعود. الآن على أحد أن يعالج الجليد."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "0911D1109A0C48F4B973E5D49D4B5D4A",
+      "before": "غولم، أنت محق جدا. لماذا ترغب تلك الروبوتات بالمشاركة في هذا الهراء؟",
+      "after": "غولم، أنت محق جدا. لماذا ترغب تلك الروبوتات في المشاركة في هذا الهراء؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "1F31244E626E4E7DAFE702E5D6227E59",
+      "before": "بخير، |أجل، أم، الأمر صعب. |وزادته صعوبة كثرة الأشرار المعززين مؤخرا. |صرت أقدرك أكثر بكثير. |آسفة بشأن النبضة. |أمهلنا وقتا. رويد محبط قليلا، لكن |أنا واثقة أننا سنجد مصادر طاقة بديلة.",
+      "after": "بخير، |أجل، أم، الأمر صعب. |وزادته صعوبة كثرة الأشرار المعززين مؤخرا. |صرت أقدرك أكثر بكثير. |آسفة بشأن النبضة. |أمهلنا وقتا. رويد محبط قليلا، لكن |أنا واثقة من أننا سنجد مصادر طاقة بديلة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "1623CE0B05224CB1AC2F4F37839B2F86",
+      "before": "منزل مبارك يا حقير. مسكنك مزر بحق اللعنة.",
+      "after": "منزل مبارك يا حقير. مسكنك مزرٍ بحق اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "24ABD6F236D04500AABCA504E550065F",
+      "before": "أتملك مقومات إتمام معسكر السريعين الرسمي؟ انضم إلي في شاطئ تورانس لتعرف!",
+      "after": "أتملك مقومات إتمام معسكر السريعين الرسمي؟ انضم إلي على شاطئ تورانس لتعرف!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "38004CCD43A344AD877B8DF52DC89E4F",
+      "before": "ليس كذلك. غاب طوال اليوم فقط، فيبدو كأنه هنا.",
+      "after": "ليس كذلك. غاب طوال اليوم فقط، فيبدو كأنه كذلك."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "3E2C7ECA170D4314B905F0061D018E08",
+      "before": "أتطلع لليلة حقا. توقيت مثالي.",
+      "after": "أتطلع لهذه الليلة حقا. توقيت مثالي."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "5B5C572C19AA477AAC632776FB2361F3",
+      "before": "أحتاج شخصا ينتظر بالطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها، وأبي وأمي وافقا أن أتصل بـSDN.",
+      "after": "أحتاج شخصا ينتظر في الطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها، وأبي وأمي وافقا على أن أتصل بـSDN."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "17149F27E908450EAC7A610EB601763C",
+      "before": "أظنه فكر فقط في مكان شنق نفسه-- |تلك الزاوية تبدو مناسبة. |هذه هدية منزل جديد لحفلة منزلك الجديد يا روبرت. |قلت للناس أن يجلبوا مصباحا أو شيئا.  ",
+      "after": "أظنه فكر فقط في مكان شنق نفسه-- |تلك الزاوية تبدو مناسبة. |هذه هدية منزل جديد لحفلة منزلك الجديد يا روبرت. |طلبت من الناس أن يجلبوا مصباحا أو شيئا.  "
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "1BF9E57E565846E4838EB983AD0D8C47",
+      "before": "إن أرادوا تمثيل الأدوار، فهم يفعلونه خطأ. الناس أكثر من اللازم. والواقيات أقل من اللازم.",
+      "after": "إن أرادوا تمثيل الأدوار، فهم يفعلون ذلك بطريقة خاطئة. الناس أكثر من اللازم. والواقيات أقل من اللازم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "4A48BB28F3484509A737A5565B2C2427",
+      "before": "إن أردت فتح حساب، لا تستخدم حساب الشركة. أعرف شخصا. ليس قانونيا تماما، لكن عائده مغر.",
+      "after": "إن أردت فتح حساب، لا تستخدم حساب الشركة. أعرف شخصا. ليس قانونيا تماما، لكن عائده مغرٍ."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "4E2FD9885C204832A9589DBBF54851EC",
+      "before": "قد يدخلك الزواج بأحد الجحيم؟",
+      "after": "قد يؤدي الزواج من شخص إلى دخولك الجحيم؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "52F47DA684164504BE0109C565495347",
+      "before": "لا، حقا. أنا بخير. كل ما علي الجلوس خلف مكتب. ",
+      "after": "لا، حقا. أنا بخير. كل ما علي فعله هو الجلوس خلف مكتب. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "3A8CD62F040D45F992B5ACDE168FE501",
+      "before": "هل كانت التاكو لذيذة فعلا أم أن الساعة الثالثة فجرا؟",
+      "after": "هل كانت التاكو لذيذة فعلا أم بدا طعمها كذلك لأن الساعة كانت الثالثة فجرا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "5C7ABD87824F4F5BB63419277B40125A",
+      "before": "حسنا، كما ظننت، هذه السيدة مجنونة فحسب. لا أحد يسكنها. مجرد غرباء يعيشون في المجاري.",
+      "after": "حسنا، كما ظننت، هذه السيدة مجنونة فحسب. لا شبح يلاحقها. مجرد غرباء يعيشون في المجاري."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "4E884BF4626F4DC0812FC140C16EA182",
+      "before": "أحسنت اعترافك بأنك ميكا مان يا صاح.",
+      "after": "أحسنت حين اعترفت بأنك ميكا مان يا صاح."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "4B4D6B699C2A411DA7E37319EA81A8D0",
+      "before": "علم. ",
+      "after": "مفهوم. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "00349D5E0FA74452B774C066349F8B29",
+      "before": "تظن نفسها مثلك لكنها ليست كذلك. لا يحتاج روبرت |للخروج بلا قوى والمخاطرة بحياته ليعوض |عن أوغاد مثلك. |لا يحتاج أن يكون ميكا مان ليكون بطلا.",
+      "after": "تظن نفسها مثلك لكنها ليست كذلك. لا يحتاج روبرت |للخروج بلا قوى والمخاطرة بحياته ليعوض |عن أوغاد مثلك. |لا يحتاج إلى أن يكون ميكا مان ليكون بطلا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "097DF3187CDD4833B6D0BAEE5C240021",
+      "before": "بالتأكيد... وتظنين فريق Z سيميز الفرق؟",
+      "after": "بالتأكيد... وتظنين أن فريق Z سيميز الفرق؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "030F326FCEF64B47A832597FBAD6B2AD",
+      "before": "في الأسبوع الأول، كادت فيزي تترك الفريق. |كانت محبطة. |تقول إنها ولدت بقوى تحتم أن تصبح شريرة... |كأنه قدرها. |وطبعا أعطيتها كلام التشجيع. |كل هذا هراء، أنت تصنعين قدرك، وكذا وكذا-- |لا أتذكر حتى ما قلته، لكن أتذكر أنني فكرت، |«تبا... أجل، لا بد أن هذا كان صعبا.» |لو لم يكن عندي أنت وأبي، أين كنت سأنتهي؟ ",
+      "after": "في الأسبوع الأول، كادت فيزي تترك الفريق. |كانت محبطة. |تقول إنها ولدت بقوى تحتم أن تصبح شريرة... |كأنه قدرها. |وطبعا أعطيتها كلام التشجيع. |كل هذا هراء، أنت تصنعين قدرك، وكذا وكذا-- |لا أتذكر حتى ما قلته، لكن أتذكر أنني فكرت، |«تبا... أجل، لا بد أن هذا كان صعبا.» |لو لم تكونا أنت وأبي إلى جانبي، أين كنت سأنتهي؟ "
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "534335E9F633469AB70B7C2964DA77B3",
+      "before": "يحتاج فصيل النور مساعدتكم للتغلب على فصيل الظلام. ويفضل قبل إغلاق الحديقة في الثامنة.",
+      "after": "يحتاج فصيل النور إلى مساعدتكم للتغلب على فصيل الظلام. ويفضل قبل إغلاق الحديقة في الثامنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "51EC1D74969B4B8998661E6FB9DEBE35",
+      "before": "الخزنة؟ لا أعرف فتح خزنة لعينة.",
+      "after": "الخزنة؟ لا أعرف كيف أفتح خزنة لعينة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "472CDAFB22D74F708E503BDA6294A7FF",
+      "before": "ثم نقتحم أبوابا ونهشم رؤوسا ونستردها |وستنبض أو أيا كان في وقت قصير.",
+      "after": "ثم نقتحم أبوابا ونهشم رؤوسا ونستردها |وستنبض أو ما شابه في وقت قصير."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "52789A27EEDA4BA38A0604FC8E2EE42E",
+      "before": "آخ، أريد خيانة فصيل النور بشدة لعينة.",
+      "after": "آخ، أريد خيانة فصيل النور بشدة، بحق الجحيم."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "32DA38BCAFC14209A5CA22C81F362984",
+      "before": "يريد فاندرستنك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.",
+      "after": "يريد فاندرستنك تدميرها، لكن... أظن أن هناك طريقة لإعادة برمجتها."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "0163C04972C3461BAA023E69D2C65070",
+      "before": "فيزي، غطي أذنيك!",
+      "after": "فيزي، غطّي أذنيك!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "09D3A634E0694C668D7BA5BD6BCFA6D1",
+      "before": "لحظة... لحظة، لحظة. لم تدمر؟",
+      "after": "لحظة... لحظة، لحظة. ألم تُدمَّر؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "42C568DA682445E698521AF0A885188F",
+      "before": "لم توقف؟",
+      "after": "لماذا توقف؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "59A7CBB097284A5C93D647653BD56E0A",
+      "before": "لم فعلت كل هذا؟",
+      "after": "لماذا فعلت كل هذا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "26486154CBBB42F9B288A5FB7D38734A",
+      "before": "لم تحمل مصباحا؟",
+      "after": "لماذا تحمل مصباحا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "1BC058A0DF42489993B20FCEEA8F1B0E",
+      "before": "أجل، أنا مع الضخم هنا. أظنهما السببان معا.",
+      "after": "أجل، أنا مع الضخم هنا. أظنهما السببين معا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "2CFCABF0409D408AAF0F6503FE8DBF9D",
+      "before": "هل تفكر لماذا نفعل ما نفعل؟ مساعدة الناس؟",
+      "after": "هل تفكر في سبب ما نفعله؟ في سبب مساعدتنا للناس؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "3DCB1D891CC64E73B65FBF54160A7E0E",
+      "before": "ألا تخشى أن حفنة الأشرار السابقين |ينالون المتعة نفسها من العكس؟ |من إيذاء الناس؟",
+      "after": "ألا تخشى أن حفنة الأشرار السابقين |تنال المتعة نفسها من العكس؟ |من إيذاء الناس؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "5978D3F6AF544A928A6B2047BFAFC34D",
+      "before": "أتغار يا عجوز؟",
+      "after": "أتشعر بالغيرة يا عجوز؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "Line",
+      "key": "1097F05D92A24211AEF9F1A760E70F6E",
+      "before": "أأنت واثق أنه ليس فودكا؟",
+      "after": "أأنت واثق من أن هذا ليس فودكا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "LV_Shift06.Scenario_SC_00",
+      "key": "VOTranscription",
+      "before": "\"أحتاج شخصا ينتظر بالطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها تماما...\"",
+      "after": "\"أحتاج شخصا ينتظر في الطابور لهذه اللعبة الرائعة، التي بلغت سن لعبها تماما...\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "LV_Shift06.Scenario_SC_06__39",
+      "key": "VOTranscription",
+      "before": "\"يحتاج فصيل النور مساعدتكم للتغلب على فصيل الظلام.\"",
+      "after": "\"يحتاج فصيل النور إلى مساعدتكم للتغلب على فصيل الظلام.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "LV_Shift06.Scenario_SC_07_c",
+      "key": "VOTranscription",
+      "before": "\"يريد فاندرستنك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.\"",
+      "after": "\"يريد فاندرستنك تدميرها، لكن... أظن أن هناك طريقة لإعادة برمجتها.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "NodeTitle",
+      "key": "18789E6906EB4523B1F357EAD6B0A8D2",
+      "before": "بدأت أتقبلها.",
+      "after": "بدأت أتقبّلها."
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "NodeTitle",
+      "key": "4742072E0CDF44EAA0EE567334159721",
+      "before": "لم فعلت كل هذا؟",
+      "after": "لماذا فعلت كل هذا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/106/ar/106.locres",
+      "namespace": "NodeTitle",
+      "key": "26D46B37C1C8411CAA2E0DFEA0C1BED1",
+      "before": "أأنت واثق أنه سينجح؟",
+      "after": "أأنت واثق من أنه سينجح؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "",
+      "key": "621B73E345F0621DDB10579C5C77D6A0",
+      "before": "\"أغضب بون زون العصابة الخطأ واحتجزته رهينة! ... هل يمكنكم إنقاذه، رجاء؟\"",
+      "after": "\"أغضب بون زون العصابة الخاطئة واحتجزته رهينة! ... هل يمكنكم إنقاذه، رجاء؟\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "",
+      "key": "FE0D0F1E40DFC12C791FD5AB1FE9BAC2",
+      "before": "\"مرحبًا روبرت... بعد كل ما يجري، ربما عليك إرسال بعض أفراد الفريق إلى جلسات إرشاد نفسي.\"",
+      "after": "\"مرحبًا روبرت... في ظل كل ما يجري، ربما عليك إرسال بعض أفراد الفريق إلى جلسات إرشاد نفسي.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "1B94CDD5580046E48ABA8194E14A8A61",
+      "before": "هل أنت متأكد أنه محق بشأن إنفيزيغال؟",
+      "after": "هل أنت متأكد من أنه محق بشأن إنفيزيغال؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "2877D6DB9FCE4E468819A5E15B12FFD5",
+      "before": "حسنًا، سأقولها اللعنة. ماذا لو مات تشيس؟",
+      "after": "حسنًا، سأقولها، اللعنة. ماذا لو مات تشيس؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "1B569C465CF44646B0F1B8C3B36DC137",
+      "before": "عديم النفع اللعين.",
+      "after": "عديم النفع، اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "BED28EFABA68436D86C5FE685CC79AFA",
+      "before": "اللعنة. حسنًا. أحدهم قليل الصبر اللعين.",
+      "after": "اللعنة. حسنًا. أحدهم متعجل قليلًا، اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "2F74C9D36BCE406EB66EF9325CB1F080",
+      "before": "اسمعوا، الشخص الوحيد الذي تسبب بدخول تشيس إلى هنا...",
+      "after": "اسمعوا، الشخص الوحيد الذي تسبب في دخول تشيس إلى هنا..."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "009B70884B1F4C01B0640BBEBD4F8E62",
+      "before": "أتمنى أنك بخير",
+      "after": "أتمنى أن تكون بخير"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "56E00085A5964F59B7A146058322EE41",
+      "before": "أتمنى أنك بخير",
+      "after": "أتمنى أن تكون بخير"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "488F06ECA15342CBBDD23664B3F9C6A5",
+      "before": "أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم بشكل لعين. آمل أن أساعد.",
+      "after": "أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم للغاية، اللعنة. آمل أن أساعد."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "DEB76F371DD446D4B420D84E8C78DC6B",
+      "before": "أعرف أنك طفل وحزين وما شابه، لكنك سيئ بشكل لعين، حسنًا؟ |أتفهم ما أقوله؟",
+      "after": "أعرف أنك طفل وحزين وما شابه، لكنك سيئ جدًا، اللعنة، حسنًا؟ |أتفهم ما أقوله؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "5DB032B38602462D9C617C73331B1AD1",
+      "before": "أ-أليس ا-اسمي ووتر-- أعني. أجل! أجل.",
+      "after": "ه-هل ا-اسمي ووتر-- أعني. إنه، أجل! أجل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "4A94A0BD347045419AD5230BB8CFC4BF",
+      "before": "ليس هذا، بل الأمر... كثير. كثير بشكل لعين.",
+      "after": "ليس هذا، بل الأمر... كثير. كثير جدًا، اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "4B3BFFC730634356B9523199E319709C",
+      "before": "لا أقول إنه عليك فعل ذلك. بل أن تفكر فيه. |القرار لك بالكامل.",
+      "after": "لا أقول إن عليك فعل ذلك. بل أقول إن عليك التفكير فيه. |القرار لك بالكامل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "40A8A0F63AC946A19527C443A99DF926",
+      "before": "لا شيء حتى الآن. لكن... أنا متأكد أننا سنسمع خبرًا قريبًا.",
+      "after": "لا شيء حتى الآن. لكن... أنا متأكد من أننا سنسمع خبرًا قريبًا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "EB275E3B01224DF39A9A95C1DF1841E1",
+      "before": "حسنًا، لا أفهم الآن عما يتحدث. |يا نمش، هل تخبرينني ماذا يحـ--",
+      "after": "حسنًا، لا أفهم الآن ما الذي يتحدث عنه. |يا نمش، هل تخبرينني ماذا يحـ--"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "3FB80185EC1647FD958F6BBCE7A6C6BE",
+      "before": "حسنًا، لدينا هنا صاحب قوى يتحكم بالحشرات. يبدو أنه ناقم على أحد مزارعينا لاستخدامه المبيدات. الوضع هنا أشبه بالطوفان والجراد.",
+      "after": "حسنًا، لدينا هنا صاحبة قوى تتحكم بالحشرات. يبدو أنها ناقمة على أحد مزارعينا لاستخدامه المبيدات. الوضع هنا أشبه بالطوفان والجراد."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "5525E65FBCA942DAA3931A95027A2FDD",
+      "before": "حسنًا، سنغادر. |خذ سروالك المبلل بالبول واخرج من الخلف، رجاء. |لا نريد إغراء هذا النمر.",
+      "after": "حسنًا، سنغادر. |خذ سروالك المبلل بالبول واخرج من الخلف، رجاء. |لا نريد استفزاز هذا النمر."
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "3D3E4DCD160443E59D4EE17364C6BC7F",
+      "before": "وصل خبر للصحافة أن بطلًا من SDN أُصيب الليلة الماضية ",
+      "after": "وصل إلى الصحافة خبر أن بطلًا من SDN أُصيب الليلة الماضية "
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "25ACAED5F9884C19AE20FFA1F4DFC4AF",
+      "before": "صحيح، إنه باب، وأشك أنك كنت في وجهه فعلًا--",
+      "after": "صحيح، إنه باب، وأشك في أنك كنت في وجهه فعلًا--"
+    },
+    {
+      "file": "Dispatch/Content/Localization/107/ar/107.locres",
+      "namespace": "Line",
+      "key": "2AB9E0EEA6E44F7886B4E752594817C7",
+      "before": "أنت أوترتهم.",
+      "after": "أنت جعلتهم يتوترون."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "",
+      "key": "CB5A5F2742795ACF8B1D30A96A060F82",
+      "before": "\"لدينا خطة، لكننا نحتاج تعزيزات! يمكننا قلب الموازين فعلًا!\"",
+      "after": "\"لدينا خطة، لكننا نحتاج إلى تعزيزات! يمكننا قلب الموازين فعلًا!\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "54FF172AB90C4C9C8894E40538AD3FAF",
+      "before": "حسنًا. فهمنا. |أول عادة نكسرها قد تكون محاولتك قول كلام ملهم، أو محاولتك ذلك على الأقل.",
+      "after": "حسنًا. فهمنا. |أول عادة نكسرها قد تكون قولك كلامًا ملهمًا، أو محاولتك ذلك على الأقل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "5C12FD32792D47979FBD92E1AD422851",
+      "before": "هل نحن متأكدون أننا نريد إنقاذ ووتربوي؟ لا، أمازحك اللعنة.",
+      "after": "هل نحن متأكدون أننا نريد إنقاذ ووتربوي؟ لا، أمازحك، اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "58A1C103B42A4D2C90CF5714B9FDE9BE",
+      "before": "بيفكيك طيب القلب فعلًا.",
+      "after": "بيفكيك طيبة القلب فعلًا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "BFFC7CFC31C84419AF9AEF9A6BD78351",
+      "before": "تعاونا.",
+      "after": "تعاونّا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "079F29F097264E7D8CF4FFB853DC305E",
+      "before": "هيا يا كوب. نحتاج أن تتماسكي قليلًا بعد.",
+      "after": "هيا يا كوب. نحتاج أن تتماسكي لفترة أطول قليلًا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "3B8C4239A2BC4E67BF41A597716BF7F8",
+      "before": "تمن لنا الحظ.",
+      "after": "تمنَّ لنا الحظ."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "448DE1EB300F44CBBD5DFA8D51C07DCA",
+      "before": "عرفت دائمًا أنني قادرة على ضربه... لكنني لم أتوقع أن أُضطر لذلك فعلًا.",
+      "after": "عرفت دائمًا أنني قادرة على ضربه... لكنني لم أتوقع أن أُضطر إلى ذلك فعلًا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "4ABB56D842704862B37D9F1D97A70858",
+      "before": "آمل أن إنقاذك من الاصطدام كان مناسبًا؟",
+      "after": "آمل أن يكون إنقاذي لك من الاصطدام مناسبًا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "2973071A253049D99E3E75A258845D0A",
+      "before": "آمل أنها تحب القهوة حارقة.",
+      "after": "آمل أن تحب القهوة حارقة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "00BAD4CB56C3404EB3F8057872ACD5EF",
+      "before": "آمل أن تشجيعي الدائم لك يعوض أي شك انتابني فيك.",
+      "after": "آمل أن يعوض تشجيعي الدائم لك عن أي شك انتابني فيك."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "3157773F36CD4CC6B6422A38D09EDFF2",
+      "before": "أحتاج... تعزيزات... الآن.",
+      "after": "أحتاج... إلى تعزيزات... الآن."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "0278DFAB6FA243DD9C05572EF5ED0D4E",
+      "before": "ما كنت لأراهن أن هذا الفريق سينقذ SDN |لكن ها نحن ذا.",
+      "after": "ما كنت لأراهن على أن هذا الفريق سينقذ SDN |لكن ها نحن ذا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "565259BA80034F9FB2F08B03DD0E61AD",
+      "before": "أنا متأكدة أن هذا لن يؤرقني.",
+      "after": "أنا متأكدة من أن هذا لن يؤرقني."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "16C5441C59084E668885BF354A862984",
+      "before": "هيا بنا اللعنة.",
+      "after": "هيا بنا، اللعنة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "3567A4304C804E0499C359BA4E876EF2",
+      "before": "لا، لا. بليزر، هيا، عليك البقاء. |أنت من يصغي إليه الجميع. ",
+      "after": "لا، لا. بليزر، هيا، عليك البقاء. |أنت من يصغي إليها الجميع. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "17DA142D93894EF385F01A36B6023A04",
+      "before": "ليس فينومامان مذهلًا جدًا إذًا، أليس كذلك؟ لا، أمازحك اللعنة. سأتولى الأمر.",
+      "after": "ليس فينومامان مذهلًا جدًا إذًا، أليس كذلك؟ لا، أمازحك، اللعنة. سأتولى الأمر."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "4401C3B49F9C45D8AABE32ACCD3BB36F",
+      "before": "ليس هذه المرأة اللعينة مجددًا.",
+      "after": "ليست هذه المرأة اللعينة مجددًا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "4ADBB45FCEB0493FB1F10575455EAC78",
+      "before": "هناك كحول كثير في غرفة الاستراحة. من هناك أحضروه. |بصراحة، أنا مصدومة أنه لم يتحول إلى مشكلة.",
+      "after": "هناك كحول كثير في غرفة الاستراحة. من هناك أحضروه. |بصراحة، أنا مصدومة من أنه لم يتحول إلى مشكلة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "3D319A60A3344272A90862F407C0DA95",
+      "before": "ر-روبرت، آه، ماذا لو أ-أظن أنني لا أستطيع فعل هذا.",
+      "after": "ر-روبرت، آه، ماذا لو كنت أ-أظن أنني لا أستطيع فعل هذا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "1D20EAE8D9254B2685F87789C0DF15DF",
+      "before": "أشعر فعلًا أنه المفترض به إنقاذنا.",
+      "after": "أشعر فعلًا أنه من المفترض أن ينقذنا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "0DB11EAE603C451799B2C82BD9C4A08B",
+      "before": "روبرت، هل هناك أحد من فريق Z قريبًا؟ أحتاج إلى مساعدة في الإخلاء!",
+      "after": "روبرت، هل هناك أحد من فريق Z في الجوار؟ أحتاج إلى مساعدة في الإخلاء!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "56383F8ECF9341CB84D3A4D9B9AFFC22",
+      "before": "متأكد أنك لا تريد ذلك الرذاذ؟",
+      "after": "متأكد من أنك لا تريد ذلك الرذاذ؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "007F4C40D3FE4FB384150A82B7350BCD",
+      "before": "هذا يبدو... لا يستحق العناء. ",
+      "after": "يبدو أن هذا... لا يستحق العناء. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "57FAF795AA9D4C0FA7DF17466C137F0E",
+      "before": "هذا ليس... أعني. أنا لا أفعل-- ماذا لو سكب أحدهم-- |أو أخطأت، قد أفسد الآخرين. ",
+      "after": "هذا ليس... أعني. أنا لا أفعل-- ماذا لو سكب أحدهم-- |أو أخطأت، فقد أفسد الأمور على الآخرين. "
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "181667BA398C411E98C52B9CA9EA465F",
+      "before": "تغلبت علي الحلقة الحمراء. أحتاج إلى مساعدة فورية.",
+      "after": "تغلبت عليّ الحلقة الحمراء. أحتاج إلى مساعدة فورية."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "3E7427DE2827479F8517260A1FBE3680",
+      "before": "أضعف القتال عند الحاجز الجسر! يبدو أن علينا إسناده بأنفسنا.",
+      "after": "القتال عند الحاجز أضعف الجسر! يبدو أن علينا إسناده بأنفسنا."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "1229D6089D7245C5B215E17844035551",
+      "before": "فُعل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل.",
+      "after": "فُعّل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "1AEC50DEAE7A45479CEAC5959242CE4B",
+      "before": "أتستطيع القتال قليلًا بعد؟",
+      "after": "أتستطيع مواصلة القتال مدة أطول قليلًا؟"
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "2BA84339B64049FAAD2EC3A3ACBE4448",
+      "before": "هذا أسلوب شراود. |يعرف إجراءاتنا، لذا يتنبأ بخطواتنا. |علينا تغيير أسلوبنا والتصرف بطريقة أقل توقعًا.",
+      "after": "هذا أسلوب شراود. |يعرف إجراءاتنا، لذا يتنبأ بخطواتنا. |علينا تغيير أسلوبنا والتصرف بطريقة يصعب توقعها."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "4C8FE77D8B8F4ECFB4FC294BDB7C9061",
+      "before": "لدينا خطة، لكننا نحتاج تعزيزات! يمكننا قلب الموازين فعلًا!",
+      "after": "لدينا خطة، لكننا نحتاج إلى تعزيزات! يمكننا قلب الموازين فعلًا!"
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "31236EC36FC64B48820656EC77A38078",
+      "before": "اختلفنا من قبل، لكنني آمل أنه بخير.",
+      "after": "اختلفنا من قبل، لكنني آمل أن يكون بخير."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "25EBEF15F4CD42C48EDA0961986C8052",
+      "before": "عما تتحدث؟ ",
+      "after": "عمّ تتحدث؟ "
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "5F7DB7837FDE48B6B55C8ADBFE0E70F0",
+      "before": "ماذا تقصد بأهذه النهاية؟ يا حقير، أتعرف كم الساعة؟ ",
+      "after": "ماذا تقصد بقولك «أهذه النهاية؟» يا حقير، أتعرف كم الساعة؟ "
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "Line",
+      "key": "461777E7015E47A49D06DE2D91F34A75",
+      "before": "ليست لديك قوى. تحتاج مساعدتي. فقط دعني أساعدك. أرجوك.",
+      "after": "ليست لديك قوى. تحتاج إلى مساعدتي. فقط دعني أساعدك. أرجوك."
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "LV_Shift08a.Scenario_SC_02d",
+      "key": "VOTranscription",
+      "before": "\"أحتاج... تعزيزات... الآن.\"",
+      "after": "\"أحتاج... إلى تعزيزات... الآن.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "LV_Shift08b.Scenario_SC_10b",
+      "key": "VOTranscription",
+      "before": "\"أضعف القتال عند الحاجز الجسر! علينا إسناده بأنفسنا.\"",
+      "after": "\"القتال عند الحاجز أضعف الجسر! علينا إسناده بأنفسنا.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "LV_Shift08b.Scenario_SC_21",
+      "key": "VOTranscription",
+      "before": "\"روبرت، هل هناك أحد من فريق Z قريبًا؟ أحتاج إلى مساعدة في الإخلاء!\"",
+      "after": "\"روبرت، هل هناك أحد من فريق Z في الجوار؟ أحتاج إلى مساعدة في الإخلاء!\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "LV_Shift08b.Scenario_SC_23_School",
+      "key": "VOTranscription",
+      "before": "\"فُعل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل.\"",
+      "after": "\"فُعّل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "LV_Shift08c.Scenario_SC_24",
+      "key": "VOTranscription",
+      "before": "\"تغلبت علي الحلقة الحمراء. أحتاج إلى مساعدة فورية.\"",
+      "after": "\"تغلبت عليّ الحلقة الحمراء. أحتاج إلى مساعدة فورية.\""
+    },
+    {
+      "file": "Dispatch/Content/Localization/108/ar/108.locres",
+      "namespace": "NodeTitle",
+      "key": "3047A4E2C602449DAE7DC768627DB847",
+      "before": "تولي قيادة الحلقة الحمراء.",
+      "after": "تولَّ قيادة الحلقة الحمراء"
+    },
+    {
+      "file": "Dispatch/Content/Localization/Shared/ar/Shared.locres",
+      "namespace": "Line",
+      "key": "085B472C333D4258ABD04BB1D3038864",
+      "before": "عرفت كوب وبانش أب بعضهما قبل فريق Z. يقول البعض إنهما أقاما علاقة حميمة.",
+      "after": "كوب وبانش أب كانا يعرفان بعضهما قبل فريق Z. يقول البعض إنهما أقاما علاقة حميمة."
+    },
+    {
+      "file": "Dispatch/Content/Localization/Shared/ar/Shared.locres",
+      "namespace": "Line",
+      "key": "42AC6A7802504E0A82A94CBF73DCFF69",
+      "before": "كل ترقية رتبة تمنحك نقاط مهارة. استخدمها لزيادة الإحصاءات.",
+      "after": "كل ترقية في الرتبة تمنحك نقاط مهارة. استخدمها لزيادة الإحصاءات."
+    }
+  ]
+}

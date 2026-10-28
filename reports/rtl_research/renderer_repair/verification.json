@@ -1,0 +1,50 @@
+{
+  "result": "PASS",
+  "deterministic_artifacts": 10,
+  "artifact_sha256": {
+    "comparison.json": "e80101e40736722798e5c25e1dd2c677a436d53427547b542836c0a2c8ba21c4",
+    "lam_alef_marks.png": "9c27306b404a401355db1e7b69b46b825f0a47be9f975dc94e279c9c09d8724b",
+    "lam_alef_marks.svg": "027bf26265e8b4edeca0cddc42ffe119b4e91ff72f5e225e319808eb8de12acb",
+    "latin_digits.png": "8a8a8888e6ef99bea996d4d4a724a4aee023018abe67300b3f9f6decff893e20",
+    "latin_digits.svg": "bd5609a1b8c285ca4bd11d2579fdcc6d85459210c30c0348dd899a92d79e0f6c",
+    "long_wrap.png": "b2dcdfbac46c51a22b1a99a03001b4184b04bffd9ed4595dbf36edafa94434f2",
+    "long_wrap.svg": "2364034e15dc0227d6a5111db08d81e95980ab0129a42a5774e20a311fddcf3d",
+    "punctuation.png": "5219a139691f6080ad9f94fa88f71c743d8b1671fb415874554af203248cce0f",
+    "punctuation.svg": "e0442055330d8ebf3684b7e3d42eea31ca5877000ba8aa33dfca0ff25b5fc85e",
+    "validation.json": "6da94c6af554392a0e217229c0d8a1a9f2622b4291ddc77bed979806d3b83c3a"
+  },
+  "prior_game_integrity_reused": true,
+  "game_hashes_recomputed_this_round": false,
+  "source_inputs_sha256": {
+    "tools/rtl_reveal/reveal.py": "0ce5b07b2e92ce7b842ddb2864062ea225480d2befd417ecb028abc1f9f37a94",
+    "tools/rtl_reveal/word_timing.py": "0b0661d12b85acad8c572b5fabe837e60b8fcfb0052bcf3174ee9a3e0ba9818d",
+    "tools/rtl_reveal/test_word_timing.py": "ff0edc6a500ccd6100afaa9db532f9bab103f461633e5b6e79c14664467e6488",
+    "reports/rtl_research/word_reveal_model.json": "3e2e19f9a129cebdae971cf59388fc3e6ce37921fa0a50ee1cb9bbfed34c8fe8",
+    "reports/rtl_research/WBP_SubtitleBlock.json": "e133662635c1e40b51f30a04b302eb375e5e1f59d9015be00dcb07dddba1730d",
+    "reports/rtl_research/WBP_SubtitlesWidget.json": "37d8bbb7b9d39d46bb3bd372b82c753475b6ba5a126efec659f441de5bd0d6de"
+  },
+  "authoritative_evidence_sha256": {
+    "C:\\Users\\USER\\OneDrive\\Desktop\\lastnews\\report_002.md": "1b714c442a6d22df50d8c92f09053fa39b42039dd21e5f757a00d7a8f6e37ef8",
+    "reports\\rtl_research\\proto_binary\\paint_model.md": "8e5a3697a145e60af5f32e12a1cdd69a2c6e82fb4f1286f38463ec6c2929401c",
+    "reports\\rtl_research\\proto_binary\\zero_interval.md": "9a13ceacb6d82809be5f157add02bee51f5ac2a2a7b20b090a3aaf0e912beab1",
+    "reports\\rtl_research\\proto_binary\\functions.json": "ba566d75b61435bb887d3315ff14af6f92fa4e89e8ee35c7ad70b47f3c361e14",
+    "reports\\rtl_research\\proto_binary\\results.json": "043137f96858c942728f4b788327a12894d2478668bc5c99ca79714837fed830",
+    "reports\\rtl_research\\proto_binary\\excerpts.md": "9f4fc9653e07b452570e0681bdca4f4d798b8548bd218093aa50f11c2dae532d"
+  },
+  "round_002_evidence_unchanged": true,
+  "distribution_unchanged": true,
+  "report_sections_verified": 16,
+  "report_path": "C:\\Users\\USER\\OneDrive\\Desktop\\lastnews\\report_003.md",
+  "supervisor_copy_byte_identical": true,
+  "final_aes_scan_files": 26,
+  "final_aes_hits": 0,
+  "prototype_source_sha256": {
+    "tools\\rtl_renderer_prototype\\build.py": "183368a8c4ff54812cd39ebba3b9054ac2ec33671e994fb0a8f62a631d645ec9",
+    "tools\\rtl_renderer_prototype\\inspect_assets.py": "b5cd5feb0cffedc1225ebde61956e3afa99e61659cd78f444391c5242ad925ec",
+    "tools\\rtl_renderer_prototype\\renderer.py": "52037135d215656b343d8e4091bb9bd8cd8b871b4a25a526497ae0e5c77fec5b"
+  },
+  "visually_inspected_synthetic_pngs": [
+    "latin_digits.png",
+    "long_wrap.png"
+  ]
+}

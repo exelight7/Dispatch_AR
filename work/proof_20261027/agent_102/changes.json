@@ -1,0 +1,209 @@
+[
+  {
+    "target": "102",
+    "index": 480,
+    "id": "102:Line:5D73BE0265FC4765ADCA234646CE3424",
+    "en": "Don't call me baby... but thanks dude.",
+    "before": "لا تنادني عزيزي... لكن شكرا يا رجل.",
+    "after": "لا تنادني عزيزتي... لكن شكرا يا رجل.",
+    "reason": "تصحيح مخاطبة المتحدثة لنفسها بصيغة المؤنث."
+  },
+  {
+    "target": "102",
+    "index": 626,
+    "id": "102:Line:2BC00C9B2F32462E9C8C7AE37A0606BD",
+    "en": "Great fuckin’ advice, Lieutenant Dan.",
+    "before": "نصيحة رائعة لعنة الله يا ملازم دان.",
+    "after": "نصيحة رائعة، اللعنة، يا ملازم دان.",
+    "reason": "تصحيح تركيب الاعتراض وعلامات الترقيم."
+  },
+  {
+    "target": "102",
+    "index": 641,
+    "id": "102:Line:52CEAAA0A26D47FBAED0A239F6470E96",
+    "en": "He said I got arrested for tax evasion. I wish!",
+    "before": "قال إنني اعتقلت بتهمة التهرب الضريبي. ليت ذلك صحيح!",
+    "after": "قال إنني اعتقلت بتهمة التهرب الضريبي. ليت ذلك صحيحا!",
+    "reason": "تصحيح نصب خبر ليت."
+  },
+  {
+    "target": "102",
+    "index": 684,
+    "id": "102:Line:9322068417B7469DA9B57D1526798775",
+    "en": "Hey, come on. You gotta stop asking people that.",
+    "before": "هيا. عليك التوقف عن سؤال الناس ذلك.",
+    "after": "هيا. عليك التوقف عن طرح هذا السؤال على الناس.",
+    "reason": "تصحيح تركيب التعبير عن توجيه السؤال للناس."
+  },
+  {
+    "target": "102",
+    "index": 798,
+    "id": "102:Line:4F6A55A9BE96456DA9AE3C3E5877F866",
+    "en": "I got nothing left in me.",
+    "before": "لم يبق في طاقة.",
+    "after": "لم تبق لدي طاقة.",
+    "reason": "تصحيح إسناد فعل البقاء إلى طاقة والتعبير عن وجودها."
+  },
+  {
+    "target": "102",
+    "index": 826,
+    "id": "102:Line:57D68A7AB88A4A19B8F5265FCFCBD64A",
+    "en": "I mean... scaring children, obviously my favorite part of the job.",
+    "before": "أعني... إخافة الأطفال، أحب جزء في العمل لي بوضوح.",
+    "after": "أعني... إخافة الأطفال، هذا الجزء المفضل لدي من العمل طبعا.",
+    "reason": "تصحيح تركيب الجملة العربية."
+  },
+  {
+    "target": "102",
+    "index": 921,
+    "id": "102:Line:58E37494E01C4E15ADC33A244A16852C",
+    "en": "I'm so fucking talented even I impress me.",
+    "before": "أنا موهوب لدرجة أنني أبهر نفسي، اللعنة.",
+    "after": "أنا موهوبة لدرجة أنني أبهر نفسي، اللعنة.",
+    "reason": "تصحيح مطابقة الصفة لجنس المتحدثة بريزم."
+  },
+  {
+    "target": "102",
+    "index": 939,
+    "id": "102:Line:5E86C589A28E40F688C56D2FC74BDD84",
+    "en": "I'm willing to give people the benefit of the doubt. Her biggest problem now is she's the absolute bottom of the leaderboards.",
+    "before": "أمنح الناس حسن الظن. مشكلتها الكبرى الآن أنها في قاع الترتيب تماما.",
+    "after": "أحسن الظن بالناس. مشكلتها الكبرى الآن أنها في قاع الترتيب تماما.",
+    "reason": "تصحيح تركيب حسن الظن."
+  },
+  {
+    "target": "102",
+    "index": 1014,
+    "id": "102:Line:0DB3F4D1FDC2410C83BB6424751F537C",
+    "en": "I’m fine... but this guy... less fine.",
+    "before": "أنا بخير... لكن هذا الرجل... أقل بخير.",
+    "after": "أنا بخير... لكن هذا الرجل... حالته أسوأ.",
+    "reason": "تصحيح صياغة المقارنة التي لا تستقيم في التعبير أقل بخير."
+  },
+  {
+    "target": "102",
+    "index": 1094,
+    "id": "102:Line:4107FA54743B492AB6782E562FC7CE3F",
+    "en": "Man, he was RIGHT there. If only I could get a convo with him...",
+    "before": "يا رجل، كان هنا تماما. لو أستطيع التحدث إليه فقط...",
+    "after": "يا رجل، كان هنا تماما. ليتني أستطيع التحدث إليه...",
+    "reason": "تصحيح تركيب التمني."
+  },
+  {
+    "target": "102",
+    "index": 1229,
+    "id": "102:Line:4DB1683C662A48DDB95ECF00A6BA5A50",
+    "en": "Oh shit, that gym went out of business. They had the best towels.",
+    "before": "تبا، ذلك النادي أغلق. كانت لديهم أفضل مناشف.",
+    "after": "تبا، ذلك النادي أغلق. كانت لديهم أفضل المناشف.",
+    "reason": "إكمال التعريف في تركيب التفضيل."
+  },
+  {
+    "target": "102",
+    "index": 1253,
+    "id": "102:Line:2794751BD9854353A903B883165EFFD2",
+    "en": "Oh, this? I'm just warming up.",
+    "before": "آه، هذا؟ أنا أحمى فقط.",
+    "after": "آه، هذا؟ أنا أحمّي نفسي فقط.",
+    "reason": "تصحيح فعل الإحماء وتوضيح الصيغة المقصودة."
+  },
+  {
+    "target": "102",
+    "index": 1353,
+    "id": "102:Line:5E78A5B8C6F24E94AA593E24FDCBD1C4",
+    "en": "Pop rocks but more spicy. Kinda like a spicy pop rock.",
+    "before": "حلوى فرقاعية لكن أحرق. كحلوى فرقاعية حارة.",
+    "after": "حلوى فرقاعية لكنها أكثر حرارة. كحلوى فرقاعية حارة.",
+    "reason": "تصحيح تركيب المقارنة في وصف الحلوى."
+  },
+  {
+    "target": "102",
+    "index": 1356,
+    "id": "102:Line:5A88D70260584C55B19E6C4A21BF9892",
+    "en": "Prism. Michigan born and raised. Her power is weird. She weaponizes light rays or some shit. A lot of this stuff is a guess.",
+    "before": "بريزم. ولدت ونشأت في ميشيغان. قوتها غريبة. تسلح أشعة الضوء أو شيء كهذا. كثير من هذه الأمور تخمين.",
+    "after": "بريزم. ولدت ونشأت في ميشيغان. قوتها غريبة. تستخدم أشعة الضوء كسلاح أو شيء كهذا. كثير من هذه الأمور تخمين.",
+    "reason": "تصحيح تركيب وصف استخدامها لأشعة الضوء كسلاح."
+  },
+  {
+    "target": "102",
+    "index": 1410,
+    "id": "102:Line:A009261447FD4258867B384E73962C7C",
+    "en": "She’s my least favorite... The worst of the lot. ",
+    "before": "إنها الأقل إعجابا لي... أسوأهم جميعا. ",
+    "after": "إنها الأقل تفضيلا لدي... أسوأهم جميعا. ",
+    "reason": "تصحيح صياغة التفضيل مع الحفاظ على الوقفة النهائية."
+  },
+  {
+    "target": "102",
+    "index": 1450,
+    "id": "102:Line:3F7CA3FD3CE84B7A97343B1CEDD3B4F2",
+    "en": "Smells like bacon a little. It’s gross but it's also kinda not bad.",
+    "before": "رائحته كلحم مقدد قليلا. مقرف لكنه ليس سيئا تماما.",
+    "after": "رائحته تشبه رائحة اللحم المقدد قليلا. مقرف لكنه ليس سيئا تماما.",
+    "reason": "تصحيح تركيب تشبيه الرائحة."
+  },
+  {
+    "target": "102",
+    "index": 1588,
+    "id": "102:Line:9A9E49A7AE9144AE9D06DF32A18BA84A",
+    "en": "The suit isn’t what made me a superhero. |It was how I did my fuckin' job that made me Mecha Man.",
+    "before": "البدلة ليست ما جعلني بطلا خارقا. |طريقتي في أداء عملي اللعين هي ما جعلتني ميكا مان.",
+    "after": "البدلة ليست ما جعلني بطلا خارقا. |طريقتي في أداء عملي اللعين هي ما جعلني ميكا مان.",
+    "reason": "تصحيح إسناد الفعل إلى الاسم الموصول ما."
+  },
+  {
+    "target": "102",
+    "index": 1590,
+    "id": "102:Line:2F0AA4893A444650BEDF27E0EEDDAEA0",
+    "en": "The vibes were off on that one. I can do better.",
+    "before": "لم يكن الجو مناسبا في تلك. أستطيع أفضل.",
+    "after": "لم يكن الجو مناسبا في تلك. أستطيع تقديم أداء أفضل.",
+    "reason": "إكمال الفعل الناقص في جملة المقارنة."
+  },
+  {
+    "target": "102",
+    "index": 1694,
+    "id": "102:Line:4F46CAEF1EB6493EA8929E7C2AFBB81E",
+    "en": "Uh, yeah, nice try dude, but I'm not going anywhere... except Granny's.",
+    "before": "أجل، محاولة لطيفة يا رجل، لكنني لن أذهب إلى مكان... سوى غراني.",
+    "after": "أجل، محاولة لطيفة يا رجل، لكنني لن أذهب إلى مكان... سوى منزل غراني.",
+    "reason": "إكمال اسم المكان بعد الاستثناء."
+  },
+  {
+    "target": "102",
+    "index": 1746,
+    "id": "102:Line:9C388C91305542A8A6ECC74695066D62",
+    "en": "Well, this might be the fastest HR violation of a new employee in history.",
+    "before": "قد يكون هذا أسرع انتهاك للموارد البشرية من موظف جديد في التاريخ.",
+    "after": "قد يكون هذا أسرع انتهاك لسياسات الموارد البشرية يرتكبه موظف جديد في التاريخ.",
+    "reason": "تصحيح تركيب الانتهاك وتحديد سياسات الموارد البشرية."
+  },
+  {
+    "target": "102",
+    "index": 1830,
+    "id": "102:Line:350EC9B1981D4510B908CE152F068EA7",
+    "en": "Who can do better than me?",
+    "before": "من يستطيع أفضل مني؟",
+    "after": "من يستطيع تقديم أداء أفضل مني؟",
+    "reason": "إكمال تركيب المقارنة."
+  },
+  {
+    "target": "102",
+    "index": 1870,
+    "id": "102:Line:2551164777BA418196456652876F298F",
+    "en": "Yeah, I mean, I don't know what you're talking about. I'm on break, so how could I know?",
+    "before": "أجل، أعني، لا أعرف عما تتحدث. أنا في استراحة، فكيف أعرف؟",
+    "after": "أجل، أعني، لا أعرف عم تتحدث. أنا في استراحة، فكيف أعرف؟",
+    "reason": "حذف ألف ما الاستفهامية بعد حرف الجر عن."
+  },
+  {
+    "target": "102",
+    "index": 1977,
+    "id": "102:Line:4D0C256D0FDB4653BD77F2D978F85BD7",
+    "en": "You love big long cream filled dick donuts. I got it, dude. |You like your dick donuts up in your throat in your ass or both?",
+    "before": "تحب دونات القضيب الطويلة الكبيرة المحشوة بالقشدة. فهمت يا رجل. |أتحب دونات القضيب في حلقك أم في مؤخرتك أم كليهما؟",
+    "after": "تحب دونات القضيب الطويلة الكبيرة المحشوة بالقشدة. فهمت يا رجل. |أتحب دونات القضيب في حلقك أم في مؤخرتك أم في كليهما؟",
+    "reason": "إعادة حرف الجر قبل المعطوف لتستقيم المقارنة."
+  }
+]

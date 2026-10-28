@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "EngineRuntime:InputKeys:Acceleration",
+    "target": "EngineRuntime",
+    "index": 52,
+    "en": "Acceleration",
+    "before": "التسارع",
+    "after": "Acceleration",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Ampersand",
+    "target": "EngineRuntime",
+    "index": 53,
+    "en": "Ampersand",
+    "before": "علامة العطف",
+    "after": "Ampersand",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Android_Back",
+    "target": "EngineRuntime",
+    "index": 55,
+    "en": "Android Back",
+    "before": "Android رجوع",
+    "after": "Android Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Android_Menu",
+    "target": "EngineRuntime",
+    "index": 56,
+    "en": "Android Menu",
+    "before": "Android القائمة",
+    "after": "Android Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Android_Volume_Down",
+    "target": "EngineRuntime",
+    "index": 57,
+    "en": "Android Volume Down",
+    "before": "Android خفض الصوت",
+    "after": "Android Volume Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Android_Volume_Up",
+    "target": "EngineRuntime",
+    "index": 58,
+    "en": "Android Volume Up",
+    "before": "Android رفع الصوت",
+    "after": "Android Volume Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:AnyKey",
+    "target": "EngineRuntime",
+    "index": 59,
+    "en": "Any Key",
+    "before": "أي مفتاح",
+    "after": "Any Key",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Apostrophe",
+    "target": "EngineRuntime",
+    "index": 60,
+    "en": "Apostrophe",
+    "before": "فاصلة عليا",
+    "after": "Apostrophe",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Asterix",
+    "target": "EngineRuntime",
+    "index": 61,
+    "en": "Asterisk",
+    "before": "نجمة",
+    "after": "Asterisk",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Backslash",
+    "target": "EngineRuntime",
+    "index": 62,
+    "en": "Backslash",
+    "before": "شرطة مائلة عكسية",
+    "after": "Backslash",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Caret",
+    "target": "EngineRuntime",
+    "index": 66,
+    "en": "Caret",
+    "before": "علامة الإقحام",
+    "after": "Caret",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Colon",
+    "target": "EngineRuntime",
+    "index": 67,
+    "en": "Colon",
+    "before": "نقطتان رأسيتان",
+    "after": "Colon",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Comma",
+    "target": "EngineRuntime",
+    "index": 68,
+    "en": "Comma",
+    "before": "فاصلة",
+    "after": "Comma",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Left_Select_Click",
+    "target": "EngineRuntime",
+    "index": 69,
+    "en": "Daydream (L) Select",
+    "before": "Daydream (يسار) تحديد",
+    "after": "Daydream (L) Select",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Left_Trackpad_Click",
+    "target": "EngineRuntime",
+    "index": 70,
+    "en": "Daydream (L) Trackpad",
+    "before": "Daydream (يسار) لوحة اللمس",
+    "after": "Daydream (L) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Left_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 71,
+    "en": "Daydream (L) Trackpad Touch",
+    "before": "Daydream (يسار) لمس اللوحة",
+    "after": "Daydream (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Left_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 72,
+    "en": "Daydream (L) Trackpad X",
+    "before": "Daydream (يسار) لوحة اللمس X",
+    "after": "Daydream (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Left_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 73,
+    "en": "Daydream (L) Trackpad Y",
+    "before": "Daydream (يسار) لوحة اللمس Y",
+    "after": "Daydream (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Right_Select_Click",
+    "target": "EngineRuntime",
+    "index": 74,
+    "en": "Daydream (R) Select",
+    "before": "Daydream (يمين) تحديد",
+    "after": "Daydream (R) Select",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Right_Trackpad_Click",
+    "target": "EngineRuntime",
+    "index": 75,
+    "en": "Daydream (R) Trackpad",
+    "before": "Daydream (يمين) لوحة اللمس",
+    "after": "Daydream (R) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Right_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 76,
+    "en": "Daydream (R) Trackpad Touch",
+    "before": "Daydream (يمين) لمس اللوحة",
+    "after": "Daydream (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Right_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 77,
+    "en": "Daydream (R) Trackpad X",
+    "before": "Daydream (يمين) لوحة اللمس X",
+    "after": "Daydream (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Daydream_Right_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 78,
+    "en": "Daydream (R) Trackpad Y",
+    "before": "Daydream (يمين) لوحة اللمس Y",
+    "after": "Daydream (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Dollar",
+    "target": "EngineRuntime",
+    "index": 81,
+    "en": "Dollar",
+    "before": "دولار",
+    "after": "Dollar",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Down",
+    "target": "EngineRuntime",
+    "index": 82,
+    "en": "Down",
+    "before": "أسفل",
+    "after": "Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Equals",
+    "target": "EngineRuntime",
+    "index": 85,
+    "en": "Equals",
+    "before": "يساوي",
+    "after": "Equals",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Exclamation",
+    "target": "EngineRuntime",
+    "index": 88,
+    "en": "Exclamation",
+    "before": "علامة تعجب",
+    "after": "Exclamation",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gesture_Flick",
+    "target": "EngineRuntime",
+    "index": 101,
+    "en": "Flick",
+    "before": "نفضة",
+    "after": "Flick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:GamepadSubCategory",
+    "target": "EngineRuntime",
+    "index": 103,
+    "en": "Gamepad",
+    "before": "يد التحكم",
+    "after": "Gamepad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Bottom",
+    "target": "EngineRuntime",
+    "index": 104,
+    "en": "Gamepad A",
+    "before": "يد التحكم A",
+    "after": "Gamepad A",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Right",
+    "target": "EngineRuntime",
+    "index": 105,
+    "en": "Gamepad B",
+    "before": "يد التحكم B",
+    "after": "Gamepad B",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:XBoxOne_Gamepad_Special_Left",
+    "target": "EngineRuntime",
+    "index": 106,
+    "en": "Gamepad Back",
+    "before": "يد التحكم رجوع",
+    "after": "Gamepad Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Right",
+    "target": "EngineRuntime",
+    "index": 107,
+    "en": "Gamepad Circle",
+    "before": "يد التحكم دائرة",
+    "after": "Gamepad Circle",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_DPad_Down",
+    "target": "EngineRuntime",
+    "index": 108,
+    "en": "Gamepad D-pad Down",
+    "before": "يد التحكم لوحة الاتجاهات أسفل",
+    "after": "Gamepad D-pad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_DPad_Left",
+    "target": "EngineRuntime",
+    "index": 109,
+    "en": "Gamepad D-pad Left",
+    "before": "يد التحكم لوحة الاتجاهات يسار",
+    "after": "Gamepad D-pad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_DPad_Right",
+    "target": "EngineRuntime",
+    "index": 110,
+    "en": "Gamepad D-pad Right",
+    "before": "يد التحكم لوحة الاتجاهات يمين",
+    "after": "Gamepad D-pad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_DPad_Up",
+    "target": "EngineRuntime",
+    "index": 111,
+    "en": "Gamepad D-pad Up",
+    "before": "يد التحكم لوحة الاتجاهات أعلى",
+    "after": "Gamepad D-pad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_FaceButton_Bottom",
+    "target": "EngineRuntime",
+    "index": 112,
+    "en": "Gamepad Face Button Bottom",
+    "before": "يد التحكم زر الوجه السفلي",
+    "after": "Gamepad Face Button Bottom",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_FaceButton_Left",
+    "target": "EngineRuntime",
+    "index": 113,
+    "en": "Gamepad Face Button Left",
+    "before": "يد التحكم زر الوجه الأيسر",
+    "after": "Gamepad Face Button Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_FaceButton_Right",
+    "target": "EngineRuntime",
+    "index": 114,
+    "en": "Gamepad Face Button Right",
+    "before": "يد التحكم زر الوجه الأيمن",
+    "after": "Gamepad Face Button Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_FaceButton_Top",
+    "target": "EngineRuntime",
+    "index": 115,
+    "en": "Gamepad Face Button Top",
+    "before": "يد التحكم زر الوجه العلوي",
+    "after": "Gamepad Face Button Top",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_LeftShoulder",
+    "target": "EngineRuntime",
+    "index": 116,
+    "en": "Gamepad L1",
+    "before": "يد التحكم L1",
+    "after": "Gamepad L1",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_LeftTrigger",
+    "target": "EngineRuntime",
+    "index": 117,
+    "en": "Gamepad L2",
+    "before": "يد التحكم L2",
+    "after": "Gamepad L2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_LeftTriggerAxis",
+    "target": "EngineRuntime",
+    "index": 118,
+    "en": "Gamepad L2 Axis",
+    "before": "يد التحكم محور L2",
+    "after": "Gamepad L2 Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_LeftThumbstick",
+    "target": "EngineRuntime",
+    "index": 119,
+    "en": "Gamepad L3",
+    "before": "يد التحكم L3",
+    "after": "Gamepad L3",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftShoulder",
+    "target": "EngineRuntime",
+    "index": 120,
+    "en": "Gamepad Left Shoulder",
+    "before": "يد التحكم زر الكتف الأيسر",
+    "after": "Gamepad Left Shoulder",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_Left2D",
+    "target": "EngineRuntime",
+    "index": 121,
+    "en": "Gamepad Left Thumbstick 2D-Axis",
+    "before": "يد التحكم محور ثنائي الأبعاد للعصا اليسرى",
+    "after": "Gamepad Left Thumbstick 2D-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftThumbstick",
+    "target": "EngineRuntime",
+    "index": 122,
+    "en": "Gamepad Left Thumbstick Button",
+    "before": "يد التحكم زر العصا اليسرى",
+    "after": "Gamepad Left Thumbstick Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftStick_Down",
+    "target": "EngineRuntime",
+    "index": 123,
+    "en": "Gamepad Left Thumbstick Down",
+    "before": "يد التحكم العصا اليسرى أسفل",
+    "after": "Gamepad Left Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftStick_Left",
+    "target": "EngineRuntime",
+    "index": 124,
+    "en": "Gamepad Left Thumbstick Left",
+    "before": "يد التحكم العصا اليسرى يسار",
+    "after": "Gamepad Left Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftStick_Right",
+    "target": "EngineRuntime",
+    "index": 125,
+    "en": "Gamepad Left Thumbstick Right",
+    "before": "يد التحكم العصا اليسرى يمين",
+    "after": "Gamepad Left Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftStick_Up",
+    "target": "EngineRuntime",
+    "index": 126,
+    "en": "Gamepad Left Thumbstick Up",
+    "before": "يد التحكم العصا اليسرى أعلى",
+    "after": "Gamepad Left Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftX",
+    "target": "EngineRuntime",
+    "index": 127,
+    "en": "Gamepad Left Thumbstick X-Axis",
+    "before": "يد التحكم محور X للعصا اليسرى",
+    "after": "Gamepad Left Thumbstick X-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftY",
+    "target": "EngineRuntime",
+    "index": 128,
+    "en": "Gamepad Left Thumbstick Y-Axis",
+    "before": "يد التحكم محور Y للعصا اليسرى",
+    "after": "Gamepad Left Thumbstick Y-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftTrigger",
+    "target": "EngineRuntime",
+    "index": 129,
+    "en": "Gamepad Left Trigger",
+    "before": "يد التحكم الزناد الأيسر",
+    "after": "Gamepad Left Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_LeftTriggerAxis",
+    "target": "EngineRuntime",
+    "index": 130,
+    "en": "Gamepad Left Trigger Axis",
+    "before": "يد التحكم محور الزناد الأيسر",
+    "after": "Gamepad Left Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_Special_Right",
+    "target": "EngineRuntime",
+    "index": 131,
+    "en": "Gamepad Options",
+    "before": "يد التحكم الخيارات",
+    "after": "Gamepad Options",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_RightShoulder",
+    "target": "EngineRuntime",
+    "index": 132,
+    "en": "Gamepad R1",
+    "before": "يد التحكم R1",
+    "after": "Gamepad R1",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_RightTrigger",
+    "target": "EngineRuntime",
+    "index": 133,
+    "en": "Gamepad R2",
+    "before": "يد التحكم R2",
+    "after": "Gamepad R2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_RightTriggerAxis",
+    "target": "EngineRuntime",
+    "index": 134,
+    "en": "Gamepad R2 Axis",
+    "before": "يد التحكم محور R2",
+    "after": "Gamepad R2 Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_RightThumbstick",
+    "target": "EngineRuntime",
+    "index": 135,
+    "en": "Gamepad R3",
+    "before": "يد التحكم R3",
+    "after": "Gamepad R3",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightShoulder",
+    "target": "EngineRuntime",
+    "index": 136,
+    "en": "Gamepad Right Shoulder",
+    "before": "يد التحكم زر الكتف الأيمن",
+    "after": "Gamepad Right Shoulder",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_Right2D",
+    "target": "EngineRuntime",
+    "index": 137,
+    "en": "Gamepad Right Thumbstick 2D-Axis",
+    "before": "يد التحكم محور ثنائي الأبعاد للعصا اليمنى",
+    "after": "Gamepad Right Thumbstick 2D-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightThumbstick",
+    "target": "EngineRuntime",
+    "index": 138,
+    "en": "Gamepad Right Thumbstick Button",
+    "before": "يد التحكم زر العصا اليمنى",
+    "after": "Gamepad Right Thumbstick Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightStick_Down",
+    "target": "EngineRuntime",
+    "index": 139,
+    "en": "Gamepad Right Thumbstick Down",
+    "before": "يد التحكم العصا اليمنى أسفل",
+    "after": "Gamepad Right Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightStick_Left",
+    "target": "EngineRuntime",
+    "index": 140,
+    "en": "Gamepad Right Thumbstick Left",
+    "before": "يد التحكم العصا اليمنى يسار",
+    "after": "Gamepad Right Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightStick_Right",
+    "target": "EngineRuntime",
+    "index": 141,
+    "en": "Gamepad Right Thumbstick Right",
+    "before": "يد التحكم العصا اليمنى يمين",
+    "after": "Gamepad Right Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightStick_Up",
+    "target": "EngineRuntime",
+    "index": 142,
+    "en": "Gamepad Right Thumbstick Up",
+    "before": "يد التحكم العصا اليمنى أعلى",
+    "after": "Gamepad Right Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightX",
+    "target": "EngineRuntime",
+    "index": 143,
+    "en": "Gamepad Right Thumbstick X-Axis",
+    "before": "يد التحكم محور X للعصا اليمنى",
+    "after": "Gamepad Right Thumbstick X-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightY",
+    "target": "EngineRuntime",
+    "index": 144,
+    "en": "Gamepad Right Thumbstick Y-Axis",
+    "before": "يد التحكم محور Y للعصا اليمنى",
+    "after": "Gamepad Right Thumbstick Y-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightTrigger",
+    "target": "EngineRuntime",
+    "index": 145,
+    "en": "Gamepad Right Trigger",
+    "before": "يد التحكم الزناد الأيمن",
+    "after": "Gamepad Right Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_RightTriggerAxis",
+    "target": "EngineRuntime",
+    "index": 146,
+    "en": "Gamepad Right Trigger Axis",
+    "before": "يد التحكم محور الزناد الأيمن",
+    "after": "Gamepad Right Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_Special_Left",
+    "target": "EngineRuntime",
+    "index": 147,
+    "en": "Gamepad Special Left",
+    "before": "يد التحكم الزر الخاص الأيسر",
+    "after": "Gamepad Special Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gamepad_Special_Right",
+    "target": "EngineRuntime",
+    "index": 148,
+    "en": "Gamepad Special Right",
+    "before": "يد التحكم الزر الخاص الأيمن",
+    "after": "Gamepad Special Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Left",
+    "target": "EngineRuntime",
+    "index": 149,
+    "en": "Gamepad Square",
+    "before": "يد التحكم مربع",
+    "after": "Gamepad Square",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:XBoxOne_Gamepad_Special_Right",
+    "target": "EngineRuntime",
+    "index": 150,
+    "en": "Gamepad Start",
+    "before": "يد التحكم بدء",
+    "after": "Gamepad Start",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_Special_Left",
+    "target": "EngineRuntime",
+    "index": 151,
+    "en": "Gamepad Touchpad Button",
+    "before": "يد التحكم زر لوحة اللمس",
+    "after": "Gamepad Touchpad Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Top",
+    "target": "EngineRuntime",
+    "index": 152,
+    "en": "Gamepad Triangle",
+    "before": "يد التحكم مثلث",
+    "after": "Gamepad Triangle",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_FaceButton_Bottom",
+    "target": "EngineRuntime",
+    "index": 153,
+    "en": "Gamepad X",
+    "before": "يد التحكم X",
+    "after": "Gamepad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Left",
+    "target": "EngineRuntime",
+    "index": 154,
+    "en": "Gamepad X",
+    "before": "يد التحكم X",
+    "after": "Gamepad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:XBoxOne_Gamepad_FaceButton_Top",
+    "target": "EngineRuntime",
+    "index": 155,
+    "en": "Gamepad Y",
+    "before": "يد التحكم Y",
+    "after": "Gamepad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:GestureSubCateogry",
+    "target": "EngineRuntime",
+    "index": 156,
+    "en": "Gesture",
+    "before": "إيماءة",
+    "after": "Gesture",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Global_Back",
+    "target": "EngineRuntime",
+    "index": 157,
+    "en": "Global Back",
+    "before": "رجوع عام",
+    "after": "Global Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Global_Menu",
+    "target": "EngineRuntime",
+    "index": 158,
+    "en": "Global Menu",
+    "before": "قائمة عامة",
+    "after": "Global Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Global_Pause",
+    "target": "EngineRuntime",
+    "index": 159,
+    "en": "Global Pause",
+    "before": "إيقاف مؤقت عام",
+    "after": "Global Pause",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Global_Play",
+    "target": "EngineRuntime",
+    "index": 160,
+    "en": "Global Play",
+    "before": "تشغيل عام",
+    "after": "Global Play",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Global_View",
+    "target": "EngineRuntime",
+    "index": 161,
+    "en": "Global View",
+    "before": "عرض عام",
+    "after": "Global View",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gravity",
+    "target": "EngineRuntime",
+    "index": 163,
+    "en": "Gravity",
+    "before": "الجاذبية",
+    "after": "Gravity",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Hyphen",
+    "target": "EngineRuntime",
+    "index": 166,
+    "en": "Hyphen",
+    "before": "واصلة",
+    "after": "Hyphen",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:KeyboardSubCategory",
+    "target": "EngineRuntime",
+    "index": 169,
+    "en": "Keyboard",
+    "before": "لوحة المفاتيح",
+    "after": "Keyboard",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Left",
+    "target": "EngineRuntime",
+    "index": 170,
+    "en": "Left",
+    "before": "يسار",
+    "after": "Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:LeftAlt",
+    "target": "EngineRuntime",
+    "index": 171,
+    "en": "Left Alt",
+    "before": "مفتاح Alt الأيسر",
+    "after": "Left Alt",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:LeftBracket",
+    "target": "EngineRuntime",
+    "index": 172,
+    "en": "Left Bracket",
+    "before": "قوس أيسر",
+    "after": "Left Bracket",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:LeftCommand",
+    "target": "EngineRuntime",
+    "index": 173,
+    "en": "Left Cmd",
+    "before": "مفتاح Cmd الأيسر",
+    "after": "Left Cmd",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:LeftControl",
+    "target": "EngineRuntime",
+    "index": 174,
+    "en": "Left Ctrl",
+    "before": "مفتاح Ctrl الأيسر",
+    "after": "Left Ctrl",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:LeftMouseButton",
+    "target": "EngineRuntime",
+    "index": 175,
+    "en": "Left Mouse Button",
+    "before": "زر الفأرة الأيسر",
+    "after": "Left Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:LeftParantheses",
+    "target": "EngineRuntime",
+    "index": 176,
+    "en": "Left Parantheses",
+    "before": "قوس هلالي أيسر",
+    "after": "Left Parantheses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:LeftShift",
+    "target": "EngineRuntime",
+    "index": 177,
+    "en": "Left Shift",
+    "before": "مفتاح Shift الأيسر",
+    "after": "Left Shift",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MiddleMouseButton",
+    "target": "EngineRuntime",
+    "index": 178,
+    "en": "Middle Mouse Button",
+    "before": "زر الفأرة الأوسط",
+    "after": "Middle Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Grip_Click",
+    "target": "EngineRuntime",
+    "index": 179,
+    "en": "Mixed Reality (L) Grip",
+    "before": "Mixed Reality (يسار) إمساك",
+    "after": "Mixed Reality (L) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Menu_Click",
+    "target": "EngineRuntime",
+    "index": 180,
+    "en": "Mixed Reality (L) Menu",
+    "before": "Mixed Reality (يسار) القائمة",
+    "after": "Mixed Reality (L) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Click",
+    "target": "EngineRuntime",
+    "index": 181,
+    "en": "Mixed Reality (L) Thumbstick",
+    "before": "Mixed Reality (يسار) عصا الإبهام",
+    "after": "Mixed Reality (L) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Down",
+    "target": "EngineRuntime",
+    "index": 182,
+    "en": "Mixed Reality (L) Thumbstick Down",
+    "before": "Mixed Reality (يسار) عصا الإبهام أسفل",
+    "after": "Mixed Reality (L) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Left",
+    "target": "EngineRuntime",
+    "index": 183,
+    "en": "Mixed Reality (L) Thumbstick Left",
+    "before": "Mixed Reality (يسار) عصا الإبهام يسار",
+    "after": "Mixed Reality (L) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Right",
+    "target": "EngineRuntime",
+    "index": 184,
+    "en": "Mixed Reality (L) Thumbstick Right",
+    "before": "Mixed Reality (يسار) عصا الإبهام يمين",
+    "after": "Mixed Reality (L) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Up",
+    "target": "EngineRuntime",
+    "index": 185,
+    "en": "Mixed Reality (L) Thumbstick Up",
+    "before": "Mixed Reality (يسار) عصا الإبهام أعلى",
+    "after": "Mixed Reality (L) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_X",
+    "target": "EngineRuntime",
+    "index": 186,
+    "en": "Mixed Reality (L) Thumbstick X",
+    "before": "Mixed Reality (يسار) عصا الإبهام X",
+    "after": "Mixed Reality (L) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Thumbstick_Y",
+    "target": "EngineRuntime",
+    "index": 187,
+    "en": "Mixed Reality (L) Thumbstick Y",
+    "before": "Mixed Reality (يسار) عصا الإبهام Y",
+    "after": "Mixed Reality (L) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Click",
+    "target": "EngineRuntime",
+    "index": 188,
+    "en": "Mixed Reality (L) Trackpad",
+    "before": "Mixed Reality (يسار) لوحة اللمس",
+    "after": "Mixed Reality (L) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Down",
+    "target": "EngineRuntime",
+    "index": 189,
+    "en": "Mixed Reality (L) Trackpad Down",
+    "before": "Mixed Reality (يسار) لوحة اللمس أسفل",
+    "after": "Mixed Reality (L) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Left",
+    "target": "EngineRuntime",
+    "index": 190,
+    "en": "Mixed Reality (L) Trackpad Left",
+    "before": "Mixed Reality (يسار) لوحة اللمس يسار",
+    "after": "Mixed Reality (L) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Right",
+    "target": "EngineRuntime",
+    "index": 191,
+    "en": "Mixed Reality (L) Trackpad Right",
+    "before": "Mixed Reality (يسار) لوحة اللمس يمين",
+    "after": "Mixed Reality (L) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 192,
+    "en": "Mixed Reality (L) Trackpad Touch",
+    "before": "Mixed Reality (يسار) لمس اللوحة",
+    "after": "Mixed Reality (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Up",
+    "target": "EngineRuntime",
+    "index": 193,
+    "en": "Mixed Reality (L) Trackpad Up",
+    "before": "Mixed Reality (يسار) لوحة اللمس أعلى",
+    "after": "Mixed Reality (L) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 194,
+    "en": "Mixed Reality (L) Trackpad X",
+    "before": "Mixed Reality (يسار) لوحة اللمس X",
+    "after": "Mixed Reality (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 195,
+    "en": "Mixed Reality (L) Trackpad Y",
+    "before": "Mixed Reality (يسار) لوحة اللمس Y",
+    "after": "Mixed Reality (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 196,
+    "en": "Mixed Reality (L) Trigger",
+    "before": "Mixed Reality (يسار) الزناد",
+    "after": "Mixed Reality (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Left_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 197,
+    "en": "Mixed Reality (L) Trigger Axis",
+    "before": "Mixed Reality (يسار) محور الزناد",
+    "after": "Mixed Reality (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Grip_Click",
+    "target": "EngineRuntime",
+    "index": 198,
+    "en": "Mixed Reality (R) Grip",
+    "before": "Mixed Reality (يمين) إمساك",
+    "after": "Mixed Reality (R) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Menu_Click",
+    "target": "EngineRuntime",
+    "index": 199,
+    "en": "Mixed Reality (R) Menu",
+    "before": "Mixed Reality (يمين) القائمة",
+    "after": "Mixed Reality (R) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Click",
+    "target": "EngineRuntime",
+    "index": 200,
+    "en": "Mixed Reality (R) Thumbstick",
+    "before": "Mixed Reality (يمين) عصا الإبهام",
+    "after": "Mixed Reality (R) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Down",
+    "target": "EngineRuntime",
+    "index": 201,
+    "en": "Mixed Reality (R) Thumbstick Down",
+    "before": "Mixed Reality (يمين) عصا الإبهام أسفل",
+    "after": "Mixed Reality (R) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Left",
+    "target": "EngineRuntime",
+    "index": 202,
+    "en": "Mixed Reality (R) Thumbstick Left",
+    "before": "Mixed Reality (يمين) عصا الإبهام يسار",
+    "after": "Mixed Reality (R) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Right",
+    "target": "EngineRuntime",
+    "index": 203,
+    "en": "Mixed Reality (R) Thumbstick Right",
+    "before": "Mixed Reality (يمين) عصا الإبهام يمين",
+    "after": "Mixed Reality (R) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Up",
+    "target": "EngineRuntime",
+    "index": 204,
+    "en": "Mixed Reality (R) Thumbstick Up",
+    "before": "Mixed Reality (يمين) عصا الإبهام أعلى",
+    "after": "Mixed Reality (R) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_X",
+    "target": "EngineRuntime",
+    "index": 205,
+    "en": "Mixed Reality (R) Thumbstick X",
+    "before": "Mixed Reality (يمين) عصا الإبهام X",
+    "after": "Mixed Reality (R) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Thumbstick_Y",
+    "target": "EngineRuntime",
+    "index": 206,
+    "en": "Mixed Reality (R) Thumbstick Y",
+    "before": "Mixed Reality (يمين) عصا الإبهام Y",
+    "after": "Mixed Reality (R) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Click",
+    "target": "EngineRuntime",
+    "index": 207,
+    "en": "Mixed Reality (R) Trackpad",
+    "before": "Mixed Reality (يمين) لوحة اللمس",
+    "after": "Mixed Reality (R) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Down",
+    "target": "EngineRuntime",
+    "index": 208,
+    "en": "Mixed Reality (R) Trackpad Down",
+    "before": "Mixed Reality (يمين) لوحة اللمس أسفل",
+    "after": "Mixed Reality (R) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Left",
+    "target": "EngineRuntime",
+    "index": 209,
+    "en": "Mixed Reality (R) Trackpad Left",
+    "before": "Mixed Reality (يمين) لوحة اللمس يسار",
+    "after": "Mixed Reality (R) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Right",
+    "target": "EngineRuntime",
+    "index": 210,
+    "en": "Mixed Reality (R) Trackpad Right",
+    "before": "Mixed Reality (يمين) لوحة اللمس يمين",
+    "after": "Mixed Reality (R) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 211,
+    "en": "Mixed Reality (R) Trackpad Touch",
+    "before": "Mixed Reality (يمين) لمس اللوحة",
+    "after": "Mixed Reality (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Up",
+    "target": "EngineRuntime",
+    "index": 212,
+    "en": "Mixed Reality (R) Trackpad Up",
+    "before": "Mixed Reality (يمين) لوحة اللمس أعلى",
+    "after": "Mixed Reality (R) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 213,
+    "en": "Mixed Reality (R) Trackpad X",
+    "before": "Mixed Reality (يمين) لوحة اللمس X",
+    "after": "Mixed Reality (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 214,
+    "en": "Mixed Reality (R) Trackpad Y",
+    "before": "Mixed Reality (يمين) لوحة اللمس Y",
+    "after": "Mixed Reality (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 215,
+    "en": "Mixed Reality (R) Trigger",
+    "before": "Mixed Reality (يمين) الزناد",
+    "after": "Mixed Reality (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MixedReality_Right_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 216,
+    "en": "Mixed Reality (R) Trigger Axis",
+    "before": "Mixed Reality (يمين) محور الزناد",
+    "after": "Mixed Reality (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MotionSubCateogry",
+    "target": "EngineRuntime",
+    "index": 217,
+    "en": "Motion",
+    "before": "حركة",
+    "after": "Motion",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MouseSubCategory",
+    "target": "EngineRuntime",
+    "index": 218,
+    "en": "Mouse",
+    "before": "الفأرة",
+    "after": "Mouse",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MouseWheelAxis",
+    "target": "EngineRuntime",
+    "index": 219,
+    "en": "Mouse Wheel Axis",
+    "before": "محور عجلة الفأرة",
+    "after": "Mouse Wheel Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MouseScrollDown",
+    "target": "EngineRuntime",
+    "index": 220,
+    "en": "Mouse Wheel Down",
+    "before": "عجلة الفأرة لأسفل",
+    "after": "Mouse Wheel Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MouseScrollUp",
+    "target": "EngineRuntime",
+    "index": 221,
+    "en": "Mouse Wheel Up",
+    "before": "عجلة الفأرة لأعلى",
+    "after": "Mouse Wheel Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MouseX",
+    "target": "EngineRuntime",
+    "index": 222,
+    "en": "Mouse X",
+    "before": "الفأرة X",
+    "after": "Mouse X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Mouse2D",
+    "target": "EngineRuntime",
+    "index": 223,
+    "en": "Mouse XY 2D-Axis",
+    "before": "محور الفأرة XY ثنائي الأبعاد",
+    "after": "Mouse XY 2D-Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:MouseY",
+    "target": "EngineRuntime",
+    "index": 224,
+    "en": "Mouse Y",
+    "before": "الفأرة Y",
+    "after": "Mouse Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Grip_Click",
+    "target": "EngineRuntime",
+    "index": 242,
+    "en": "Oculus Touch (L) Grip",
+    "before": "Oculus Touch (يسار) إمساك",
+    "after": "Oculus Touch (L) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Grip_Axis",
+    "target": "EngineRuntime",
+    "index": 243,
+    "en": "Oculus Touch (L) Grip Axis",
+    "before": "Oculus Touch (يسار) محور الإمساك",
+    "after": "Oculus Touch (L) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Menu_Click",
+    "target": "EngineRuntime",
+    "index": 244,
+    "en": "Oculus Touch (L) Menu",
+    "before": "Oculus Touch (يسار) القائمة",
+    "after": "Oculus Touch (L) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Click",
+    "target": "EngineRuntime",
+    "index": 245,
+    "en": "Oculus Touch (L) Thumbstick",
+    "before": "Oculus Touch (يسار) عصا الإبهام",
+    "after": "Oculus Touch (L) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Down",
+    "target": "EngineRuntime",
+    "index": 246,
+    "en": "Oculus Touch (L) Thumbstick Down",
+    "before": "Oculus Touch (يسار) عصا الإبهام أسفل",
+    "after": "Oculus Touch (L) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Left",
+    "target": "EngineRuntime",
+    "index": 247,
+    "en": "Oculus Touch (L) Thumbstick Left",
+    "before": "Oculus Touch (يسار) عصا الإبهام يسار",
+    "after": "Oculus Touch (L) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Right",
+    "target": "EngineRuntime",
+    "index": 248,
+    "en": "Oculus Touch (L) Thumbstick Right",
+    "before": "Oculus Touch (يسار) عصا الإبهام يمين",
+    "after": "Oculus Touch (L) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Touch",
+    "target": "EngineRuntime",
+    "index": 249,
+    "en": "Oculus Touch (L) Thumbstick Touch",
+    "before": "Oculus Touch (يسار) لمس عصا الإبهام",
+    "after": "Oculus Touch (L) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Up",
+    "target": "EngineRuntime",
+    "index": 250,
+    "en": "Oculus Touch (L) Thumbstick Up",
+    "before": "Oculus Touch (يسار) عصا الإبهام أعلى",
+    "after": "Oculus Touch (L) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_X",
+    "target": "EngineRuntime",
+    "index": 251,
+    "en": "Oculus Touch (L) Thumbstick X",
+    "before": "Oculus Touch (يسار) عصا الإبهام X",
+    "after": "Oculus Touch (L) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Thumbstick_Y",
+    "target": "EngineRuntime",
+    "index": 252,
+    "en": "Oculus Touch (L) Thumbstick Y",
+    "before": "Oculus Touch (يسار) عصا الإبهام Y",
+    "after": "Oculus Touch (L) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 253,
+    "en": "Oculus Touch (L) Trigger",
+    "before": "Oculus Touch (يسار) الزناد",
+    "after": "Oculus Touch (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 254,
+    "en": "Oculus Touch (L) Trigger Axis",
+    "before": "Oculus Touch (يسار) محور الزناد",
+    "after": "Oculus Touch (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Trigger_Touch",
+    "target": "EngineRuntime",
+    "index": 255,
+    "en": "Oculus Touch (L) Trigger Touch",
+    "before": "Oculus Touch (يسار) لمس الزناد",
+    "after": "Oculus Touch (L) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_X_Click",
+    "target": "EngineRuntime",
+    "index": 256,
+    "en": "Oculus Touch (L) X Press",
+    "before": "Oculus Touch (يسار) ضغط X",
+    "after": "Oculus Touch (L) X Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_X_Touch",
+    "target": "EngineRuntime",
+    "index": 257,
+    "en": "Oculus Touch (L) X Touch",
+    "before": "Oculus Touch (يسار) لمس X",
+    "after": "Oculus Touch (L) X Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Y_Click",
+    "target": "EngineRuntime",
+    "index": 258,
+    "en": "Oculus Touch (L) Y Press",
+    "before": "Oculus Touch (يسار) ضغط Y",
+    "after": "Oculus Touch (L) Y Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Left_Y_Touch",
+    "target": "EngineRuntime",
+    "index": 259,
+    "en": "Oculus Touch (L) Y Touch",
+    "before": "Oculus Touch (يسار) لمس Y",
+    "after": "Oculus Touch (L) Y Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_A_Click",
+    "target": "EngineRuntime",
+    "index": 260,
+    "en": "Oculus Touch (R) A Press",
+    "before": "Oculus Touch (يمين) ضغط A",
+    "after": "Oculus Touch (R) A Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_A_Touch",
+    "target": "EngineRuntime",
+    "index": 261,
+    "en": "Oculus Touch (R) A Touch",
+    "before": "Oculus Touch (يمين) لمس A",
+    "after": "Oculus Touch (R) A Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_B_Click",
+    "target": "EngineRuntime",
+    "index": 262,
+    "en": "Oculus Touch (R) B Press",
+    "before": "Oculus Touch (يمين) ضغط B",
+    "after": "Oculus Touch (R) B Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_B_Touch",
+    "target": "EngineRuntime",
+    "index": 263,
+    "en": "Oculus Touch (R) B Touch",
+    "before": "Oculus Touch (يمين) لمس B",
+    "after": "Oculus Touch (R) B Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Grip_Click",
+    "target": "EngineRuntime",
+    "index": 264,
+    "en": "Oculus Touch (R) Grip",
+    "before": "Oculus Touch (يمين) إمساك",
+    "after": "Oculus Touch (R) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Grip_Axis",
+    "target": "EngineRuntime",
+    "index": 265,
+    "en": "Oculus Touch (R) Grip Axis",
+    "before": "Oculus Touch (يمين) محور الإمساك",
+    "after": "Oculus Touch (R) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_System_Click",
+    "target": "EngineRuntime",
+    "index": 266,
+    "en": "Oculus Touch (R) System",
+    "before": "Oculus Touch (يمين) النظام",
+    "after": "Oculus Touch (R) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Click",
+    "target": "EngineRuntime",
+    "index": 267,
+    "en": "Oculus Touch (R) Thumbstick",
+    "before": "Oculus Touch (يمين) عصا الإبهام",
+    "after": "Oculus Touch (R) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Down",
+    "target": "EngineRuntime",
+    "index": 268,
+    "en": "Oculus Touch (R) Thumbstick Down",
+    "before": "Oculus Touch (يمين) عصا الإبهام أسفل",
+    "after": "Oculus Touch (R) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Left",
+    "target": "EngineRuntime",
+    "index": 269,
+    "en": "Oculus Touch (R) Thumbstick Left",
+    "before": "Oculus Touch (يمين) عصا الإبهام يسار",
+    "after": "Oculus Touch (R) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Right",
+    "target": "EngineRuntime",
+    "index": 270,
+    "en": "Oculus Touch (R) Thumbstick Right",
+    "before": "Oculus Touch (يمين) عصا الإبهام يمين",
+    "after": "Oculus Touch (R) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Touch",
+    "target": "EngineRuntime",
+    "index": 271,
+    "en": "Oculus Touch (R) Thumbstick Touch",
+    "before": "Oculus Touch (يمين) لمس عصا الإبهام",
+    "after": "Oculus Touch (R) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Up",
+    "target": "EngineRuntime",
+    "index": 272,
+    "en": "Oculus Touch (R) Thumbstick Up",
+    "before": "Oculus Touch (يمين) عصا الإبهام أعلى",
+    "after": "Oculus Touch (R) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_X",
+    "target": "EngineRuntime",
+    "index": 273,
+    "en": "Oculus Touch (R) Thumbstick X",
+    "before": "Oculus Touch (يمين) عصا الإبهام X",
+    "after": "Oculus Touch (R) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Thumbstick_Y",
+    "target": "EngineRuntime",
+    "index": 274,
+    "en": "Oculus Touch (R) Thumbstick Y",
+    "before": "Oculus Touch (يمين) عصا الإبهام Y",
+    "after": "Oculus Touch (R) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 275,
+    "en": "Oculus Touch (R) Trigger",
+    "before": "Oculus Touch (يمين) الزناد",
+    "after": "Oculus Touch (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 276,
+    "en": "Oculus Touch (R) Trigger Axis",
+    "before": "Oculus Touch (يمين) محور الزناد",
+    "after": "Oculus Touch (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:OculusTouch_Right_Trigger_Touch",
+    "target": "EngineRuntime",
+    "index": 277,
+    "en": "Oculus Touch (R) Trigger Touch",
+    "before": "Oculus Touch (يمين) لمس الزناد",
+    "after": "Oculus Touch (R) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_Special_Left_X",
+    "target": "EngineRuntime",
+    "index": 279,
+    "en": "PS4 Touchpad Button X Axis",
+    "before": "PS4 محور X لزر لوحة اللمس",
+    "after": "PS4 Touchpad Button X Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:PS4_Gamepad_Special_Left_Y",
+    "target": "EngineRuntime",
+    "index": 280,
+    "en": "PS4 Touchpad Button Y Axis",
+    "before": "PS4 محور Y لزر لوحة اللمس",
+    "after": "PS4 Touchpad Button Y Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Period",
+    "target": "EngineRuntime",
+    "index": 285,
+    "en": "Period",
+    "before": "نقطة",
+    "after": "Period",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gesture_Pinch",
+    "target": "EngineRuntime",
+    "index": 288,
+    "en": "Pinch",
+    "before": "قرص",
+    "after": "Pinch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Quote",
+    "target": "EngineRuntime",
+    "index": 289,
+    "en": "Quote",
+    "before": "علامة اقتباس",
+    "after": "Quote",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Right",
+    "target": "EngineRuntime",
+    "index": 290,
+    "en": "Right",
+    "before": "يمين",
+    "after": "Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RightAlt",
+    "target": "EngineRuntime",
+    "index": 291,
+    "en": "Right Alt",
+    "before": "مفتاح Alt الأيمن",
+    "after": "Right Alt",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RightBracket",
+    "target": "EngineRuntime",
+    "index": 292,
+    "en": "Right Bracket",
+    "before": "قوس أيمن",
+    "after": "Right Bracket",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RightCommand",
+    "target": "EngineRuntime",
+    "index": 293,
+    "en": "Right Cmd",
+    "before": "مفتاح Cmd الأيمن",
+    "after": "Right Cmd",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RightControl",
+    "target": "EngineRuntime",
+    "index": 294,
+    "en": "Right Ctrl",
+    "before": "مفتاح Ctrl الأيمن",
+    "after": "Right Ctrl",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RightMouseButton",
+    "target": "EngineRuntime",
+    "index": 295,
+    "en": "Right Mouse Button",
+    "before": "زر الفأرة الأيمن",
+    "after": "Right Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RightParantheses",
+    "target": "EngineRuntime",
+    "index": 296,
+    "en": "Right Parantheses",
+    "before": "قوس هلالي أيمن",
+    "after": "Right Parantheses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RightShift",
+    "target": "EngineRuntime",
+    "index": 297,
+    "en": "Right Shift",
+    "before": "مفتاح Shift الأيمن",
+    "after": "Right Shift",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Gesture_Rotate",
+    "target": "EngineRuntime",
+    "index": 298,
+    "en": "Rotate",
+    "before": "تدوير",
+    "after": "Rotate",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:RotationRate",
+    "target": "EngineRuntime",
+    "index": 299,
+    "en": "Rotation Rate",
+    "before": "معدل الدوران",
+    "after": "Rotation Rate",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Semicolon",
+    "target": "EngineRuntime",
+    "index": 301,
+    "en": "Semicolon",
+    "before": "فاصلة منقوطة",
+    "after": "Semicolon",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Slash",
+    "target": "EngineRuntime",
+    "index": 302,
+    "en": "Slash",
+    "before": "شرطة مائلة",
+    "after": "Slash",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Steam_Back_Left",
+    "target": "EngineRuntime",
+    "index": 306,
+    "en": "Steam Back Left",
+    "before": "Steam الزر الخلفي الأيسر",
+    "after": "Steam Back Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Steam_Back_Right",
+    "target": "EngineRuntime",
+    "index": 307,
+    "en": "Steam Back Right",
+    "before": "Steam الزر الخلفي الأيمن",
+    "after": "Steam Back Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Steam_Touch_0",
+    "target": "EngineRuntime",
+    "index": 308,
+    "en": "Steam Touch 0",
+    "before": "Steam لمس 0",
+    "after": "Steam Touch 0",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Steam_Touch_1",
+    "target": "EngineRuntime",
+    "index": 309,
+    "en": "Steam Touch 1",
+    "before": "Steam لمس 1",
+    "after": "Steam Touch 1",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Steam_Touch_2",
+    "target": "EngineRuntime",
+    "index": 310,
+    "en": "Steam Touch 2",
+    "before": "Steam لمس 2",
+    "after": "Steam Touch 2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Steam_Touch_3",
+    "target": "EngineRuntime",
+    "index": 311,
+    "en": "Steam Touch 3",
+    "before": "Steam لمس 3",
+    "after": "Steam Touch 3",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ThumbMouseButton",
+    "target": "EngineRuntime",
+    "index": 313,
+    "en": "Thumb Mouse Button",
+    "before": "زر إبهام الفأرة",
+    "after": "Thumb Mouse Button",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ThumbMouseButton2",
+    "target": "EngineRuntime",
+    "index": 314,
+    "en": "Thumb Mouse Button 2",
+    "before": "زر إبهام الفأرة 2",
+    "after": "Thumb Mouse Button 2",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Tilt",
+    "target": "EngineRuntime",
+    "index": 315,
+    "en": "Tilt",
+    "before": "إمالة",
+    "after": "Tilt",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:TouchSubCateogry",
+    "target": "EngineRuntime",
+    "index": 316,
+    "en": "Touch",
+    "before": "لمس",
+    "after": "Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:TouchFormat",
+    "target": "EngineRuntime",
+    "index": 317,
+    "en": "Touch {0}",
+    "before": "لمس {0}",
+    "after": "Touch {0}",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Underscore",
+    "target": "EngineRuntime",
+    "index": 318,
+    "en": "Underscore",
+    "before": "شرطة سفلية",
+    "after": "Underscore",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Up",
+    "target": "EngineRuntime",
+    "index": 319,
+    "en": "Up",
+    "before": "أعلى",
+    "after": "Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_A_Click",
+    "target": "EngineRuntime",
+    "index": 321,
+    "en": "Valve Index (L) A Press",
+    "before": "Valve Index (يسار) ضغط A",
+    "after": "Valve Index (L) A Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_A_Touch",
+    "target": "EngineRuntime",
+    "index": 322,
+    "en": "Valve Index (L) A Touch",
+    "before": "Valve Index (يسار) لمس A",
+    "after": "Valve Index (L) A Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_B_Click",
+    "target": "EngineRuntime",
+    "index": 323,
+    "en": "Valve Index (L) B Press",
+    "before": "Valve Index (يسار) ضغط B",
+    "after": "Valve Index (L) B Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_B_Touch",
+    "target": "EngineRuntime",
+    "index": 324,
+    "en": "Valve Index (L) B Touch",
+    "before": "Valve Index (يسار) لمس B",
+    "after": "Valve Index (L) B Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Grip_Axis",
+    "target": "EngineRuntime",
+    "index": 325,
+    "en": "Valve Index (L) Grip Axis",
+    "before": "Valve Index (يسار) محور الإمساك",
+    "after": "Valve Index (L) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Grip_Force",
+    "target": "EngineRuntime",
+    "index": 326,
+    "en": "Valve Index (L) Grip Force",
+    "before": "Valve Index (يسار) قوة الإمساك",
+    "after": "Valve Index (L) Grip Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_System_Click",
+    "target": "EngineRuntime",
+    "index": 327,
+    "en": "Valve Index (L) System",
+    "before": "Valve Index (يسار) النظام",
+    "after": "Valve Index (L) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_System_Touch",
+    "target": "EngineRuntime",
+    "index": 328,
+    "en": "Valve Index (L) System Touch",
+    "before": "Valve Index (يسار) لمس النظام",
+    "after": "Valve Index (L) System Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Click",
+    "target": "EngineRuntime",
+    "index": 329,
+    "en": "Valve Index (L) Thumbstick",
+    "before": "Valve Index (يسار) عصا الإبهام",
+    "after": "Valve Index (L) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Down",
+    "target": "EngineRuntime",
+    "index": 330,
+    "en": "Valve Index (L) Thumbstick Down",
+    "before": "Valve Index (يسار) عصا الإبهام أسفل",
+    "after": "Valve Index (L) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Left",
+    "target": "EngineRuntime",
+    "index": 331,
+    "en": "Valve Index (L) Thumbstick Left",
+    "before": "Valve Index (يسار) عصا الإبهام يسار",
+    "after": "Valve Index (L) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Right",
+    "target": "EngineRuntime",
+    "index": 332,
+    "en": "Valve Index (L) Thumbstick Right",
+    "before": "Valve Index (يسار) عصا الإبهام يمين",
+    "after": "Valve Index (L) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Touch",
+    "target": "EngineRuntime",
+    "index": 333,
+    "en": "Valve Index (L) Thumbstick Touch",
+    "before": "Valve Index (يسار) لمس عصا الإبهام",
+    "after": "Valve Index (L) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Up",
+    "target": "EngineRuntime",
+    "index": 334,
+    "en": "Valve Index (L) Thumbstick Up",
+    "before": "Valve Index (يسار) عصا الإبهام أعلى",
+    "after": "Valve Index (L) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_X",
+    "target": "EngineRuntime",
+    "index": 335,
+    "en": "Valve Index (L) Thumbstick X",
+    "before": "Valve Index (يسار) عصا الإبهام X",
+    "after": "Valve Index (L) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Thumbstick_Y",
+    "target": "EngineRuntime",
+    "index": 336,
+    "en": "Valve Index (L) Thumbstick Y",
+    "before": "Valve Index (يسار) عصا الإبهام Y",
+    "after": "Valve Index (L) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Down",
+    "target": "EngineRuntime",
+    "index": 337,
+    "en": "Valve Index (L) Trackpad Down",
+    "before": "Valve Index (يسار) لوحة اللمس أسفل",
+    "after": "Valve Index (L) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Force",
+    "target": "EngineRuntime",
+    "index": 338,
+    "en": "Valve Index (L) Trackpad Force",
+    "before": "Valve Index (يسار) قوة لوحة اللمس",
+    "after": "Valve Index (L) Trackpad Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Left",
+    "target": "EngineRuntime",
+    "index": 339,
+    "en": "Valve Index (L) Trackpad Left",
+    "before": "Valve Index (يسار) لوحة اللمس يسار",
+    "after": "Valve Index (L) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Right",
+    "target": "EngineRuntime",
+    "index": 340,
+    "en": "Valve Index (L) Trackpad Right",
+    "before": "Valve Index (يسار) لوحة اللمس يمين",
+    "after": "Valve Index (L) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 341,
+    "en": "Valve Index (L) Trackpad Touch",
+    "before": "Valve Index (يسار) لمس اللوحة",
+    "after": "Valve Index (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Up",
+    "target": "EngineRuntime",
+    "index": 342,
+    "en": "Valve Index (L) Trackpad Up",
+    "before": "Valve Index (يسار) لوحة اللمس أعلى",
+    "after": "Valve Index (L) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 343,
+    "en": "Valve Index (L) Trackpad X",
+    "before": "Valve Index (يسار) لوحة اللمس X",
+    "after": "Valve Index (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 344,
+    "en": "Valve Index (L) Trackpad Y",
+    "before": "Valve Index (يسار) لوحة اللمس Y",
+    "after": "Valve Index (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 345,
+    "en": "Valve Index (L) Trigger",
+    "before": "Valve Index (يسار) الزناد",
+    "after": "Valve Index (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 346,
+    "en": "Valve Index (L) Trigger Axis",
+    "before": "Valve Index (يسار) محور الزناد",
+    "after": "Valve Index (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Left_Trigger_Touch",
+    "target": "EngineRuntime",
+    "index": 347,
+    "en": "Valve Index (L) Trigger Touch",
+    "before": "Valve Index (يسار) لمس الزناد",
+    "after": "Valve Index (L) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_A_Click",
+    "target": "EngineRuntime",
+    "index": 348,
+    "en": "Valve Index (R) A Press",
+    "before": "Valve Index (يمين) ضغط A",
+    "after": "Valve Index (R) A Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_A_Touch",
+    "target": "EngineRuntime",
+    "index": 349,
+    "en": "Valve Index (R) A Touch",
+    "before": "Valve Index (يمين) لمس A",
+    "after": "Valve Index (R) A Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_B_Click",
+    "target": "EngineRuntime",
+    "index": 350,
+    "en": "Valve Index (R) B Press",
+    "before": "Valve Index (يمين) ضغط B",
+    "after": "Valve Index (R) B Press",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_B_Touch",
+    "target": "EngineRuntime",
+    "index": 351,
+    "en": "Valve Index (R) B Touch",
+    "before": "Valve Index (يمين) لمس B",
+    "after": "Valve Index (R) B Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Grip_Axis",
+    "target": "EngineRuntime",
+    "index": 352,
+    "en": "Valve Index (R) Grip Axis",
+    "before": "Valve Index (يمين) محور الإمساك",
+    "after": "Valve Index (R) Grip Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Grip_Force",
+    "target": "EngineRuntime",
+    "index": 353,
+    "en": "Valve Index (R) Grip Force",
+    "before": "Valve Index (يمين) قوة الإمساك",
+    "after": "Valve Index (R) Grip Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_System_Click",
+    "target": "EngineRuntime",
+    "index": 354,
+    "en": "Valve Index (R) System",
+    "before": "Valve Index (يمين) النظام",
+    "after": "Valve Index (R) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_System_Touch",
+    "target": "EngineRuntime",
+    "index": 355,
+    "en": "Valve Index (R) System Touch",
+    "before": "Valve Index (يمين) لمس النظام",
+    "after": "Valve Index (R) System Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Click",
+    "target": "EngineRuntime",
+    "index": 356,
+    "en": "Valve Index (R) Thumbstick",
+    "before": "Valve Index (يمين) عصا الإبهام",
+    "after": "Valve Index (R) Thumbstick",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Down",
+    "target": "EngineRuntime",
+    "index": 357,
+    "en": "Valve Index (R) Thumbstick Down",
+    "before": "Valve Index (يمين) عصا الإبهام أسفل",
+    "after": "Valve Index (R) Thumbstick Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Left",
+    "target": "EngineRuntime",
+    "index": 358,
+    "en": "Valve Index (R) Thumbstick Left",
+    "before": "Valve Index (يمين) عصا الإبهام يسار",
+    "after": "Valve Index (R) Thumbstick Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Right",
+    "target": "EngineRuntime",
+    "index": 359,
+    "en": "Valve Index (R) Thumbstick Right",
+    "before": "Valve Index (يمين) عصا الإبهام يمين",
+    "after": "Valve Index (R) Thumbstick Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Touch",
+    "target": "EngineRuntime",
+    "index": 360,
+    "en": "Valve Index (R) Thumbstick Touch",
+    "before": "Valve Index (يمين) لمس عصا الإبهام",
+    "after": "Valve Index (R) Thumbstick Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Up",
+    "target": "EngineRuntime",
+    "index": 361,
+    "en": "Valve Index (R) Thumbstick Up",
+    "before": "Valve Index (يمين) عصا الإبهام أعلى",
+    "after": "Valve Index (R) Thumbstick Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_X",
+    "target": "EngineRuntime",
+    "index": 362,
+    "en": "Valve Index (R) Thumbstick X",
+    "before": "Valve Index (يمين) عصا الإبهام X",
+    "after": "Valve Index (R) Thumbstick X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Thumbstick_Y",
+    "target": "EngineRuntime",
+    "index": 363,
+    "en": "Valve Index (R) Thumbstick Y",
+    "before": "Valve Index (يمين) عصا الإبهام Y",
+    "after": "Valve Index (R) Thumbstick Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Down",
+    "target": "EngineRuntime",
+    "index": 364,
+    "en": "Valve Index (R) Trackpad Down",
+    "before": "Valve Index (يمين) لوحة اللمس أسفل",
+    "after": "Valve Index (R) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Force",
+    "target": "EngineRuntime",
+    "index": 365,
+    "en": "Valve Index (R) Trackpad Force",
+    "before": "Valve Index (يمين) قوة لوحة اللمس",
+    "after": "Valve Index (R) Trackpad Force",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Left",
+    "target": "EngineRuntime",
+    "index": 366,
+    "en": "Valve Index (R) Trackpad Left",
+    "before": "Valve Index (يمين) لوحة اللمس يسار",
+    "after": "Valve Index (R) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Right",
+    "target": "EngineRuntime",
+    "index": 367,
+    "en": "Valve Index (R) Trackpad Right",
+    "before": "Valve Index (يمين) لوحة اللمس يمين",
+    "after": "Valve Index (R) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 368,
+    "en": "Valve Index (R) Trackpad Touch",
+    "before": "Valve Index (يمين) لمس اللوحة",
+    "after": "Valve Index (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Up",
+    "target": "EngineRuntime",
+    "index": 369,
+    "en": "Valve Index (R) Trackpad Up",
+    "before": "Valve Index (يمين) لوحة اللمس أعلى",
+    "after": "Valve Index (R) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 370,
+    "en": "Valve Index (R) Trackpad X",
+    "before": "Valve Index (يمين) لوحة اللمس X",
+    "after": "Valve Index (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 371,
+    "en": "Valve Index (R) Trackpad Y",
+    "before": "Valve Index (يمين) لوحة اللمس Y",
+    "after": "Valve Index (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 372,
+    "en": "Valve Index (R) Trigger",
+    "before": "Valve Index (يمين) الزناد",
+    "after": "Valve Index (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 373,
+    "en": "Valve Index (R) Trigger Axis",
+    "before": "Valve Index (يمين) محور الزناد",
+    "after": "Valve Index (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:ValveIndex_Right_Trigger_Touch",
+    "target": "EngineRuntime",
+    "index": 374,
+    "en": "Valve Index (R) Trigger Touch",
+    "before": "Valve Index (يمين) لمس الزناد",
+    "after": "Valve Index (R) Trigger Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Grip_Click",
+    "target": "EngineRuntime",
+    "index": 375,
+    "en": "Vive (L) Grip",
+    "before": "Vive (يسار) إمساك",
+    "after": "Vive (L) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Menu_Click",
+    "target": "EngineRuntime",
+    "index": 376,
+    "en": "Vive (L) Menu",
+    "before": "Vive (يسار) القائمة",
+    "after": "Vive (L) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_System_Click",
+    "target": "EngineRuntime",
+    "index": 377,
+    "en": "Vive (L) System",
+    "before": "Vive (يسار) النظام",
+    "after": "Vive (L) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_Click",
+    "target": "EngineRuntime",
+    "index": 378,
+    "en": "Vive (L) Trackpad",
+    "before": "Vive (يسار) لوحة اللمس",
+    "after": "Vive (L) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_Down",
+    "target": "EngineRuntime",
+    "index": 379,
+    "en": "Vive (L) Trackpad Down",
+    "before": "Vive (يسار) لوحة اللمس أسفل",
+    "after": "Vive (L) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_Left",
+    "target": "EngineRuntime",
+    "index": 380,
+    "en": "Vive (L) Trackpad Left",
+    "before": "Vive (يسار) لوحة اللمس يسار",
+    "after": "Vive (L) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_Right",
+    "target": "EngineRuntime",
+    "index": 381,
+    "en": "Vive (L) Trackpad Right",
+    "before": "Vive (يسار) لوحة اللمس يمين",
+    "after": "Vive (L) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 382,
+    "en": "Vive (L) Trackpad Touch",
+    "before": "Vive (يسار) لمس اللوحة",
+    "after": "Vive (L) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_Up",
+    "target": "EngineRuntime",
+    "index": 383,
+    "en": "Vive (L) Trackpad Up",
+    "before": "Vive (يسار) لوحة اللمس أعلى",
+    "after": "Vive (L) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 384,
+    "en": "Vive (L) Trackpad X",
+    "before": "Vive (يسار) لوحة اللمس X",
+    "after": "Vive (L) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 385,
+    "en": "Vive (L) Trackpad Y",
+    "before": "Vive (يسار) لوحة اللمس Y",
+    "after": "Vive (L) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 386,
+    "en": "Vive (L) Trigger",
+    "before": "Vive (يسار) الزناد",
+    "after": "Vive (L) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Left_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 387,
+    "en": "Vive (L) Trigger Axis",
+    "before": "Vive (يسار) محور الزناد",
+    "after": "Vive (L) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Grip_Click",
+    "target": "EngineRuntime",
+    "index": 388,
+    "en": "Vive (R) Grip",
+    "before": "Vive (يمين) إمساك",
+    "after": "Vive (R) Grip",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Menu_Click",
+    "target": "EngineRuntime",
+    "index": 389,
+    "en": "Vive (R) Menu",
+    "before": "Vive (يمين) القائمة",
+    "after": "Vive (R) Menu",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_System_Click",
+    "target": "EngineRuntime",
+    "index": 390,
+    "en": "Vive (R) System",
+    "before": "Vive (يمين) النظام",
+    "after": "Vive (R) System",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_Click",
+    "target": "EngineRuntime",
+    "index": 391,
+    "en": "Vive (R) Trackpad",
+    "before": "Vive (يمين) لوحة اللمس",
+    "after": "Vive (R) Trackpad",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_Down",
+    "target": "EngineRuntime",
+    "index": 392,
+    "en": "Vive (R) Trackpad Down",
+    "before": "Vive (يمين) لوحة اللمس أسفل",
+    "after": "Vive (R) Trackpad Down",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_Left",
+    "target": "EngineRuntime",
+    "index": 393,
+    "en": "Vive (R) Trackpad Left",
+    "before": "Vive (يمين) لوحة اللمس يسار",
+    "after": "Vive (R) Trackpad Left",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_Right",
+    "target": "EngineRuntime",
+    "index": 394,
+    "en": "Vive (R) Trackpad Right",
+    "before": "Vive (يمين) لوحة اللمس يمين",
+    "after": "Vive (R) Trackpad Right",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_Touch",
+    "target": "EngineRuntime",
+    "index": 395,
+    "en": "Vive (R) Trackpad Touch",
+    "before": "Vive (يمين) لمس اللوحة",
+    "after": "Vive (R) Trackpad Touch",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_Up",
+    "target": "EngineRuntime",
+    "index": 396,
+    "en": "Vive (R) Trackpad Up",
+    "before": "Vive (يمين) لوحة اللمس أعلى",
+    "after": "Vive (R) Trackpad Up",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_X",
+    "target": "EngineRuntime",
+    "index": 397,
+    "en": "Vive (R) Trackpad X",
+    "before": "Vive (يمين) لوحة اللمس X",
+    "after": "Vive (R) Trackpad X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trackpad_Y",
+    "target": "EngineRuntime",
+    "index": 398,
+    "en": "Vive (R) Trackpad Y",
+    "before": "Vive (يمين) لوحة اللمس Y",
+    "after": "Vive (R) Trackpad Y",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trigger_Click",
+    "target": "EngineRuntime",
+    "index": 399,
+    "en": "Vive (R) Trigger",
+    "before": "Vive (يمين) الزناد",
+    "after": "Vive (R) Trigger",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeys:Vive_Right_Trigger_Axis",
+    "target": "EngineRuntime",
+    "index": 400,
+    "en": "Vive (R) Trigger Axis",
+    "before": "Vive (يمين) محور الزناد",
+    "after": "Vive (R) Trigger Axis",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "EngineRuntime:InputKeySelector:DefaultEmptyText",
+    "target": "EngineRuntime",
+    "index": 404,
+    "en": "Empty",
+    "before": "فارغ",
+    "after": "Empty",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::7A8CB35C407C1E03E7DAC5A164F6832E",
+    "target": "Shared",
+    "index": 210,
+    "en": "Back",
+    "before": "رجوع",
+    "after": "Back",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::41F40E5F400982383485EE8AA7D44407",
+    "target": "Shared",
+    "index": 349,
+    "en": "Dispatch Pre-alpha X.X.X",
+    "before": "نسخة Dispatch ما قبل ألفا X.X.X",
+    "after": "Dispatch Pre-alpha X.X.X",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::9BF7B9654D9DF6713083FEA74B58CE09",
+    "target": "Shared",
+    "index": 630,
+    "en": "Restore All Defaults",
+    "before": "استعادة كل الإعدادات الافتراضية",
+    "after": "Restore All Defaults",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::993C49574B179151E1224B9DE10C6A9E",
+    "target": "Shared",
+    "index": 658,
+    "en": "SETTINGS 01",
+    "before": "الإعدادات 01",
+    "after": "SETTINGS 01",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::0AFFAB4144154455F3FE36B731F9C587",
+    "target": "Shared",
+    "index": 698,
+    "en": "Setting Name",
+    "before": "اسم الإعداد",
+    "after": "Setting Name",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::4F1A7CF444388E2D350B94997E73E9CC",
+    "target": "Shared",
+    "index": 699,
+    "en": "Setting Name",
+    "before": "اسم الإعداد",
+    "after": "Setting Name",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::9125690D4BBDA0865A96D9964C91A09A",
+    "target": "Shared",
+    "index": 700,
+    "en": "Settings",
+    "before": "الإعدادات",
+    "after": "Settings",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::2B3123B343150DCC3ED35FA87C4A5AAF",
+    "target": "Shared",
+    "index": 701,
+    "en": "Settings Name",
+    "before": "اسم الإعدادات",
+    "after": "Settings Name",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared::0A57359F4F7D69D6011895A06E01372A",
+    "target": "Shared",
+    "index": 773,
+    "en": "Unlimited",
+    "before": "غير محدود",
+    "after": "Unlimited",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingCategoryAccessibility",
+    "target": "Shared",
+    "index": 1019,
+    "en": "Accessibility",
+    "before": "تسهيلات الاستخدام",
+    "after": "Accessibility",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:AnalyticsEnabled",
+    "target": "Shared",
+    "index": 1020,
+    "en": "Allow Remote Analytics",
+    "before": "السماح بإرسال بيانات التحليل",
+    "after": "Allow Remote Analytics",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitleTypewriterAnimationEnabled",
+    "target": "Shared",
+    "index": 1021,
+    "en": "Animation",
+    "before": "الظهور التدريجي",
+    "after": "Animation",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitlesLetterboxEnabled",
+    "target": "Shared",
+    "index": 1022,
+    "en": "Background",
+    "before": "الخلفية",
+    "after": "Background",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitlesLetterboxOpacity",
+    "target": "Shared",
+    "index": 1023,
+    "en": "Background Opacity",
+    "before": "عتامة الخلفية",
+    "after": "Background Opacity",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:CensorshipStyleBlackout",
+    "target": "Shared",
+    "index": 1024,
+    "en": "Blackout",
+    "before": "تعتيم",
+    "after": "Blackout",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:Commentary_Cast",
+    "target": "Shared",
+    "index": 1025,
+    "en": "Cast",
+    "before": "طاقم التمثيل",
+    "after": "Cast",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:CensorshipStyle",
+    "target": "Shared",
+    "index": 1026,
+    "en": "Censorship Style",
+    "before": "نمط الحجب",
+    "after": "Censorship Style",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:CensorshipStyleChaotic",
+    "target": "Shared",
+    "index": 1027,
+    "en": "Chaotic",
+    "before": "فوضوي",
+    "after": "Chaotic",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:QuickTimeEventsOff",
+    "target": "Shared",
+    "index": 1028,
+    "en": "Cinematic (Off)",
+    "before": "سينمائي (إيقاف)",
+    "after": "Cinematic (Off)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MusicVolumeCinematics",
+    "target": "Shared",
+    "index": 1029,
+    "en": "Cinematic Music Volume",
+    "before": "مستوى موسيقى المشاهد",
+    "after": "Cinematic Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MusicVolumeCinematics_Nintendo",
+    "target": "Shared",
+    "index": 1030,
+    "en": "Cinematic Music Volume",
+    "before": "مستوى موسيقى المشاهد",
+    "after": "Cinematic Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:ColorblindSetting",
+    "target": "Shared",
+    "index": 1031,
+    "en": "Colorblind Mode",
+    "before": "وضع عمى الألوان",
+    "after": "Colorblind Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:ColorblindIntensitySetting",
+    "target": "Shared",
+    "index": 1032,
+    "en": "Colorblind Mode Intensity",
+    "before": "شدة وضع عمى الألوان",
+    "after": "Colorblind Mode Intensity",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:Commentary",
+    "target": "Shared",
+    "index": 1033,
+    "en": "Commentary",
+    "before": "التعليق",
+    "after": "Commentary",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:CommentaryVolume",
+    "target": "Shared",
+    "index": 1034,
+    "en": "Commentary Volume",
+    "before": "مستوى صوت التعليق",
+    "after": "Commentary Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:CommentaryVolume_Nintendo",
+    "target": "Shared",
+    "index": 1035,
+    "en": "Commentary Volume",
+    "before": "مستوى صوت التعليق",
+    "after": "Commentary Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:ControllerPreset",
+    "target": "Shared",
+    "index": 1036,
+    "en": "Controller Binding",
+    "before": "تعيين أزرار يد التحكم",
+    "after": "Controller Binding",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingCategoryControls",
+    "target": "Shared",
+    "index": 1037,
+    "en": "Controls",
+    "before": "التحكم",
+    "after": "Controls",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:Commentary_Crew",
+    "target": "Shared",
+    "index": 1038,
+    "en": "Crew",
+    "before": "طاقم التطوير",
+    "after": "Crew",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:CensorshipStyleTooltip",
+    "target": "Shared",
+    "index": 1039,
+    "en": "Customize your censorship experience.",
+    "before": "خصص خيارات الحجب حسب رغبتك.",
+    "after": "Customize your censorship experience.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:Commentary_Dev",
+    "target": "Shared",
+    "index": 1040,
+    "en": "Developer",
+    "before": "المطور",
+    "after": "Developer",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:DialogueBoost",
+    "target": "Shared",
+    "index": 1041,
+    "en": "Dialogue Boost",
+    "before": "تعزيز صوت الحوار",
+    "after": "Dialogue Boost",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingCategoryDisplay",
+    "target": "Shared",
+    "index": 1042,
+    "en": "Display",
+    "before": "العرض",
+    "after": "Display",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:FullscreenEnabled",
+    "target": "Shared",
+    "index": 1043,
+    "en": "Display Mode",
+    "before": "وضع العرض",
+    "after": "Display Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingCategoryFilters",
+    "target": "Shared",
+    "index": 1044,
+    "en": "Filters",
+    "before": "المرشحات",
+    "after": "Filters",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingsCensorFull",
+    "target": "Shared",
+    "index": 1045,
+    "en": "Full",
+    "before": "كامل",
+    "after": "Full",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:FullscreenEnabledTrue",
+    "target": "Shared",
+    "index": 1046,
+    "en": "Fullscreen",
+    "before": "ملء الشاشة",
+    "after": "Fullscreen",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:GamepadType",
+    "target": "Shared",
+    "index": 1047,
+    "en": "Gamepad Type",
+    "before": "نوع يد التحكم",
+    "after": "Gamepad Type",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingCategoryGeneral",
+    "target": "Shared",
+    "index": 1048,
+    "en": "General",
+    "before": "عام",
+    "after": "General",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MasterVolume",
+    "target": "Shared",
+    "index": 1049,
+    "en": "Global Volume",
+    "before": "مستوى الصوت العام",
+    "after": "Global Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MasterVolume_Nintendo",
+    "target": "Shared",
+    "index": 1050,
+    "en": "Global Volume",
+    "before": "مستوى الصوت العام",
+    "after": "Global Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:QuickTimeEventsOn",
+    "target": "Shared",
+    "index": 1051,
+    "en": "Interactive (On)",
+    "before": "تفاعلي (تشغيل)",
+    "after": "Interactive (On)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:Language",
+    "target": "Shared",
+    "index": 1052,
+    "en": "Language",
+    "before": "اللغة",
+    "after": "Language",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:LargeSubtitlesOn",
+    "target": "Shared",
+    "index": 1053,
+    "en": "Large",
+    "before": "كبير",
+    "after": "Large",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingCategoryMisc",
+    "target": "Shared",
+    "index": 1054,
+    "en": "Misc",
+    "before": "متفرقات",
+    "after": "Misc",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MonitorAdditiveFX",
+    "target": "Shared",
+    "index": 1055,
+    "en": "Monitor Additive FX",
+    "before": "مؤثرات الشاشة الإضافية",
+    "after": "Monitor Additive FX",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MonitorVisualWarping",
+    "target": "Shared",
+    "index": 1056,
+    "en": "Monitor Visual Warping",
+    "before": "تشوهات الشاشة البصرية",
+    "after": "Monitor Visual Warping",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MonoAudio",
+    "target": "Shared",
+    "index": 1057,
+    "en": "Mono-Mix Mode",
+    "before": "وضع الصوت الأحادي",
+    "after": "Mono-Mix Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:CensorshipStyleMosaic",
+    "target": "Shared",
+    "index": 1058,
+    "en": "Mosaic",
+    "before": "فسيفساء",
+    "after": "Mosaic",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MKBPreset",
+    "target": "Shared",
+    "index": 1059,
+    "en": "Mouse and Keyboard Binding",
+    "before": "تعيين أزرار الفأرة ولوحة المفاتيح",
+    "after": "Mouse and Keyboard Binding",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingsOff",
+    "target": "Shared",
+    "index": 1060,
+    "en": "Off",
+    "before": "إيقاف",
+    "after": "Off",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingsOn",
+    "target": "Shared",
+    "index": 1061,
+    "en": "On",
+    "before": "تشغيل",
+    "after": "On",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingsCensorPartial",
+    "target": "Shared",
+    "index": 1062,
+    "en": "Partial",
+    "before": "جزئي",
+    "after": "Partial",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:PauseOnLostFocus",
+    "target": "Shared",
+    "index": 1063,
+    "en": "Pause On Lost Focus",
+    "before": "إيقاف مؤقت عند مغادرة النافذة",
+    "after": "Pause On Lost Focus",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitlesColorEnabledTrue",
+    "target": "Shared",
+    "index": 1064,
+    "en": "Per-Character",
+    "before": "حسب الشخصية",
+    "after": "Per-Character",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:StreamerModeCensoredAudio",
+    "target": "Shared",
+    "index": 1065,
+    "en": "Profanity Censorship",
+    "before": "حجب الألفاظ النابية",
+    "after": "Profanity Censorship",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:QuickTimeEvents",
+    "target": "Shared",
+    "index": 1066,
+    "en": "Quick-Time Events",
+    "before": "أحداث الضغط السريع",
+    "after": "Quick-Time Events",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:DisableCopyrightedMusic",
+    "target": "Shared",
+    "index": 1067,
+    "en": "Replace Licensed Music",
+    "before": "استبدال الموسيقى المرخصة",
+    "after": "Replace Licensed Music",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SFXVolume",
+    "target": "Shared",
+    "index": 1068,
+    "en": "SFX Volume",
+    "before": "مستوى المؤثرات الصوتية",
+    "after": "SFX Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SFXVolume_Nintendo",
+    "target": "Shared",
+    "index": 1069,
+    "en": "SFX Volume",
+    "before": "مستوى المؤثرات الصوتية",
+    "after": "SFX Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MusicVolumeGameplay",
+    "target": "Shared",
+    "index": 1070,
+    "en": "Shift Music Volume",
+    "before": "مستوى موسيقى المناوبة",
+    "after": "Shift Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:MusicVolumeGameplay_Nintendo",
+    "target": "Shared",
+    "index": 1071,
+    "en": "Shift Music Volume",
+    "before": "مستوى موسيقى المناوبة",
+    "after": "Shift Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingCategorySound",
+    "target": "Shared",
+    "index": 1072,
+    "en": "Sound",
+    "before": "الصوت",
+    "after": "Sound",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitleSpeakerNamesEnabled",
+    "target": "Shared",
+    "index": 1073,
+    "en": "Speaker Names",
+    "before": "أسماء المتحدثين",
+    "after": "Speaker Names",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:LargeSubtitlesOff",
+    "target": "Shared",
+    "index": 1074,
+    "en": "Standard",
+    "before": "قياسي",
+    "after": "Standard",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:StoryboardMode",
+    "target": "Shared",
+    "index": 1075,
+    "en": "Storyboard Mode",
+    "before": "وضع لوحة القصة",
+    "after": "Storyboard Mode",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitlesColorEnabled",
+    "target": "Shared",
+    "index": 1076,
+    "en": "Subtitle Color",
+    "before": "لون الترجمة النصية",
+    "after": "Subtitle Color",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingSubCategorySubtitles",
+    "target": "Shared",
+    "index": 1077,
+    "en": "Subtitles",
+    "before": "الترجمة النصية",
+    "after": "Subtitles",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitlesEnabled",
+    "target": "Shared",
+    "index": 1078,
+    "en": "Subtitles",
+    "before": "الترجمة النصية",
+    "after": "Subtitles",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:LargeSubtitles",
+    "target": "Shared",
+    "index": 1079,
+    "en": "Text Size",
+    "before": "حجم النص",
+    "after": "Text Size",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:HackingEasyMode",
+    "target": "Shared",
+    "index": 1080,
+    "en": "Unlimited Hacking Attempts",
+    "before": "محاولات اختراق غير محدودة",
+    "after": "Unlimited Hacking Attempts",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:VOVolume",
+    "target": "Shared",
+    "index": 1081,
+    "en": "VO Volume",
+    "before": "مستوى أصوات الشخصيات",
+    "after": "VO Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:VOVolume_Nintendo",
+    "target": "Shared",
+    "index": 1082,
+    "en": "VO Volume",
+    "before": "مستوى أصوات الشخصيات",
+    "after": "VO Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:VSyncEnabled",
+    "target": "Shared",
+    "index": 1083,
+    "en": "VSync",
+    "before": "المزامنة الرأسية",
+    "after": "VSync",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:StreamerModeCensorBars",
+    "target": "Shared",
+    "index": 1084,
+    "en": "Visual Censorship",
+    "before": "الحجب البصري",
+    "after": "Visual Censorship",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SubtitlesColorEnabledFalse",
+    "target": "Shared",
+    "index": 1085,
+    "en": "White",
+    "before": "أبيض",
+    "after": "White",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:FullscreenEnabledFalse",
+    "target": "Shared",
+    "index": 1086,
+    "en": "Windowed",
+    "before": "وضع النافذة",
+    "after": "Windowed",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:WindowedResolution",
+    "target": "Shared",
+    "index": 1087,
+    "en": "Windowed Resolution",
+    "before": "دقة النافذة",
+    "after": "Windowed Resolution",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingsCensorFullTooltip",
+    "target": "Shared",
+    "index": 1088,
+    "en": "^Full:^ All nudity and obscene gestures are censored.",
+    "before": "^كامل:^ يُحجب كل العري والإشارات البذيئة.",
+    "after": "^Full:^ All nudity and obscene gestures are censored.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings:SettingsPartialTooltip",
+    "target": "Shared",
+    "index": 1089,
+    "en": "^Partial:^ Only genitalia are censored.",
+    "before": "^جزئي:^ تُحجب الأعضاء التناسلية فقط.",
+    "after": "^Partial:^ Only genitalia are censored.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings.ColorblindSetting:Deuteranope",
+    "target": "Shared",
+    "index": 1090,
+    "en": "Deuteranopia (Green-Blind)",
+    "before": "عمى اللون الأخضر",
+    "after": "Deuteranopia (Green-Blind)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings.ColorblindSetting:NormalVision",
+    "target": "Shared",
+    "index": 1091,
+    "en": "None",
+    "before": "بلا",
+    "after": "None",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings.ColorblindSetting:Protanope",
+    "target": "Shared",
+    "index": 1092,
+    "en": "Protanopia (Red-Blind)",
+    "before": "عمى اللون الأحمر",
+    "after": "Protanopia (Red-Blind)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:DispatchSettings.ColorblindSetting:Tritanope",
+    "target": "Shared",
+    "index": 1093,
+    "en": "Tritanopia (Blue-Blind)",
+    "before": "عمى اللون الأزرق",
+    "after": "Tritanopia (Blue-Blind)",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:FirstTimeUserExperience:BlurbNudity",
+    "target": "Shared",
+    "index": 1226,
+    "en": "Turn ON to censor visuals such as nudity.",
+    "before": "فعّل لحجب المشاهد كالعري.",
+    "after": "Turn ON to censor visuals such as nudity.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:SettingsSubtitlePreview:TestSubtitle",
+    "target": "Shared",
+    "index": 1585,
+    "en": "This is how subtitles will appear.",
+    "before": "هكذا ستظهر الترجمة النصية.",
+    "after": "This is how subtitles will appear.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_InputBindingPresets:Default",
+    "target": "Shared",
+    "index": 1632,
+    "en": "Default",
+    "before": "افتراضي",
+    "after": "Default",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_InputBindingPresets:LeftHanded",
+    "target": "Shared",
+    "index": 1633,
+    "en": "Left Handed",
+    "before": "لأصحاب اليد اليسرى",
+    "after": "Left Handed",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_InputBindingPresets:LowFlexibility",
+    "target": "Shared",
+    "index": 1634,
+    "en": "Low Flexibility",
+    "before": "مرونة محدودة",
+    "after": "Low Flexibility",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_InputBindingPresets:RightHanded",
+    "target": "Shared",
+    "index": 1635,
+    "en": "Right Handed",
+    "before": "لأصحاب اليد اليمنى",
+    "after": "Right Handed",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_MenuTitles:Settings",
+    "target": "Shared",
+    "index": 1637,
+    "en": "Settings",
+    "before": "الإعدادات",
+    "after": "Settings",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:AnalyticsPermission",
+    "target": "Shared",
+    "index": 1640,
+    "en": "Analytics Consent",
+    "before": "الموافقة على التحليلات",
+    "after": "Analytics Consent",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:MusicVolumeCinematics",
+    "target": "Shared",
+    "index": 1641,
+    "en": "Cinematic Music Volume",
+    "before": "مستوى موسيقى المشاهد",
+    "after": "Cinematic Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:EditResponse",
+    "target": "Shared",
+    "index": 1642,
+    "en": "Edit Response",
+    "before": "تعديل الرد",
+    "after": "Edit Response",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:MasterVolume",
+    "target": "Shared",
+    "index": 1643,
+    "en": "Global Volume",
+    "before": "مستوى الصوت العام",
+    "after": "Global Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:Licenses",
+    "target": "Shared",
+    "index": 1644,
+    "en": "Licenses",
+    "before": "التراخيص",
+    "after": "Licenses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:PCLicensesButton",
+    "target": "Shared",
+    "index": 1645,
+    "en": "Licenses",
+    "before": "التراخيص",
+    "after": "Licenses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:LicensedMusicVerify",
+    "target": "Shared",
+    "index": 1646,
+    "en": "Our game features licensed music, all of which has been whitelisted and should be OK to stream and share with others. We think the experience is best with this set to off, but the feature is here for those who want to be extra safe.",
+    "before": "تتضمن لعبتنا موسيقى مرخصة أُجيز بث جميع مقطوعاتها ومشاركتها مع الآخرين، ويُفترض ألا تسبب مشكلة. نرى أن التجربة أفضل عند إيقاف هذا الخيار، لكنه متاح لمن يفضل مزيدًا من الاحتياط.",
+    "after": "Our game features licensed music, all of which has been whitelisted and should be OK to stream and share with others. We think the experience is best with this set to off, but the feature is here for those who want to be extra safe.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:LicensedMusicAlt",
+    "target": "Shared",
+    "index": 1647,
+    "en": "Our game features licensed music, some of which isn’t cleared for streaming or sharing. This setting lets you replace any non-whitelisted tracks with safe-to-stream alternatives.",
+    "before": "تتضمن لعبتنا موسيقى مرخصة لم يُسمح ببث بعض مقطوعاتها أو مشاركتها. يتيح هذا الإعداد استبدال المقطوعات غير المصرح بها ببدائل مناسبة للبث.",
+    "after": "Our game features licensed music, some of which isn’t cleared for streaming or sharing. This setting lets you replace any non-whitelisted tracks with safe-to-stream alternatives.",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:ConsolePermissionsButton",
+    "target": "Shared",
+    "index": 1648,
+    "en": "Permissions and Licenses",
+    "before": "الأذونات والتراخيص",
+    "after": "Permissions and Licenses",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:SFXVolume",
+    "target": "Shared",
+    "index": 1649,
+    "en": "SFX Volume",
+    "before": "مستوى المؤثرات الصوتية",
+    "after": "SFX Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:MusicVolumeGameplay",
+    "target": "Shared",
+    "index": 1650,
+    "en": "Shift Music Volume",
+    "before": "مستوى موسيقى المناوبة",
+    "after": "Shift Music Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:TermsOfService",
+    "target": "Shared",
+    "index": 1651,
+    "en": "Terms of Service",
+    "before": "شروط الخدمة",
+    "after": "Terms of Service",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  },
+  {
+    "id": "Shared:ST_SettingsMenu:VOVolume",
+    "target": "Shared",
+    "index": 1652,
+    "en": "VO Volume",
+    "before": "مستوى أصوات الشخصيات",
+    "after": "VO Volume",
+    "reason": "User requested English settings and input-binding labels on 2026-10-28."
+  }
+]

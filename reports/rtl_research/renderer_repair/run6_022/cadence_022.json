@@ -1,0 +1,243 @@
+{
+ "label": "OFFLINE MODEL / emitted-bytecode replay at fixed 60 fps - not Unreal execution, not in-game timing",
+ "inputs": {
+  "wbp_json": "builds\\rtl_poc\\r8b_repair_019\\WBP_SubtitleBlock_AR_R8B_REPAIR_019.json",
+  "installed_wbp_uasset_sha256": "e4189ec226170f487ed232ebc0a4659fa559d91738a2aea6d59f892cd02b6f52",
+  "subtitles": 7488
+ },
+ "emitted_bytecode_crosscheck": {
+  "sample": 150,
+  "unit_delays_equal_reference": 150,
+  "reveal_frames_equal_model": 147,
+  "max_frame_diff": 1,
+  "note": "0.025 s = 1.5 frames, so every 2nd boundary is an exact frame tie; float32 tie-break moves it <= 1 frame"
+ },
+ "units": {
+  "count": 46939,
+  "letters_mean": 4.59,
+  "letters_median": 4,
+  "letters_p90": 7,
+  "letters_max": 147,
+  "lines_over_37_units": 17,
+  "merged_tail_letters_total": 981,
+  "tail_gap_frames_top10": [
+   66,
+   66,
+   89,
+   94,
+   101,
+   109,
+   120,
+   131,
+   172,
+   220
+  ]
+ },
+ "r8b_word_units": {
+  "visible_changes": 46939,
+  "changes_per_second": 8.4,
+  "share_of_frames_with_visible_change": 0.14,
+  "gap_frames": {
+   "p10": 3,
+   "median": 6,
+   "mean": 6.87,
+   "p90": 11,
+   "max": 220,
+   "cv": 0.494,
+   "share_ge_10": 0.15,
+   "histogram_capped_20": {
+    "1": 8,
+    "2": 633,
+    "3": 4313,
+    "4": 3458,
+    "5": 4906,
+    "6": 7194,
+    "7": 3616,
+    "8": 3921,
+    "9": 5497,
+    "10": 1691,
+    "11": 1842,
+    "12": 1358,
+    "13": 346,
+    "14": 332,
+    "15": 205,
+    "16": 36,
+    "17": 37,
+    "18": 31,
+    "19": 4,
+    "20": 23
+   }
+  },
+  "chars_per_change": {
+   "mean": 4.59,
+   "p90": 7,
+   "max": 147
+  }
+ },
+ "native_proto_letters": {
+  "visible_changes": 208073,
+  "changes_per_second": 37.23,
+  "share_of_frames_with_visible_change": 0.62,
+  "gap_frames": {
+   "p10": 1,
+   "median": 2,
+   "mean": 1.52,
+   "p90": 2,
+   "max": 2,
+   "cv": 0.329,
+   "share_ge_10": 0.0,
+   "histogram_capped_20": {
+    "1": 96685,
+    "2": 103900
+   }
+  },
+  "chars_per_change": {
+   "mean": 1.04,
+   "p90": 1,
+   "max": 2
+  }
+ },
+ "frames_revealing_more_than_one_unit": 0,
+ "line_end_frame_minus_native": {
+  "-1": 645,
+  "0": 5927,
+  "1": 916
+ },
+ "first_visible_frame": {
+  "r8b_median": 7.0,
+  "r8b_p90": 10,
+  "native_median": 3.0,
+  "native_p90": 3
+ },
+ "fractional_threshold_ramp_DESIGN_INFERENCE": {
+  "next_unit_opacity_at_f": {
+   "0": 0.0,
+   "0.25": 0.079,
+   "0.5": 0.233,
+   "0.75": 0.509,
+   "0.999": 0.999
+  },
+  "distinct_levels": 167,
+  "max_level_step": 0.0099,
+  "unit_after_next_max_opacity": 0.0,
+  "revealed_unit_opacity_min": 0.9990000000000001
+ },
+ "example": {
+  "text": "أيمكنك توصيلي يا ميكا مان؟",
+  "unit_letters": [
+   6,
+   6,
+   2,
+   4,
+   4
+  ],
+  "r8b_changes_frame_chars": [
+   [
+    10,
+    6
+   ],
+   [
+    19,
+    6
+   ],
+   [
+    21,
+    2
+   ],
+   [
+    27,
+    4
+   ],
+   [
+    33,
+    4
+   ]
+  ],
+  "native_changes_frame_chars": [
+   [
+    3,
+    2
+   ],
+   [
+    5,
+    1
+   ],
+   [
+    6,
+    1
+   ],
+   [
+    8,
+    1
+   ],
+   [
+    9,
+    1
+   ],
+   [
+    11,
+    1
+   ],
+   [
+    12,
+    1
+   ],
+   [
+    14,
+    1
+   ],
+   [
+    16,
+    1
+   ],
+   [
+    17,
+    1
+   ],
+   [
+    18,
+    1
+   ],
+   [
+    20,
+    1
+   ],
+   [
+    21,
+    1
+   ],
+   [
+    23,
+    1
+   ],
+   [
+    24,
+    1
+   ],
+   [
+    26,
+    1
+   ],
+   [
+    27,
+    1
+   ],
+   [
+    29,
+    1
+   ],
+   [
+    30,
+    1
+   ],
+   [
+    32,
+    1
+   ],
+   [
+    33,
+    1
+   ]
+  ]
+ }
+}

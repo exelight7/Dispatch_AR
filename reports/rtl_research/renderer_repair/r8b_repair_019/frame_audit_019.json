@@ -1,0 +1,2488 @@
+{
+ "function": "Build Arabic Timing",
+ "export": 66,
+ "metadata": {
+  "before": {
+   "FunctionFlags": "FUNC_Public, FUNC_HasOutParms, FUNC_HasDefaults, FUNC_BlueprintCallable, FUNC_BlueprintEvent",
+   "PropertiesSize": 216,
+   "ParmsSize": 48,
+   "NumParms": 3,
+   "ReturnValueOffset": 32,
+   "ScriptBytecodeSize": 2893,
+   "bytecode": {
+    "logical": 2893,
+    "serialized": 4049,
+    "instructions": 85,
+    "sha256": "D4AB0C58AFDEC863C7FC009E427F1B7BF40566D04F6183C3BA7A5C6EC7A582A3"
+   },
+   "parameter_table": [
+    {
+     "name": "Content",
+     "type": "StrProperty",
+     "flags": "CPF_Parm",
+     "offset": 0,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "parameter"
+    },
+    {
+     "name": "Speaker",
+     "type": "StrProperty",
+     "flags": "CPF_Parm",
+     "offset": 16,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "parameter"
+    },
+    {
+     "name": "ReturnValue",
+     "type": "StrProperty",
+     "flags": "CPF_Parm, CPF_OutParm, CPF_ReturnParm",
+     "offset": 32,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "return"
+    }
+   ],
+   "local_property_table": [
+    {
+     "name": "Input",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 48,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Lead",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 64,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Token",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 80,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Gap",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 96,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Pending",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 112,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "PendingGap",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 128,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Output",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 144,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Character",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 160,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Phase",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 176,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Cursor",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 180,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Length",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 184,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Scan",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 188,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Count",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 192,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "RawCount",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 196,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "SpeakerCount",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 200,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "PreviousInSegment",
+     "type": "BoolProperty",
+     "flags": "CPF_None",
+     "offset": 204,
+     "runtimeSize": 1,
+     "alignment": 1,
+     "ElementSize": 1,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "HasLetter",
+     "type": "BoolProperty",
+     "flags": "CPF_None",
+     "offset": 205,
+     "runtimeSize": 1,
+     "alignment": 1,
+     "ElementSize": 1,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "UnitDelay",
+     "type": "FloatProperty",
+     "flags": "CPF_None",
+     "offset": 208,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "DiscardedArrayIndex",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 212,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    }
+   ],
+   "return_statements": [
+    {
+     "instruction": 83,
+     "expression": "LocalVariable"
+    }
+   ],
+   "bytecode_property_operands": [
+    "Content",
+    "Count",
+    "Cursor",
+    "DiscardedArrayIndex",
+    "Gap",
+    "HasLetter",
+    "Input",
+    "Lead",
+    "Length",
+    "Output",
+    "Pending",
+    "PendingGap",
+    "Phase",
+    "PreviousInSegment",
+    "RawCount",
+    "Scan",
+    "Speaker",
+    "SpeakerCount",
+    "Token",
+    "UnitDelay"
+   ],
+   "unresolved_property_operands": []
+  },
+  "after": {
+   "FunctionFlags": "FUNC_Public, FUNC_HasDefaults, FUNC_BlueprintCallable, FUNC_BlueprintEvent",
+   "PropertiesSize": 200,
+   "ParmsSize": 32,
+   "NumParms": 2,
+   "ReturnValueOffset": "MAX_uint16",
+   "ScriptBytecodeSize": 2885,
+   "bytecode": {
+    "logical": 2885,
+    "serialized": 4033,
+    "instructions": 85,
+    "sha256": "585DD2191C95D342D2884C48FA7FA237511BF403ACA94FD88ADD3EE3781C9BCC"
+   },
+   "parameter_table": [
+    {
+     "name": "Content",
+     "type": "StrProperty",
+     "flags": "CPF_Parm",
+     "offset": 0,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "parameter"
+    },
+    {
+     "name": "Speaker",
+     "type": "StrProperty",
+     "flags": "CPF_Parm",
+     "offset": 16,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "parameter"
+    }
+   ],
+   "local_property_table": [
+    {
+     "name": "Input",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 32,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Lead",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 48,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Token",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 64,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Gap",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 80,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Pending",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 96,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "PendingGap",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 112,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Output",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 128,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Character",
+     "type": "StrProperty",
+     "flags": "CPF_None",
+     "offset": 144,
+     "runtimeSize": 16,
+     "alignment": 8,
+     "ElementSize": 16,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Phase",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 160,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Cursor",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 164,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Length",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 168,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Scan",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 172,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "Count",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 176,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "RawCount",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 180,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "SpeakerCount",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 184,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "PreviousInSegment",
+     "type": "BoolProperty",
+     "flags": "CPF_None",
+     "offset": 188,
+     "runtimeSize": 1,
+     "alignment": 1,
+     "ElementSize": 1,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "HasLetter",
+     "type": "BoolProperty",
+     "flags": "CPF_None",
+     "offset": 189,
+     "runtimeSize": 1,
+     "alignment": 1,
+     "ElementSize": 1,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "UnitDelay",
+     "type": "FloatProperty",
+     "flags": "CPF_None",
+     "offset": 192,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    },
+    {
+     "name": "DiscardedArrayIndex",
+     "type": "IntProperty",
+     "flags": "CPF_None",
+     "offset": 196,
+     "runtimeSize": 4,
+     "alignment": 4,
+     "ElementSize": 4,
+     "ArrayDim": 1,
+     "role": "local"
+    }
+   ],
+   "return_statements": [
+    {
+     "instruction": 83,
+     "expression": "Nothing"
+    }
+   ],
+   "bytecode_property_operands": [
+    "Content",
+    "Count",
+    "Cursor",
+    "DiscardedArrayIndex",
+    "Gap",
+    "HasLetter",
+    "Input",
+    "Lead",
+    "Length",
+    "Output",
+    "Pending",
+    "PendingGap",
+    "Phase",
+    "PreviousInSegment",
+    "RawCount",
+    "Scan",
+    "Speaker",
+    "SpeakerCount",
+    "Token",
+    "UnitDelay"
+   ],
+   "unresolved_property_operands": []
+  }
+ },
+ "checks": {
+  "return_property_removed": true,
+  "has_out_parms_cleared": true,
+  "no_out_parameters_left": true,
+  "parameters_unchanged": true,
+  "locals_same_order_shifted_by_return_size": true,
+  "sizes": true,
+  "element_size_matches_runtime": true,
+  "single_return_nothing": true,
+  "bytecode_shrinks_by_one_operand": true,
+  "property_operands_resolve": true,
+  "only_timing_layout_changed": true,
+  "run2_site_invalid_before": true,
+  "zero_invalid_after": true,
+  "site66_after_void_statement": true,
+  "all_other_functions_identical_to_012": true,
+  "timing_call_unreachable_from_english": true
+ },
+ "layouts": {
+  "before": {
+   "On Text Finished Letter by Letter Print": {
+    "PropertiesSize": 1,
+    "ParmsSize": 1,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Set Displayed Line": {
+    "PropertiesSize": 481,
+    "ParmsSize": 184,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Stop Displaying Line": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Set Has Outline": {
+    "PropertiesSize": 6,
+    "ParmsSize": 1,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "ChangeTextToLarge": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Set Wrap Text At": {
+    "PropertiesSize": 4,
+    "ParmsSize": 4,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Format As Arabic Plain": {
+    "PropertiesSize": 32,
+    "ParmsSize": 32,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "StrProperty",
+     "size": 16
+    }
+   },
+   "AR Escape": {
+    "PropertiesSize": 32,
+    "ParmsSize": 32,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "StrProperty",
+     "size": 16
+    }
+   },
+   "AR Is Separator": {
+    "PropertiesSize": 17,
+    "ParmsSize": 17,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "BoolProperty",
+     "size": 1
+    }
+   },
+   "AR Is Letter Code": {
+    "PropertiesSize": 5,
+    "ParmsSize": 5,
+    "NumParms": 2,
+    "ReturnValueOffset": 4,
+    "return": {
+     "offset": 4,
+     "type": "BoolProperty",
+     "size": 1
+    }
+   },
+   "Build Arabic Markup": {
+    "PropertiesSize": 206,
+    "ParmsSize": 48,
+    "NumParms": 3,
+    "ReturnValueOffset": 32,
+    "return": {
+     "offset": 32,
+     "type": "StrProperty",
+     "size": 16
+    }
+   },
+   "Set Threshold Arabic": {
+    "PropertiesSize": 8,
+    "ParmsSize": 4,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Finish": {
+    "PropertiesSize": 1,
+    "ParmsSize": 1,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Step": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Advance Budget": {
+    "PropertiesSize": 12,
+    "ParmsSize": 8,
+    "NumParms": 2,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Advance Clocks": {
+    "PropertiesSize": 12,
+    "ParmsSize": 12,
+    "NumParms": 3,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Cancel": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Skip": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "AR Is Combining Code": {
+    "PropertiesSize": 5,
+    "ParmsSize": 5,
+    "NumParms": 2,
+    "ReturnValueOffset": 4,
+    "return": {
+     "offset": 4,
+     "type": "BoolProperty",
+     "size": 1
+    }
+   },
+   "AR Timing Characters": {
+    "PropertiesSize": 40,
+    "ParmsSize": 20,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "IntProperty",
+     "size": 4
+    }
+   },
+   "Build Arabic Timing": {
+    "PropertiesSize": 216,
+    "ParmsSize": 48,
+    "NumParms": 3,
+    "ReturnValueOffset": 32,
+    "return": {
+     "offset": 32,
+     "type": "StrProperty",
+     "size": 16
+    }
+   },
+   "Arabic Apply Style": {
+    "PropertiesSize": 16,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Apply Wrap": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Begin Reveal": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Arm Clock": {
+    "PropertiesSize": 4,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Clock Fired": {
+    "PropertiesSize": 8,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Paused Clock": {
+    "PropertiesSize": 12,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Tick": {
+    "PropertiesSize": 60,
+    "ParmsSize": 60,
+    "NumParms": 2,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   }
+  },
+  "after": {
+   "On Text Finished Letter by Letter Print": {
+    "PropertiesSize": 1,
+    "ParmsSize": 1,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Set Displayed Line": {
+    "PropertiesSize": 481,
+    "ParmsSize": 184,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Stop Displaying Line": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Set Has Outline": {
+    "PropertiesSize": 6,
+    "ParmsSize": 1,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "ChangeTextToLarge": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Set Wrap Text At": {
+    "PropertiesSize": 4,
+    "ParmsSize": 4,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Format As Arabic Plain": {
+    "PropertiesSize": 32,
+    "ParmsSize": 32,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "StrProperty",
+     "size": 16
+    }
+   },
+   "AR Escape": {
+    "PropertiesSize": 32,
+    "ParmsSize": 32,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "StrProperty",
+     "size": 16
+    }
+   },
+   "AR Is Separator": {
+    "PropertiesSize": 17,
+    "ParmsSize": 17,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "BoolProperty",
+     "size": 1
+    }
+   },
+   "AR Is Letter Code": {
+    "PropertiesSize": 5,
+    "ParmsSize": 5,
+    "NumParms": 2,
+    "ReturnValueOffset": 4,
+    "return": {
+     "offset": 4,
+     "type": "BoolProperty",
+     "size": 1
+    }
+   },
+   "Build Arabic Markup": {
+    "PropertiesSize": 206,
+    "ParmsSize": 48,
+    "NumParms": 3,
+    "ReturnValueOffset": 32,
+    "return": {
+     "offset": 32,
+     "type": "StrProperty",
+     "size": 16
+    }
+   },
+   "Set Threshold Arabic": {
+    "PropertiesSize": 8,
+    "ParmsSize": 4,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Finish": {
+    "PropertiesSize": 1,
+    "ParmsSize": 1,
+    "NumParms": 1,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Step": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Advance Budget": {
+    "PropertiesSize": 12,
+    "ParmsSize": 8,
+    "NumParms": 2,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Advance Clocks": {
+    "PropertiesSize": 12,
+    "ParmsSize": 12,
+    "NumParms": 3,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Cancel": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Skip": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "AR Is Combining Code": {
+    "PropertiesSize": 5,
+    "ParmsSize": 5,
+    "NumParms": 2,
+    "ReturnValueOffset": 4,
+    "return": {
+     "offset": 4,
+     "type": "BoolProperty",
+     "size": 1
+    }
+   },
+   "AR Timing Characters": {
+    "PropertiesSize": 40,
+    "ParmsSize": 20,
+    "NumParms": 2,
+    "ReturnValueOffset": 16,
+    "return": {
+     "offset": 16,
+     "type": "IntProperty",
+     "size": 4
+    }
+   },
+   "Build Arabic Timing": {
+    "PropertiesSize": 200,
+    "ParmsSize": 32,
+    "NumParms": 2,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Apply Style": {
+    "PropertiesSize": 16,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Apply Wrap": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Begin Reveal": {
+    "PropertiesSize": 0,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Arm Clock": {
+    "PropertiesSize": 4,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Clock Fired": {
+    "PropertiesSize": 8,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Arabic Paused Clock": {
+    "PropertiesSize": 12,
+    "ParmsSize": 0,
+    "NumParms": 0,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   },
+   "Tick": {
+    "PropertiesSize": 60,
+    "ParmsSize": 60,
+    "NumParms": 2,
+    "ReturnValueOffset": "MAX_uint16",
+    "return": null
+   }
+  }
+ },
+ "layout_changes": [
+  "Build Arabic Timing"
+ ],
+ "english_isolation": {
+  "set_displayed_line_english_reachable": 50,
+  "arabic_reachable": 76,
+  "english_reaches_instruction_66": false
+ },
+ "call_sites": {
+  "before": 1120,
+  "after": 1120
+ },
+ "statement_level_calls_after": [
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 4,
+   "opcode": "EX_FinalFunction",
+   "callee": "UserWidget.OnInitialized",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 5,
+   "opcode": "EX_LocalVirtualFunction",
+   "callee": "Setup Dynamic Material",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 23,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.RequestRender",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 24,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.RequestRender",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 32,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 36,
+   "opcode": "EX_FinalFunction",
+   "callee": "Image.SetOpacity",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 39,
+   "opcode": "EX_LocalVirtualFunction",
+   "callee": "Update Text Color",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 41,
+   "opcode": "EX_CallMulticastDelegate",
+   "callee": "On Finish Letter by Letter Print__DelegateSignature",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 43,
+   "opcode": "EX_FinalFunction",
+   "callee": "UserWidget.PreConstruct",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 44,
+   "opcode": "EX_CallMath",
+   "callee": "AdHocUtilsBlueprintLibrary.SetTextWrapAt",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "instruction": 45,
+   "opcode": "EX_CallMath",
+   "callee": "AdHocUtilsBlueprintLibrary.SetTextWrapAt",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "PreConstruct",
+   "instruction": 1,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "On Text Finished Letter by Letter Print",
+   "instruction": 3,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "On Subtitle Color Enabled Changed",
+   "instruction": 2,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Letterbox Enabled Changed",
+   "instruction": 2,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Letterbox Opacity Changed",
+   "instruction": 2,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "On Print Letter",
+   "instruction": 2,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "OnInitialized",
+   "instruction": 0,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Construct",
+   "instruction": 0,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "ExecuteUbergraph_WBP_SubtitleBlock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 0,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 3,
+   "opcode": "EX_LocalVirtualFunction",
+   "callee": "Update Text Color",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 4,
+   "opcode": "EX_LocalVirtualFunction",
+   "callee": "Dispatch Filter Text Profanity",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 3,
+   "calleeParams": null,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Cancel",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 30,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 32,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 34,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 35,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 37,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetText",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": null,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 38,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetText",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": null,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 39,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 40,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 42,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 43,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 44,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 45,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 46,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 47,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 48,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 49,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.SetRetainRendering",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 50,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.SetRetainRendering",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 52,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 59,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 63,
+   "opcode": "EX_FinalFunction",
+   "callee": "Image.SetOpacity",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 65,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 66,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Build Arabic Timing",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 67,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Wrap",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 68,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Begin Reveal",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 73,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 76,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 77,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 78,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 80,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 82,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 89,
+   "opcode": "EX_LocalVirtualFunction",
+   "callee": "Apply Speaker Name if Needed",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 3,
+   "calleeParams": 3,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 90,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetText",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": null,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 91,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetText",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": null,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 98,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 102,
+   "opcode": "EX_FinalFunction",
+   "callee": "Image.SetOpacity",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 107,
+   "opcode": "EX_VirtualFunction",
+   "callee": "PrintLetterByLetter",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 108,
+   "opcode": "EX_VirtualFunction",
+   "callee": "PrintLetterByLetter",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 110,
+   "opcode": "EX_FinalFunction",
+   "callee": "Widget.InvalidateLayoutAndVolatility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 111,
+   "opcode": "EX_FinalFunction",
+   "callee": "Widget.InvalidateLayoutAndVolatility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 113,
+   "opcode": "EX_VirtualFunction",
+   "callee": "ShowText",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Displayed Line",
+   "instruction": 114,
+   "opcode": "EX_VirtualFunction",
+   "callee": "ShowText",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Stop Displaying Line",
+   "instruction": 0,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Stop Displaying Line",
+   "instruction": 2,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Stop Displaying Line",
+   "instruction": 3,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Stop Displaying Line",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Cancel",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Has Outline",
+   "instruction": 2,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.SetRetainRendering",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Has Outline",
+   "instruction": 3,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.SetRetainRendering",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Has Outline",
+   "instruction": 7,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Has Outline",
+   "instruction": 9,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Style",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Update Text Color",
+   "instruction": 5,
+   "opcode": "EX_FinalFunction",
+   "callee": "MaterialInstanceDynamic.SetVectorParameterValue",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 0,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetProtoTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 1,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetProtoTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 2,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 3,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 4,
+   "opcode": "EX_FinalFunction",
+   "callee": "Widget.InvalidateLayoutAndVolatility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 5,
+   "opcode": "EX_FinalFunction",
+   "callee": "Widget.InvalidateLayoutAndVolatility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "ChangeTextToLarge",
+   "instruction": 7,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Style",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Wrap Text At",
+   "instruction": 1,
+   "opcode": "EX_CallMath",
+   "callee": "AdHocUtilsBlueprintLibrary.SetTextWrapAt",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Wrap Text At",
+   "instruction": 2,
+   "opcode": "EX_CallMath",
+   "callee": "AdHocUtilsBlueprintLibrary.SetTextWrapAt",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Wrap Text At",
+   "instruction": 4,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Apply Wrap",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Threshold Arabic",
+   "instruction": 118,
+   "opcode": "EX_FinalFunction",
+   "callee": "Border.SetContentColorAndOpacity",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Threshold Arabic",
+   "instruction": 119,
+   "opcode": "EX_FinalFunction",
+   "callee": "Border.SetContentColorAndOpacity",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Threshold Arabic",
+   "instruction": 120,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.RequestRender",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Set Threshold Arabic",
+   "instruction": 121,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.RequestRender",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Finish",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Finish",
+   "instruction": 6,
+   "opcode": "EX_CallMath",
+   "callee": "KismetSystemLibrary.K2_ClearTimer",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Finish",
+   "instruction": 8,
+   "opcode": "EX_CallMulticastDelegate",
+   "callee": "On Finish Letter by Letter Print__DelegateSignature",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Step",
+   "instruction": 4,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Step",
+   "instruction": 6,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Budget",
+   "instruction": 5,
+   "opcode": "EX_CallMath",
+   "callee": "KismetArrayLibrary.Array_Get",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 3,
+   "calleeParams": 3,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Budget",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Step",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Budget",
+   "instruction": 10,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Clocks",
+   "instruction": 1,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Advance Clocks",
+   "instruction": 3,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 9,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Set Threshold Arabic",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 10,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 11,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 12,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 13,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 14,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 15,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 16,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Cancel",
+   "instruction": 17,
+   "opcode": "EX_CallMath",
+   "callee": "KismetSystemLibrary.K2_ClearTimer",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Skip",
+   "instruction": 0,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 11,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 13,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 15,
+   "opcode": "EX_FinalFunction",
+   "callee": "RichTextBlock.SetTextStyleSet",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 16,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.SetRetainRendering",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 17,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.SetRetainRendering",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 19,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 21,
+   "opcode": "EX_VirtualFunction",
+   "callee": "SetVisibility",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 22,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.RequestRender",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Style",
+   "instruction": 23,
+   "opcode": "EX_FinalFunction",
+   "callee": "RetainerBox.RequestRender",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Wrap",
+   "instruction": 0,
+   "opcode": "EX_CallMath",
+   "callee": "AdHocUtilsBlueprintLibrary.SetTextWrapAt",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Apply Wrap",
+   "instruction": 1,
+   "opcode": "EX_CallMath",
+   "callee": "AdHocUtilsBlueprintLibrary.SetTextWrapAt",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Begin Reveal",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Begin Reveal",
+   "instruction": 6,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Arm Clock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Begin Reveal",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Finish",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 1,
+   "calleeParams": 1,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Arm Clock",
+   "instruction": 1,
+   "opcode": "EX_CallMath",
+   "callee": "KismetArrayLibrary.Array_Get",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 3,
+   "calleeParams": 3,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Arm Clock",
+   "instruction": 8,
+   "opcode": "EX_CallMath",
+   "callee": "KismetSystemLibrary.K2_SetTimer",
+   "return": "Struct",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 6,
+   "calleeParams": 6,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Clock Fired",
+   "instruction": 5,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Clock Fired",
+   "instruction": 7,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Arm Clock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Paused Clock",
+   "instruction": 6,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Advance Budget",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 2,
+   "calleeParams": 2,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Arabic Paused Clock",
+   "instruction": 8,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Arm Clock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  },
+  {
+   "caller": "Tick",
+   "instruction": 0,
+   "opcode": "EX_LocalFinalFunction",
+   "callee": "Arabic Paused Clock",
+   "return": "void",
+   "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+   "args": 0,
+   "calleeParams": 0,
+   "verdict": "FRAME_LAYOUT_VALID"
+  }
+ ],
+ "invalid": {
+  "before": [
+   {
+    "caller": "Set Displayed Line",
+    "instruction": 66,
+    "opcode": "EX_LocalFinalFunction",
+    "callee": "Build Arabic Timing",
+    "return": "Str",
+    "resultStorage": "VM_SCRATCH_UNCONSTRUCTED",
+    "args": 2,
+    "calleeParams": 2,
+    "verdict": "FRAME_LAYOUT_INVALID"
+   }
+  ],
+  "after": []
+ },
+ "verdict": "FRAME_LAYOUT_AUDIT_PASS"
+}

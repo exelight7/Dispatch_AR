@@ -1,0 +1,251 @@
+ASSET C:\Dispatch_AR\reports\rtl_research\WBP_SubtitlesWidget.json
+EXPORT 1 ExecuteUbergraph_WBP_SubtitlesWidget /Script/CoreUObject:Function
+ CALL /Script/Engine:GameplayStatics:GetPlayerController
+ CALL /Script/Engine:Controller:K2_GetPawn
+ CALL /Script/Engine:KismetSystemLibrary:GetDisplayName
+ CALL /Script/Engine:KismetStringLibrary:Conv_StringToName
+ CALL /Script/Engine:KismetMathLibrary:NotEqual_NameName
+ CALL /Script/Engine:GameplayStatics:GetPlayerController
+ CALL /Script/Engine:Controller:K2_GetPawn
+ CALL /Script/Engine:KismetSystemLibrary:GetDisplayName
+ CALL /Script/Engine:KismetStringLibrary:Conv_StringToName
+ CALL /Script/Engine:KismetMathLibrary:EqualEqual_NameName
+ CALL /Script/Engine:KismetMathLibrary:NotEqual_ByteByte
+ CALL /Script/Engine:KismetMathLibrary:NotEqual_ByteByte
+ CALL /Script/Engine:KismetMathLibrary:NotEqual_ByteByte
+ CALL /Script/AdHocUtils:AdHocUtilsBlueprintLibrary:DelayUntilNextTick
+ CALL UpdateHasOutline
+ CALL UpdateHasOutline
+ CALL /Script/Engine:KismetArrayLibrary:Array_Get
+ CALL Release Subtitle Block to Pool
+ CALL /Script/Engine:KismetMathLibrary:Add_IntInt
+ CALL /Script/Engine:KismetArrayLibrary:Array_Length
+ CALL /Script/Engine:KismetMathLibrary:Less_IntInt
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Clear
+ INSTANCE ['SubtitleBlocksByHandle']
+ CALL SetTextLocation
+ CALL Get Subtitle Block From Pool
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Add
+ INSTANCE ['SubtitleBlocksByHandle']
+ CALL Set Has Outline
+ INSTANCE ['HasOutline?']
+ INSTANCE ['SubtitleBlocksList']
+ CALL /Script/UMG:VerticalBox:AddChildToVerticalBox
+ CALL Set Displayed Line
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Find
+ INSTANCE ['SubtitleBlocksByHandle']
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Find
+ INSTANCE ['SubtitleBlocksByHandle']
+ CALL RemoveFromParent
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Find
+ INSTANCE ['SubtitleBlocksByHandle']
+ CALL Release Subtitle Block to Pool
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Remove
+ INSTANCE ['SubtitleBlocksByHandle']
+ INSTANCE ['SubtitleBlocksList']
+ CALL ClearChildren
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Values
+ INSTANCE ['SubtitleBlocksByHandle']
+ CALL /Script/UMG:UserWidget:Destruct
+ CALL SetTextLocation
+ CALL /Script/UMG:UserWidget:Construct
+EXPORT 2 Construct /Script/CoreUObject:Function
+ CALL WBP_SubtitlesWidget_C:ExecuteUbergraph_WBP_SubtitlesWidget
+EXPORT 3 SetTextLocation /Script/CoreUObject:Function
+ CALL WBP_SubtitlesWidget_C:ExecuteUbergraph_WBP_SubtitlesWidget
+EXPORT 4 Destruct /Script/CoreUObject:Function
+ CALL WBP_SubtitlesWidget_C:ExecuteUbergraph_WBP_SubtitlesWidget
+EXPORT 5 BP_RemoveAllSubtitles /Script/CoreUObject:Function
+ CALL WBP_SubtitlesWidget_C:ExecuteUbergraph_WBP_SubtitlesWidget
+EXPORT 6 BP_RemoveSubtitle /Script/CoreUObject:Function
+ CALL WBP_SubtitlesWidget_C:ExecuteUbergraph_WBP_SubtitlesWidget
+EXPORT 7 BP_AddSubtitle /Script/CoreUObject:Function
+ CALL WBP_SubtitlesWidget_C:ExecuteUbergraph_WBP_SubtitlesWidget
+EXPORT 8 Get Root VBox Visbility /Script/CoreUObject:Function
+ CALL /Script/Engine:SubsystemBlueprintLibrary:GetGameInstanceSubsystem
+ CALL /Script/AdHocSubtitles:AdHocSubtitlesWidgetBase:IsEditorViewportPreviewWidget
+ CALL /Script/Dispatch:DispatchSettingsSubsystem:GetCloudSettings
+ INSTANCE ['SubtitlesEnabled']
+ CALL /Script/Dispatch:DispatchBoolSetting:GetEffectiveValue
+EXPORT 9 SetChoiceSpacerHeight /Script/CoreUObject:Function
+ CALL /Script/Engine:KismetMathLibrary:MakeVector2D
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": "+0"}
+ INSTANCE ['ChoiceSpacingSpacer']
+ CALL /Script/UMG:Spacer:SetSize
+EXPORT 10 SetChoiceSpacerVisible /Script/CoreUObject:Function
+ CALL /Script/UMG:UserWidget:PlayAnimationForward
+ INSTANCE ['ExpandChoiceSpacing']
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": 1.0}
+ CALL /Script/UMG:UserWidget:PlayAnimationReverse
+ INSTANCE ['ExpandChoiceSpacing']
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_FloatConst, UAssetAPI", "Value": 1.0}
+EXPORT 11 BP_SetSubtitlePosition /Script/CoreUObject:Function
+ INSTANCE ['CinematicsSpacer']
+ CALL SetVisibility
+ INSTANCE ['ShiftSpacer']
+ CALL SetVisibility
+ INSTANCE ['ShiftSpacerTop']
+ CALL SetVisibility
+EXPORT 12 Format As Subtitle Text With Tags /Script/CoreUObject:Function
+ CALL /Script/Engine:KismetTextLibrary:Conv_TextToString
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "<text style=\"Default_Outline\"></>"}
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "<text></>"}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "<text style=\"Default_Outline\">"}
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "<text>"}
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</><text style=\"Italic_Outline\">"}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</><text style=\"Italic\">"}
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</><text style=\"Default_Outline\">"}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ CALL /Script/Engine:KismetSystemLibrary:MakeLiteralString
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</><text>"}
+ CALL /Script/Engine:KismetMathLibrary:SelectString
+ CALL /Script/Engine:KismetStringLibrary:Replace
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</>"}
+ CALL /Script/Engine:KismetStringLibrary:Replace
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "<Italic>"}
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ CALL /Script/Engine:KismetStringLibrary:Concat_StrStr
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": "</>"}
+ CALL /Script/Engine:KismetStringLibrary:Replace
+ LITERAL {"$type": "UAssetAPI.Kismet.Bytecode.Expressions.EX_StringConst, UAssetAPI", "Value": ""}
+ CALL /Script/Engine:KismetTextLibrary:Conv_StringToText
+EXPORT 13 UpdateHasOutline /Script/CoreUObject:Function
+ INSTANCE ['HasOutline?']
+ CALL /Script/Engine:BlueprintMapLibrary:Map_Values
+ INSTANCE ['SubtitleBlocksByHandle']
+ CALL /Script/Engine:KismetArrayLibrary:Array_Length
+ CALL /Script/Engine:KismetMathLibrary:Less_IntInt
+ CALL /Script/Engine:KismetArrayLibrary:Array_Get
+ CALL Set Has Outline
+ INSTANCE ['HasOutline?']
+ CALL /Script/Engine:KismetMathLibrary:Add_IntInt
+EXPORT 14 Get Subtitle Block From Pool /Script/CoreUObject:Function
+ CALL /Script/Engine:KismetArrayLibrary:Array_Length
+ INSTANCE ['UnusedSubtitleBlockPool']
+ CALL /Script/Engine:KismetMathLibrary:Greater_IntInt
+ CALL /Script/Engine:KismetArrayLibrary:Array_LastIndex
+ INSTANCE ['UnusedSubtitleBlockPool']
+ CALL /Script/Engine:KismetArrayLibrary:Array_Get
+ INSTANCE ['UnusedSubtitleBlockPool']
+ CALL /Script/Engine:KismetArrayLibrary:Array_LastIndex
+ INSTANCE ['UnusedSubtitleBlockPool']
+ CALL /Script/Engine:KismetArrayLibrary:Array_Remove
+ INSTANCE ['UnusedSubtitleBlockPool']
+ CALL GetOwningPlayer
+ CALL /Script/UMG:WidgetBlueprintLibrary:Create
+EXPORT 15 Release Subtitle Block to Pool /Script/CoreUObject:Function
+ CALL /Script/Engine:KismetArrayLibrary:Array_Add
+ INSTANCE ['UnusedSubtitleBlockPool']
+EXPORT 16 GetTransferToShiftVisibility /Script/CoreUObject:Function
+EXPORT 17 GetTransferToHackingVisibility /Script/CoreUObject:Function
+EXPORT 18 WBP_SubtitlesWidget_C /Script/UMG:WidgetBlueprintGeneratedClass
+ PROPERTY WidgetTree 43
+ PROPERTY bClassRequiresNativeTick true
+ PROPERTY Bindings [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "DelegateRuntimeBinding", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Bindings", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.StrPropertyData, UAssetAPI", "Name": "ObjectName", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "RootVBox"}, {"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "PropertyName", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "Visibility"}, {"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "FunctionName", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "Get Root VBox Visbility"}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "DynamicPropertyPath", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "SourcePath", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI", "ArrayType": "StructProperty", "Name": "Segments", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "PropertyPathSegment", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Segments", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "Name", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "Get Root VBox Visbility"}, {"$type": "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI", "Name": "ArrayIndex", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": -1}]}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "CachedFunction", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 0}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI", "EnumType": "EBindingKind", "InnerType": null, "Name": "Kind", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "EBindingKind::Function"}]}]
+ PROPERTY Animations [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 42}]
+ PROPERTY UberGraphFunction 1
+EXPORT 19 Default__WBP_SubtitlesWidget_C WBP_SubtitlesWidget_C
+ PROPERTY UberGraphFrame []
+ PROPERTY bHasScriptImplementedTick false
+ PROPERTY bHasScriptImplementedPaint false
+ PROPERTY Visibility "ESlateVisibility::HitTestInvisible"
+EXPORT 20 ExpandChoiceSpacing /Script/MovieScene:MovieScene
+ PROPERTY Possessables [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "MovieScenePossessable", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Possessables", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI", "ArrayType": "NameProperty", "DummyStruct": null, "Name": "Tags", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": []}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "Guid", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Guid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "Guid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{C6FAC030-4BF5-BFE1-EF63-93AF6349FDC3}"}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.StrPropertyData, UAssetAPI", "Name": "Name", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "ChoiceSpacingScalebox"}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "PossessedObjectClass", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": -30}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "Guid", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "ParentGuid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "ParentGuid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{00000000-0000-0000-0000-000000000000}"}]}]}]
+ PROPERTY ObjectBindings [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "MovieSceneBinding", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "ObjectBindings", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "Guid", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "ObjectGuid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "ObjectGuid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{C6FAC030-4BF5-BFE1-EF63-93AF6349FDC3}"}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.StrPropertyData, UAssetAPI", "Name": "BindingName", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "ChoiceSpacingScalebox"}, {"$type": "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI", "ArrayType": "ObjectProperty", "Name": "Tracks", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 25}]}]}]
+ PROPERTY PlaybackRange [{"$type": "UAssetAPI.PropertyTypes.Structs.MovieSceneFrameRangePropertyData, UAssetAPI", "Name": "PlaybackRange", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.TRange`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "LowerBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Inclusive", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 0}}, "UpperBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Exclusive", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 9000}}}}]
+ PROPERTY DisplayRate [{"$type": "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI", "Name": "Numerator", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 20}]
+ PROPERTY Signature [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "Signature", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{D750FCB1-4611-D190-90BB-9B87CE3D7974}"}]
+EXPORT 21 EaseInFunction /Script/MovieScene:MovieSceneBuiltInEasingFunction
+EXPORT 22 EaseOutFunction /Script/MovieScene:MovieSceneBuiltInEasingFunction
+EXPORT 23 CompiledData /Script/MovieScene:MovieSceneCompiledData
+ PROPERTY EntityComponentField [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "MovieSceneEvaluationFieldEntityTree", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "PersistentEntityTree", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.MovieSceneEvaluationFieldEntityTreePropertyData, UAssetAPI", "Name": "PersistentEntityTree", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneEvaluationFieldEntityTree, UAssetAPI", "SerializedData": {"$type": "UAssetAPI.PropertyTypes.Structs.TMovieSceneEvaluationTree`1[[UAssetAPI.PropertyTypes.Structs.FEntityAndMetaDataIndex, UAssetAPI]], UAssetAPI", "Data": {"$type": "UAssetAPI.PropertyTypes.Structs.TEvaluationTreeEntryContainer`1[[UAssetAPI.PropertyTypes.Structs.FEntityAndMetaDataIndex, UAssetAPI]], UAssetAPI", "Entries": [{"$type": "UAssetAPI.PropertyTypes.Structs.FEntry, UAssetAPI", "StartIndex": 0, "Size": 1, "Capacity": 1}], "Items": [{"$type": "UAssetAPI.PropertyTypes.Structs.FEntityAndMetaDataIndex, UAssetAPI", "EntityIndex": 0, "MetaDataIndex": -1}]}, "RootNode": {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneEvaluationTreeNode, UAssetAPI", "Range": {"$type": "UAssetAPI.UnrealTypes.TRange`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "LowerBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Open", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 0}}, "UpperBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Open", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 0}}}, "Parent": {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneEvaluationTreeNodeHandle, UAssetAPI", "ChildrenHandle": {"$type": "UAssetAPI.PropertyTypes.Structs.FEvaluationTreeEntryHandle, UAssetAPI", "EntryIndex": -1}, "Index": -1}, "ChildrenID": {"$type": "UAssetAPI.PropertyTypes.Structs.FEvaluationTreeEntryHandle, UAssetAPI", "EntryIndex": 0}, "DataID": {"$type": "UAssetAPI.PropertyTypes.Structs.FEvaluationTreeEntryHandle, UAssetAPI", "EntryIndex": -1}}, "ChildNodes": {"$type": "UAssetAPI.PropertyTypes.Structs.TEvaluationTreeEntryContainer`1[[UAssetAPI.PropertyTypes.Structs.FMovieSceneEvaluationTreeNode, UAssetAPI]], UAssetAPI", "Entries": [{"$type": "UAssetAPI.PropertyTypes.Structs.FEntry, UAssetAPI", "StartIndex": 0, "Size": 1, "Capacity": 1}], "Items": [{"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneEvaluationTreeNode, UAssetAPI", "Range": {"$type": "UAssetAPI.UnrealTypes.TRange`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "LowerBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Inclusive", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 0}}, "UpperBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Exclusive", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 9000}}}, "Parent": {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneEvaluationTreeNodeHandle, UAssetAPI", "ChildrenHandle": {"$type": "UAssetAPI.PropertyTypes.Structs.FEvaluationTreeEntryHandle, UAssetAPI", "EntryIndex": -1}, "Index": 0}, "ChildrenID": {"$type": "UAssetAPI.PropertyTypes.Structs.FEvaluationTreeEntryHandle, UAssetAPI", "EntryIndex": -1}, "DataID": {"$type": "UAssetAPI.PropertyTypes.Structs.FEvaluationTreeEntryHandle, UAssetAPI", "EntryIndex": 0}}]}}}}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI", "ArrayType": "StructProperty", "Name": "Entities", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "MovieSceneEvaluationFieldEntity", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Entities", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "MovieSceneEvaluationFieldEntityKey", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Key", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "EntityOwner", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 24}, {"$type": "UAssetAPI.PropertyTypes.Objects.UInt32PropertyData, UAssetAPI", "Name": "EntityID", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 0}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI", "Name": "SharedMetaDataIndex", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 0}]}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI", "ArrayType": "StructProperty", "Name": "SharedMetaData", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "MovieSceneEvaluationFieldSharedEntityMetaData", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "SharedMetaData", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "Guid", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "ObjectBindingID", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "ObjectBindingID", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{C6FAC030-4BF5-BFE1-EF63-93AF6349FDC3}"}]}]}]}]
+ PROPERTY DeterminismFences [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameTime", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "DeterminismFences", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameNumber", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "FrameNumber", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.FrameNumberPropertyData, UAssetAPI", "Name": "FrameNumber", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 9000}}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "SubFrame", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "+0"}]}]
+ PROPERTY CompiledSignature [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "CompiledSignature", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{22699543-4681-7C26-9087-B49012FADA56}"}]
+ PROPERTY CompilerVersion [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "CompilerVersion", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{7D4B9809-2FAC-4A6B-964E-CF72D8279EF8}"}]
+ PROPERTY AccumulatedMask [{"$type": "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI", "Name": "bEntityComponentField", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": true}]
+ PROPERTY AllocatedMask [{"$type": "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI", "Name": "bEntityComponentField", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": true}]
+EXPORT 24 MovieSceneFloatSection_0 /Script/MovieSceneTracks:MovieSceneFloatSection
+ PROPERTY FloatCurve [{"$type": "UAssetAPI.PropertyTypes.Structs.MovieSceneFloatChannelPropertyData, UAssetAPI", "Name": "FloatCurve", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneFloatChannel, UAssetAPI", "PreInfinityExtrap": "RCCE_Constant", "PostInfinityExtrap": "RCCE_Constant", "TimesStructLength": 4, "Times": [{"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 0}, {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 9000}], "ValuesStructLength": 28, "Values": [{"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneValue`1[[System.Single, System.Private.CoreLib]], UAssetAPI", "Value": "+0", "Tangent": {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneTangentData, UAssetAPI", "ArriveTangent": "+0", "LeaveTangent": 0.00011111111234640703, "ArriveTangentWeight": "+0", "LeaveTangentWeight": "+0", "TangentWeightMode": "RCTWM_WeightedNone", "padding": "LI+n"}, "InterpMode": "RCIM_Linear", "TangentMode": "RCTM_Auto", "padding": "AKc="}, {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneValue`1[[System.Single, System.Private.CoreLib]], UAssetAPI", "Value": 1.0, "Tangent": {"$type": "UAssetAPI.PropertyTypes.Structs.FMovieSceneTangentData, UAssetAPI", "ArriveTangent": "+0", "LeaveTangent": "+0", "ArriveTangentWeight": "+0", "LeaveTangentWeight": "+0", "TangentWeightMode": "RCTWM_WeightedNone", "padding": "jjdF"}, "InterpMode": "RCIM_Cubic", "TangentMode": "RCTM_Auto", "padding": "AKc="}], "DefaultValue": "+0", "bHasDefaultValue": false, "TickResolution": {"$type": "UAssetAPI.UnrealTypes.FFrameRate, UAssetAPI", "Numerator": 60000, "Denominator": 1}, "bShowCurve": false}}]
+ PROPERTY Easing [{"$type": "UAssetAPI.PropertyTypes.Objects.InterfacePropertyData, UAssetAPI", "Name": "EaseIn", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 21}, {"$type": "UAssetAPI.PropertyTypes.Objects.InterfacePropertyData, UAssetAPI", "Name": "EaseOut", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 22}]
+ PROPERTY SectionRange [{"$type": "UAssetAPI.PropertyTypes.Structs.MovieSceneFrameRangePropertyData, UAssetAPI", "Name": "SectionRange", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.TRange`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "LowerBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Inclusive", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 0}}, "UpperBound": {"$type": "UAssetAPI.UnrealTypes.TRangeBound`1[[UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI]], UAssetAPI", "Type": "Exclusive", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 9000}}}}]
+ PROPERTY Signature [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "Signature", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{2F542A08-4B0A-FD73-369A-80855926ED18}"}]
+EXPORT 25 MovieSceneFloatTrack_0 /Script/MovieSceneTracks:MovieSceneFloatTrack
+ PROPERTY PropertyBinding [{"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "PropertyName", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "UserSpecifiedScale"}, {"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "PropertyPath", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "UserSpecifiedScale"}, {"$type": "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI", "Name": "bCanUseClassLookup", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": true}]
+ PROPERTY Sections [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 24}]
+ PROPERTY EvaluationFieldGuid [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "EvaluationFieldGuid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{F0FCB0C1-4C77-DBA2-F788-178E174BA3AC}"}]
+ PROPERTY EvaluationField [{"$type": "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI", "ArrayType": "StructProperty", "Name": "Entries", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "MovieSceneTrackEvaluationFieldEntry", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Entries", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "Section", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 24}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameNumberRange", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Range", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameNumberRangeBound", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "LowerBound", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.BytePropertyData, UAssetAPI", "ByteType": "FName", "EnumType": "ERangeBoundTypes", "EnumValue": "ERangeBoundTypes::Inclusive", "Name": "Type", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension"}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameNumber", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Value", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.FrameNumberPropertyData, UAssetAPI", "Name": "Value", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 0}}]}]}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameNumberRangeBound", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "UpperBound", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.BytePropertyData, UAssetAPI", "ByteType": "FName", "EnumType": "ERangeBoundTypes", "EnumValue": "ERangeBoundTypes::Exclusive", "Name": "Type", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension"}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameNumber", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "Value", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.FrameNumberPropertyData, UAssetAPI", "Name": "Value", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": 9000}}]}]}]}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "FrameNumber", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "ForcedTime", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.FrameNumberPropertyData, UAssetAPI", "Name": "ForcedTime", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FFrameNumber, UAssetAPI", "Value": -2147483648}}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI", "EnumType": "ESectionEvaluationFlags", "InnerType": null, "Name": "Flags", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "ESectionEvaluationFlags::None"}, {"$type": "UAssetAPI.PropertyTypes.Objects.Int16PropertyData, UAssetAPI", "Name": "LegacySortOrder", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 0}]}]}]
+ PROPERTY Signature [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "Signature", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{F0FCB0C1-4C77-DBA2-F788-178E174BA3AC}"}]
+EXPORT 26 Overlay_0 /Script/UMG:Overlay
+ PROPERTY Slots [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 27}]
+EXPORT 27 OverlaySlot_0 /Script/UMG:OverlaySlot
+ PROPERTY Padding [{"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Left", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 270.0}, {"$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI", "Name": "Right", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 270.0}]
+ PROPERTY HorizontalAlignment "HAlign_Fill"
+ PROPERTY VerticalAlignment "VAlign_Fill"
+ PROPERTY Parent 26
+ PROPERTY Content 34
+EXPORT 28 ChoiceSpacingScalebox /Script/UMG:ScaleBox
+ PROPERTY Stretch "EStretch::UserSpecified"
+ PROPERTY UserSpecifiedScale "+0"
+ PROPERTY Slots [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 29}]
+ PROPERTY Slot 38
+EXPORT 29 ScaleBoxSlot_0 /Script/UMG:ScaleBoxSlot
+ PROPERTY Parent 28
+ PROPERTY Content 30
+EXPORT 30 ChoiceSpacingSpacer /Script/UMG:Spacer
+ PROPERTY Size [{"$type": "UAssetAPI.PropertyTypes.Structs.Vector2DPropertyData, UAssetAPI", "Name": "Size", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI", "X": 1.0, "Y": 200.0}}]
+ PROPERTY Slot 29
+ PROPERTY bIsVariable true
+EXPORT 31 CinematicsSpacer /Script/UMG:Spacer
+ PROPERTY Slot 37
+ PROPERTY bIsVariable true
+EXPORT 32 ShiftSpacer /Script/UMG:Spacer
+ PROPERTY Slot 39
+ PROPERTY bIsVariable true
+EXPORT 33 ShiftSpacerTop /Script/UMG:Spacer
+ PROPERTY Size [{"$type": "UAssetAPI.PropertyTypes.Structs.Vector2DPropertyData, UAssetAPI", "Name": "Size", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": {"$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI", "X": 1.0, "Y": "+0"}}]
+ PROPERTY Slot 40
+ PROPERTY bIsVariable true
+EXPORT 34 RootVBox /Script/UMG:VerticalBox
+ PROPERTY Slots [{"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "0", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 37}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "1", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 40}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "2", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 36}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "3", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 38}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "4", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 39}]
+ PROPERTY Slot 27
+ PROPERTY Visibility "ESlateVisibility::HitTestInvisible"
+EXPORT 35 SubtitleBlocksList /Script/UMG:VerticalBox
+ PROPERTY Slot 36
+ PROPERTY bIsVariable true
+EXPORT 36 VerticalBoxSlot_1 /Script/UMG:VerticalBoxSlot
+ PROPERTY Parent 34
+ PROPERTY Content 35
+EXPORT 37 VerticalBoxSlot_2 /Script/UMG:VerticalBoxSlot
+ PROPERTY Size [{"$type": "UAssetAPI.PropertyTypes.Objects.BytePropertyData, UAssetAPI", "ByteType": "FName", "EnumType": "ESlateSizeRule", "EnumValue": "ESlateSizeRule::Fill", "Name": "SizeRule", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension"}]
+ PROPERTY Parent 34
+ PROPERTY Content 31
+EXPORT 38 VerticalBoxSlot_3 /Script/UMG:VerticalBoxSlot
+ PROPERTY Parent 34
+ PROPERTY Content 28
+EXPORT 39 VerticalBoxSlot_4 /Script/UMG:VerticalBoxSlot
+ PROPERTY Size [{"$type": "UAssetAPI.PropertyTypes.Objects.BytePropertyData, UAssetAPI", "ByteType": "FName", "EnumType": "ESlateSizeRule", "EnumValue": "ESlateSizeRule::Fill", "Name": "SizeRule", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension"}]
+ PROPERTY Parent 34
+ PROPERTY Content 32
+EXPORT 40 VerticalBoxSlot_7 /Script/UMG:VerticalBoxSlot
+ PROPERTY Parent 34
+ PROPERTY Content 33
+EXPORT 41 WBP_StandardStorySafezone /Game/Shared/Story/Widgets/WBP_StandardStorySafezone:WBP_StandardStorySafezone_C
+ PROPERTY NamedSlotBindings [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "NamedSlotBinding", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "NamedSlotBindings", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "Name", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "Contents"}, {"$type": "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI", "Name": "Content", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": 26}]}]
+ PROPERTY Visibility "ESlateVisibility::HitTestInvisible"
+EXPORT 42 ExpandChoiceSpacing_INST /Script/UMG:WidgetAnimation
+ PROPERTY MovieScene 20
+ PROPERTY AnimationBindings [{"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "WidgetAnimationBinding", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "AnimationBindings", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "WidgetName", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "ChoiceSpacingScalebox"}, {"$type": "UAssetAPI.PropertyTypes.Objects.NamePropertyData, UAssetAPI", "Name": "SlotWidgetName", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "None"}, {"$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI", "StructType": "Guid", "SerializeNone": true, "StructGUID": "{00000000-0000-0000-0000-000000000000}", "SerializationControl": "NoExtension", "Operation": "None", "Name": "AnimationGuid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "AnimationGuid", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{C6FAC030-4BF5-BFE1-EF63-93AF6349FDC3}"}]}, {"$type": "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI", "Name": "bIsRootWidget", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": false}]}]
+ PROPERTY DisplayLabel "ExpandChoiceSpacing"
+ PROPERTY CompiledData 23
+ PROPERTY Signature [{"$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI", "Name": "Signature", "ArrayIndex": 0, "PropertyGuid": null, "IsZero": false, "PropertyTagFlags": "None", "PropertyTypeName": null, "PropertyTagExtensions": "NoExtension", "Value": "{22699543-4681-7C26-9087-B49012FADA56}"}]
+EXPORT 43 WidgetTree /Script/UMG:WidgetTree
+ PROPERTY RootWidget 41

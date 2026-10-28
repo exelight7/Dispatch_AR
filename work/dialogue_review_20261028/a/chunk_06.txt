@@ -1,0 +1,300 @@
+600 101:NodeTitle:C1A3C84B0DC34763A1FAD674F6BFA791 []
+EN Someone with nothing to lose.
+AR شخص ليس لديه ما يخسره.
+601 101:NodeTitle:067BEFD2ED834AD8845BBFF2378574F3 []
+EN Sorry about the spit thing.
+AR آسف بشأن البصق.
+602 101:NodeTitle:0B32501064534C808806C515698E963E []
+EN Sounds intriguing.
+AR يبدو مثيرا للاهتمام.
+603 101:NodeTitle:04EC0EA196AE4DC39A10E041816F4F2A []
+EN Suit Loop Duplicate
+AR نسخة حلقة البدلة
+604 101:NodeTitle:F7912A21CBFA46E783E74C1A084212F2 []
+EN Suit Up - Grab Suit Loop
+AR ارتداء البدلة - أخذ حلقة البدلة
+605 101:NodeTitle:1CEFBF159980444194D5C17F3FE42A5A []
+EN Suit Up - Grab Suit. Pull Up Glove
+AR ارتداء البدلة - أخذ البدلة. سحب القفاز
+606 101:NodeTitle:FAC2208B06D4494F8B3944DEB99E7263 []
+EN Sunglasses at Night Guy
+AR رجل النظارة الشمسية ليلا
+607 101:NodeTitle:80726E36614E45C9B55489F8BD996495 []
+EN Thank you.
+AR شكرا.
+608 101:NodeTitle:47D2CAF48CF547B0AAF2D7045322E180 []
+EN Thanks for helping me.
+AR شكرا لمساعدتي.
+609 101:NodeTitle:938112C22E46426B9DF77D10CCD64F71 []
+EN That feels like a challenge.
+AR يبدو هذا تحديًا.
+610 101:NodeTitle:028CD94638014665820FEF38E647A3A0 []
+EN That's pretty disrespectful.
+AR هذا ينمّ عن قلة احترام.
+611 101:NodeTitle:FB9CAB28C7DE430C9E966D2AE8C1FD8D []
+EN This is an interview?
+AR هذه مقابلة؟
+612 101:NodeTitle:1DE00766F5D24AD7AFFA6C87A2F6B1D3 []
+EN Untitled Sequence
+AR تسلسل بلا عنوان
+613 101:NodeTitle:25F31D25E514498988328F41E3F1F34E []
+EN Untitled Sequence
+AR تسلسل بلا عنوان
+614 101:NodeTitle:DF7282216AD34826991D3B5AF369B32B []
+EN What if I say no?
+AR ماذا لو رفضت؟
+615 101:NodeTitle:29342855370B47C2A93BB961EC03FF57 []
+EN When do I start?
+AR متى أبدأ؟
+616 101:NodeTitle:E252E6833B464CE095128B23EE243DD3 []
+EN Who's a good boy?
+AR من الفتى المطيع؟
+617 101:NodeTitle:48DD9AB93F244B8FB7286248FF0BC8CD []
+EN You're bluffing.
+AR أنت تخادع.
+618 101:NodeTitle:F6B4D8396F4B45398BDD993D75272F28 []
+EN [Alcohol]
+AR [كحول]
+619 101:NodeTitle:232C71AFA1074F64B56AD1AD46C62E26 []
+EN [Answer]
+AR [أجب]
+620 101:NodeTitle:83AF028C00F04EE2AEDC86E272410B0C []
+EN [Attack]
+AR [هاجم]
+621 101:NodeTitle:9DE2636F0A4344E99F9EBDC9E7E65060 []
+EN [Give Him Cereal]
+AR [أعطه الحبوب]
+622 101:NodeTitle:07D1AAF8D0D34672888893C0657A3C83 []
+EN [Ignore Him]
+AR [تجاهله]
+623 101:NodeTitle:9B32B3E1057C422CAB489077771D757A []
+EN [Kiss Her]
+AR [قبّلها]
+624 101:NodeTitle:5567B31E5A414093BD4E9CEA84381E49 []
+EN [Leave]
+AR [ارحل]
+625 101:NodeTitle:845027E689EB4D2381F5F93916DD68AE []
+EN [Let Him Drop]
+AR [اتركه يسقط]
+626 101:NodeTitle:304D142128494618BD7A943039682A5E []
+EN [Let the Moment Pass]
+AR [دع اللحظة تمر]
+627 101:NodeTitle:806E0C2404DD46969B7CAC8FB6CC89B9 []
+EN [Pull Him Back]
+AR [اسحبه إلى الأعلى]
+628 101:NodeTitle:691B6FF4FE724319A07FFA2B41CA06EE []
+EN [Punch with Left]
+AR [الكم باليسرى]
+629 101:NodeTitle:FEDAA3F5B69640938161DE3F23AE7041 []
+EN [Punch with Right]
+AR [الكم باليمنى]
+630 101:NodeTitle:02D626B957A0415C9BA01BB4278F86F9 []
+EN [Punt]
+AR [اركل]
+631 101:NodeTitle:3FEE4D00ACE6419393E69F97B4D33A82 []
+EN [Stomp]
+AR [ادعس]
+632 101:NodeTitle:74669FD4FF4945C8839928F163C7614F []
+EN [Water]
+AR [ماء]
+633 101:NotImpressedChoiceStat:8CB96A08450CF5D2D534F2A0C300D045 []
+EN ^You and {Percentage}^ of players ^answered^ the reporter.
+AR ^أنت و{Percentage}^ من اللاعبين ^أجبتم^ المراسل.
+634 101:NotImpressedChoiceStat:86EA87964AF338FEE2F059A243C6D174 []
+EN ^You and {Percentage}^ of players ^attacked^ the reporter.
+AR ^أنت و{Percentage}^ من اللاعبين ^هاجمتم^ المراسل.
+635 101:NotImpressedChoiceStat:72EAEB3D4AD522BE82D1D59B39BFFCDB []
+EN ^You and {Percentage}^ of players ^cut the press conference short^.
+AR ^أنت و{Percentage}^ من اللاعبين ^أنهيتم المؤتمر الصحفي مبكرا^.
+636 101:TheBigFightChoiceStat:676836A74B246DC855893FA8E25F5ADD []
+EN ^You and {Percentage}^ of players threw ^alcohol^ at Flambae.
+AR ^أنت و{Percentage}^ من اللاعبين رميتم ^الكحول^ على فلامباي.
+637 101:TheBigFightChoiceStat:4171F12D4DC595FCE596139E7651D494 []
+EN ^You and {Percentage}^ of players threw ^water^ at Flambae.
+AR ^أنت و{Percentage}^ من اللاعبين رميتم ^الماء^ على فلامباي.
+638 101:TheTestChoiceStat:2616F338483DCE1482719DB719753C61 []
+EN ^You and {Percentage}^ of players ^aced^ SDN's tutorial shift.
+AR ^أنت و{Percentage}^ من اللاعبين ^أبدعتم^ في مناوبة SDN التدريبية.
+639 101:TheTestChoiceStat:8DB994D94B6DB35093E797BFFCF8C2A1 []
+EN ^You and {Percentage}^ of players performed ^moderately well^ in SDN's tutorial shift.
+AR ^أنت و{Percentage}^ من اللاعبين كان أداؤكم ^جيدا إلى حد ما^ في مناوبة SDN التدريبية.
+640 101:WeCanWorkWithThisChoiceStat:50B36F8B447E8B8D110A1EAAC7C35E68 []
+EN ^You and {Percentage}^ of players ^did not kiss^ Blazer.
+AR ^أنت و{Percentage}^ من اللاعبين ^لم تقبّلوا^ بليزر.
+641 101:WeCanWorkWithThisChoiceStat:8C6B079244B8AAE672DFC194C473565A []
+EN ^You and {Percentage}^ of players ^kissed^ Blazer.
+AR ^أنت و{Percentage}^ من اللاعبين ^قبّلتم^ بليزر.
+642 101:WhoAreYouChoiceStat:60609F8E4D669BA0D425BA8FAB5AC36D []
+EN ^You and {Percentage}^ of players dubbed Flambae ^"Dr. Don’t Do Shit"^.
+AR ^أنت و{Percentage}^ من اللاعبين لقبتم فلامباي ^«الدكتور لا يفعل شيئًا لعينًا»^.
+643 101:WhoAreYouChoiceStat:F5ACE3594F956174E49DEAB8233881EE []
+EN ^You and {Percentage}^ of players dubbed Flambae ^"Mr. Wet Ponytail"^.
+AR ^أنت و{Percentage}^ من اللاعبين لقبتم فلامباي ^«السيد ذيل الحصان المبلل»^.
+644 101:WhoAreYouChoiceStat:F74F25694283F2B938ED41B1DCDC5DC4 []
+EN ^You and {Percentage}^ of players dubbed Flambae ^"Sunglasses at Night Guy"^.
+AR ^أنت و{Percentage}^ من اللاعبين لقبتم فلامباي ^«رجل النظارة الشمسية ليلا»^.
+645 104::19D4CD4D470025E44B949D8D5C774169 []
+EN "Answer my riddles three and I will gladly turn myself in."
+AR "أجب عن ألغازي الثلاثة وسأسلم نفسي بكل سرور."
+646 104::73A1D8654C96FFF4F9F233AD02B84C3B []
+EN "He's a mindreader. She has x-ray vision. ... Oh, sorry. Is this SDN? We need help..."
+AR "هو يقرأ الأفكار. وهي ترى بالأشعة السينية. ... آسف. هل هذه SDN؟ نحتاج للمساعدة..."
+647 104::A4CAF4CF4DBB19410D2604AAB32A99F1 []
+EN "Help us get this stuff out of our dorm, yeah? You guys do that kinda stuff, right?"
+AR "ساعدونا في إخراج هذه الأغراض من سكننا، اتفقنا؟ أنتم تقدمون هذه الخدمات، صحيح؟"
+648 104::4EE5209746115B107043D28BCF61D893 []
+EN "If anyone needs some more hands-on training, I'll be in the gym until the end of the shift."
+AR "إن احتاج أحد إلى مزيد من التدريب العملي، سأكون في الصالة حتى نهاية المناوبة."
+649 104::B73BF5864CE7D625F31F66AACDA44CD1 []
+EN "It's time for Phil's walk. What? No, Phil's my dog. Can you just walk him around the park?"
+AR "حان وقت تمشية فيل. ماذا؟ لا، فيل كلبي. أيمكنكم تمشيته في الحديقة؟"
+650 104::5287AD0B4E444F1FE24B76B29F270A18 []
+EN "Job's not finished, dude! We need you to bring everything up to our new place."
+AR "لم ينته العمل يا صاح! عليكم نقل كل شيء إلى منزلنا الجديد."
+651 104::5A51C5DB4BD07D1F98EC63B5A6230875 []
+EN "Let's not start a war here with an elite assassin organization." 
+AR "دعونا لا نشعل حربا مع منظمة اغتيالات نخبوية." 
+652 104::D01234A0490C778D1A8E1CBFAA4ED2CC []
+EN "Maybe we can send someone in, pretend to be interested in joining the cult?"
+AR "ربما نرسل شخصا يتظاهر برغبته في الانضمام إلى الطائفة؟"
+653 104::E953C53142A37BD0DC776AB3FECF754F []
+EN "Maybe we can send someone in, pretend to be interested in joining the cult?"
+AR "ربما نرسل شخصا يتظاهر برغبته في الانضمام إلى الطائفة؟"
+654 104::EDCA347C463799C280140CB86AD89B90 []
+EN "Millman Brandt hasn't been seen for days and the board is asking SDN to do a wellness check." 
+AR "اختفى ميلمان براندت منذ أيام، ومجلس الإدارة يطلب من SDN الاطمئنان عليه." 
+655 104::011160814BA28255B354FD9EA6CF6CF4 []
+EN "One of my teachers called out. There's gotta be someone at SDN that can teach a jiu-jitsu class."
+AR "تغيب أحد مدربي. لا بد أن لدى SDN من يستطيع تدريس الجوجيتسو."
+656 104::36D4DEE14AF251155A584C954955DC67 []
+EN "Someone just dropped off a box of games with a note saying there's a bomb inside one of 'em!"
+AR "ترك أحدهم صندوق ألعاب مع رسالة تقول إن إحداها تحتوي على قنبلة!"
+657 104::1B9EC2B84CE05B8581C43F810D0797AC []
+EN "The fight's spread onto the campus streets. Can someone remind them that this is just a game?"
+AR "امتد الشجار إلى شوارع الحرم. هل يذكرهم أحد بأن هذه مجرد لعبة؟"
+658 104::07129DD64F4196BD436E219299538E6C []
+EN "There's a retired SDN hero at Crypto Night causing problems. Can you get him out of there?"
+AR "بطل متقاعد من SDN يثير المتاعب في كريبتو نايت. أيمكنكم إخراجه؟"
+659 104::65752B0B41F052F44D648C9A08FD82ED []
+EN "There's a... kaiju on the beach? It's actually pretty cute but like, where's its mom?"
+AR "هناك... كايجو على الشاطئ؟ إنه لطيف جدا في الواقع، لكن أين أمه؟"
+660 104::8BA6ACBC4017B3E695C9C7A5AAEC4CEF []
+EN "There's been talk about Coupe's old gang being back in town."
+AR "تدور شائعات عن عودة عصابة كوبيه القديمة إلى المدينة."
+661 104::74B8A3234991C0BF35CD3489F77B91FD []
+EN "These one-on-ones seem to be really working out. I think I could make this a regular thing."
+AR "يبدو أن هذه الجلسات الفردية تؤتي ثمارها. ربما أجعلها دورية."
+662 104::00BCBECF4B1CBAEFB6F6DFB71B934BB0 []
+EN "This guy in front of me just drove right off the side into the water!"
+AR "السائق أمامي انحرف للتو عن الحافة وسقط في الماء!"
+663 104::E79D46A44BDDB57EF4F57CBBB5E31007 []
+EN "We got a gift of some Mecha Man replicas but with all the bomb threats going on..."
+AR "تلقينا هدية من مجسمات ميكا مان، لكن مع كل تهديدات القنابل هذه..."
+664 104::59111B9B4EA163009C1B0382EAB335F1 []
+EN "We need backup! Dozens of youths just started rushing us and looting the shops!"
+AR "نحتاج إلى تعزيزات! عشرات الشبان هاجمونا وبدؤوا بنهب المتاجر!"
+665 104::A69905034EDEB5646E82D39E40996351 []
+EN "We need backup! Dozens of youths just started rushing us and looting the shops!"
+AR "نحتاج إلى تعزيزات! عشرات الشبان هاجمونا وبدؤوا بنهب المتاجر!"
+666 104::4B11E33E46E7F1CC3AA44AAAFF990D93 []
+EN "We tried to do it ourselves but ... why do it when you can make someone else do it for you?"
+AR "حاولنا فعلها بأنفسنا، لكن... لماذا نتعب إن أمكننا تكليف غيرنا؟"
+667 104::7356C2A04979D96125823DA0DC94E8B9 []
+EN "We're a little down on new subscribers this month... Think you can spare someone...?"
+AR "عدد المشتركين الجدد انخفض قليلا هذا الشهر... أتستطيعون إرسال أحد...؟"
+668 104::07B11265483BFA14E28A8785F5FDE4CC []
+EN Phenomaman
+AR فينومامان
+669 104::58459C39451D616FC5C3D681E650B615 []
+EN Waterboy
+AR ووتربوي
+670 104:ChoiceOptionBrainteaser:OptionSuccess []
+EN ^You and {Percentage}^ of players ^correctly answered^ all three of Brainteaser's questions.
+AR ^أنت و{Percentage}^ من اللاعبين ^أجبتم إجابة صحيحة^ عن أسئلة برينتيزر الثلاثة.
+671 104:ChoiceOptionBrainteaser:OptionFail []
+EN ^You and {Percentage}^ of players ^failed to answer^ all three of Brainteaser's questions correctly.
+AR ^أنت و{Percentage}^ من اللاعبين ^لم تجيبوا إجابة صحيحة^ عن أسئلة برينتيزر الثلاثة كلها.
+672 104:ChoiceOptionBrainteaser:OptionRefuse []
+EN ^You and {Percentage}^ of players ^refused to play^ Brainteaser's games.
+AR ^أنت و{Percentage}^ من اللاعبين ^رفضتم لعب^ ألعاب برينتيزر.
+673 104:ChoiceOptionKaiju:OptionAdopt []
+EN ^You and {Percentage}^ of players ^adopted^ the baby kaiju.
+AR ^أنت و{Percentage}^ من اللاعبين ^تبنيتم^ صغير الكايجو.
+674 104:ChoiceOptionKaiju:OptionLost []
+EN ^You and {Percentage}^ of players ^lost^ the baby kaiju.
+AR ^أنت و{Percentage}^ من اللاعبين ^أضعتم^ صغير الكايجو.
+675 104:ChoiceOptionKaiju:OptionReturned []
+EN ^You and {Percentage}^ of players ^returned^ the baby kaiju.
+AR ^أنت و{Percentage}^ من اللاعبين ^أعدتم^ صغير الكايجو.
+676 104:ChoiceOptionSmallBusinesses:OptionFail []
+EN ^You and {Percentage}^ of players ^failed to save all three businesses^ from the Brainteaser.
+AR ^أنت و{Percentage}^ من اللاعبين ^فشلتم في إنقاذ المتاجر الثلاثة^ من برينتيزر.
+677 104:ChoiceOptionSmallBusinesses:OptionSuccess []
+EN ^You and {Percentage}^ of players ^saved all three businesses^ from the Brainteaser.
+AR ^أنت و{Percentage}^ من اللاعبين ^أنقذتم المتاجر الثلاثة^ من برينتيزر.
+678 104:DateNightChoiceStat:OptionTrue []
+EN ^You and {Percentage}^ of players ^watched a movie with Invisigal^.
+AR ^أنت و{Percentage}^ من اللاعبين ^شاهدتم فيلما مع إنفيزيغال^.
+679 104:DateNightChoiceStat:OptionFalse []
+EN ^You and {Percentage}^ of players had ^dinner with Blonde Blazer^.
+AR ^أنت و{Percentage}^ من اللاعبين تناولتم ^العشاء مع بلوند بليزر^.
+680 104:FoodFightChoiceStat:OptionFalse []
+EN ^You and {Percentage}^ of players threw ^spaghetti^ at Flambae.
+AR ^أنت و{Percentage}^ من اللاعبين رميتم ^السباغيتي^ على فلامباي.
+681 104:FoodFightChoiceStat:OptionTrue []
+EN ^You and {Percentage}^ of players threw a ^protein shake^ at Flambae.
+AR ^أنت و{Percentage}^ من اللاعبين رميتم ^مخفوق بروتين^ على فلامباي.
+682 104:HonestyBlazerChoiceStat:OptionFalse []
+EN ^You and {Percentage}^ of players ^did not warn^ Blonde Blazer about her dress.
+AR ^أنت و{Percentage}^ من اللاعبين ^لم تحذروا^ بلوند بليزر بشأن فستانها.
+683 104:HonestyBlazerChoiceStat:OptionTrue []
+EN ^You and {Percentage}^ of players ^warned^ Blonde Blazer about her dress.
+AR ^أنت و{Percentage}^ من اللاعبين ^حذرتم^ بلوند بليزر بشأن فستانها.
+684 104:HonestyPhenomamanChoiceStat:OptionTrue []
+EN ^You and {Percentage}^ of players ^confessed^ to kissing Blonde Blazer.
+AR ^أنت و{Percentage}^ من اللاعبين ^اعترفتم^ بتقبيل بلوند بليزر.
+685 104:HonestyPhenomamanChoiceStat:OptionFalse []
+EN ^You and {Percentage}^ of players kept kissing Blonde Blazer a ^secret^.
+AR ^أنت و{Percentage}^ من اللاعبين أبقيتم تقبيل بلوند بليزر ^سرا^.
+686 104:Line:2DA4AD185ADB4F048DC943124C1827C8 [Phenomaman]
+EN ... Do you ever smile?
+AR ... هل تبتسم يوما؟
+687 104:Line:3BE6B0A50CDD49ABB70FB07409661851 [Malevola]
+EN ... Well, at least he can lecture people to death.
+AR ... حسنا، على الأقل يستطيع قتل الناس بمحاضراته.
+688 104:Line:A71BA32F8C9948108411024B8BA2B17A [Invisigal]
+EN ...then he realizes her secret, |but it turns out he has a secret too, which could ruin--
+AR ...ثم يكتشف سرها، |لكن يتضح أن له سرا أيضا، قد يدمر--
+689 104:Line:0C9B8EE3D77D4BFBA9C43AEA8F4AAD2B [Robert]
+EN <Italic>I'm</> the perv?
+AR <Italic>أنا</> المنحرف؟
+690 104:Line:59EFAF34A1FB4FFBAFDA042D8DDD8FB4 [Robert]
+EN <Italic>I</> couldn't get past their security... Doesn't mean we give up, no matter who their target is.
+AR <Italic>أنا</> لم أتجاوز أمنهم... لا يعني أن نستسلم، أيا كان هدفهم.
+691 104:Line:4F4B3A4BB2DA4FD591277FE189A57B80 [Prism]
+EN <Italic>Shiiiiiit</>, how'd that work anyways?
+AR <Italic>تبــــا</>، كيف نجح ذلك أصلا؟
+692 104:Line:86CC8196BC704E72905772840E0EA6D8 [Invisigal]
+EN <Italic>Typecast 2</><Italic>.</> You spying on me?
+AR <Italic>حبيس الدور 2</><Italic>.</> أتتجسس علي؟
+693 104:Line:F73CD2EB3C0F4D02B6124FBECA997E7F [Robert]
+EN A lot less photos, yeah.
+AR صور أقل بكثير، أجل.
+694 104:Line:4DD759FB84CE4373B0ED2B4412B337EB [Phenomaman]
+EN A metaphorical dog? Where?
+AR كلب مجازي؟ أين؟
+695 104:Line:9AA811255A6D4FE3A8CDA568064F6B8F [Robert]
+EN A slight hue shift at most. |I mean, I would tell you if, like, your nipple was, like out out.
+AR مجرد فرق بسيط في اللون. |أعني، كنت سأخبرك لو كانت حلمتك مكشوفة تماما.
+696 104:Line:1F5B9C7D1B40473892C35FF1A29CD444 [Phenoma-Man]
+EN A small setback.
+AR انتكاسة بسيطة.
+697 104:Line:4CB2E98D6182456B829C8BA76F6492F8 [Waterboy]
+EN A-am I? That tracks.
+AR أ-حقا؟ هذا منطقي.
+698 104:Line:B885B06B690A446B94F88CF71D2FD99D [Blonde Blazer]
+EN About time...
+AR أخيرا...
+699 104:Line:294378F82FAE4E11B4EB2143416BECBF [Phenoma-Man]
+EN Achievement!
+AR إنجاز!

@@ -1,0 +1,47 @@
+[
+  {
+    "target": "101",
+    "index": 364,
+    "id": "101:Line:089B93CCC0154BB0A0C700F7BF72CD5D",
+    "en": "Loved.",
+    "before": "كنت أحبه.",
+    "after": "كنت تحبه.",
+    "reason": "تصحيح ضمير المخاطب؛ صوت المعالج يصحح قول روبرت أحب أبي إلى الماضي، كما تؤكد جملة You said love في السطر 633."
+  },
+  {
+    "target": "104",
+    "index": 570,
+    "id": "104:Line:1AFDDDCC93AF41BDAB9F893A792244A3",
+    "en": "Far from it. I’m actually trying to subtly tell you that, you know... ",
+    "before": "بعيدا عن ذلك. أحاول إخبارك بتلميح لطيف، أتعلمين... ",
+    "after": "على العكس تماما. أحاول إخبارك بتلميح لطيف، أتعلمين... ",
+    "reason": "تصحيح ترجمة التعبير Far from it الدال على النفي أو العكس؛ بعيدا عن ذلك تفيد الانتقال إلى موضوع آخر."
+  },
+  {
+    "target": "107",
+    "index": 413,
+    "id": "107:Line:3FB80185EC1647FD958F6BBCE7A6C6BE",
+    "en": "Okay, so, we've got a super down here who controls bugs. Apparently they have beef with one of our farmers using pesticides. It's getting real biblical down here.",
+    "before": "حسنًا، لدينا هنا صاحب قوى يتحكم بالحشرات. يبدو أنه ناقم على أحد مزارعينا لاستخدامه المبيدات. الوضع هنا أشبه بالطوفان والجراد.",
+    "after": "حسنًا، لدينا هنا صاحبة قوى تتحكم بالحشرات. يبدو أنها ناقمة على أحد مزارعينا لاستخدامه المبيدات. الوضع هنا أشبه بالطوفان والجراد.",
+    "reason": "تصحيح الجنس إلى المؤنث: السجل الموازي 598 في SC_05__38 يتحدث عنها بالمؤنث، والنتيجة 599 تسمي الشخصية Bug Lady؛ جنسها المؤنث مثبت في دليل الأسلوب."
+  },
+  {
+    "target": "107",
+    "index": 415,
+    "id": "107:Line:5525E65FBCA942DAA3931A95027A2FDD",
+    "en": "Okay, we’re out of here. |Take your piss soaked pants out the back please. |Don't wanna tempt this tiger.",
+    "before": "حسنًا، سنغادر. |خذ سروالك المبلل بالبول واخرج من الخلف، رجاء. |لا نريد إغراء هذا النمر.",
+    "after": "حسنًا، سنغادر. |خذ سروالك المبلل بالبول واخرج من الخلف، رجاء. |لا نريد استفزاز هذا النمر.",
+    "reason": "تصحيح التعبير السياقي tempt this tiger إلى استفزاز النمر الذي يهددهم؛ إغراؤه لا ينقل المعنى هنا."
+  },
+  {
+    "target": "107",
+    "index": 562,
+    "id": "107:Line:2AB9E0EEA6E44F7886B4E752594817C7",
+    "en": "You made them nervous.",
+    "before": "أنت أوترتهم.",
+    "after": "أنت جعلتهم يتوترون.",
+    "reason": "تصحيح صياغة تسبب التوتر بما يطابق You made them nervous؛ أوترتهم ملتبسة ولا تعبر طبيعيًا عن المعنى."
+  }
+]

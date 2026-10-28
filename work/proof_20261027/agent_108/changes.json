@@ -1,0 +1,182 @@
+[
+  {
+    "target": "108",
+    "index": 504,
+    "id": "108:Line:54FF172AB90C4C9C8894E40538AD3FAF",
+    "en": "Alright. We get it. |First pattern we break can be the one where you say some inspiring shit - or try to at least.",
+    "before": "حسنًا. فهمنا. |أول عادة نكسرها قد تكون محاولتك قول كلام ملهم، أو محاولتك ذلك على الأقل.",
+    "after": "حسنًا. فهمنا. |أول عادة نكسرها قد تكون قولك كلامًا ملهمًا، أو محاولتك ذلك على الأقل.",
+    "reason": "إصلاح تكرار المحاولة غير المقصود ومطابقة التفريق في الأصل بين قول الكلام ومحاولة قوله.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 537,
+    "id": "108:Line:58A1C103B42A4D2C90CF5714B9FDE9BE",
+    "en": "Beefcake's actually a big softie.",
+    "before": "بيفكيك طيب القلب فعلًا.",
+    "after": "بيفكيك طيبة القلب فعلًا.",
+    "reason": "مطابقة الصفة لجنس بيفكيك المؤنث وفق دليل المشروع.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 570,
+    "id": "108:Line:BFFC7CFC31C84419AF9AEF9A6BD78351",
+    "en": "Collaborated.",
+    "before": "تعاونا.",
+    "after": "تعاونّا.",
+    "reason": "تمييز الفعل الماضي المتصل بنا الفاعلين بالشدة.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 584,
+    "id": "108:Line:3B8C4239A2BC4E67BF41A597716BF7F8",
+    "en": "Cross your fingers.",
+    "before": "تمن لنا الحظ.",
+    "after": "تمنَّ لنا الحظ.",
+    "reason": "ضبط فعل الأمر من التمني وتوضيحه.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 788,
+    "id": "108:Line:4ABB56D842704862B37D9F1D97A70858",
+    "en": "I hope my saving you from collision was appropriate?",
+    "before": "آمل أن إنقاذك من الاصطدام كان مناسبًا؟",
+    "after": "آمل أن يكون إنقاذي لك من الاصطدام مناسبًا؟",
+    "reason": "توضيح تركيب الأمل ومن قام بإنقاذ المخاطب كما في الأصل.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1064,
+    "id": "108:Line:3567A4304C804E0499C359BA4E876EF2",
+    "en": "No, no. Blazer, come on you have to stay. |You’re the one that everyone listens to. ",
+    "before": "لا، لا. بليزر، هيا، عليك البقاء. |أنت من يصغي إليه الجميع. ",
+    "after": "لا، لا. بليزر، هيا، عليك البقاء. |أنت من يصغي إليها الجميع. ",
+    "reason": "مطابقة ضمير الإحالة للمخاطبة بليزر.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1091,
+    "id": "108:Line:4401C3B49F9C45D8AABE32ACCD3BB36F",
+    "en": "Not this fucking lady again.",
+    "before": "ليس هذه المرأة اللعينة مجددًا.",
+    "after": "ليست هذه المرأة اللعينة مجددًا.",
+    "reason": "مطابقة فعل النفي للمشار إليه المؤنث.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1218,
+    "id": "108:Line:0DB11EAE603C451799B2C82BD9C4A08B",
+    "en": "Robert, got any Z-Teamers nearby? I need help with evacuation!",
+    "before": "روبرت، هل هناك أحد من فريق Z قريبًا؟ أحتاج إلى مساعدة في الإخلاء!",
+    "after": "روبرت، هل هناك أحد من فريق Z في الجوار؟ أحتاج إلى مساعدة في الإخلاء!",
+    "reason": "توضيح ظرف المكان وإصلاح صياغة سؤال وجود شخص قريب.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1363,
+    "id": "108:Line:181667BA398C411E98C52B9CA9EA465F",
+    "en": "The Red Ring has overwhelmed me. I need immediate assistance.",
+    "before": "تغلبت علي الحلقة الحمراء. أحتاج إلى مساعدة فورية.",
+    "after": "تغلبت عليّ الحلقة الحمراء. أحتاج إلى مساعدة فورية.",
+    "reason": "ضبط ضمير المتكلم المتصل بحرف الجر على.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1365,
+    "id": "108:Line:3E7427DE2827479F8517260A1FBE3680",
+    "en": "The fight by the roadblock's weakened the bridge! Guess we'll just have to hold it up ourselves.",
+    "before": "أضعف القتال عند الحاجز الجسر! يبدو أن علينا إسناده بأنفسنا.",
+    "after": "القتال عند الحاجز أضعف الجسر! يبدو أن علينا إسناده بأنفسنا.",
+    "reason": "توضيح الفاعل والمفعول في جملة إضعاف الجسر.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1376,
+    "id": "108:Line:1229D6089D7245C5B215E17844035551",
+    "en": "The university's security system was triggered and we've got students locked inside.",
+    "before": "فُعل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل.",
+    "after": "فُعّل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل.",
+    "reason": "ضبط شدة الفعل المبني للمجهول من فعّل.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1540,
+    "id": "108:Line:25EBEF15F4CD42C48EDA0961986C8052",
+    "en": "What are you talking about? ",
+    "before": "عما تتحدث؟ ",
+    "after": "عمّ تتحدث؟ ",
+    "reason": "حذف ألف ما الاستفهامية بعد عن وضبط الإدغام.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1555,
+    "id": "108:Line:5F7DB7837FDE48B6B55C8ADBFE0E70F0",
+    "en": "Whatchoo mean is this it? Bitch you know what time it is? ",
+    "before": "ماذا تقصد بأهذه النهاية؟ يا حقير، أتعرف كم الساعة؟ ",
+    "after": "ماذا تقصد بقولك «أهذه النهاية؟» يا حقير، أتعرف كم الساعة؟ ",
+    "reason": "إصلاح تركيب السؤال عند اقتباس العبارة.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "108",
+    "index": 1849,
+    "id": "108:LV_Shift08b.Scenario_SC_10b:VOTranscription",
+    "en": "\"The fight by the roadblock's weakened the bridge! We'll just have to hold it up ourselves.\"",
+    "before": "\"أضعف القتال عند الحاجز الجسر! علينا إسناده بأنفسنا.\"",
+    "after": "\"القتال عند الحاجز أضعف الجسر! علينا إسناده بأنفسنا.\"",
+    "reason": "توضيح فاعل ومفعول الجملة في التفريغ المطابق للحوار.",
+    "category": "UI/Other (review context)"
+  },
+  {
+    "target": "108",
+    "index": 1859,
+    "id": "108:LV_Shift08b.Scenario_SC_21:VOTranscription",
+    "en": "\"Robert, got any Z-teamers nearby? I need help with evacuation!\"",
+    "before": "\"روبرت، هل هناك أحد من فريق Z قريبًا؟ أحتاج إلى مساعدة في الإخلاء!\"",
+    "after": "\"روبرت، هل هناك أحد من فريق Z في الجوار؟ أحتاج إلى مساعدة في الإخلاء!\"",
+    "reason": "توضيح ظرف المكان في التفريغ المطابق للحوار.",
+    "category": "UI/Other (review context)"
+  },
+  {
+    "target": "108",
+    "index": 1871,
+    "id": "108:LV_Shift08b.Scenario_SC_23_School:VOTranscription",
+    "en": "\"The university's security system was triggered and we've got students locked inside.\"",
+    "before": "\"فُعل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل.\"",
+    "after": "\"فُعّل نظام أمن الجامعة، ولدينا طلاب محبوسون في الداخل.\"",
+    "reason": "ضبط شدة الفعل المبني للمجهول في التفريغ المطابق للحوار.",
+    "category": "UI/Other (review context)"
+  },
+  {
+    "target": "108",
+    "index": 1954,
+    "id": "108:LV_Shift08c.Scenario_SC_24:VOTranscription",
+    "en": "\"The Red Ring has overwhelmed me. I need immediate assistance.\"",
+    "before": "\"تغلبت علي الحلقة الحمراء. أحتاج إلى مساعدة فورية.\"",
+    "after": "\"تغلبت عليّ الحلقة الحمراء. أحتاج إلى مساعدة فورية.\"",
+    "reason": "ضبط ضمير المتكلم بحرف الجر في التفريغ المطابق للحوار.",
+    "category": "UI/Other (review context)"
+  },
+  {
+    "target": "108",
+    "index": 2044,
+    "id": "108:NodeTitle:3047A4E2C602449DAE7DC768627DB847",
+    "en": "Take over the Red Ring.",
+    "before": "تولي قيادة الحلقة الحمراء.",
+    "after": "تولَّ قيادة الحلقة الحمراء",
+    "reason": "ضبط فعل الأمر من تولّى.",
+    "category": "Choices"
+  }
+]

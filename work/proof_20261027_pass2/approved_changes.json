@@ -1,0 +1,942 @@
+[
+  {
+    "target": "101",
+    "index": 229,
+    "id": "101:Line:34BED35B67A5444D9EE8243C08638EC0",
+    "en": "HEY! Mecha Dick. Get the fuck out of here.",
+    "before": "مهلا! يا ميكا تافه. اغرب عن وجهي اللعين.",
+    "after": "مهلا! يا ميكا تافه. اخرج من هنا، اللعنة.",
+    "reason": "تصحيح موقع الشتيمة دون نسبتها إلى وجه المتحدث. الإنجليزية تطلب مغادرة المكان، فتعبير «اخرج من هنا» أقرب إلى الأصل، مع الاحتفاظ بحدة الشتيمة.",
+    "origin": "early"
+  },
+  {
+    "target": "101",
+    "index": 282,
+    "id": "101:Line:D77EF0B805BF4E839F5003EFCC16061E",
+    "en": "I hope Shroud kills you just like he killed your father. |I hope he fuckin’ spanks your little daddy issue bitch ass to death. |You hear me? Ugh!",
+    "before": "آمل أن يقتلك شراود كما قتل أباك. |آمل أن يجلد مؤخرتك الحقيرة المعقدة من أبيها حتى الموت. |أتسمعني؟ آخ!",
+    "after": "آمل أن يقتلك شراود كما قتل أباك. |آمل أن يجلد مؤخرتك الحقيرة حتى الموت، أيها المصاب بعقدة الأب. |أتسمعني؟ آخ!",
+    "reason": "تصحيح تركيب الوصف مع إبقاء المعنى والحدة.",
+    "origin": "early"
+  },
+  {
+    "target": "101",
+    "index": 336,
+    "id": "101:Line:AB6BB301139845FC9C0AF5849CF6728F",
+    "en": "I’m a little buzzed. I don’t really make jokes like that. |I think Visi’s rubbing off on me.",
+    "before": "أنا ثملة قليلا. لا أمزح هكذا عادة. |أظن أن فيزي بدأت تؤثر في.",
+    "after": "أنا ثملة قليلا. لا أمزح هكذا عادة. |أظن أن فيزي بدأت تؤثر فيّ.",
+    "reason": "إضافة الشدة لتمييز ضمير المتكلم من حرف الجر.",
+    "origin": "early"
+  },
+  {
+    "target": "101",
+    "index": 546,
+    "id": "101:Line:037CDE7016D74316983C66DDCF76504F",
+    "en": "Unprofessional? I’m not sure that that applies to this but--",
+    "before": "غير مهني؟ لست واثقا أن هذا ينطبق هنا، لكن--",
+    "after": "غير مهني؟ لست واثقا من أن هذا ينطبق هنا، لكن--",
+    "reason": "تصحيح تعدية واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "101",
+    "index": 566,
+    "id": "101:Line:5132D7D2B69D429BB9E2A25C7693107C",
+    "en": "Well, he’s more than gone, 'cause he’s fuckin’ dead. |That’s the most gone you can be.",
+    "before": "حسنا، إنه أكثر من راحل، فهو ميت لعنة الله. |وهذا أقصى الرحيل.",
+    "after": "حسنا، إنه أكثر من راحل، فهو ميت، اللعنة. |وهذا أقصى الرحيل.",
+    "reason": "تصحيح تركيب الشتيمة.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 238,
+    "id": "102:Line:E7D50080EBBF410C97B280744B960BAE",
+    "en": "Admittedly, I haven’t had a hug in a while, but could you maybe not?",
+    "before": "أعترف أنني لم أعانق أحدا منذ مدة، لكن هل يمكنك التوقف؟",
+    "after": "أعترف بأنني لم أعانق أحدا منذ مدة، لكن هل يمكنك التوقف؟",
+    "reason": "تصحيح تعدية أعترف.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 307,
+    "id": "102:Line:E40C474B5AD641698E8433346A421609",
+    "en": "Are you sure you’re not actually eighty years old? ",
+    "before": "أمتأكد أن عمرك ليس ثمانين عاما فعلا؟ ",
+    "after": "أمتأكد من أن عمرك ليس ثمانين عاما فعلا؟ ",
+    "reason": "تصحيح تعدية متأكد.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 424,
+    "id": "102:Line:2BC7E3357CFB4B8D9EF322AD03913862",
+    "en": "Dammit, I'm locked out.",
+    "before": "اللعنة، منع دخولي.",
+    "after": "اللعنة، مُنعت من الدخول.",
+    "reason": "توضيح صيغة المبني للمجهول.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 491,
+    "id": "102:Line:452B61445F4E49F682EE89D529663808",
+    "en": "Don't you dare tell Coop about this. I'll never live it down.",
+    "before": "إياك أن تخبر كوب بهذا. لن يدعوني أنساه أبدا.",
+    "after": "إياك أن تخبر كوب بهذا. لن أتخلص من الإحراج أبدا.",
+    "reason": "تجنب الضمير الجمعي الذي يوحي بأن كوب جماعة، والمحافظة على معنى استمرار الإحراج.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 541,
+    "id": "102:Line:8B8534D93A0F445AA28D1A5CC7A36A3F",
+    "en": "First of all, the place was trashed when I got there. |Second, I’m sure Granny would take some crispy nuts |over losing his arm. As far as the bad guy... fuck, shit happens.",
+    "before": "أولا، كان المكان محطما حين وصلت. |ثانيا، أنا واثقة أن غراني يفضل خصيتين مشويتين |على فقدان ذراعه. أما الشرير... تبا، تحدث المصائب.",
+    "after": "أولا، كان المكان محطما حين وصلت. |ثانيا، أنا واثقة من أن غراني يفضل خصيتين مشويتين |على فقدان ذراعه. أما الشرير... تبا، تحدث المصائب.",
+    "reason": "تصحيح تعدية واثقة مع الحفاظ على المقاطع.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 775,
+    "id": "102:Line:2A7D35D878A74F2F89BD30CBE3E5C893",
+    "en": "I can’t promise it’ll work, I can only promise that I’ll do my best. ",
+    "before": "لا أستطيع أن أعدك بنجاحها، فقط بأن أبذل قصارى جهدي. ",
+    "after": "لا أستطيع أن أعدك بنجاحها، وإنما أعدك ببذل قصارى جهدي. ",
+    "reason": "إكمال تركيب الوعد ببذل الجهد.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 790,
+    "id": "102:Line:F6875BE87AEB45C6B0B88A12140712B1",
+    "en": "I don’t wanna sit here and fixate on it |when we’re supposed to be doing... whatever. |Superhero shit.",
+    "before": "لا أريد الجلوس هنا والتفكير فيه |ونحن يفترض أن نفعل... أيا كان. |أمور الأبطال الخارقين.",
+    "after": "لا أريد الجلوس هنا والتفكير فيه |بينما يُفترض بنا أن نفعل... أيا كان. |أمور الأبطال الخارقين.",
+    "reason": "تصحيح تركيب المبني للمجهول مع الحفاظ على المقاطع. استخدام «بينما» يحافظ على العلاقة الزمنية في when، ويصلح تركيب الجملة مع إبقاء فواصل المقاطع.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 792,
+    "id": "102:Line:372BB605C91F45A7B851AE2745886F61",
+    "en": "I ensured that my targets were only people -- not paintings.",
+    "before": "حرصت أن تكون أهدافي أشخاصا فقط، لا لوحات.",
+    "after": "حرصت على أن تكون أهدافي أشخاصا فقط، لا لوحات.",
+    "reason": "تصحيح تعدية حرص.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1015,
+    "id": "102:Line:E9B35EA7741649948F6672BF9B0DB7C8",
+    "en": "I’m sure they could accommodate one more. |Especially a special occasion like this.",
+    "before": "أنا واثق أنهم يستطيعون استيعاب شخص آخر. |خصوصا في مناسبة مميزة كهذه.",
+    "after": "أنا واثق من أنهم يستطيعون استيعاب شخص آخر. |خصوصا في مناسبة مميزة كهذه.",
+    "reason": "تصحيح تعدية واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1084,
+    "id": "102:Line:33E1C63551C240648973E58B116D423E",
+    "en": "Make a wish, motherfucker.",
+    "before": "تمن أمنية يا ابن العاهرة.",
+    "after": "تمنَّ أمنية يا ابن العاهرة.",
+    "reason": "إضافة الشدة والفتحة للتمييز بين فعل الأمر وكلمة تمن.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1254,
+    "id": "102:Line:22D7B04E40E843A2BABD3259B1C8F66F",
+    "en": "Oh, wasn't sure you’d show up.",
+    "before": "لم أكن واثقة أنك ستحضر.",
+    "after": "لم أكن واثقة من أنك ستحضر.",
+    "reason": "تصحيح تعدية واثقة.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1259,
+    "id": "102:Line:D77605E9BCE345A9BBAA3F10A6E2B415",
+    "en": "Oh-- no... note... not necessary if-- I’m sure I...",
+    "before": "آه-- لا... لا... ليس ضروريا إن-- أنا واثق أنني...",
+    "after": "آه-- لا... لا... ليس ضروريا إن-- أنا واثق من أنني...",
+    "reason": "تصحيح تعدية واثق مع إبقاء التلعثم.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1276,
+    "id": "102:Line:532E497735174E719CDEB20B57167590",
+    "en": "Okay stop. First of all, WE did not kiss, you kissed me. |Second of all, it's none of your freaking business.",
+    "before": "حسنا، توقف. أولا، لم نتبادل قبلة، أنت قبلتني. |ثانيا، هذا ليس من شأنك اللعين.",
+    "after": "حسنا، توقف. أولا، لم نتبادل قبلة، أنت قبّلتني. |ثانيا، هذا ليس من شأنك اللعين.",
+    "reason": "تمييز فعل التقبيل من القبول، كما في التصحيح السابق للخيار نفسه.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1574,
+    "id": "102:Line:B3898CA168524AB78DB6C1878AC817A8",
+    "en": "That’s-- yeah. |Nokia...ing is probably best. ",
+    "before": "هذا-- أجل. |ربما الأفضل ألا نقبل بعضنا. ",
+    "after": "هذا-- أجل. |ربما الأفضل ألا نقبّل بعضنا. ",
+    "reason": "تمييز فعل التقبيل من القبول بالشدة. أبقي المسافتين الأخيرتين الأصليتين كما هما؛ التصحيح المقصود هو تمييز التقبيل بالشدة فقط.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1875,
+    "id": "102:Line:4644066B39024D31A225D6702B98F1DE",
+    "en": "Yeah, I’m pretty sure she does that on purpose.",
+    "before": "أجل، أنا واثقة أنها تفعل ذلك عمدا.",
+    "after": "أجل، أنا واثقة من أنها تفعل ذلك عمدا.",
+    "reason": "تصحيح تعدية واثقة.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1887,
+    "id": "102:Line:219376864E1D4950AE16611C8DFB90EF",
+    "en": "Yeah, pretty sure that's exactly what he's trying to avoid.",
+    "before": "أجل، أنا واثقة أن هذا بالضبط ما يحاول تجنبه.",
+    "after": "أجل، أنا واثقة من أن هذا بالضبط ما يحاول تجنبه.",
+    "reason": "تصحيح تعدية واثقة.",
+    "origin": "early"
+  },
+  {
+    "target": "102",
+    "index": 1989,
+    "id": "102:Line:41B4C565B58C470CB17B226A02D0090D",
+    "en": "You sure we don't work on commission?",
+    "before": "أمتأكد أننا لا نعمل بالعمولة؟",
+    "after": "أمتأكد من أننا لا نعمل بالعمولة؟",
+    "reason": "تصحيح تعدية متأكد.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 3,
+    "id": "103::42E4E3C5426981A8F038CF91B79C4C71",
+    "en": "\"Hey, Robert? I'm pretty sure I've got the scammer on the line...\"",
+    "before": "\"مرحبا روبرت؟ أنا واثق أن المحتال على الخط...\"",
+    "after": "\"مرحبا روبرت؟ أنا واثق من أن المحتال على الخط...\"",
+    "reason": "تصحيح تعدية واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 385,
+    "id": "103:Line:D62EC16F677F4B98B13047EFBB5CEA0E",
+    "en": "Coop, I’m sure you already know why I’ve asked you here.",
+    "before": "كوب، أنا واثق أنك تعرفين سبب استدعائك.",
+    "after": "كوب، أنا واثق من أنك تعرفين سبب استدعائك.",
+    "reason": "تصحيح تعدية واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 417,
+    "id": "103:Line:580D7255DF9842E79F9FFCEBDC51B554",
+    "en": "Doubt they're that desperate babe.",
+    "before": "أشك أنهم يائسون إلى هذا الحد يا حبيبتي.",
+    "after": "أشك في أنهم يائسون إلى هذا الحد يا حبيبتي.",
+    "reason": "تصحيح تعدية أشك.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 425,
+    "id": "103:Line:123C99F0F59646A69A70EC39488171BE",
+    "en": "Emergency unlock activated.",
+    "before": "فعل الفتح الطارئ.",
+    "after": "فُعّل الفتح الطارئ.",
+    "reason": "تمييز المبني للمجهول من الفعل المعلوم.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 498,
+    "id": "103:Line:0249559950344CC98A50407A28EED8FB",
+    "en": "Hey, Robert? I'm pretty sure I've got the scammer on the line...",
+    "before": "مرحبا روبرت؟ أنا واثق أن المحتال على الخط...",
+    "after": "مرحبا روبرت؟ أنا واثق من أن المحتال على الخط...",
+    "reason": "تصحيح تعدية واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 642,
+    "id": "103:Line:F56AADC51CC34533BA8BCEEA8665BC4E",
+    "en": "I’m just not sure how it’ll play out.",
+    "before": "لست واثقا كيف ستسير الأمور.",
+    "after": "لست واثقا من كيفية سير الأمور.",
+    "reason": "تصحيح تركيب واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 675,
+    "id": "103:Line:B032F814D0DE4AB9BEEF44EFA363B041",
+    "en": "Mm, pretty sure that’s what you said.",
+    "before": "مم، أنا واثقة أن هذا ما قلته.",
+    "after": "مم، أنا واثقة من أن هذا ما قلته.",
+    "reason": "تصحيح تعدية واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 808,
+    "id": "103:Line:813ACB3298BA41F0B72A0900F6F2576B",
+    "en": "So, I’m sure you know why you’re here...",
+    "before": "إذن، أنا واثق أنك تعرف سبب وجودك هنا...",
+    "after": "إذن، أنا واثق من أنك تعرف سبب وجودك هنا...",
+    "reason": "تصحيح تعدية واثق.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 819,
+    "id": "103:Line:7F7782FC0AC445399EBD1161854BCD02",
+    "en": "Sonar it is. |He had to use his distress beacon before he even left the building today |so I'm not sure it's gonna work.",
+    "before": "سونار إذن. |احتاج إلى منارة استغاثته قبل أن يغادر المبنى اليوم حتى، |لذا لست واثقا أن هذا سينجح.",
+    "after": "سونار إذن. |احتاج إلى منارة استغاثته قبل أن يغادر المبنى اليوم حتى، |لذا لست واثقا من أن هذا سينجح.",
+    "reason": "تصحيح تعدية واثق مع الحفاظ على المقاطع.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 849,
+    "id": "103:Line:82EFA240A0D840048FABB44B5A0BDF09",
+    "en": "That you, donut girl? |You sure you want to do this again?",
+    "before": "أهذه أنت يا فتاة الدونات؟ |أمتأكدة أنك تريدين فعل هذا مجددا؟",
+    "after": "أهذه أنت يا فتاة الدونات؟ |أمتأكدة من أنك تريدين فعل هذا مجددا؟",
+    "reason": "تصحيح تعدية متأكد.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 1013,
+    "id": "103:Line:1F4467AD87B54D5087CC614AC8219F6B",
+    "en": "Yeah, exactly... I don’t watch football but I get it. |Look, I know I’m not supposed to play favorites here, |but even if she was on the bottom, |I’m not sure I’d have let you cut her.",
+    "before": "أجل، بالضبط... لا أتابع كرة القدم، لكنني أفهم. |اسمع، أعرف أن علي ألا أحابي أحدا هنا، |لكن حتى لو كانت في القاع، |لست واثقة أنني كنت سأدعك تطردها.",
+    "after": "أجل، بالضبط... لا أتابع كرة القدم، لكنني أفهم. |اسمع، أعرف أن علي ألا أحابي أحدا هنا، |لكن حتى لو كانت في القاع، |لست واثقة من أنني كنت سأدعك تطردها.",
+    "reason": "تصحيح تعدية واثق مع الحفاظ على المقاطع.",
+    "origin": "early"
+  },
+  {
+    "target": "103",
+    "index": 1060,
+    "id": "103:Line:2DA22EAA18F8483BABD2E28B11C4B04B",
+    "en": "You sure it was us? Maybe you're just getting coffee shits in your old age.",
+    "before": "أمتأكد أننا السبب؟ ربما القهوة تسبب لك الإسهال مع تقدمك في السن.",
+    "after": "أمتأكد من أننا السبب؟ ربما القهوة تسبب لك الإسهال مع تقدمك في السن.",
+    "reason": "تصحيح تعدية متأكد.",
+    "origin": "early"
+  },
+  {
+    "target": "104",
+    "index": 436,
+    "id": "104:Line:4CDD4FBC993B4273B4AE1D655703D037",
+    "en": "Alright sonny, let's show em together.",
+    "before": "حسنا يا بني، لنرهم معا.",
+    "after": "حسنا يا بني، لنُرِهم معا.",
+    "reason": "ضبط فعل الأمر لتمييزه عن الرؤية.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 559,
+    "id": "104:Line:368290CB49594EF3AF003D6B05106838",
+    "en": "Drive better next time.",
+    "before": "قد بشكل أفضل المرة المقبلة.",
+    "after": "قُد بشكل أفضل المرة المقبلة.",
+    "reason": "ضبط فعل الأمر لتمييزه عن قد.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 576,
+    "id": "104:Line:07E06A6776E9446F91EBB9820122121B",
+    "en": "Fly them to the hospital.",
+    "before": "طر بهم إلى المستشفى.",
+    "after": "طِر بهم إلى المستشفى.",
+    "reason": "ضبط فعل الأمر لتمييزه عن غيره.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 599,
+    "id": "104:Line:4766CE25AE4241028B98F8DDCA1CAC9C",
+    "en": "Great feeling, great feeling. I'll try not to get used to it. I've been hurt before.",
+    "before": "شعور رائع، رائع. سأحاول ألا أعتاد عليه. لقد خذلت من قبل.",
+    "after": "شعور رائع، رائع. سأحاول ألا أعتاد عليه. لقد خُذلت من قبل.",
+    "reason": "ضبط المبني للمجهول لتجنب عكس المعنى.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 671,
+    "id": "104:Line:5EFC0A5DB29D4BCC94D0192D9306D7FD",
+    "en": "I am A-O-good! All-kay. A-O-kay!",
+    "before": "أنا ب-خير تمام! كله ج-تمام. كله تمام!",
+    "after": "أنا ب-خير تماما! كله ج-تمام. كله تمام!",
+    "reason": "تصحيح كتابة الحال مع الحفاظ على التلعثم.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 872,
+    "id": "104:Line:10E1060ABFEA4B019392E3B9B4445677",
+    "en": "Is there a return policy on this motherfucker?",
+    "before": "هل يمكن إرجاع هذا ابن الكلب؟",
+    "after": "هل يمكن إرجاع ابن الكلب هذا؟",
+    "reason": "تصحيح موضع اسم الإشارة.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 941,
+    "id": "104:Line:ECF3ED9845604C9EBCBECBEE3A8D6B7C",
+    "en": "Look, Phenomaman... |I’m only telling you this because I don’t want you hearing it from someone else... |I kissed Blazer.",
+    "before": "اسمع يا فينومامان... |أخبرك فقط لأنني لا أريدك أن تسمع من غيري... |لقد قبلت بليزر.",
+    "after": "اسمع يا فينومامان... |أخبرك فقط لأنني لا أريدك أن تسمع من غيري... |لقد قبّلت بليزر.",
+    "reason": "تمييز فعل التقبيل من القبول.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 996,
+    "id": "104:Line:5165F0D496FC44CF86984FA50921F164",
+    "en": "No, hold on. She didn’t kiss me. |She didn’t do anything wrong. I kissed her. ",
+    "before": "لا، لحظة. هي لم تقبلني. |لم تفعل شيئا خطأ. أنا من قبلها. ",
+    "after": "لا، لحظة. هي لم تقبّلني. |لم تفعل شيئا خطأ. أنا من قبّلها. ",
+    "reason": "تمييز فعل التقبيل من القبول.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 1263,
+    "id": "104:Line:2323DEECED084569925A0526425EE958",
+    "en": "They used to date. |My last girlfriend was taller than me. |She used to kiss me on my forehead a lot. It was nice.|What were we talking about? Oh, right. |Watch out for that salty little nutcracking motherfucker.",
+    "before": "كانا يتواعدان. |حبيبتي السابقة كانت أطول مني. |كانت تقبل جبيني كثيرا. كان ذلك جميلا.|عما كنا نتحدث؟ آه، صحيح. |احذر ذلك الوغد الصغير الناقم كسارة البندق.",
+    "after": "كانا يتواعدان. |حبيبتي السابقة كانت أطول مني. |كانت تقبّل جبيني كثيرا. كان ذلك جميلا.|عما كنا نتحدث؟ آه، صحيح. |احذر ذلك الوغد الصغير الناقم كسارة البندق.",
+    "reason": "تمييز فعل التقبيل من القبول.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 1483,
+    "id": "104:Line:4A93655FFB8A48AD8796823DD259E8E5",
+    "en": "You handle this one then, takes an asshole to know an asshole.",
+    "before": "تول هذه إذن، فلا يعرف الوغد إلا وغد مثله.",
+    "after": "تولَّ هذه إذن، فلا يعرف الوغد إلا وغد مثله.",
+    "reason": "ضبط فعل الأمر.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 1493,
+    "id": "104:Line:84E10AD8819742D2BF9BA93428873AFC",
+    "en": "You look fully tucked in, which, I think we can agree, is the most important thing. ",
+    "before": "يبدو أن كل شيء مستور، ونتفق أن هذا الأهم. ",
+    "after": "يبدو أن كل شيء مستور، ونتفق على أن هذا الأهم. ",
+    "reason": "تصحيح تعدية الفعل اتفق.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 1682,
+    "id": "104:NodeTitle:FACFE31893E7465EA81818C3E01CFE84",
+    "en": "I kissed her.",
+    "before": "لقد قبلتها.",
+    "after": "لقد قبّلتها.",
+    "reason": "تمييز فعل التقبيل من القبول.",
+    "origin": "mid"
+  },
+  {
+    "target": "104",
+    "index": 1709,
+    "id": "104:NodeTitle:DC5109152B104B8DAA9FBFFC039269E3",
+    "en": "[Kiss Her]",
+    "before": "[قبلها]",
+    "after": "[قبّلها]",
+    "reason": "تمييز فعل التقبيل من القبول.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 4,
+    "id": "105::9D740BED41405F32C364CA88A0B55B1F",
+    "en": "\"Mr. Cat is out there all alone... So scared, so hungry... Please find my baby!\" ",
+    "before": "\"السيد قط وحده هناك... خائف وجائع جدا... أرجوكم جدوا صغيري!\" ",
+    "after": "\"السيد قط وحده هناك... خائف وجائع جدا... أرجوكم اعثروا على صغيري!\" ",
+    "reason": "توضيح فعل الأمر الذي يلتبس بكلمة جدوا.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 8,
+    "id": "105::953A8BF24A8980B0BC35F6861BB6CCB2",
+    "en": "\"TMS is hosting an anti-bullying seminar and it would mean a lot if a hero could talk to them.\" ",
+    "before": "\"تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لهم الكثير أن يحدثهم بطل.\" ",
+    "after": "\"تقيم متوسطة تورانس ندوة ضد التنمر، وسيعني لهم الكثير أن يحدّثهم بطل.\" ",
+    "reason": "ضبط فعل التحدث لتمييزه عن حدوث الشيء.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 229,
+    "id": "105:Line:15258CBFFCD44BE3B1EB0CBAD35468C9",
+    "en": "<Italic>I’m a bitch, my name's Robert, such a bitch whose name is Robert,</>|<Italic>I'm a bitch yeah I'm a bitch, I'm such a fucking bitch, </>|<Italic>I have no hopes, I have no dreams, and a tiny little peen,</>|<Italic>and it doesn't even function anyway because I have erectile dysfunction,</>|<Italic>so take me as I am, just a tiny little bitch of a man...</>",
+    "before": "<Italic>أنا حقير، اسمي روبرت، حقير اسمه روبرت،</>|<Italic>أنا حقير أجل أنا حقير، حقير لعين جدا،</>|<Italic>لا آمال لدي ولا أحلام، وقضيبي صغير ضئيل،</>|<Italic>ولا يعمل حتى لأنني مصاب بضعف الانتصاب،</>|<Italic>فتقبلوني كما أنا، مجرد رجل حقير صغير...</>",
+    "after": "<Italic>أنا حقير، اسمي روبرت، حقير اسمه روبرت،</>|<Italic>أنا حقير أجل أنا حقير، حقير لعين جدا،</>|<Italic>لا آمال لدي ولا أحلام، وقضيبي صغير ضئيل،</>|<Italic>ولا يعمل حتى لأنني مصاب بضعف الانتصاب،</>|<Italic>فتقبّلوني كما أنا، مجرد رجل حقير صغير...</>",
+    "reason": "ضبط فعل التقبل لتمييزه عن التقبيل.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 350,
+    "id": "105:Line:12C8410E946549FDB64FA3EC148FA753",
+    "en": "Get dusted.",
+    "before": "تحول لغبار.",
+    "after": "تحوّل إلى غبار.",
+    "reason": "تصحيح فعل الأمر وحرف الجر.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 387,
+    "id": "105:Line:396BA0DDBAE3479F864E68F4DB8D4AC0",
+    "en": "Hey, bud. Lemme buy ya a drink--",
+    "before": "مرحبا يا صاح. دعني أشتر لك شرابا--",
+    "after": "مرحبا يا صاح. دعني أشترِ لك شرابا--",
+    "reason": "ضبط فعل الشراء المجزوم.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 540,
+    "id": "105:Line:55B9F2C7B61E4AFAA0C0B47EC826D53F",
+    "en": "Looks like Red Ring was behind this. But what are they up to?",
+    "before": "يبدو أن الحلقة الحمراء وراء هذا. لكن ماذا يخططون؟",
+    "after": "يبدو أن الحلقة الحمراء وراء هذا. لكن ما الذي يخططون له؟",
+    "reason": "تصحيح تعدية يخطط.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 557,
+    "id": "105:Line:4AE342C25B4D49ADBBC9E8DFA2A75119",
+    "en": "Mr. Cat is out there all alone... So scared, so hungry... Please find my baby!",
+    "before": "السيد قط وحده هناك... خائف وجائع جدا... أرجوكم جدوا صغيري!",
+    "after": "السيد قط وحده هناك... خائف وجائع جدا... أرجوكم اعثروا على صغيري!",
+    "reason": "توضيح فعل الأمر الذي يلتبس بكلمة جدوا.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 720,
+    "id": "105:Line:3C092EDAF4D646DD99E0F58D2DECBA09",
+    "en": "That’s fuckin’ right. |And you, it’s time for you to accept that you don’t got it anymore.|And pretending you still do is bumming people the fuck out.",
+    "before": "صحيح بحق اللعنة. |وأنت، حان وقت تقبل أنك فقدت قدرتك.|والتظاهر بالعكس يضايق الجميع بشدة.",
+    "after": "صحيح بحق اللعنة. |وأنت، حان وقت تقبّل أنك فقدت قدرتك.|والتظاهر بالعكس يضايق الجميع بشدة.",
+    "reason": "ضبط فعل التقبل لتمييزه عن التقبيل.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 755,
+    "id": "105:Line:56E83C37BD2149E1B42AC9F344B09AA4",
+    "en": "Three triple crunch tacos, yeah. You’ve muttered it fifty times. Just |eat that. It’s the same shit anyway. |Literally everything at this place is just a remix of the same five ingredients. |Hot sauce?",
+    "before": "ثلاث تاكوهات ثلاثية القرمشة، أجل. تمتمت بها خمسين مرة. فقط |كل هذه. كلها الشيء نفسه. |كل طبق هنا مجرد إعادة خلط للمكونات الخمسة نفسها حرفيا. |صلصة حارة؟",
+    "after": "ثلاث تاكوهات ثلاثية القرمشة، أجل. تمتمت بها خمسين مرة. فقط |كُل هذه. كلها الشيء نفسه. |كل طبق هنا مجرد إعادة خلط للمكونات الخمسة نفسها حرفيا. |صلصة حارة؟",
+    "reason": "ضبط فعل الأمر من الأكل لتمييزه عن كل.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 862,
+    "id": "105:Line:F21142BF664243DFA059E5DBBD2DDFC6",
+    "en": "You can buy them drinks. You can make sure they don’t get fired. |You can line them up and blow ‘em one by one -- |but they're still gonna think you might be the hero that fucked up their life.",
+    "before": "يمكنك شراء الشراب لهم وضمان ألا يطردوا. |يمكنك صفهم ومصهم واحدا واحدا-- |لكنهم سيظنونك ربما البطل الذي دمر حياتهم.",
+    "after": "يمكنك شراء الشراب لهم وضمان ألا يطردوا. |يمكنك صفهم ومصهم واحدا واحدا-- |لكنهم سيظنون أنك ربما تكون البطل الذي دمر حياتهم.",
+    "reason": "تصحيح تركيب الجملة بعد ظن.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 873,
+    "id": "105:Line:24AD783A382540A08C7E9DFB4AE337BF",
+    "en": "You jealous or something? Look, if you wanted to grab dinner all you had to do was ask.",
+    "before": "أتغار أو شيء؟ إن أردت العشاء معي، كان يكفي أن تسأل.",
+    "after": "أتغار أو ما شابه؟ إن أردت العشاء معي، كان يكفي أن تسأل.",
+    "reason": "إكمال تركيب السؤال.",
+    "origin": "mid"
+  },
+  {
+    "target": "105",
+    "index": 1065,
+    "id": "105:NodeTitle:28E0A9AA23784C76AB8E79F2A15B6D42",
+    "en": "Let me buy you a drink.",
+    "before": "دعني أشتر لك شرابا.",
+    "after": "دعني أشترِ لك شرابا.",
+    "reason": "ضبط فعل الشراء المجزوم.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 224,
+    "id": "106:Line:34E1E35AD1104738938F5BAC103995DF",
+    "en": "Almost isn't good enough.",
+    "before": "كدت لا تكفي.",
+    "after": "«كدت» لا تكفي.",
+    "reason": "تمييز الكلمة المقتبسة في الجملة.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 275,
+    "id": "106:Line:3967F3EF70D94E6EA9D1A638954A7753",
+    "en": "Don’t think I don’t see it. It’s all over your stupid face. |You like her. So I gotta hate her for the both of us.",
+    "before": "لا تظنني لا أرى. واضح على وجهك الغبي. |أنت معجب بها. لذا علي كرهها عنا معا.",
+    "after": "لا تظنني لا أرى. الأمر واضح على وجهك الغبي. |أنت معجب بها. لذا علي كرهها عنا معا.",
+    "reason": "إكمال الجملة الاسمية بالمسند إليه.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 320,
+    "id": "106:Line:1623CE0B05224CB1AC2F4F37839B2F86",
+    "en": "Happy housewarming, bitch. Your place fucking sucks.",
+    "before": "منزل مبارك يا حقير. مسكنك مزر بحق اللعنة.",
+    "after": "منزل مبارك يا حقير. مسكنك مزرٍ بحق اللعنة.",
+    "reason": "ضبط الاسم المنقوص.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 324,
+    "id": "106:Line:38004CCD43A344AD877B8DF52DC89E4F",
+    "en": "He's not. He's just been gone all day so it seems like he is.",
+    "before": "ليس كذلك. غاب طوال اليوم فقط، فيبدو كأنه هنا.",
+    "after": "ليس كذلك. غاب طوال اليوم فقط، فيبدو كأنه كذلك.",
+    "reason": "إزالة تناقض «كأنه هنا» الذي لم يرد في الأصل.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 339,
+    "id": "106:Line:3E2C7ECA170D4314B905F0061D018E08",
+    "en": "Hey, really looking forward to tonight. Perfect timing.",
+    "before": "أتطلع لليلة حقا. توقيت مثالي.",
+    "after": "أتطلع لهذه الليلة حقا. توقيت مثالي.",
+    "reason": "توضيح المقصود بالليلة القادمة.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 414,
+    "id": "106:Line:4A48BB28F3484509A737A5565B2C2427",
+    "en": "If you want to set one up, don't use the company one. I know a guy. Not strictly legal, but a juicy rate of return.",
+    "before": "إن أردت فتح حساب، لا تستخدم حساب الشركة. أعرف شخصا. ليس قانونيا تماما، لكن عائده مغر.",
+    "after": "إن أردت فتح حساب، لا تستخدم حساب الشركة. أعرف شخصا. ليس قانونيا تماما، لكن عائده مغرٍ.",
+    "reason": "ضبط الاسم المنقوص.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 510,
+    "id": "106:Line:3A8CD62F040D45F992B5ACDE168FE501",
+    "en": "Okay, were the tacos actually good or was it just 3am?",
+    "before": "هل كانت التاكو لذيذة فعلا أم أن الساعة الثالثة فجرا؟",
+    "after": "هل كانت التاكو لذيذة فعلا أم بدا طعمها كذلك لأن الساعة كانت الثالثة فجرا؟",
+    "reason": "تصحيح زمن السؤال والمحافظة على المعنى. المقترح الأصلي «أم لأن الساعة...» يترك المقابلة ناقصة؛ البديل يربط السؤال بسبب استحسان الطعام ويحافظ على المعنى.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 512,
+    "id": "106:Line:5C7ABD87824F4F5BB63419277B40125A",
+    "en": "Okay, yeah, so like I thought, this lady is just crazy. There is nobody haunting her. It's just some randos living in the sewers.",
+    "before": "حسنا، كما ظننت، هذه السيدة مجنونة فحسب. لا أحد يسكنها. مجرد غرباء يعيشون في المجاري.",
+    "after": "حسنا، كما ظننت، هذه السيدة مجنونة فحسب. لا شبح يلاحقها. مجرد غرباء يعيشون في المجاري.",
+    "reason": "توضيح أن الحديث عن شبح يطاردها، لا شخص يسكنها.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 517,
+    "id": "106:Line:4E884BF4626F4DC0812FC140C16EA182",
+    "en": "Onya for coming clean about being Mecha Man, dude.",
+    "before": "أحسنت اعترافك بأنك ميكا مان يا صاح.",
+    "after": "أحسنت حين اعترفت بأنك ميكا مان يا صاح.",
+    "reason": "تصحيح تركيب الإشادة بالاعتراف.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 527,
+    "id": "106:Line:4B4D6B699C2A411DA7E37319EA81A8D0",
+    "en": "Rahja dat. ",
+    "before": "علم. ",
+    "after": "مفهوم. ",
+    "reason": "توضيح الرد بدل «علم» الملتبسة.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 641,
+    "id": "106:Line:0163C04972C3461BAA023E69D2C65070",
+    "en": "Visi, cover your ears!",
+    "before": "فيزي، غطي أذنيك!",
+    "after": "فيزي، غطّي أذنيك!",
+    "reason": "ضبط فعل الأمر للمؤنث.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 650,
+    "id": "106:Line:09D3A634E0694C668D7BA5BD6BCFA6D1",
+    "en": "Wait... wait, wait, wait. It’s not destroyed?",
+    "before": "لحظة... لحظة، لحظة. لم تدمر؟",
+    "after": "لحظة... لحظة، لحظة. ألم تُدمَّر؟",
+    "reason": "ضبط المبني للمجهول لتمييزه عن مخاطبة الفاعل. الإملاء المضبوط للمبني للمجهول يزيل التباس الفاعل، والاستفهام بألم يوضح سؤال «لم تدمر؟».",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 720,
+    "id": "106:Line:5978D3F6AF544A928A6B2047BFAFC34D",
+    "en": "You jealous, old man?",
+    "before": "أتغار يا عجوز؟",
+    "after": "أتشعر بالغيرة يا عجوز؟",
+    "reason": "توضيح فعل الغيرة دون التباس.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 785,
+    "id": "106:LV_Shift06.Scenario_SC_06__39:VOTranscription",
+    "en": "\"The Faction of Light needs your help to overtake the Faction of Darkness.\"",
+    "before": "\"يحتاج فصيل النور مساعدتكم للتغلب على فصيل الظلام.\"",
+    "after": "\"يحتاج فصيل النور إلى مساعدتكم للتغلب على فصيل الظلام.\"",
+    "reason": "تصحيح تعدية يحتاج، كما في الحوار المرتبط.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 788,
+    "id": "106:LV_Shift06.Scenario_SC_07_c:VOTranscription",
+    "en": "\"Vanderstenk wants them destroyed but... I think there's a way to reprogram them.\"",
+    "before": "\"يريد فاندرستنك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.\"",
+    "after": "\"يريد فاندرستنك تدميرها، لكن... أظن أن هناك طريقة لإعادة برمجتها.\"",
+    "reason": "إكمال تركيب ظن، كما في الحوار المرتبط.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 830,
+    "id": "106:NodeTitle:18789E6906EB4523B1F357EAD6B0A8D2",
+    "en": "I'm warming up to her.",
+    "before": "بدأت أتقبلها.",
+    "after": "بدأت أتقبّلها.",
+    "reason": "تمييز التقبل من التقبيل.",
+    "origin": "mid"
+  },
+  {
+    "target": "106",
+    "index": 855,
+    "id": "106:NodeTitle:26D46B37C1C8411CAA2E0DFEA0C1BED1",
+    "en": "You're sure this'll work?",
+    "before": "أأنت واثق أنه سينجح؟",
+    "after": "أأنت واثق من أنه سينجح؟",
+    "reason": "تصحيح تعدية واثق، كما في الحوار المرتبط.",
+    "origin": "mid"
+  },
+  {
+    "target": "107",
+    "index": 424,
+    "id": "107:Line:3D3E4DCD160443E59D4EE17364C6BC7F",
+    "en": "Press have a story that an SDN hero got hurt last night ",
+    "before": "وصل خبر للصحافة أن بطلًا من SDN أُصيب الليلة الماضية ",
+    "after": "وصل إلى الصحافة خبر أن بطلًا من SDN أُصيب الليلة الماضية ",
+    "reason": "تصحيح صياغة ورود الخبر مع الحفاظ على المعنى.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 29,
+    "id": "108::CB5A5F2742795ACF8B1D30A96A060F82",
+    "en": "\"We've got a plan but we need backup! We could actually turn this around!\"",
+    "before": "\"لدينا خطة، لكننا نحتاج تعزيزات! يمكننا قلب الموازين فعلًا!\"",
+    "after": "\"لدينا خطة، لكننا نحتاج إلى تعزيزات! يمكننا قلب الموازين فعلًا!\"",
+    "reason": "تصحيح تعدية نحتاج.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 513,
+    "id": "108:Line:5C12FD32792D47979FBD92E1AD422851",
+    "en": "Are we sure we wanna save Waterboy? Nah, just fucking with you.",
+    "before": "هل نحن متأكدون أننا نريد إنقاذ ووتربوي؟ لا، أمازحك اللعنة.",
+    "after": "هل نحن متأكدون أننا نريد إنقاذ ووتربوي؟ لا، أمازحك، اللعنة.",
+    "reason": "ضبط الترقيم مع إبقاء معنى الجملة.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 574,
+    "id": "108:Line:079F29F097264E7D8CF4FFB853DC305E",
+    "en": "Come on, Coop. We need you to hold it together just a little longer.",
+    "before": "هيا يا كوب. نحتاج أن تتماسكي قليلًا بعد.",
+    "after": "هيا يا كوب. نحتاج أن تتماسكي لفترة أطول قليلًا.",
+    "reason": "تصحيح تركيب تعبير المدة.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 747,
+    "id": "108:Line:448DE1EB300F44CBBD5DFA8D51C07DCA",
+    "en": "I always knew I could kick his ass... I just never thought I would actually have to.",
+    "before": "عرفت دائمًا أنني قادرة على ضربه... لكنني لم أتوقع أن أُضطر لذلك فعلًا.",
+    "after": "عرفت دائمًا أنني قادرة على ضربه... لكنني لم أتوقع أن أُضطر إلى ذلك فعلًا.",
+    "reason": "تصحيح تعدية أضطر.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 790,
+    "id": "108:Line:2973071A253049D99E3E75A258845D0A",
+    "en": "I hope she likes her coffee scalding.",
+    "before": "آمل أنها تحب القهوة حارقة.",
+    "after": "آمل أن تحب القهوة حارقة.",
+    "reason": "تصحيح تركيب آمل.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 791,
+    "id": "108:Line:00BAD4CB56C3404EB3F8057872ACD5EF",
+    "en": "I hope the fact that I’ve always rooted for you makes up for ever doubting you.",
+    "before": "آمل أن تشجيعي الدائم لك يعوض أي شك انتابني فيك.",
+    "after": "آمل أن يعوض تشجيعي الدائم لك عن أي شك انتابني فيك.",
+    "reason": "تصحيح تركيب آمل وتعدية يعوض.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 812,
+    "id": "108:Line:3157773F36CD4CC6B6422A38D09EDFF2",
+    "en": "I need... backup... now.",
+    "before": "أحتاج... تعزيزات... الآن.",
+    "after": "أحتاج... إلى تعزيزات... الآن.",
+    "reason": "تصحيح تعدية أحتاج.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1090,
+    "id": "108:Line:17DA142D93894EF385F01A36B6023A04",
+    "en": "Not so fucking phenomanal then is he? Nah, I'm just fucking with you. I'm on it.",
+    "before": "ليس فينومامان مذهلًا جدًا إذًا، أليس كذلك؟ لا، أمازحك اللعنة. سأتولى الأمر.",
+    "after": "ليس فينومامان مذهلًا جدًا إذًا، أليس كذلك؟ لا، أمازحك، اللعنة. سأتولى الأمر.",
+    "reason": "تصحيح ترقيم الجملة الاعتراضية.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1122,
+    "id": "108:Line:4ADBB45FCEB0493FB1F10575455EAC78",
+    "en": "Oh there’s a ton of booze in the Rec Room. That’s where they got it. |I’m honestly shocked it hasn’t turned into an issue.",
+    "before": "هناك كحول كثير في غرفة الاستراحة. من هناك أحضروه. |بصراحة، أنا مصدومة أنه لم يتحول إلى مشكلة.",
+    "after": "هناك كحول كثير في غرفة الاستراحة. من هناك أحضروه. |بصراحة، أنا مصدومة من أنه لم يتحول إلى مشكلة.",
+    "reason": "تصحيح تعدية مصدومة.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1184,
+    "id": "108:Line:3D319A60A3344272A90862F407C0DA95",
+    "en": "R-Robert, uh, what if I-I don't think I can do this.",
+    "before": "ر-روبرت، آه، ماذا لو أ-أظن أنني لا أستطيع فعل هذا.",
+    "after": "ر-روبرت، آه، ماذا لو كنت أ-أظن أنني لا أستطيع فعل هذا؟",
+    "reason": "تصحيح تركيب السؤال مع إبقاء المعنى والتلعثم.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1185,
+    "id": "108:Line:1D20EAE8D9254B2685F87789C0DF15DF",
+    "en": "Really feels like he should be the one saving us.",
+    "before": "أشعر فعلًا أنه المفترض به إنقاذنا.",
+    "after": "أشعر فعلًا أنه من المفترض أن ينقذنا.",
+    "reason": "تصحيح تركيب من المفترض.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1337,
+    "id": "108:Line:007F4C40D3FE4FB384150A82B7350BCD",
+    "en": "That sounds... not worth it. ",
+    "before": "هذا يبدو... لا يستحق العناء. ",
+    "after": "يبدو أن هذا... لا يستحق العناء. ",
+    "reason": "تصحيح تركيب يبدو.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1395,
+    "id": "108:Line:1AEC50DEAE7A45479CEAC5959242CE4B",
+    "en": "Think you can fight a little longer?",
+    "before": "أتستطيع القتال قليلًا بعد؟",
+    "after": "أتستطيع مواصلة القتال مدة أطول قليلًا؟",
+    "reason": "تصحيح تركيب المدة.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1504,
+    "id": "108:Line:4C8FE77D8B8F4ECFB4FC294BDB7C9061",
+    "en": "We've got a plan but we need backup! We could actually turn this around!",
+    "before": "لدينا خطة، لكننا نحتاج تعزيزات! يمكننا قلب الموازين فعلًا!",
+    "after": "لدينا خطة، لكننا نحتاج إلى تعزيزات! يمكننا قلب الموازين فعلًا!",
+    "reason": "تصحيح تعدية نحتاج ومطابقة النص مع تفريغه.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1506,
+    "id": "108:Line:31236EC36FC64B48820656EC77A38078",
+    "en": "We've had our differences, but I hope he's alright.",
+    "before": "اختلفنا من قبل، لكنني آمل أنه بخير.",
+    "after": "اختلفنا من قبل، لكنني آمل أن يكون بخير.",
+    "reason": "تصحيح تركيب آمل.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1654,
+    "id": "108:Line:461777E7015E47A49D06DE2D91F34A75",
+    "en": "You don’t have powers. You need my help. Just, let me help you. Please.",
+    "before": "ليست لديك قوى. تحتاج مساعدتي. فقط دعني أساعدك. أرجوك.",
+    "after": "ليست لديك قوى. تحتاج إلى مساعدتي. فقط دعني أساعدك. أرجوك.",
+    "reason": "تصحيح تعدية تحتاج.",
+    "origin": "late"
+  },
+  {
+    "target": "108",
+    "index": 1777,
+    "id": "108:LV_Shift08a.Scenario_SC_02d:VOTranscription",
+    "en": "\"I need... backup... now.\"",
+    "before": "\"أحتاج... تعزيزات... الآن.\"",
+    "after": "\"أحتاج... إلى تعزيزات... الآن.\"",
+    "reason": "تصحيح تعدية أحتاج ومطابقة التفريغ للحوار.",
+    "origin": "late"
+  }
+]

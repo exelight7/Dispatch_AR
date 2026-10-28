@@ -1,0 +1,1060 @@
+{
+ "summary": {
+  "evidence_class": "DETACHED_MODEL_TESTED",
+  "not_proven": "Slate 4.27 per-run shaping context, ICU line breaking, composite-font fallback parity",
+  "cases": 10,
+  "positive_comparisons": 60,
+  "positive_identical": 50,
+  "positive_identical_with_context": 25,
+  "positive_identical_without_context": 25,
+  "negative_detected_with_context": 5,
+  "negative_detected_without_context": 10,
+  "negative_comparisons_per_mode": 10,
+  "fonts": [
+   "Montserrat-Medium.ufont",
+   "NotoNaskhArabicUI-Regular.ttf"
+  ]
+ },
+ "results": [
+  {
+   "case": "salam",
+   "cuts": "word_start",
+   "n_cuts": 1,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam",
+   "cuts": "word_start",
+   "n_cuts": 1,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam",
+   "cuts": "word_end",
+   "n_cuts": 1,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam",
+   "cuts": "word_end",
+   "n_cuts": 1,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam",
+   "cuts": "word_and_punct",
+   "n_cuts": 1,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam",
+   "cuts": "word_and_punct",
+   "n_cuts": 1,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 9
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "word_start",
+   "n_cuts": 1,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "word_start",
+   "n_cuts": 1,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "word_end",
+   "n_cuts": 1,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "word_end",
+   "n_cuts": 1,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "word_and_punct",
+   "n_cuts": 1,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "word_and_punct",
+   "n_cuts": 1,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 1
+  },
+  {
+   "case": "salam_marks",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    19,
+    19
+   ],
+   "glyph_mismatches": 17
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "word_start",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "word_start",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "word_end",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "word_end",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "word_and_punct",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "word_and_punct",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    11
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 4,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    14
+   ],
+   "glyph_mismatches": 14
+  },
+  {
+   "case": "lam_alef",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 4,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    11,
+    14
+   ],
+   "glyph_mismatches": 14
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "word_start",
+   "n_cuts": 2,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "word_start",
+   "n_cuts": 2,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "word_end",
+   "n_cuts": 2,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "word_end",
+   "n_cuts": 2,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "word_and_punct",
+   "n_cuts": 4,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 13
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "word_and_punct",
+   "n_cuts": 4,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 13
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "mixed_test42",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 5
+  },
+  {
+   "case": "version",
+   "cuts": "word_start",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "version",
+   "cuts": "word_start",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "version",
+   "cuts": "word_end",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "version",
+   "cuts": "word_end",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "version",
+   "cuts": "word_and_punct",
+   "n_cuts": 5,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 13
+  },
+  {
+   "case": "version",
+   "cuts": "word_and_punct",
+   "n_cuts": 5,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    21
+   ],
+   "glyph_mismatches": 13
+  },
+  {
+   "case": "version",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    22
+   ],
+   "glyph_mismatches": 22
+  },
+  {
+   "case": "version",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    21,
+    22
+   ],
+   "glyph_mismatches": 22
+  },
+  {
+   "case": "price",
+   "cuts": "word_start",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "price",
+   "cuts": "word_start",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "price",
+   "cuts": "word_end",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "price",
+   "cuts": "word_end",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "price",
+   "cuts": "word_and_punct",
+   "n_cuts": 3,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "price",
+   "cuts": "word_and_punct",
+   "n_cuts": 3,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "price",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "price",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 2,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    18,
+    18
+   ],
+   "glyph_mismatches": 17
+  },
+  {
+   "case": "multiline",
+   "cuts": "word_start",
+   "n_cuts": 7,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    44
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "multiline",
+   "cuts": "word_start",
+   "n_cuts": 7,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    44
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "multiline",
+   "cuts": "word_end",
+   "n_cuts": 7,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    44
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "multiline",
+   "cuts": "word_end",
+   "n_cuts": 7,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    44
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "multiline",
+   "cuts": "word_and_punct",
+   "n_cuts": 9,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    44
+   ],
+   "glyph_mismatches": 11
+  },
+  {
+   "case": "multiline",
+   "cuts": "word_and_punct",
+   "n_cuts": 9,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    44
+   ],
+   "glyph_mismatches": 11
+  },
+  {
+   "case": "multiline",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 6,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    45
+   ],
+   "glyph_mismatches": 45
+  },
+  {
+   "case": "multiline",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 6,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    44,
+    45
+   ],
+   "glyph_mismatches": 45
+  },
+  {
+   "case": "speaker",
+   "cuts": "word_start",
+   "n_cuts": 4,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "speaker",
+   "cuts": "word_start",
+   "n_cuts": 4,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "speaker",
+   "cuts": "word_end",
+   "n_cuts": 4,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "speaker",
+   "cuts": "word_end",
+   "n_cuts": 4,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "speaker",
+   "cuts": "word_and_punct",
+   "n_cuts": 7,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "speaker",
+   "cuts": "word_and_punct",
+   "n_cuts": 7,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "speaker",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 5,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "speaker",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 5,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    31,
+    31
+   ],
+   "glyph_mismatches": 29
+  },
+  {
+   "case": "punctuation",
+   "cuts": "word_start",
+   "n_cuts": 6,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "punctuation",
+   "cuts": "word_start",
+   "n_cuts": 6,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "punctuation",
+   "cuts": "word_end",
+   "n_cuts": 6,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "punctuation",
+   "cuts": "word_end",
+   "n_cuts": 6,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "punctuation",
+   "cuts": "word_and_punct",
+   "n_cuts": 13,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 19
+  },
+  {
+   "case": "punctuation",
+   "cuts": "word_and_punct",
+   "n_cuts": 13,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 19
+  },
+  {
+   "case": "punctuation",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 6,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "punctuation",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 6,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    41,
+    41
+   ],
+   "glyph_mismatches": 39
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "word_start",
+   "n_cuts": 44,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "word_start",
+   "n_cuts": 44,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "word_end",
+   "n_cuts": 44,
+   "hb_context": true,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "word_end",
+   "n_cuts": 44,
+   "hb_context": false,
+   "identical": true,
+   "lines_equal": true,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 0
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "word_and_punct",
+   "n_cuts": 50,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 114
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "word_and_punct",
+   "n_cuts": 50,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 114
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 33,
+   "hb_context": true,
+   "identical": false,
+   "lines_equal": true,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 3
+  },
+  {
+   "case": "long_wrap",
+   "cuts": "NEG_mid_word",
+   "n_cuts": 33,
+   "hb_context": false,
+   "identical": false,
+   "lines_equal": false,
+   "glyph_count": [
+    221,
+    221
+   ],
+   "glyph_mismatches": 209
+  }
+ ]
+}

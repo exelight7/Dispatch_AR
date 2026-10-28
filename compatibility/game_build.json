@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "game": "Dispatch",
+  "steam_appid": 2592160,
+  "supported_builds": [
+    {
+      "project_version": "1.0.19512",
+      "steam_build_id": "25637711",
+      "engine": "UE4.27 (custom tree, monolithic shipping)",
+      "identity_files": {
+        "Dispatch/Binaries/Win64/Dispatch-Win64-Shipping.exe": {
+          "bytes": 73869896,
+          "sha256": "365637a77d4b74a61d198a9927e3dcd437bf3be2247b96fcbe5c2e851ac14923"
+        },
+        "Dispatch.exe": {
+          "bytes": 288768,
+          "sha256": "6a987cc06cce62d4e4922298d4ae88f931cf27fc88fef588ba5ac21f6c55ab4c"
+        },
+        "Dispatch/Content/Paks/pakchunk0-WindowsNoEditor.pak": {
+          "bytes": 485235655,
+          "sha256": "a7e0db284e5b34004d71cb40257f866ed176befdd5af2da7883ae44d8bfab3fc"
+        }
+      },
+      "pak_files": {
+        "pakchunk0-WindowsNoEditor.pak": {
+          "bytes": 485235655,
+          "sha256": "a7e0db284e5b34004d71cb40257f866ed176befdd5af2da7883ae44d8bfab3fc"
+        },
+        "pakchunk1-WindowsNoEditor.pak": {
+          "bytes": 721815259,
+          "sha256": "c00250e3e02ba0d4089dee9f95f9075c6f9a1bf1dc703cc84c56f5abec449d4c"
+        },
+        "pakchunk10-WindowsNoEditor.pak": {
+          "bytes": 22123143,
+          "sha256": "8aef32c467ece785cb30f41a024e8672f0154124d7a3c461194d9e689e5a1dc4"
+        },
+        "pakchunk100-WindowsNoEditor.pak": {
+          "bytes": 8020797750,
+          "sha256": "97125ea40984e23b61a70a38dc1d5e98e4edc0c7bd22ac548e669c34419dc175"
+        },
+        "pakchunk11-WindowsNoEditor.pak": {
+          "bytes": 1657583836,
+          "sha256": "57e5bcfc0e6784b57e391d6488e2dfc8da631d904cffb1a882971342fdebb826"
+        },
+        "pakchunk12-WindowsNoEditor.pak": {
+          "bytes": 101947143,
+          "sha256": "8f81b6c1ae044c4ffeda870253d34bf7f2a155f2e65b555aa645e1d1746dbd84"
+        },
+        "pakchunk13-WindowsNoEditor.pak": {
+          "bytes": 1434742247,
+          "sha256": "8b32b2c219d1199dbbb2e19312dbfdc96d2cdff8f0d6a5dade45279e182ecb3a"
+        },
+        "pakchunk14-WindowsNoEditor.pak": {
+          "bytes": 27281921,
+          "sha256": "73367746d30f8f364f404c1323aac503e664d70c3cab60822ba4ffbc2fe2294d"
+        },
+        "pakchunk15-WindowsNoEditor.pak": {
+          "bytes": 1344501191,
+          "sha256": "84027e619f6f38f8beec066d20cd706dc58704fe965e88aefddcf98bff0a5c9b"
+        },
+        "pakchunk16-WindowsNoEditor.pak": {
+          "bytes": 156471671,
+          "sha256": "42e030dc54b34abea601f00b8e30b44cabcedb1a09246a1f8031f315cc87634c"
+        },
+        "pakchunk17-WindowsNoEditor.pak": {
+          "bytes": 4566501895,
+          "sha256": "e6d9e118afcc91267a8846bc9e95a447f0eae0fbc8009d42be6b2caad776e4e1"
+        },
+        "pakchunk18-WindowsNoEditor.pak": {
+          "bytes": 216959,
+          "sha256": "0247d9015542faf104003da6690046f1d11cb0f97dc658a7421952d7df804d6c"
+        },
+        "pakchunk2-WindowsNoEditor.pak": {
+          "bytes": 17895591,
+          "sha256": "b062a811fbf42a6e3caab9cb207a054de7ce8631913ea34fd684cde4fb34d936"
+        },
+        "pakchunk3-WindowsNoEditor.pak": {
+          "bytes": 1173253991,
+          "sha256": "86be174d4dd74ea35600f4a61c634a0056e645fbaef9068e3272d02b1d6765ff"
+        },
+        "pakchunk4-WindowsNoEditor.pak": {
+          "bytes": 167892855,
+          "sha256": "6adf90f03088f7637da5e2cc0da0f7f97bd73f0a6b692a62927a81d4078be851"
+        },
+        "pakchunk5-WindowsNoEditor.pak": {
+          "bytes": 917097623,
+          "sha256": "809443a9e724e857ef380192f2ffdc8d3704b41dffd77311c8bd8ec752aec8e9"
+        },
+        "pakchunk6-WindowsNoEditor.pak": {
+          "bytes": 31109191,
+          "sha256": "df4808513e242088d6897b83298ea27f7bb7a5e26a3e256768bc89c1537d0dc4"
+        },
+        "pakchunk7-WindowsNoEditor.pak": {
+          "bytes": 912686119,
+          "sha256": "e17a4eaeaf2d474a1359516631581a9b5e320d27e4b07f0ef5220aeb4cd9e84e"
+        },
+        "pakchunk8-WindowsNoEditor.pak": {
+          "bytes": 132958311,
+          "sha256": "586b799d7c7b1a9a81d89f8a0c6d54b12ee07c720bb70e7b13cb25f3dbde8c9a"
+        },
+        "pakchunk9-WindowsNoEditor.pak": {
+          "bytes": 725355136,
+          "sha256": "b33453e3c396a9609ca631da6727f52a97faad16e13f18accf4cc99a87bdcb73"
+        }
+      },
+      "install_file_count": 97,
+      "verified": "Full SHA256 of all 97 files recorded in round 002 (backups/original_game_sha256.json); no game file was read in round 006 except the EXE hash check"
+    }
+  ],
+  "policy": "Installer refuses any game whose Dispatch-Win64-Shipping.exe SHA256 is not listed here; pak files are size-checked.",
+  "contains_secrets": false
+}

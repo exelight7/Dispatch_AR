@@ -1,0 +1,766 @@
+[
+{
+"asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Cover.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "DISPATCH",
+"score": 0.76
+},
+{
+"text": "ADHOC",
+"score": 0.991
+},
+{
+"text": "1",
+"score": 0.998
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg01_Master.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "HAHHAA",
+"score": 0.811
+},
+{
+"text": "44",
+"score": 0.622
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg02_Master.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "SPLASH",
+"score": 0.851
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_LastBender_Cover.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "ADHOC",
+"score": 0.991
+},
+{
+"text": "STUDIO",
+"score": 0.956
+},
+{
+"text": "1",
+"score": 0.998
+},
+{
+"text": "A",
+"score": 0.895
+},
+{
+"text": "8D.NA",
+"score": 0.837
+},
+{
+"text": "0.25",
+"score": 0.944
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg01.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "PRSEDEUX",
+"score": 0.677
+},
+{
+"text": "JMM BEST",
+"score": 0.633
+},
+{
+"text": "SO. AMRLRALCEJ",
+"score": 0.656
+},
+{
+"text": "GET.FOPOVF.A LGI",
+"score": 0.649
+},
+{
+"text": "MYSACCESS.EAIE",
+"score": 0.677
+},
+{
+"text": "ASANASS",
+"score": 0.854
+},
+{
+"text": "FOPONS4ONC",
+"score": 0.673
+},
+{
+"text": "ENOUOK",
+"score": 0.61
+},
+{
+"text": "NALEK HOV/RE",
+"score": 0.681
+},
+{
+"text": "NLEAETRONC",
+"score": 0.721
+},
+{
+"text": "SDNT7OKI4.4/HAN",
+"score": 0.646
+},
+{
+"text": "SAANLAKE:",
+"score": 0.754
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg02.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "SMRLE GTN.",
+"score": 0.807
+},
+{
+"text": "DERLESARE",
+"score": 0.726
+},
+{
+"text": "NPORSANTLX",
+"score": 0.628
+},
+{
+"text": "ANC,MOSF",
+"score": 0.713
+},
+{
+"text": "SONTM",
+"score": 0.744
+},
+{
+"text": "SEEN.",
+"score": 0.898
+},
+{
+"text": "YOUREERE",
+"score": 0.882
+},
+{
+"text": "SUPPOSE",
+"score": 0.94
+},
+{
+"text": "TOKLME",
+"score": 0.918
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_2a_PasDeDuex_Cover.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "DISPATCH",
+"score": 0.73
+},
+{
+"text": "ADHOC",
+"score": 0.99
+},
+{
+"text": "2",
+"score": 0.999
+},
+{
+"text": "A",
+"score": 0.906
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_Shellshock_Cover.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "ADHOC",
+"score": 0.99
+},
+{
+"text": "ODAI",
+"score": 0.668
+},
+{
+"text": "STUDIO",
+"score": 0.954
+},
+{
+"text": "2",
+"score": 0.999
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_ShellShock_Pg01.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "AAT",
+"score": 0.64
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_ShellShock_Pg02.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "EMPTYS",
+"score": 0.633
+},
+{
+"text": "FEOM",
+"score": 0.625
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Cover.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "DISPATOH",
+"score": 0.712
+},
+{
+"text": "ADHOC",
+"score": 0.992
+},
+{
+"text": "3",
+"score": 0.999
+},
+{
+"text": "NOV",
+"score": 0.996
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg01_Master_V1.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "YOUREALY",
+"score": 0.857
+},
+{
+"text": "STOINCAT THE",
+"score": 0.742
+},
+{
+"text": "SDE OFTOUR",
+"score": 0.738
+},
+{
+"text": "HEAOF",
+"score": 0.696
+},
+{
+"text": "SANPEDRO.CALIFORNIA.-IOOO",
+"score": 0.904
+},
+{
+"text": "YIAH",
+"score": 0.709
+},
+{
+"text": "RUOX",
+"score": 0.747
+},
+{
+"text": "SIOIN/P TO HM",
+"score": 0.84
+},
+{
+"text": "IMNDN",
+"score": 0.705
+},
+{
+"text": "FORWEDKSTO8E",
+"score": 0.82
+},
+{
+"text": "FIAST INLNE",
+"score": 0.835
+},
+{
+"text": "EAD.HE SAOYO",
+"score": 0.648
+},
+{
+"text": "I NOT ONTHE",
+"score": 0.915
+},
+{
+"text": "CWMSCAIHRT",
+"score": 0.653
+},
+{
+"text": "THONTHATS",
+"score": 0.919
+},
+{
+"text": "EMNMORE",
+"score": 0.923
+},
+{
+"text": "SATUN-",
+"score": 0.844
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg02_Master_V1.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "ID vOSg foulr",
+"score": 0.698
+},
+{
+"text": "TMZUIT SN",
+"score": 0.694
+},
+{
+"text": "KDSNTHERE",
+"score": 0.851
+},
+{
+"text": "BLIN",
+"score": 0.669
+},
+{
+"text": "OEESE ON THE",
+"score": 0.802
+},
+{
+"text": "YLAH",
+"score": 0.94
+},
+{
+"text": "SRAME DRCACE MDMEERS",
+"score": 0.706
+},
+{
+"text": "YOJSOULDLET THE",
+"score": 0.83
+},
+{
+"text": "ANO·ITHNK",
+"score": 0.865
+},
+{
+"text": "BOOST RIOM THE TIO",
+"score": 0.697
+},
+{
+"text": "MHOLLACTUAUY GET,A",
+"score": 0.758
+},
+{
+"text": "IMRE DHE GRL",
+"score": 0.709
+},
+{
+"text": "ASTIUL PULSEOUF",
+"score": 0.853
+},
+{
+"text": "HEY. YOuGOr THE",
+"score": 0.758
+},
+{
+"text": "OF HML WHRT ABOU",
+"score": 0.837
+},
+{
+"text": "41COMN",
+"score": 0.775
+},
+{
+"text": "OMR",
+"score": 0.915
+},
+{
+"text": "SHt.",
+"score": 0.733
+},
+{
+"text": "TE REST OF GS?",
+"score": 0.851
+},
+{
+"text": "1.7VST",
+"score": 0.613
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMechaman_Cover.uasset",
+"format": "PF_DXT5",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "DISPATCH",
+"score": 0.954
+},
+{
+"text": "ADHOC",
+"score": 0.988
+},
+{
+"text": "4",
+"score": 1.0
+},
+{
+"text": "A",
+"score": 0.864
+},
+{
+"text": "NOV",
+"score": 0.991
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg01_Master.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "CANCELED",
+"score": 0.965
+},
+{
+"text": "YOU",
+"score": 0.835
+},
+{
+"text": "THE VOTE7",
+"score": 0.887
+},
+{
+"text": "FUCKED UP,ROBBE,",
+"score": 0.827
+},
+{
+"text": "NO. NOr THS IS",
+"score": 0.814
+},
+{
+"text": "THAT'S THE FFTH",
+"score": 0.824
+},
+{
+"text": "TIWE-",
+"score": 0.781
+},
+{
+"text": "PROMESED",
+"score": 0.892
+},
+{
+"text": "BLL OR YOULL",
+"score": 0.815
+},
+{
+"text": "CMLL OUT,",
+"score": 0.837
+},
+{
+"text": "WOULP BE",
+"score": 0.747
+},
+{
+"text": "TOPAY.",
+"score": 0.899
+},
+{
+"text": "EIT",
+"score": 0.695
+},
+{
+"text": "POP A SPARK",
+"score": 0.896
+},
+{
+"text": "PLUG.",
+"score": 0.82
+},
+{
+"text": "PROMWSEP?",
+"score": 0.836
+}
+]
+},
+{
+"asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg02_Master.uasset",
+"format": "PF_DXT1",
+"width": 4124,
+"height": 6300,
+"mips": 1,
+"decoded": true,
+"decoded_mip": [
+4124,
+6300
+],
+"ocr": [
+{
+"text": "001 00",
+"score": 0.784
+},
+{
+"text": "SWEARP",
+"score": 0.739
+},
+{
+"text": "APMNRY",
+"score": 0.733
+},
+{
+"text": "CCNTBEA",
+"score": 0.81
+},
+{
+"text": "CHALLENGE",
+"score": 0.948
+},
+{
+"text": "FUCKNS",
+"score": 0.84
+},
+{
+"text": "PICAEL",
+"score": 0.664
+},
+{
+"text": "THE FUCKS",
+"score": 0.891
+},
+{
+"text": "UPPOAD",
+"score": 0.724
+},
+{
+"text": "TO MEAN",
+"score": 0.914
+},
+{
+"text": "TOBEATMECMA",
+"score": 0.883
+},
+{
+"text": "TM 6ONS",
+"score": 0.623
+},
+{
+"text": "I PO, YOVLL MAKE",
+"score": 0.837
+},
+{
+"text": "AMAS AND WHEN",
+"score": 0.788
+},
+{
+"text": "ME AN OFFICLAL",
+"score": 0.896
+},
+{
+"text": "MEMBEROF",
+"score": 0.891
+},
+{
+"text": "BRVGANN.",
+"score": 0.711
+},
+{
+"text": "THE&RMPE",
+"score": 0.793
+},
+{
+"text": "MEBACX",
+"score": 0.815
+},
+{
+"text": "ANO GNE",
+"score": 0.704
+},
+{
+"text": "NYAITRAL",
+"score": 0.877
+},
+{
+"text": "PASE",
+"score": 0.775
+},
+{
+"text": "PALSEA",
+"score": 0.775
+},
+{
+"text": "ASTRAL",
+"score": 0.994
+},
+{
+"text": "IMADEALL",
+"score": 0.865
+},
+{
+"text": "FMADEIT.",
+"score": 0.779
+},
+{
+"text": "PM GOING TO",
+"score": 0.846
+},
+{
+"text": "ANPND",
+"score": 0.896
+},
+{
+"text": "LIWMARE IT.",
+"score": 0.773
+}
+]
+}
+]

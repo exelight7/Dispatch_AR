@@ -1,0 +1,19 @@
+{
+  "status": "UE427_HEADERS_AND_UBT_NOT_DISCOVERED",
+  "scope": "Registered engine paths, Epic Launcher InstallationList and listed known roots only; no whole-disk scan",
+  "launcher_registered_UE_engines": [],
+  "checked_roots": [
+    "C:\\Program Files\\Epic Games\\UE_4.27",
+    "D:\\Epic Games\\UE_4.27",
+    "C:\\Epic Games\\UE_4.27",
+    "D:\\UnrealEngine\\UE_4.27",
+    "C:\\Program Files\\Epic Games\\4.0",
+    "C:\\Program Files\\Epic Games"
+  ],
+  "header_relative_path": "Engine/Source/Runtime/Slate/Public/Framework/Text/SlateTextRun.h",
+  "tool_relative_path": "Engine/Binaries/DotNET/UnrealBuildTool.exe",
+  "matching_headers": 0,
+  "matching_UBT": 0,
+  "native_build_attempted": false,
+  "download_or_install_attempted": false
+}

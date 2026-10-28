@@ -1,0 +1,308 @@
+[
+  {
+    "target": "101",
+    "index": 229,
+    "id": "101:Line:34BED35B67A5444D9EE8243C08638EC0",
+    "en": "HEY! Mecha Dick. Get the fuck out of here.",
+    "before": "مهلا! يا ميكا تافه. اغرب عن وجهي اللعين.",
+    "after": "مهلا! يا ميكا تافه. اغرب عن وجهي، اللعنة.",
+    "reason": "تصحيح موقع الشتيمة دون نسبتها إلى وجه المتحدث."
+  },
+  {
+    "target": "101",
+    "index": 282,
+    "id": "101:Line:D77EF0B805BF4E839F5003EFCC16061E",
+    "en": "I hope Shroud kills you just like he killed your father. |I hope he fuckin’ spanks your little daddy issue bitch ass to death. |You hear me? Ugh!",
+    "before": "آمل أن يقتلك شراود كما قتل أباك. |آمل أن يجلد مؤخرتك الحقيرة المعقدة من أبيها حتى الموت. |أتسمعني؟ آخ!",
+    "after": "آمل أن يقتلك شراود كما قتل أباك. |آمل أن يجلد مؤخرتك الحقيرة حتى الموت، أيها المصاب بعقدة الأب. |أتسمعني؟ آخ!",
+    "reason": "تصحيح تركيب الوصف مع إبقاء المعنى والحدة."
+  },
+  {
+    "target": "101",
+    "index": 336,
+    "id": "101:Line:AB6BB301139845FC9C0AF5849CF6728F",
+    "en": "I’m a little buzzed. I don’t really make jokes like that. |I think Visi’s rubbing off on me.",
+    "before": "أنا ثملة قليلا. لا أمزح هكذا عادة. |أظن أن فيزي بدأت تؤثر في.",
+    "after": "أنا ثملة قليلا. لا أمزح هكذا عادة. |أظن أن فيزي بدأت تؤثر فيّ.",
+    "reason": "إضافة الشدة لتمييز ضمير المتكلم من حرف الجر."
+  },
+  {
+    "target": "101",
+    "index": 546,
+    "id": "101:Line:037CDE7016D74316983C66DDCF76504F",
+    "en": "Unprofessional? I’m not sure that that applies to this but--",
+    "before": "غير مهني؟ لست واثقا أن هذا ينطبق هنا، لكن--",
+    "after": "غير مهني؟ لست واثقا من أن هذا ينطبق هنا، لكن--",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "101",
+    "index": 566,
+    "id": "101:Line:5132D7D2B69D429BB9E2A25C7693107C",
+    "en": "Well, he’s more than gone, 'cause he’s fuckin’ dead. |That’s the most gone you can be.",
+    "before": "حسنا، إنه أكثر من راحل، فهو ميت لعنة الله. |وهذا أقصى الرحيل.",
+    "after": "حسنا، إنه أكثر من راحل، فهو ميت، اللعنة. |وهذا أقصى الرحيل.",
+    "reason": "تصحيح تركيب الشتيمة."
+  },
+  {
+    "target": "103",
+    "index": 3,
+    "id": "103::42E4E3C5426981A8F038CF91B79C4C71",
+    "en": "\"Hey, Robert? I'm pretty sure I've got the scammer on the line...\"",
+    "before": "\"مرحبا روبرت؟ أنا واثق أن المحتال على الخط...\"",
+    "after": "\"مرحبا روبرت؟ أنا واثق من أن المحتال على الخط...\"",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "103",
+    "index": 385,
+    "id": "103:Line:D62EC16F677F4B98B13047EFBB5CEA0E",
+    "en": "Coop, I’m sure you already know why I’ve asked you here.",
+    "before": "كوب، أنا واثق أنك تعرفين سبب استدعائك.",
+    "after": "كوب، أنا واثق من أنك تعرفين سبب استدعائك.",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "103",
+    "index": 417,
+    "id": "103:Line:580D7255DF9842E79F9FFCEBDC51B554",
+    "en": "Doubt they're that desperate babe.",
+    "before": "أشك أنهم يائسون إلى هذا الحد يا حبيبتي.",
+    "after": "أشك في أنهم يائسون إلى هذا الحد يا حبيبتي.",
+    "reason": "تصحيح تعدية أشك."
+  },
+  {
+    "target": "103",
+    "index": 425,
+    "id": "103:Line:123C99F0F59646A69A70EC39488171BE",
+    "en": "Emergency unlock activated.",
+    "before": "فعل الفتح الطارئ.",
+    "after": "فُعّل الفتح الطارئ.",
+    "reason": "تمييز المبني للمجهول من الفعل المعلوم."
+  },
+  {
+    "target": "103",
+    "index": 498,
+    "id": "103:Line:0249559950344CC98A50407A28EED8FB",
+    "en": "Hey, Robert? I'm pretty sure I've got the scammer on the line...",
+    "before": "مرحبا روبرت؟ أنا واثق أن المحتال على الخط...",
+    "after": "مرحبا روبرت؟ أنا واثق من أن المحتال على الخط...",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "103",
+    "index": 642,
+    "id": "103:Line:F56AADC51CC34533BA8BCEEA8665BC4E",
+    "en": "I’m just not sure how it’ll play out.",
+    "before": "لست واثقا كيف ستسير الأمور.",
+    "after": "لست واثقا من كيفية سير الأمور.",
+    "reason": "تصحيح تركيب واثق."
+  },
+  {
+    "target": "103",
+    "index": 675,
+    "id": "103:Line:B032F814D0DE4AB9BEEF44EFA363B041",
+    "en": "Mm, pretty sure that’s what you said.",
+    "before": "مم، أنا واثقة أن هذا ما قلته.",
+    "after": "مم، أنا واثقة من أن هذا ما قلته.",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "103",
+    "index": 808,
+    "id": "103:Line:813ACB3298BA41F0B72A0900F6F2576B",
+    "en": "So, I’m sure you know why you’re here...",
+    "before": "إذن، أنا واثق أنك تعرف سبب وجودك هنا...",
+    "after": "إذن، أنا واثق من أنك تعرف سبب وجودك هنا...",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "103",
+    "index": 819,
+    "id": "103:Line:7F7782FC0AC445399EBD1161854BCD02",
+    "en": "Sonar it is. |He had to use his distress beacon before he even left the building today |so I'm not sure it's gonna work.",
+    "before": "سونار إذن. |احتاج إلى منارة استغاثته قبل أن يغادر المبنى اليوم حتى، |لذا لست واثقا أن هذا سينجح.",
+    "after": "سونار إذن. |احتاج إلى منارة استغاثته قبل أن يغادر المبنى اليوم حتى، |لذا لست واثقا من أن هذا سينجح.",
+    "reason": "تصحيح تعدية واثق مع الحفاظ على المقاطع."
+  },
+  {
+    "target": "103",
+    "index": 849,
+    "id": "103:Line:82EFA240A0D840048FABB44B5A0BDF09",
+    "en": "That you, donut girl? |You sure you want to do this again?",
+    "before": "أهذه أنت يا فتاة الدونات؟ |أمتأكدة أنك تريدين فعل هذا مجددا؟",
+    "after": "أهذه أنت يا فتاة الدونات؟ |أمتأكدة من أنك تريدين فعل هذا مجددا؟",
+    "reason": "تصحيح تعدية متأكد."
+  },
+  {
+    "target": "103",
+    "index": 1013,
+    "id": "103:Line:1F4467AD87B54D5087CC614AC8219F6B",
+    "en": "Yeah, exactly... I don’t watch football but I get it. |Look, I know I’m not supposed to play favorites here, |but even if she was on the bottom, |I’m not sure I’d have let you cut her.",
+    "before": "أجل، بالضبط... لا أتابع كرة القدم، لكنني أفهم. |اسمع، أعرف أن علي ألا أحابي أحدا هنا، |لكن حتى لو كانت في القاع، |لست واثقة أنني كنت سأدعك تطردها.",
+    "after": "أجل، بالضبط... لا أتابع كرة القدم، لكنني أفهم. |اسمع، أعرف أن علي ألا أحابي أحدا هنا، |لكن حتى لو كانت في القاع، |لست واثقة من أنني كنت سأدعك تطردها.",
+    "reason": "تصحيح تعدية واثق مع الحفاظ على المقاطع."
+  },
+  {
+    "target": "103",
+    "index": 1060,
+    "id": "103:Line:2DA22EAA18F8483BABD2E28B11C4B04B",
+    "en": "You sure it was us? Maybe you're just getting coffee shits in your old age.",
+    "before": "أمتأكد أننا السبب؟ ربما القهوة تسبب لك الإسهال مع تقدمك في السن.",
+    "after": "أمتأكد من أننا السبب؟ ربما القهوة تسبب لك الإسهال مع تقدمك في السن.",
+    "reason": "تصحيح تعدية متأكد."
+  },
+  {
+    "target": "102",
+    "index": 238,
+    "id": "102:Line:E7D50080EBBF410C97B280744B960BAE",
+    "en": "Admittedly, I haven’t had a hug in a while, but could you maybe not?",
+    "before": "أعترف أنني لم أعانق أحدا منذ مدة، لكن هل يمكنك التوقف؟",
+    "after": "أعترف بأنني لم أعانق أحدا منذ مدة، لكن هل يمكنك التوقف؟",
+    "reason": "تصحيح تعدية أعترف."
+  },
+  {
+    "target": "102",
+    "index": 307,
+    "id": "102:Line:E40C474B5AD641698E8433346A421609",
+    "en": "Are you sure you’re not actually eighty years old? ",
+    "before": "أمتأكد أن عمرك ليس ثمانين عاما فعلا؟ ",
+    "after": "أمتأكد من أن عمرك ليس ثمانين عاما فعلا؟ ",
+    "reason": "تصحيح تعدية متأكد."
+  },
+  {
+    "target": "102",
+    "index": 424,
+    "id": "102:Line:2BC7E3357CFB4B8D9EF322AD03913862",
+    "en": "Dammit, I'm locked out.",
+    "before": "اللعنة، منع دخولي.",
+    "after": "اللعنة، مُنعت من الدخول.",
+    "reason": "توضيح صيغة المبني للمجهول."
+  },
+  {
+    "target": "102",
+    "index": 491,
+    "id": "102:Line:452B61445F4E49F682EE89D529663808",
+    "en": "Don't you dare tell Coop about this. I'll never live it down.",
+    "before": "إياك أن تخبر كوب بهذا. لن يدعوني أنساه أبدا.",
+    "after": "إياك أن تخبر كوب بهذا. لن أتخلص من الإحراج أبدا.",
+    "reason": "تجنب الضمير الجمعي الذي يوحي بأن كوب جماعة، والمحافظة على معنى استمرار الإحراج."
+  },
+  {
+    "target": "102",
+    "index": 541,
+    "id": "102:Line:8B8534D93A0F445AA28D1A5CC7A36A3F",
+    "en": "First of all, the place was trashed when I got there. |Second, I’m sure Granny would take some crispy nuts |over losing his arm. As far as the bad guy... fuck, shit happens.",
+    "before": "أولا، كان المكان محطما حين وصلت. |ثانيا، أنا واثقة أن غراني يفضل خصيتين مشويتين |على فقدان ذراعه. أما الشرير... تبا، تحدث المصائب.",
+    "after": "أولا، كان المكان محطما حين وصلت. |ثانيا، أنا واثقة من أن غراني يفضل خصيتين مشويتين |على فقدان ذراعه. أما الشرير... تبا، تحدث المصائب.",
+    "reason": "تصحيح تعدية واثقة مع الحفاظ على المقاطع."
+  },
+  {
+    "target": "102",
+    "index": 775,
+    "id": "102:Line:2A7D35D878A74F2F89BD30CBE3E5C893",
+    "en": "I can’t promise it’ll work, I can only promise that I’ll do my best. ",
+    "before": "لا أستطيع أن أعدك بنجاحها، فقط بأن أبذل قصارى جهدي. ",
+    "after": "لا أستطيع أن أعدك بنجاحها، وإنما أعدك ببذل قصارى جهدي. ",
+    "reason": "إكمال تركيب الوعد ببذل الجهد."
+  },
+  {
+    "target": "102",
+    "index": 790,
+    "id": "102:Line:F6875BE87AEB45C6B0B88A12140712B1",
+    "en": "I don’t wanna sit here and fixate on it |when we’re supposed to be doing... whatever. |Superhero shit.",
+    "before": "لا أريد الجلوس هنا والتفكير فيه |ونحن يفترض أن نفعل... أيا كان. |أمور الأبطال الخارقين.",
+    "after": "لا أريد الجلوس هنا والتفكير فيه |ومن المفترض أن نفعل... أيا كان. |أمور الأبطال الخارقين.",
+    "reason": "تصحيح تركيب المبني للمجهول مع الحفاظ على المقاطع."
+  },
+  {
+    "target": "102",
+    "index": 792,
+    "id": "102:Line:372BB605C91F45A7B851AE2745886F61",
+    "en": "I ensured that my targets were only people -- not paintings.",
+    "before": "حرصت أن تكون أهدافي أشخاصا فقط، لا لوحات.",
+    "after": "حرصت على أن تكون أهدافي أشخاصا فقط، لا لوحات.",
+    "reason": "تصحيح تعدية حرص."
+  },
+  {
+    "target": "102",
+    "index": 1015,
+    "id": "102:Line:E9B35EA7741649948F6672BF9B0DB7C8",
+    "en": "I’m sure they could accommodate one more. |Especially a special occasion like this.",
+    "before": "أنا واثق أنهم يستطيعون استيعاب شخص آخر. |خصوصا في مناسبة مميزة كهذه.",
+    "after": "أنا واثق من أنهم يستطيعون استيعاب شخص آخر. |خصوصا في مناسبة مميزة كهذه.",
+    "reason": "تصحيح تعدية واثق."
+  },
+  {
+    "target": "102",
+    "index": 1084,
+    "id": "102:Line:33E1C63551C240648973E58B116D423E",
+    "en": "Make a wish, motherfucker.",
+    "before": "تمن أمنية يا ابن العاهرة.",
+    "after": "تمنَّ أمنية يا ابن العاهرة.",
+    "reason": "إضافة الشدة والفتحة للتمييز بين فعل الأمر وكلمة تمن."
+  },
+  {
+    "target": "102",
+    "index": 1254,
+    "id": "102:Line:22D7B04E40E843A2BABD3259B1C8F66F",
+    "en": "Oh, wasn't sure you’d show up.",
+    "before": "لم أكن واثقة أنك ستحضر.",
+    "after": "لم أكن واثقة من أنك ستحضر.",
+    "reason": "تصحيح تعدية واثقة."
+  },
+  {
+    "target": "102",
+    "index": 1259,
+    "id": "102:Line:D77605E9BCE345A9BBAA3F10A6E2B415",
+    "en": "Oh-- no... note... not necessary if-- I’m sure I...",
+    "before": "آه-- لا... لا... ليس ضروريا إن-- أنا واثق أنني...",
+    "after": "آه-- لا... لا... ليس ضروريا إن-- أنا واثق من أنني...",
+    "reason": "تصحيح تعدية واثق مع إبقاء التلعثم."
+  },
+  {
+    "target": "102",
+    "index": 1276,
+    "id": "102:Line:532E497735174E719CDEB20B57167590",
+    "en": "Okay stop. First of all, WE did not kiss, you kissed me. |Second of all, it's none of your freaking business.",
+    "before": "حسنا، توقف. أولا، لم نتبادل قبلة، أنت قبلتني. |ثانيا، هذا ليس من شأنك اللعين.",
+    "after": "حسنا، توقف. أولا، لم نتبادل قبلة، أنت قبّلتني. |ثانيا، هذا ليس من شأنك اللعين.",
+    "reason": "تمييز فعل التقبيل من القبول، كما في التصحيح السابق للخيار نفسه."
+  },
+  {
+    "target": "102",
+    "index": 1574,
+    "id": "102:Line:B3898CA168524AB78DB6C1878AC817A8",
+    "en": "That’s-- yeah. |Nokia...ing is probably best. ",
+    "before": "هذا-- أجل. |ربما الأفضل ألا نقبل بعضنا. ",
+    "after": "هذا-- أجل. |ربما الأفضل ألا نقبّل بعضنا. ",
+    "reason": "تمييز فعل التقبيل من القبول بالشدة."
+  },
+  {
+    "target": "102",
+    "index": 1875,
+    "id": "102:Line:4644066B39024D31A225D6702B98F1DE",
+    "en": "Yeah, I’m pretty sure she does that on purpose.",
+    "before": "أجل، أنا واثقة أنها تفعل ذلك عمدا.",
+    "after": "أجل، أنا واثقة من أنها تفعل ذلك عمدا.",
+    "reason": "تصحيح تعدية واثقة."
+  },
+  {
+    "target": "102",
+    "index": 1887,
+    "id": "102:Line:219376864E1D4950AE16611C8DFB90EF",
+    "en": "Yeah, pretty sure that's exactly what he's trying to avoid.",
+    "before": "أجل، أنا واثقة أن هذا بالضبط ما يحاول تجنبه.",
+    "after": "أجل، أنا واثقة من أن هذا بالضبط ما يحاول تجنبه.",
+    "reason": "تصحيح تعدية واثقة."
+  },
+  {
+    "target": "102",
+    "index": 1989,
+    "id": "102:Line:41B4C565B58C470CB17B226A02D0090D",
+    "en": "You sure we don't work on commission?",
+    "before": "أمتأكد أننا لا نعمل بالعمولة؟",
+    "after": "أمتأكد من أننا لا نعمل بالعمولة؟",
+    "reason": "تصحيح تعدية متأكد."
+  }
+]

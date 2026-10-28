@@ -1,0 +1,21 @@
+{
+  "round": "006",
+  "result": "ARABIC_SELECTION_STATIC_REQUIREMENTS_IDENTIFIED",
+  "runtime": "NOT_PROVEN",
+  "shipped_cultures": ["de", "en", "es", "es-419", "fr", "it", "ja", "ko", "LEET", "pl", "pt-BR", "ru", "th", "tr", "uk", "zh-Hans", "zh-Hant"],
+  "exe_language_list_literals": ["system", "de", "es", "es-419", "fr", "it", "ja", "ko", "pt-BR", "ru", "uk", "th", "tr", "pl", "zh-Hans", "zh-Hant"],
+  "exe_language_list_offset": "0x32e5090",
+  "requirements": [
+    {"id": "R1", "what": "Arabic in the in-game Language menu", "category": "EXE_CHANGE", "status": "BLOCKED_FORBIDDEN", "evidence": "CONFIRMED_FROM_BINARY literal culture list without ar"},
+    {"id": "R2", "what": "ar locres for every target", "category": "LOCALIZATION_RESOURCE_CHANGE", "status": "DONE_EXPERIMENTAL", "evidence": "builds/arabic_texts_experimental"},
+    {"id": "R3", "what": "ar in CompiledCultures of game locmeta", "category": "LOCALIZATION_RESOURCE_CHANGE", "status": "PROTOTYPE_BUILT_NOT_PACKED", "evidence": "reports/arabic_activation/prototype/locmeta_prototype.json"},
+    {"id": "R4", "what": "request culture ar (-culture=ar or user GameUserSettings [Internationalization] Culture=ar)", "category": "CULTURE_CONFIG_CHANGE", "status": "RUNTIME_NOT_PROVEN", "evidence": "CULTURE=/LANGUAGE= compiled in"},
+    {"id": "R5", "what": "game Language setting must not override R4", "category": "RUNTIME_NOT_PROVEN", "status": "RUNTIME_NOT_PROVEN", "evidence": "UDispatchLanguageSetting native"},
+    {"id": "R6", "what": "window-level RTL flow (Slate.ShouldFollowCultureByDefault)", "category": "CULTURE_CONFIG_CHANGE", "status": "OPTIONAL_NOT_PROVEN", "evidence": "cvar name compiled in"},
+    {"id": "R7", "what": "Arabic progressive subtitle reveal", "category": "BLUEPRINT_CHANGE+COOK_REQUIRED", "status": "NOT_PROVEN_NEEDS_UE427_EDITOR", "evidence": "reports/rtl_research/renderer_repair"},
+    {"id": "R8", "what": "Arabic profanity filter list", "category": "COOK_REQUIRED+BLUEPRINT_CHANGE", "status": "OPTIONAL_NOT_DONE", "evidence": "16 DT_Profanities*, none Arabic"},
+    {"id": "R9", "what": "Arabic culture display name", "category": "NONE", "status": "ICU_PROVIDES", "evidence": "icudt64l/ar.res shipped"}
+  ],
+  "minimum_mod_side_set": ["R2", "R3", "R4"],
+  "prototype_installed": false
+}

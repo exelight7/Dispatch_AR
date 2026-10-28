@@ -1,0 +1,160 @@
+{
+ "label": "UE ISOLATED TEST (UE 5.8.4, NOT 4.27) - NOT DISPATCH",
+ "engine": "5.8.4-58902052+++UE5+Release-5.8",
+ "rhi": "D3D12",
+ "authoritative_for_ue427": false,
+ "UE427_EDITOR": "UE427_EDITOR_NOT_INSTALLED (UE 5.8.4 installed instead; user chose 'Use 5.8 only')",
+ "G1": {
+  "result_ue58": "G1_PASS_UE58",
+  "ue427": "G1_NOT_PROVEN",
+  "vertexcolor_received": true,
+  "observed_vc_for_written_0.1_0.5_0.9": [
+   0.09989870339632034,
+   0.5028864145278931,
+   0.8962692618370056
+  ],
+  "note_observed_vc": "debug MI mode 2 (output constant 1) => pixel = VertexColor: (0.099899,0.502886,0.896269) = 8-bit sRGB quantisation of the row colour",
+  "coverage_mask_px_differing_from_no_material": 0,
+  "partial_coverage_px": 864,
+  "slate_multiplies_material_output_by_vertex_color": true,
+  "compensation": "emissive = SubtitleColor / max(VertexColor.rgb,1e-6); row G=B=1; opacity output not multiplied by VertexColor.A (Slate applies it)"
+ },
+ "G2": {
+  "result_ue58": "G2_PASS_UE58",
+  "ue427": "G2_NOT_PROVEN",
+  "encoding": "row R = srgb_to_linear((i+1)/255), G=B=A=1",
+  "decoding": "idx = round(linear_to_srgb(VC.r)*255) - 1",
+  "byte_sweep_correct": 256,
+  "linear_encoding_i_over_255_correct": 183,
+  "functional_255_units": {
+   "units": 255,
+   "pass": true,
+   "start_blank": true,
+   "end_equals_final": true,
+   "revealed_px_differing_from_final": 0,
+   "px_removed_between_steps": 0,
+   "steps_adding_nothing": 0,
+   "reading_order_violations": 0,
+   "settext_calls_during_reveal": 0
+  },
+  "SAFE_UNIT_CAPACITY_UE58": 255,
+  "max_units_needed_by_translation": "68 whitespace units in the longest Arabic subtitle (+1 speaker unit) = 69; p99 = 26",
+  "retainer_impact": "index decoded inside the font material before the retainer stores pixels; retainer RT precision does not affect the index"
+ },
+ "G3": {
+  "result_ue58": "G3_PASS_UE58",
+  "ue427": "G3_NOT_PROVEN",
+  "corpus_lines": 12,
+  "corpus_units": 82,
+  "foreground_pass": 12,
+  "shadow_in_retainer_pass": 12,
+  "settext_calls_during_reveal": 0,
+  "settextstyleset_calls_during_reveal": 0,
+  "fg_shadow_visible_unit_mismatch_steps": 0,
+  "fg_not_exact_prefix_steps": 0,
+  "desired_size_changes": 0,
+  "retainer_policy": {
+   "speaker": {
+    "on_invalidation_no_requestrender": 3,
+    "on_invalidation_requestrender": 0,
+    "render_every_paint": 3
+   },
+   "long_wrap": {
+    "on_invalidation_no_requestrender": 39,
+    "on_invalidation_requestrender": 0,
+    "render_every_paint": 39
+   }
+  },
+  "retainer_first_capture_stale_px": {
+   "long_wrap": 22998
+  },
+  "first_paint_empty_widgets": 5,
+  "first_paints_total": 590
+ },
+ "layout_parity": {
+  "positive_cases": 12,
+  "pixel_identical": 11,
+  "non_identical": {
+   "long_wrap": {
+    "px": 4633,
+    "max_abs": 5.960464477539063e-08
+   }
+  },
+  "negative_controls": {
+   "NEG_midword_cut": {
+    "px": 0,
+    "max_abs": 0
+   },
+   "NEG_token_punct_cut": {
+    "px": 2842,
+    "max_abs": 1
+   },
+   "NEG_version_cut": {
+    "px": 0,
+    "max_abs": 0
+   }
+  }
+ },
+ "png_recheck": {
+  "layers": 24,
+  "pass": 24
+ },
+ "G4": {
+  "result_ue58": "G4_EDITOR_COOK_PASS_UE58",
+  "ue427": "G4_NOT_RUN"
+ },
+ "G5": {
+  "result_ue58": "G5_MODEL_PASS_UE58",
+  "ue427": "G5_NOT_RUN",
+  "pool_failed_checks": 0,
+  "parent": {
+   "rgb_tint_0.5_max_pixel": "(R=1.000000,G=1.000000,B=1.000000,A=1.000000)",
+   "rgb_tint_0.5_wrong_steps": 2,
+   "render_opacity_0.5_max_pixel": "(R=0.751957,G=0.751957,B=0.751957,A=0.751957)",
+   "render_opacity_0.5_wrong_steps": 0,
+   "steps": 4
+  }
+ },
+ "culture": [
+  {
+   "requested": "ar",
+   "set_ok": true,
+   "GetCurrentLanguage": "ar",
+   "GetCurrentCulture": "ar",
+   "GetCurrentLocale": "ar",
+   "language_starts_with_ar": true
+  },
+  {
+   "requested": "ar-SA",
+   "set_ok": true,
+   "GetCurrentLanguage": "ar-SA",
+   "GetCurrentCulture": "ar-SA",
+   "GetCurrentLocale": "ar-SA",
+   "language_starts_with_ar": true
+  },
+  {
+   "requested": "en",
+   "set_ok": true,
+   "GetCurrentLanguage": "en",
+   "GetCurrentCulture": "en",
+   "GetCurrentLocale": "en",
+   "language_starts_with_ar": false
+  },
+  {
+   "requested": "en-US",
+   "set_ok": true,
+   "GetCurrentLanguage": "en-US",
+   "GetCurrentCulture": "en-US",
+   "GetCurrentLocale": "en-US",
+   "language_starts_with_ar": false
+  }
+ ],
+ "classification": [
+  "STOCK_RENDERER_GATE_TEST_BLOCKED (for UE4.27)",
+  "STOCK_RENDERER_GATES_G1_G3_PASS_ON_UE58_ONLY (non-authoritative)"
+ ],
+ "DISPATCH_INTEGRATION_PROVEN": false,
+ "IN_GAME_RTL_PROVEN": false,
+ "tested_in_game": 0,
+ "final": 0
+}

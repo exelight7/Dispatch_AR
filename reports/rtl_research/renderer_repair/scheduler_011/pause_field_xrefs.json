@@ -1,0 +1,44 @@
+[
+  {
+    "rva": "0x99bd4e",
+    "function": "0x99bbc0",
+    "end": "0x99bdc1",
+    "instruction": "mov dword ptr [rdi + 0x86c], ebx"
+  },
+  {
+    "rva": "0x99bdb1",
+    "function": "0x99bbc0",
+    "end": "0x99bdc1",
+    "instruction": "mov dword ptr [rdi + 0x870], 0xbf800000"
+  },
+  {
+    "rva": "0x9a393b",
+    "function": "0x9a3900",
+    "end": "0x9a39c6",
+    "instruction": "movss xmm0, dword ptr [rcx + 0x86c]"
+  },
+  {
+    "rva": "0x9a3c16",
+    "function": "0x9a3bf3",
+    "end": "0x9a3eb2",
+    "instruction": "movss dword ptr [r14 + 0x870], xmm0"
+  },
+  {
+    "rva": "0x9a3c1f",
+    "function": "0x9a3bf3",
+    "end": "0x9a3eb2",
+    "instruction": "mov dword ptr [r14 + 0x86c], r15d"
+  },
+  {
+    "rva": "0x9a4000",
+    "function": "0x9a3ec0",
+    "end": "0x9a401b",
+    "instruction": "movss dword ptr [rbx + 0x870], xmm0"
+  },
+  {
+    "rva": "0x9a4008",
+    "function": "0x9a3ec0",
+    "end": "0x9a401b",
+    "instruction": "mov dword ptr [rbx + 0x86c], r15d"
+  }
+]

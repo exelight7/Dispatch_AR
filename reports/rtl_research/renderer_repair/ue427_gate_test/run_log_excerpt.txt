@@ -1,0 +1,3 @@
+/c/filessss/mewo/Dispatch_AR/tools/ue427_stock_reveal_test/Saved/run_RevealGate.All.log:[2026.10.24-22.30.38:296][207]LogAutomationController: Display: Test Completed. Result={Success} Name={All} Path={RevealGate.All}
+/c/filessss/mewo/Dispatch_AR/tools/ue427_stock_reveal_test/Saved/run_RevealGate.Culture.log:[2026.10.24-22.31.29:174][205]LogTemp: Display: REVEALGATE_CULTURE requested=ar-SA language=ar culture=ar locale=ar-SA
+/c/filessss/mewo/Dispatch_AR/tools/ue427_stock_reveal_test/Saved/run_RevealGate.Culture.log:[2026.10.24-22.31.29:183][207]LogAutomationController: Display: Test Completed. Result={Success} Name={Culture} Path={RevealGate.Culture}

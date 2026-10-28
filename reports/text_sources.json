@@ -1,0 +1,270 @@
+[
+  {
+    "target": "101",
+    "strings": 797,
+    "original_resource_rows": 797,
+    "words": 6779,
+    "manifest_keys": 797,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "883fb286712da564a42471f93e4083d1f52280c8c6f11d8b1198642f94892315",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 92,
+      "Phone / Computer UI": 13,
+      "Tutorials": 21,
+      "Character Names": 29,
+      "Notifications": 6,
+      "Choices": 104,
+      "Dialogue/Subtitles": 532
+    }
+  },
+  {
+    "target": "102",
+    "strings": 2192,
+    "original_resource_rows": 2192,
+    "words": 13401,
+    "manifest_keys": 2192,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "3c394512df832885b460857d592c42ea537b2a32f40c0b501ceabee18218dcf4",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 200,
+      "Phone / Computer UI": 31,
+      "Character Names": 20,
+      "Choices": 72,
+      "Dialogue/Subtitles": 1865,
+      "Notifications": 4
+    }
+  },
+  {
+    "target": "103",
+    "strings": 1254,
+    "original_resource_rows": 1254,
+    "words": 9695,
+    "manifest_keys": 1254,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "ac5aa1138f5ca526386212ffbcd0e91147af1e55d98aadbab13779cdcacbae7e",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 352,
+      "Phone / Computer UI": 46,
+      "Character Names": 6,
+      "Notifications": 7,
+      "Choices": 54,
+      "Dialogue/Subtitles": 789
+    }
+  },
+  {
+    "target": "104",
+    "strings": 1722,
+    "original_resource_rows": 1722,
+    "words": 12398,
+    "manifest_keys": 1722,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "4d3f6ee5c26e0e6a48a5212d9b405e009ce0ec16bb5c7e11945acf20b08ea4b6",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 488,
+      "Phone / Computer UI": 24,
+      "Character Names": 5,
+      "Choices": 63,
+      "Dialogue/Subtitles": 1137,
+      "Notifications": 5
+    }
+  },
+  {
+    "target": "105",
+    "strings": 1098,
+    "original_resource_rows": 1098,
+    "words": 8129,
+    "manifest_keys": 1098,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "13d24b4b23625494b4822ddf993aa509c5dfba54741a43c4f091979a8c02e30f",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 322,
+      "Phone / Computer UI": 33,
+      "Character Names": 11,
+      "Choices": 56,
+      "Dialogue/Subtitles": 669,
+      "Notifications": 7
+    }
+  },
+  {
+    "target": "106",
+    "strings": 865,
+    "original_resource_rows": 865,
+    "words": 7543,
+    "manifest_keys": 865,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "69656e92210da223897d24b53bb72ecac9aab26de20da966895b07eabad8b61f",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 196,
+      "Phone / Computer UI": 58,
+      "Character Names": 5,
+      "Choices": 67,
+      "Dialogue/Subtitles": 534,
+      "Notifications": 5
+    }
+  },
+  {
+    "target": "107",
+    "strings": 684,
+    "original_resource_rows": 684,
+    "words": 6124,
+    "manifest_keys": 684,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "2a750676fc5bc098c776dba31c1fe038c2f2a0eea92cf334b02c1d91bda9d4ce",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 180,
+      "Phone / Computer UI": 5,
+      "Character Names": 4,
+      "Choices": 62,
+      "Dialogue/Subtitles": 426,
+      "Notifications": 7
+    }
+  },
+  {
+    "target": "108",
+    "strings": 2116,
+    "original_resource_rows": 2116,
+    "words": 14854,
+    "manifest_keys": 2113,
+    "unmapped_runtime_keys": 3,
+    "source_sha256": "4dc0ad58b183cf7fb8ebe13bea3bc5207b0cbbfbf3ece86655f9d42dfe4d3cf6",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 573,
+      "Phone / Computer UI": 93,
+      "Character Names": 6,
+      "Choices": 147,
+      "Descriptions": 6,
+      "Dialogue/Subtitles": 1285,
+      "Notifications": 6
+    }
+  },
+  {
+    "target": "OtherContent",
+    "strings": 50,
+    "original_resource_rows": 50,
+    "words": 342,
+    "manifest_keys": 80,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "e8212a89cae421a749a2b3213c1845cbaffd216ac5784f8262d3cb6b49bb8f8c",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 18,
+      "Menus": 12,
+      "Phone / Computer UI": 20
+    }
+  },
+  {
+    "target": "Shared",
+    "strings": 1685,
+    "original_resource_rows": 1685,
+    "words": 7267,
+    "manifest_keys": 1685,
+    "unmapped_runtime_keys": 0,
+    "source_sha256": "42fb42eed13ff62a5d8d341002a2c49440c4f24c278699ddcf7878dc20fdf8c9",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "UI/Other (review context)": 641,
+      "Phone / Computer UI": 120,
+      "Descriptions": 116,
+      "Dialogue/Subtitles": 251,
+      "Notifications": 10,
+      "Settings": 101,
+      "Menus": 214,
+      "Choices": 39,
+      "Tutorials": 72,
+      "Objectives": 1,
+      "Credits": 1,
+      "Character Names": 119
+    }
+  },
+  {
+    "target": "EngineRuntime",
+    "strings": 464,
+    "original_resource_rows": 20282,
+    "words": 1834,
+    "manifest_keys": 0,
+    "unmapped_runtime_keys": 464,
+    "source_sha256": "06cb30ea757da9e7edc0fa0ea1b500d0c7e311c322fac24e907f00c052ba7e76",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": false,
+    "categories": {
+      "UI/Other (review context)": 65,
+      "Controls/Accessibility": 393,
+      "System Messages": 6
+    }
+  },
+  {
+    "target": "OnlineSubsystem",
+    "strings": 24,
+    "original_resource_rows": 24,
+    "words": 59,
+    "manifest_keys": 0,
+    "unmapped_runtime_keys": 24,
+    "source_sha256": "2d5f22f4b85453ee2a4c5d99590031c19d0b5860190976c041e1e3cde5b4bace",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "System Messages": 24
+    }
+  },
+  {
+    "target": "OnlineSubsystemSteam",
+    "strings": 2,
+    "original_resource_rows": 2,
+    "words": 5,
+    "manifest_keys": 0,
+    "unmapped_runtime_keys": 2,
+    "source_sha256": "893f42a8b19f5b743012d40b7ecee60a1f6d7154673d9dd8246b4eaa8a15d19e",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "System Messages": 2
+    }
+  },
+  {
+    "target": "OnlineSubsystemUtils",
+    "strings": 20,
+    "original_resource_rows": 20,
+    "words": 68,
+    "manifest_keys": 0,
+    "unmapped_runtime_keys": 20,
+    "source_sha256": "04f8129e108e00503bc2baa1c05dbf1b7a78ce671f2597b1293be7702be261c9",
+    "semantic_roundtrip": true,
+    "compile_idempotent": true,
+    "byte_roundtrip": true,
+    "categories": {
+      "System Messages": 17,
+      "UI/Other (review context)": 3
+    }
+  }
+]

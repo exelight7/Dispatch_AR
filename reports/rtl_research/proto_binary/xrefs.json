@@ -1,0 +1,170 @@
+[
+  {
+    "kind": "absolute_pointer",
+    "label": "block PrintLetterByLetter slot 0x308",
+    "rva": "0x31caba0",
+    "file_offset": "0x31c93a0",
+    "target_rva": "0x9a3ec0",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "absolute_pointer",
+    "label": "block process-budget slot 0x358",
+    "rva": "0x31cabf0",
+    "file_offset": "0x31c93f0",
+    "target_rva": "0x9a3900",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "absolute_pointer",
+    "label": "block delay slot 0x368",
+    "rva": "0x31cac00",
+    "file_offset": "0x31c9400",
+    "target_rva": "0x9a0880",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "absolute_pointer",
+    "label": "block index slot 0x388",
+    "rva": "0x31cac20",
+    "file_offset": "0x31c9420",
+    "target_rva": "0x99cdd0",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "absolute_pointer",
+    "label": "char decorator factory slot 0x270",
+    "rva": "0x31cd6a0",
+    "file_offset": "0x31cbea0",
+    "target_rva": "0x99e9f0",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "absolute_pointer",
+    "label": "decorator create-run slot 0x10",
+    "rva": "0x31caff0",
+    "file_offset": "0x31c97f0",
+    "target_rva": "0x99e130",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "absolute_pointer",
+    "label": "char run paint slot 0x90",
+    "rva": "0x31cafc8",
+    "file_offset": "0x31c97c8",
+    "target_rva": "0x9a2bd0",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "absolute_pointer",
+    "label": "PrintLetterByLetter native registration thunk",
+    "rva": "0x31cda88",
+    "file_offset": "0x31cc288",
+    "target_rva": "0x9a78f0",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH"
+  },
+  {
+    "kind": "rip_memory",
+    "from_alias": "proto_package_registration",
+    "rva": "0x9a6470",
+    "file_offset": "0x9a5a70",
+    "target_rva": "0x31ccf50",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "rip_memory",
+    "from_alias": "style_struct_registration",
+    "rva": "0x9a7470",
+    "file_offset": "0x9a6a70",
+    "target_rva": "0x400b3b0",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "rip_memory",
+    "from_alias": "block_constructor",
+    "rva": "0x99bbe9",
+    "file_offset": "0x99b1e9",
+    "target_rva": "0x31ca898",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "rip_memory",
+    "from_alias": "char_decorator_class_registration",
+    "rva": "0x9a666d",
+    "file_offset": "0x9a5c6d",
+    "target_rva": "0x31cce72",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "rip_memory",
+    "from_alias": "char_decorator_object_constructor",
+    "rva": "0x9a6979",
+    "file_offset": "0x9a5f79",
+    "target_rva": "0x31cd430",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "rip_memory",
+    "from_alias": "char_decorator_factory",
+    "rva": "0x99eaa0",
+    "file_offset": "0x99e0a0",
+    "target_rva": "0x31cafe0",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "direct_call",
+    "from_alias": "char_decorator_create_run",
+    "rva": "0x99e71f",
+    "file_offset": "0x99dd1f",
+    "target_rva": "0x99d0e0",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "rip_memory",
+    "from_alias": "char_run_factory",
+    "rva": "0x99d143",
+    "file_offset": "0x99c743",
+    "target_rva": "0x31caf38",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "direct_call",
+    "from_alias": "char_run_paint",
+    "rva": "0x9a2fbd",
+    "file_offset": "0x9a25bd",
+    "target_rva": "0x132ec90",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "direct_call",
+    "from_alias": "char_run_paint",
+    "rva": "0x9a3180",
+    "file_offset": "0x9a2780",
+    "target_rva": "0x132ec90",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "direct_call",
+    "from_alias": "char_run_paint",
+    "rva": "0x9a3544",
+    "file_offset": "0x9a2b44",
+    "target_rva": "0x9ce980",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  },
+  {
+    "kind": "direct_call",
+    "from_alias": "rebuild_widget",
+    "rva": "0x9a494a",
+    "file_offset": "0x9a3f4a",
+    "target_rva": "0x9a6630",
+    "evidence": "CONFIRMED_FROM_BINARY"
+  }
+]

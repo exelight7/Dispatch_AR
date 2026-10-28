@@ -1,0 +1,36 @@
+{
+ "packages_scanned": 27365,
+ "hits": {
+  "Animate While Paused": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uasset",
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SubtitlePreview.uasset"
+  ],
+  "AnimateWhilePaused": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uasset"
+  ],
+  "WBP_SubtitleBlock": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uasset",
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitlesWidget.uasset",
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SubtitlePreview.uasset"
+  ],
+  "On Finish Letter by Letter Print": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uasset"
+  ],
+  "Stop Displaying Line": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uasset"
+  ],
+  "Set Displayed Line": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitleBlock.uasset",
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitlesWidget.uasset",
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Menu/Widgets/SettingsMenu/SubWidgets/WBP_SubtitlePreview.uasset"
+  ],
+  "Get Subtitle Block From Pool": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitlesWidget.uasset"
+  ],
+  "WBP_SubtitlesWidget": [
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Levels/LV_StorySublevel.umap",
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Core/Widgets/WBP_SubtitlesWidget.uasset",
+   "pakchunk0-WindowsNoEditor.pak:Dispatch/Content/Shared/Story/Widgets/ChoiceUIs/WBP_StandardChoiceUI.uasset"
+  ]
+ }
+}

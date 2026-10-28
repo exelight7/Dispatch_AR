@@ -1,0 +1,300 @@
+2000 107:Line:64BAF3B632014399B0DFBBDEDF9CEFF6 [Chase]
+EN Hey, 'cause you're crying, you can have two. 
+AR اسمع، لأنك تبكي يمكنك أخذ اثنتين. 
+2001 107:Line:D6E298F7FB054A42B9B4C155896BE88E [Beard Guy]
+EN Hey, I’m great at predicting things |and I can’t believe he let that go.
+AR اسمع، أنا بارع في التنبؤ بالأمور |ولا أصدق أنه تغاضى عن ذلك.
+2002 107:Line:CA0169E0DC1E4B37B7085095791F43A7 [Robert]
+EN Hey, so... |you’ve all probably heard some version of what happened. |Uhh, let's get to it. Main takeaways are that  |Invisigal has been suspended so we’re a person down this shift... |and that Chase is in the infirmary and... |he’s in pretty rough shape. |Despite his... disposition, he really likes you all... just don’t tell him |I told you that. |I’ve found doing something good, always helps when I’m feeling bad... |we’re fortunate to have that opportunity... |something Chase never took for granted.
+AR مرحبًا، إذن... |لعلكم سمعتم جميعًا رواية ما عما حدث. |آه، لندخل في الموضوع. أهم ما في الأمر |أن إنفيزيغال موقوفة، لذا ينقصنا فرد في هذه المناوبة... |وأن تشيس في العيادة و... |حالته صعبة جدًا. |رغم... طباعه، فهو يحبكم جميعًا... فقط لا تخبروه |أنني قلت لكم ذلك. |وجدت أن فعل الخير يساعدني دائمًا حين أشعر بالسوء... |ونحن محظوظون بأن لدينا هذه الفرصة... |وهو أمر لم يعتبره تشيس يومًا مضمونًا.
+2003 107:Line:2E0984B78D564B3A8F0DE607393BFA13 [Robert]
+EN Hey, stop making this feel like a goodbye. |You’re suspended. It’s temporary. |I’m not letting anyone cut you. 
+AR مهلًا، لا تجعلي الأمر يبدو وداعًا. |أنت موقوفة. هذا مؤقت. |لن أسمح لأحد بفصلك. 
+2004 107:Line:2F74C9D36BCE406EB66EF9325CB1F080 [Blonde Blazer]
+EN Hey, the only person that put Chase here...
+AR اسمعوا، الشخص الوحيد الذي تسبب في دخول تشيس إلى هنا...
+2005 107:Line:5B89A0A9F9794B4EB7FE09507371C3EF [Sonar]
+EN Hey, think they'll prescribe me meds?
+AR اسمع، أتظن أنهم سيصفون لي أدوية؟
+2006 107:Line:52F74FE861304581B31B4EB85D9F051B [Robert]
+EN Hey. |You’re not leaving me here again. 
+AR اسمع. |لن تتركني هنا مرة أخرى. 
+2007 107:Line:A0CD3882C40048EDB577FD71FAB9274A [Blonde Blazer]
+EN He’s so fucking proud of the man you’ve become... |he told me that.
+AR إنه فخور جدًا بالرجل الذي أصبحت عليه... |قال لي ذلك.
+2008 107:Line:138B2579650948D9BE848686B3B5E2FD [Mayumi]
+EN Hi! Just calling to confirm one of your Z-Team heroes for our interview this afternoon to discuss the Phoenix Program?
+AR مرحبًا! أتصل لتأكيد حضور أحد أبطال فريق Z إلى مقابلتنا بعد ظهر اليوم لمناقشة برنامج العنقاء؟
+2009 107:Line:5F06593442784A2FA45ADAE68C6987E4 [Malevola]
+EN Hm? Oh. Yeah, sure.
+AR هم؟ آه. أجل، بالتأكيد.
+2010 107:Line:420C44F497F84B8AA8137CCF565A4164 [Sonar]
+EN Holy shit man, that's dark dark.
+AR يا للهول يا رجل، هذا قاتم جدًا.
+2011 107:Line:4853FFC1AA494B66B982BF79DE526598 [Sonar]
+EN Holy shit, you guys gotta try this therapy stuff... Wild.
+AR يا للهول، عليكم تجربة هذا العلاج النفسي... عجيب.
+2012 107:Line:14B6FB3FF02440209525106A0C6D8D4F [Flambae]
+EN Hope he can walk... But if not... I needed a workout today anyways.
+AR آمل أن يستطيع المشي... وإلا... فأنا أحتاج إلى تمرين اليوم على أي حال.
+2013 107:Line:009B70884B1F4C01B0640BBEBD4F8E62 [Blazer]
+EN Hope you’re doing okay
+AR أتمنى أن تكون بخير
+2014 107:Line:56E00085A5964F59B7A146058322EE41 [Blazer]
+EN Hope you’re doing okay
+AR أتمنى أن تكون بخير
+2015 107:Line:21587A7435184DC7822BF47821925DE2 [Sonar]
+EN How do I mute you?
+AR كيف أكتم صوتك؟
+2016 107:Line:31D43B87E8E24D3C93E8E4DC114C00A5 [Punch Up]
+EN How do you know?
+AR كيف تعرف؟
+2017 107:Line:4676BF26F14945FC97D07425C24CCDFD [Flambae]
+EN How the fuck is talking supposed to help?
+AR كيف سيفيد الكلام بحق الجحيم؟
+2018 107:Line:196F2C3942334E4ABB251F07935CEBF4 [Robert]
+EN How’d you... find me?
+AR كيف... وجدتني؟
+2019 107:Line:3A5F3761D0C346FB89A3E6E38566CAB0 [Prism]
+EN Huh, never cried in front of a stranger before. Didn't hate it.
+AR هم، لم أبك أمام غريب من قبل. لم أكره الأمر.
+2020 107:Line:3A7462A05BDD41E0A7B1EE02047E0030 [Punch Up]
+EN Huh?
+AR ماذا؟
+2021 107:Line:4A0343455D0C4620995D9BAEC2BD8E56 [Phenomaman]
+EN I abstained from voting as I am neither human |nor reformed villain |nor particularly interested in this conversation. |I only came in as I thought we were playing Magic the Gathering tonight. |I am hoping we still may.
+AR امتنعت عن التصويت، فأنا لست إنسانًا |ولا شريرًا تائبًا |ولا مهتمًا بهذه المحادثة خصوصًا. |حضرت فقط لأنني ظننت أننا سنلعب ماجيك ذا غاذرينغ الليلة. |وما زلت آمل أن نفعل.
+2022 107:Line:01E5B2C9E766408CBFD4D39926879FE9 [Phenomaman]
+EN I am lost... Metaphorically.
+AR أنا تائه... مجازيًا.
+2023 107:Line:5F67329558A343AD8A92BF9B2D948EB4 [Coupe]
+EN I believe him, boss. If he had something to say he would've said it by now.
+AR أصدقه يا رئيس. لو كان لديه ما يقوله لقاله الآن.
+2024 107:Line:19E6F24D70614302A5672639688E67BB [Blonde Blazer]
+EN I can see I’m outnumbered, |that eventually, I would fall. |But by my read, |I’m taking a lot of you with me.
+AR أرى أنكم تفوقونني عددًا، |وأنني سأسقط في النهاية. |لكن حسب تقديري، |سآخذ كثيرين منكم معي.
+2025 107:Line:1FCE4FAB682240BA9275FE3F241EA260 [Sonar]
+EN I can see in the dark anyways so this is like, perfect for me.
+AR أرى في الظلام أصلًا، لذا فهذا مثالي لي.
+2026 107:Line:C77ADEECB83645F1AED538A295D7ABB3 [Waterboy]
+EN I can’t-- It’s not fair. |Invisigal was the one who did-- |and then Chase shouldn'tve-- |do you think he did the right thing?
+AR لا أستطيع-- ليس عدلًا. |إنفيزيغال هي التي فعلت-- |ثم لم يكن على تشيس أن-- |هل تظن أنه فعل الصواب؟
+2027 107:Line:AEF8DBEBB4BF40A8BAFCF8A82F19DC54 [Blonde Blazer]
+EN I didn’t realize you two were that close. That it went back that far.
+AR لم أدرك أنكما مقربان هكذا. وأن علاقتكما تعود إلى زمن بعيد.
+2028 107:Line:A9B5528397CA43948EAE807503CF648F [Robert]
+EN I do. 
+AR أجل. 
+2029 107:Line:B2460651395F4E2892C4F6ED5FC02EC0 [Robert]
+EN I don’t know what you mean by that.
+AR لا أفهم ما تقصده بذلك.
+2030 107:Line:44E9718A81C44FCAA34399A5A64DB3BF [Blazer]
+EN I don’t see the angle.
+AR لا أفهم المغزى.
+2031 107:Line:781BF13DFD6D40E4B25FCDE88B56D747 [Blonde Blazer]
+EN I don’t understand what she would want it for |unless she’s trying to keep you out of the suit.
+AR لا أفهم لماذا قد تريدها |إلا إذا كانت تحاول منعك من ارتداء البدلة.
+2032 107:Line:1B905ACEF32B49749DBEB585497EB417 [Robert]
+EN I don’t... have it... Never... did...
+AR أنا لا... أملكها... ولم... أملكها...
+2033 107:Line:EA2D2B89C72C4281A55769AD3B26910D [Invisigal]
+EN I feel numb...
+AR لا أشعر بشيء...
+2034 107:Line:2066EC5019144CEB8CEC79047E5259B9 [Flambae]
+EN I feel the same way as Golem. |You all let me back in when you didn’t have to. |But, I won’t make you keep someone you want gone.
+AR أشعر مثل غولم. |سمحتم لي جميعًا بالعودة، رغم أنكم لم تكونوا مضطرين. |لكنني لن أجبركم على إبقاء من تريدون رحيله.
+2035 107:Line:35DAE6D287E2485C983A40E51EE993DD [Golem]
+EN I fucking love slip-n-slides, bro.
+AR أحب الزحاليق المائية اللعينة يا صاح.
+2036 107:Line:092D8409A9FA462499A4DA375E5F172A [Flambae]
+EN I hate the fucking rain. Flying's a bitch. You can't see shit.
+AR أكره المطر اللعين. الطيران فيه جحيم. لا ترى شيئًا.
+2037 107:Line:4674D525116342D4A68F608F8F3EF66C [Phenomaman]
+EN I have returned with a newfound sense of calm.
+AR عدت بإحساس جديد بالسكينة.
+2038 107:Line:32911DF98415412CB8FDBABA347416BF [Prism]
+EN I haven't seen it come down this bad in a while.
+AR لم أر المطر يهطل بهذه الغزارة منذ مدة.
+2039 107:Line:940D9E6BE6724253B48E97044BE24298 [Invisigal]
+EN I heard everything. |You don’t have to double fire me, okay? I’m going.
+AR سمعت كل شيء. |لا داعي لفصلي مرتين، حسنًا؟ سأرحل.
+2040 107:Line:474B163C80A3497B83C24734C54624DB [Malevola]
+EN I just do... Trust me.
+AR أعرف وحسب... ثق بي.
+2041 107:Line:98D7623FBDC7427383C4E59652FA5100 [Blazer]
+EN I just feel like l;kswjgjga;ls
+AR أشعر فقط بأنني l;kswjgjga;ls
+2042 107:Line:476DC5203EC64F258182A1BA2BA695E0 [Golem]
+EN I kicked him through the door.
+AR ركلته عبر الباب.
+2043 107:Line:488F06ECA15342CBBDD23664B3F9C6A5 [Malevola]
+EN I know what it's like to lose a friend on this team... It fucking sucks. Hope I can help.
+AR أعرف شعور فقدان صديق من هذا الفريق... إنه مؤلم للغاية، اللعنة. آمل أن أساعد.
+2044 107:Line:DEB76F371DD446D4B420D84E8C78DC6B [Chase]
+EN I know you’re a kid and you’re sad and shit, but you fuckin’ suck, okay? |You understand what I'm saying?
+AR أعرف أنك طفل وحزين وما شابه، لكنك سيئ جدًا، اللعنة، حسنًا؟ |أتفهم ما أقوله؟
+2045 107:Line:051DD014279C4BCFBDBB6001A41A2917 [Robert]
+EN I like it. It feels right for today.
+AR يعجبني. يبدو مناسبًا لهذا اليوم.
+2046 107:Line:AC92266144C345E3A1EC7156AACA81E3 [Waterboy]
+EN I mean, I don’t... It seems very not clea-- unclear. 
+AR أعني، لا... يبدو غير واضـ-- مبهمًا جدًا. 
+2047 107:Line:FD831208D8F548709A28C0FBAB67E29B [Beard Guy]
+EN I mean, I hope they all die.
+AR أعني، أتمنى أن يموتوا جميعًا.
+2048 107:Line:025DAF38FA6C46F89C567B8048CA5B9A [Robert]
+EN I mean, it was, but now that you put it like that...
+AR أعني، كان كذلك، لكن حين تصوغها هكذا...
+2049 107:Line:E64446CE5370475EB1FD0B84FE903F11 [Robert]
+EN I mean... I don’t even know what to feel right now. So, yeah. |Might need a minute or... several... minutes, hours, days...
+AR أعني... لا أعرف حتى بماذا أشعر الآن. لذا، أجل. |ربما أحتاج دقيقة أو... عدة... دقائق، ساعات، أيام...
+2050 107:Line:B5275E686F00415B9A38C2542DA5072C [Invisigal]
+EN I never ran with crews. |Always did my own thing, but my asthma was getting worse and |they had an augment that could increase my lung capacity. |Only catch is I’d have to work for them, paying down... for years. 
+AR لم أعمل مع عصابات قط. |عملت دائمًا لحسابي، لكن الربو كان يزداد سوءًا |وكان لديهم معزز يزيد سعة رئتي. |المقابل الوحيد أن أعمل لديهم لأسدد الدين... لسنوات. 
+2051 107:Line:2A8CBD441EDE4F4A8A269B0435528BB4 [Invisigal]
+EN I quit the moment I placed it. |I walked out before it even blew. 
+AR انسحبت فور أن وضعتها. |غادرت قبل أن تنفجر حتى. 
+2052 107:Line:5A4820194BFF41FF899A2CD8F4D8EEB3 [Invisigal]
+EN I really do appreciate you defending me, but you shouldn’t. |Listen to your team. They don’t want me here.
+AR أقدر حقًا دفاعك عني، لكن لا ينبغي أن تفعل. |استمع إلى فريقك. إنهم لا يريدونني هنا.
+2053 107:Line:46E1CE43B12F47DC95F16214B47586C8 [Beard Guy]
+EN I respect her... Blazer. A real fuckin superhero. |I know we’re in a villain bar but have some class, ya know?
+AR أحترمها... بليزر. بطلة خارقة حقيقية، اللعنة. |أعرف أننا في حانة أشرار، لكن تحلوا ببعض الرقي، أتفهمون؟
+2054 107:Line:254FC81116B144058FB49E7277B6217D [Chase]
+EN I stole it dumbass.
+AR سرقتها أيها الغبي.
+2055 107:Line:885F56E5A7CB443397E0F008EA24EFC3 [Robert]
+EN I swear I won’t.
+AR أقسم إنني لن أفعل.
+2056 107:Line:3C325C7446384CB99C5EC23BB60AF911 [Flambae]
+EN I take back what I said. Talking was very fucking helpful.
+AR أتراجع عما قلته. الكلام كان مفيدًا جدًا، اللعنة.
+2057 107:Line:AF5025FD10D740389D5BB8D2FBF2EF24 [Robert]
+EN I think Chase knew he was the only one who could save her and he knew the risk... |so, yeah, I think it was ultimately the right thing.
+AR أظن أن تشيس عرف أنه الوحيد القادر على إنقاذها وعرف المخاطرة... |لذا أجل، أظن أنه فعل الصواب في النهاية.
+2058 107:Line:376E5FF385004F81BB67BED09EA592A6 [Ranger]
+EN I think the rain's caused one of those uh, Volta Virtu Cars to short out! I think this driver's lost control.
+AR أظن أن المطر سبب عطلًا كهربائيًا في إحدى سيارات، آه، فولتا فيرتو! أظن أن السائق فقد السيطرة.
+2059 107:Line:D617423BD0294040862244789D89529C [Blazer]
+EN I think you’re more optimistic than I am.
+AR أظنك أكثر تفاؤلًا مني.
+2060 107:Line:250672AAAFC04166BE159A1B25CCE295 [Shroud]
+EN I thought you wanted revenge.
+AR ظننت أنك تريد الانتقام.
+2061 107:Line:271FDCAADEB44905ABCE953E5392B438 [Phenomaman]
+EN I too have been concerned about the suboptimal outcome.
+AR أنا أيضًا قلق إزاء هذه النتيجة غير المثلى.
+2062 107:Line:0017A77F1DC345F9B07DC190721063FA [Blonde Blazer]
+EN I tracked your phone. Sorry.
+AR تتبعت هاتفك. آسفة.
+2063 107:Line:21F963D5F35547AF83ADAF14B3884E4E [Robert]
+EN I tried my best. Really. |And I think I tried the most with you... but it wasn’t enough. |I wasn’t enough. Which is why this is on me. |Okay. I failed you. 
+AR بذلت كل جهدي. حقًا. |وأظن أنني بذلت معك الجهد الأكبر... لكنه لم يكف. |لم أكن كافيًا. ولهذا فاللوم علي. |حسنًا. لقد خذلتك. 
+2064 107:Line:0298845FCEA544DF87600BF67EEDB4D5 [Robert]
+EN I uh... fuck, I really care about you, ok? |And I can’t have you walking out of here not knowing that.
+AR أنا، آه... تبًا، أهتم بك حقًا، حسنًا؟ |ولا أريدك أن تخرجي من هنا دون أن تعرفي ذلك.
+2065 107:Line:126F0B2EA39746C697CD24ED8F1EFAD6 [Blazer]
+EN I want people to know what Chase did but I don’t know how he’d feel.
+AR أريد أن يعرف الناس ما فعله تشيس، لكنني لا أعرف رأيه في ذلك.
+2066 107:Line:098979E9832044F4832EAE9017E7D888 [Robert]
+EN I was obsessed with making the Mecha Man thing work. |Extreme focus, you know? |One step in front of the other. |By the time I looked up, I didn’t know where I was.
+AR كنت مهووسًا بإنجاح مشروع ميكا مان. |تركيز شديد، أتفهم؟ |خطوة تلو الأخرى. |وحين رفعت رأسي أخيرًا، لم أعرف أين أنا.
+2067 107:Line:98E30EBDEA1B44808C9693AC25E10E10 [Invisigal]
+EN I was there that night. 
+AR كنت هناك تلك الليلة. 
+2068 107:Line:04BFE9F90DCE4E16B09B78265826523B [Phenomaman]
+EN I will attempt to express my inside pain on the outside.
+AR سأحاول التعبير عن ألمي الداخلي خارجيًا.
+2069 107:Line:2E5A461BA51740A5AD13E601385A694B [Sonar]
+EN I'll do what I can.
+AR سأبذل ما بوسعي.
+2070 107:Line:3E8BA03519ED42348B1BCAF834D98C6B [Prism]
+EN I'll go.
+AR سأذهب.
+2071 107:Line:11187B0B88BA4EEEA0CBA7680632D535 [Prism]
+EN I'm down.
+AR أنا موافقة.
+2072 107:Line:2B382975509D400EB5DE46CC2E7A0D3B [Golem]
+EN I'm going.
+AR سأرحل.
+2073 107:Line:137B79937A4B47BF95451AB6050C3C0B [Brenda]
+EN I'm running late to the airport... If I miss that flight, I'm fucking toast.
+AR لقد تأخرت عن موعدي في المطار... إن فاتتني الرحلة، فأنا في ورطة لعينة.
+2074 107:Line:4ED30121260E49D495CCB60138C4F33F [Waterboy]
+EN I'm sorry.
+AR أنا آسف.
+2075 107:Line:434C4FA315ED420FA6E91A3A10CB6F91 [Sonar]
+EN I've been waiting for this...
+AR كنت أنتظر هذا...
+2076 107:Line:2B4A3C9D1ED24EADBAF8FF8D2B77D9DE [Coupe]
+EN I've never been counseled before.
+AR لم أتلق إرشادًا نفسيًا من قبل.
+2077 107:Line:412615900D4444829D9A3646108B9DCF [Waterboy]
+EN I-- Uh, that was-- I appreciate-- Uh, it helped. Helped a lot.
+AR أنا-- آه، كان ذلك-- أقدر-- آه، لقد أفادني. كثيرًا.
+2078 107:Line:5DB032B38602462D9C617C73331B1AD1 [Waterboy]
+EN I-is m-my name Water-- I mean. It's, yes! Yes.
+AR ه-هل ا-اسمي ووتر-- أعني. إنه، أجل! أجل.
+2079 107:Line:3C3F745894834882AC1C161A30F79901 [Robert]
+EN If I... had it... why’d I let you... string me up like a fuckin’ piñata?
+AR لو كنت... أملكها... فلماذا أتركك... تعلقني كدمية بينياتا لعينة؟
+2080 107:Line:5D4D67AC823647EC8511FF2342B891B6 [Malevola]
+EN If he dies, he'll be taken care of. That I can promise.
+AR إن مات، فسيلقى الرعاية اللازمة. أعدكم بذلك.
+2081 107:Line:047402250BC64DFA946508B568053638 [Prism]
+EN If he's not... he's gonna be.
+AR إن لم يكن بخير... فسيكون.
+2082 107:Line:1C5B28B651874E63BD8C972217F12FCC [Coupe]
+EN If we must.
+AR إن كان لا بد.
+2083 107:Line:217BBA8F433D4135AC4A483D68A1716B [Prism]
+EN If you don't shut your mouth...
+AR إن لم تغلق فمك...
+2084 107:Line:458968C68DDE422593158780C3BC6B33 [Waterboy]
+EN If you say so.
+AR إن كنت تقول ذلك.
+2085 107:Line:0B854DA81F5142C7815302FB4CABA8E7 [Beard Guy]
+EN If you’re gonna blow some fucker's brains out, nonslip mats are a must... |need some for the hideout.
+AR إن كنت ستفجر رأس وغد، فلا غنى عن حصائر مانعة للانزلاق... |أحتاج بعضها للمخبأ.
+2086 107:Line:486AF35E4DCA4CE798DAB9FC648C4249 [Blonde Blazer]
+EN In five minutes this bar will be surrounded by SDN agents, heroes, |and whoever else you and your Ring have pissed off recently |which happens to be every gang in Los Angeles. Now, if--
+AR بعد خمس دقائق سيحاصر هذه الحانة عملاء SDN وأبطال، |وكل من أغضبتهم أنت وحلقتك مؤخرًا |أي جميع عصابات لوس أنجلوس. والآن، إن--
+2087 107:Line:140251C664A844059B7D234BFA35B2EB [Coupe]
+EN Indeed.
+AR بالفعل.
+2088 107:Line:D94FCD62A075432EB1DCC005B3F6C2B2 [Invisigal]
+EN Instead they’ve always seen me how you see me right now... 
+AR لكنهم رأوني دائمًا كما تراني الآن... 
+2089 107:Line:4A4A1AA0E3804D9E85B7E1A069E5CB3E [Shroud]
+EN Invisibitch has the Pulse. That I know... |what I don’t know is why she didn’t give it to you.
+AR النبضة مع إنفيزيحقيرة. أعرف ذلك... |ما لا أعرفه هو لماذا لم تعطك إياها.
+2090 107:Line:3747FC683F4240F086560D0F057D1076 [Beard Guy]
+EN Invisibitch. Fuckin’ traitor... I don't wanna be bad anymore.
+AR إنفيزيحقيرة. الخائنة اللعينة... لا أريد أن أكون شريرًا بعد الآن.
+2091 107:Line:CC72C7CB4CBE4C118E926729A85A8361 [Robert]
+EN Invisigal 
+AR إنفيزيغال 
+2092 107:Line:5ACF67AAFA104489BF8B509A86C6FE52 [Phenomaman]
+EN Is meaning found in work?
+AR هل نجد المعنى في العمل؟
+2093 107:Line:AED2AADDC1B8497085424237666C3602 [Robert]
+EN Isn’t that what you and dad smoke?
+AR أليس هذا ما تدخنه أنت وأبي؟
+2094 107:Line:337875EAA31F4DC2A687810ED6BBBBBB [Waterboy]
+EN It’s just-- I’m just mad.
+AR إنه فقط-- أنا غاضب فحسب.
+2095 107:Line:4A94A0BD347045419AD5230BB8CFC4BF [Robert]
+EN It’s not that, it’s just... a lot. A whole fuckin’ lot.
+AR ليس هذا، بل الأمر... كثير. كثير جدًا، اللعنة.
+2096 107:Line:3AB39CE57AF24780AC172D94056AC2DB [Robert]
+EN It’s the least we can do.  
+AR هذا أقل ما يمكننا فعله.  
+2097 107:Line:68AF0830F33D467BA73B8490C5D51872 [Robert]
+EN I’d appreciate it if you changed the fucking subject. 
+AR سأكون ممتنًا لو غيرت هذا الموضوع اللعين. 
+2098 107:Line:4A4698DA17C24C2CB00A1E3170DD3F4C [Punch-Up]
+EN I’ll pay. I’m the one that caused the damage.
+AR سأدفع. أنا من تسبب بالضرر.
+2099 107:Line:3C15CD3B303142CD95A76119384E06D3 [Robert]
+EN I’ll... kill... you.
+AR سوف... أقتلك.

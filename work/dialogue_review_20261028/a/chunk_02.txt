@@ -1,0 +1,300 @@
+200 101:Line:0458A9FE277A40F3A996418014A3A5DE [Mecha Man]
+EN I'm Mecha Man.
+AR أنا ميكا مان.
+201 101:Line:244EE6F39F1A4CDAB4D59BA1AD2B4780 [Brickhouse]
+EN I'm going to enhance my break time with some of the snack offerings in our break room vending machines.
+AR سأحسن وقت استراحتي ببعض الوجبات الخفيفة من آلات البيع في غرفة الاستراحة.
+202 101:Line:E5517F6F2FE341079F2880937F8229E1 [Mecha Man]
+EN I'm not looking to comment on that just yet. |That’s the only skinny I can give you.
+AR لا أود التعليق على ذلك بعد. |هذا كل ما يمكنني إفادتكم به.
+203 101:Line:34D1AAED4DE64000BB8B18FED1DBEF9F [Sweetalker]
+EN I'm speechless.
+AR لا أجد ما أقول.
+204 101:Line:2FEB9A814AA14F55BC69FBA24102B1A2 [Sweetalker]
+EN If these streets could talk...
+AR لو استطاعت هذه الشوارع الكلام...
+205 101:Line:B83C690183454A588FDCC52036FE4DE0 [Robert]
+EN In more ways than one. |Gramps was the first Mecha Man, he died in the suit before I was born. |Dad was killed fighting Shroud. That’s when I took over... |there was a little inheritance and the life insurance money.
+AR بأكثر من معنى. |كان جدي أول ميكا مان، ومات مرتديا البدلة قبل مولدي. |قتل أبي وهو يقاتل شراود. حينها توليت المهمة... |كان هناك ميراث قليل ومال التأمين على الحياة.
+206 101:Line:769603490B574786A934FFDE3AD93F2D [Mecha Man]
+EN In retrospect... I don’t really know.
+AR حين أفكر في الأمر... لا أدري حقا.
+207 101:Line:4B89B3E0236F45F0ABB2CC4AB94990D2 [Brainbook]
+EN Intellectually stimulating.
+AR محفز للذهن.
+208 101:Line:08FB7012FD6A4B65AA33590E82B5D715 [Chris Stratton]
+EN Is pretty much the same as definitively?
+AR هل «تقريبا» تعني «قطعا»؟
+209 101:Line:FC7933C4C53F4B84965DF9EEA7CBABD1 [Pc Reporter 1]
+EN Is pretty much the same as definitively?
+AR هل «تقريبا» تعني «قطعا»؟
+210 101:Line:69F9EFA30D7B439792D06AD42FF1C88C [Final Reporter]
+EN It did explain why after the first three or four minutes no one was stepping in, yes. |I was disappointed with the chanting.
+AR فسر ذلك عدم تدخل أحد بعد أول ثلاث أو أربع دقائق، أجل. |أحبطتني الهتافات.
+211 101:Line:0989A78599F148A48D2DD4B507F0D875 [Phenomaman]
+EN It is quite alright, you're still learning.
+AR لا بأس إطلاقا، ما زلت تتعلم.
+212 101:Line:F37A961CFA004686B059F0199B689D08 [Robert]
+EN It makes sense, yeah.
+AR هذا منطقي، أجل.
+213 101:Line:103492FB5CA64BE0ADE89B846DA3B49F [Blonde Blazer]
+EN It usually dislocates the other way...
+AR عادة ما ينخلع في الاتجاه الآخر...
+214 101:Line:F2915FD1281A4C37AA4CFDA8A672DB4F [News Anchor]
+EN It was just over four months ago |that images like this were recorded across the Southland. |Videos flooded social media and our newsroom |showing what many thought to be...
+AR منذ ما يزيد قليلا عن أربعة أشهر |سجلت صور كهذه في أنحاء جنوب كاليفورنيا. |غمرت المقاطع وسائل التواصل وغرفة أخبارنا |لتظهر ما ظنه كثيرون...
+215 101:Line:1F7BB0EA40F14510B22A3714251C59E6 [Blonde Blazer]
+EN It was supposed to open up when I threw it to you-- Okay there!
+AR كان يفترض أن ينفتح حين رميته إليك-- حسنا، ها هو!
+216 101:Line:98C5225D9F4C4F9895F647DF555F375C [Mecha Man]
+EN It's crazy. This guy, he just fell down.
+AR أمر جنوني. هذا الرجل، سقط وحسب.
+217 101:Line:A4BF0CEECF3348CFBC20F045C295D605 [Mecha Man]
+EN It's fine. No, no it's fine don't worry. I can do it myse--fuck! |Yeah, that's oh. Okay. Yeah, thank you.
+AR لا بأس. لا، لا بأس، لا تقلقي. أستطيع وحدي--تبا! |أجل، هذا... آه. حسنا. أجل، شكرا.
+218 101:Line:5ACEE45CCCEF48D6B5817A4F8A63B3E0 [Soothing Voice]
+EN It's just, when you add obviously it feels a little less obvious. |So, I'll ask again... |how do you really feel about your father?
+AR لكن حين تضيف «من الواضح»، يبدو أقل وضوحا. |لذا سأسأل مجددا... |ما شعورك الحقيقي تجاه والدك؟
+219 101:Line:D91A5874B5454E7ABAAB1A634AFC9DC3 [Blonde Blazer]
+EN It’s a big investment. |It’ll take considerable time and money to get the suit repaired and the missing pieces replaced. |Plenty of time to learn how to dispatch and level up some of the heroes on our roster.
+AR إنه استثمار كبير. |سيستغرق إصلاح البدلة وتعويض القطع المفقودة وقتا ومالا كثيرين. |وقت كاف لتتعلم التنسيق وتطور بعض أبطال فريقنا.
+220 101:Line:C0C91C8D3BD645E5B10BEA703AFD043B [Blonde Blazer]
+EN It’s a little out there. Easier if we fly.
+AR إنه بعيد قليلا. الطيران أسهل.
+221 101:Line:7B9FE896B85249F3BA649AB3C834B2CA [Soothing Voice]
+EN It’s as if, maybe, it’s a little more complicated than you feel comfortable admitting. |Which is completely understandable.
+AR كأن الأمر، ربما، أكثر تعقيدا مما ترتاح للاعتراف به. |وهذا مفهوم تماما.
+222 101:Line:A66F495A3E5A4FBB9E76988818EB7B16 [Blonde Blazer]
+EN It’s fine. Do you remember a superhero named Track Star?
+AR لا بأس. هل تتذكر بطلا خارقا اسمه تراك ستار؟
+223 101:Line:F5623BABD7B447388133DCFBE5390243 [Blonde Blazer]
+EN It’s fine. Don’t worry about keeping up. |Something to do with the powers... it, |it takes a lot for me to feel anything.
+AR لا بأس. لا تحاول مجاراتي. |له علاقة بقواي... إنه... |يلزمني الكثير لأشعر بأي شيء.
+224 101:Line:255943651E6A46DB9A8AD4EFE3EA1E05 [Blonde Blazer]
+EN It’s my fault.
+AR إنه خطئي.
+225 101:Line:40D5E4763F5F4D749DA8996DFEB4078A [Blonde Blazer]
+EN It’s not like alcohol, it is alcohol. |I know because you spit it directly into my open mouth.
+AR ليس شبيها بالكحول، بل هو كحول. |وأعرف لأنك بصقته مباشرة في فمي المفتوح.
+226 101:Line:AB6BB301139845FC9C0AF5849CF6728F [Blonde Blazer]
+EN I’m a little buzzed. I don’t really make jokes like that. |I think Visi’s rubbing off on me.
+AR أنا ثملة قليلا. لا أمزح هكذا عادة. |أظن أن فيزي بدأت تؤثر فيّ.
+227 101:Line:CDF19F2DB19A49059616358DCE110DDD [Blonde Blazer]
+EN I’m actually here on official business... how I know your name, the proposition I mentioned right before you spit in my mouth--
+AR أنا هنا في مهمة رسمية في الواقع... سبب معرفتي لاسمك، والعرض الذي ذكرته قبل أن تبصق في فمي--
+228 101:Line:7159379D38BF4576AE8301D6E437084D [Blonde Blazer]
+EN I’m gonna go clean up.
+AR سأذهب لأنظف نفسي.
+229 101:Line:EF383C2A5ACA418FB3F77439FE16DE14 [Blonde Blazer]
+EN I’m joking. I'm joking. |This is, this is not a date.
+AR أمزح. أمزح. |هذا، هذا ليس موعدا غراميا.
+230 101:Line:4D54F0705AB047A88D182250C7211513 [Toxic]
+EN I’m just the messenger here. |He says you’re not calculating that shit stuck to your leg... dumbass.
+AR أنا مجرد رسول هنا. |يقول إنك لا تحسب تلك القذارة الملتصقة بساقك... يا أحمق.
+231 101:Line:0CB1C0C68F0B4E9CAE76E1C8F6B75FB9 [Blonde Blazer]
+EN I’m not done saving you yet.
+AR لم أنته من إنقاذك بعد.
+232 101:Line:6D14D765D9484FEE9A4D42A2581041EE [Blonde Blazer]
+EN I’m not quite drunk enough to share my origin story just yet... |but remind me to tell you someday.
+AR لم أثمل بما يكفي لأسرد قصة نشأتي بعد... |لكن ذكرني لأخبرك بها يوما.
+233 101:Line:06EEDA88F1844B86BF28983E7BE61212 [Soothing Goon]
+EN I’m not telling you shit you fuckin’ loser.
+AR لن أخبرك بشيء يا فاشل لعين.
+234 101:Line:4CB343ECEF09436DA4AEED0B9300D02B [Mecha Man]
+EN I’m so sorry.
+AR أنا آسف جدا.
+235 101:Line:6E3100D5CC464054A1105A4A92B02FBE [Blonde Blazer]
+EN I’m so sorry. I didn’t realize...
+AR أنا آسفة جدا. لم أدرك...
+236 101:Line:D93254B437CE4E34BE8FB84F5B3B17B5 [Robert]
+EN I’m so sorry. I totally misread that--
+AR أنا آسف جدا. فهمت الأمر خطأ تماما--
+237 101:Line:24DE751615A64A1C95694FF58CE2A8E1 [Flambae]
+EN I’ve been waiting a long time for this.
+AR انتظرت هذا طويلا.
+238 101:Line:9CC3AC6F5C4D4EDB8668F20BF43EC9CF [Blonde Blazer]
+EN Just a little mess?
+AR مجرد فوضى صغيرة؟
+239 101:Line:1A3CD11DA040499A8362D6FD7ED909D2 [Robert]
+EN Just one more...
+AR واحد آخر فقط...
+240 101:Line:26C082011A9A43429E108FA61C895740 [Robert]
+EN Just so sensitive. |Listen, if I didn’t love him, we wouldn’t be here, right?
+AR يا لك من حساس. |اسمعي، لو لم أكن أحبه، لما كنا هنا، صحيح؟
+241 101:Line:AD7E5926BA984DCCB4405F9A542D7130 [Robert]
+EN Just your run of the mill, sad superhero origin story. |The family tradition, if there is one, is dying in that suit. |Which I guess I don’t have to worry about anymore.
+AR مجرد قصة نشأة بطل خارق حزينة وتقليدية. |تقليد العائلة، إن وجد، هو الموت في تلك البدلة. |وأظن أنني لم أعد مضطرا للقلق من هذا.
+242 101:Line:247CBBB029874DC584E5E70A75AF47E3 [Phenomaman]
+EN Justice will prevail.
+AR ستنتصر العدالة.
+243 101:Line:3BC84ED2D1874D1E80973B1BC953D593 [Brainbook]
+EN Knowledge is power.
+AR المعرفة قوة.
+244 101:Line:171277243C7241A28963AF01042F03AF [Equilibrium]
+EN Let me balance the scales.
+AR دعني أعدل الميزان.
+245 101:Line:54FBD5E1114D43FEA6752A2958601B5F [Speedster]
+EN Let's dash.
+AR لننطلق.
+246 101:Line:336F8F480896424E836BA66F1FD0A250 [Brainbook]
+EN Let's make history.
+AR لنصنع التاريخ.
+247 101:Line:4431FCFA548449DCB021F57D919DF44F [Phenomaman]
+EN Let's see how well I did after responding to that caller's well... call!
+AR لنر كيف أبليت في الاستجابة لبلاغ ذلك... المتصل!
+248 101:Line:0AC0513D59F34E138314CDF0566FE276 [Speedster]
+EN Let's slow things down.
+AR لنهدئ الأمور.
+249 101:Line:A1759828E1BD416AAF8F2D936D58D4FF [Robert]
+EN Look, I love my dad, alright? I love my dad. That’s the truth.
+AR اسمعي، أحب أبي، حسنا؟ أحب أبي. هذه هي الحقيقة.
+250 101:Line:6E05C554236146AE9FB7C0133739379E [Mecha Man]
+EN Look, I'm not retiring. Not yet at least.
+AR اسمعوا، لن أتقاعد. ليس بعد على الأقل.
+251 101:Line:EDAFEBFC71354272AD3016FC8D8D87DE [Orangeski]
+EN Look, you're hurt, you're not thinkin' straight. |You don't wanna fight someone who knows which hand every punch is coming from--
+AR اسمع، أنت مصاب ولا تفكر بوضوح. |لا تريد قتال شخص يعرف أي يد ستوجه كل لكمة--
+252 101:Line:B3CEB68E14AB4C899A9E883FD1EBCE66 [Robert]
+EN Look... he’s gone.
+AR اسمع... لقد رحل.
+253 101:Line:4CCC015E338A431CB886619EAA1D7918 [Pom Pom]
+EN Loud and clear! Movin' out!
+AR وصلت بوضوح! أتحرك!
+254 101:Line:089B93CCC0154BB0A0C700F7BF72CD5D [Soothing Voice]
+EN Loved.
+AR كنت تحبه.
+255 101:Line:7778B248EEB04BEE82F227D35BEB078D [Soothing Goon]
+EN MMMMMMMHHHHMPPHHH! MMMMRRRRAAA-HEEEEL-mmmphh. MMMMMMMHHHHMPPHHH!
+AR مممممممممم! ممممرااا-النجد... مممم. مممممممممم!
+256 101:Line:29AD8787AB6E45BAB1D07D26AA46AEBE [Blonde Blazer]
+EN Meet me at the SDN offices tomorrow.
+AR قابلني غدا في مكاتب SDN.
+257 101:Line:AEB36D8D75484447B6C51BA47EC44747 [Mecha Man]
+EN Millions.
+AR الملايين.
+258 101:Line:E2EEB39CD27A432EB0F95D9A725656C8 [Blonde Blazer]
+EN Mmm, a family tradition.
+AR ممم، تقليد عائلي.
+259 101:Line:259E7EFEA165430181952664BBBA22A6 [Chris Stratton]
+EN My readers need the skinny and I aim to deliver. Let’s get it on the record.
+AR قرائي يريدون الخلاصة، وأنا أعتزم تقديمها. لنسجل هذا رسميا.
+260 101:Line:45F7D2310B624781B21A3F0C3D7B1256 [Pc Reporter 1]
+EN My readers need the skinny and I aim to deliver. |Let’s get it on the record.
+AR قرائي يريدون الخلاصة، وأنا أعتزم تقديمها. |لنسجل هذا رسميا.
+261 101:Line:38D5E3F3543B461C97507EAE8E68699A [Robert]
+EN My suit was totally destroyed...
+AR تدمّرت بدلتي تمامًا...
+262 101:Line:44599C0C168D45E984C62D2207855BCF [Mecha Man]
+EN Next question.
+AR السؤال التالي.
+263 101:Line:9BE080CA1FC343D7B7986A048213F28D [Blonde Blazer]
+EN Nightcap?
+AR كأس أخيرة؟
+264 101:Line:B077763D26CD4D138601F5E9FA8E07BB [Blonde Blazer]
+EN No it’s fine. I will be right back.
+AR لا، لا بأس. سأعود حالا.
+265 101:Line:B70AFD5F7F8D4F63A1AA6D0854566C21 [Mecha Man]
+EN No offense, but I'd prefer a medical professional to do i--|uuuooowwwohhkay... Ohhh. That's uh, That's okay.
+AR مع احترامي، أفضل أن يتولى ذلك مختص طبي--|آآآآه حسنا... آه. هذا... هذا جيد.
+266 101:Line:1A562F5CDB1448E78F4CB2D36A804AFF [Speedster]
+EN No sooner said then done.
+AR اعتبره منجزا.
+267 101:Line:5992F66BD82E48AA9A44725E562D6CE4 [Robert]
+EN No telling where you’ll land.
+AR لا نعرف أين ستحط.
+268 101:Line:D4CC5763D2574E57ACA19C8C2B94F354 [Mecha Man]
+EN No thanks. I like this one.
+AR لا، شكرا. يعجبني هذا.
+269 101:Line:C919DAE22614405CA9BAAD53A94B0E05 [Punch-Up]
+EN No, Coop, fuckin’ guy needs a dentist. |I got it on ice. Should be able to reattach it.
+AR لا يا كوب، الرجل اللعين يحتاج إلى طبيب أسنان. |وضعتها في الثلج. يفترض أن يعيدوا تركيبها.
+270 101:Line:CED17A1E33DA4982943DC40264BFF4C5 [Flambae]
+EN No, Mecha Bitch. I control the fire--
+AR لا يا ميكا حقير. أنا أتحكم بالنار--
+271 101:Line:2009870A6F4E42A7B2CECF0B982FF498 [Coupe]
+EN No, Punch Up, you are literally fanning the flames right now.
+AR لا يا بانش أب، أنت تؤجج النيران حرفيا الآن.
+272 101:Line:5F78A084F51A4B7996E9F842943D40D7 [Soothing Voice]
+EN No, it’s probably from when I kicked you in the face.
+AR لا، ربما حدث ذلك حين ركلت وجهك.
+273 101:Line:49467345707B4FDFAB2348FE6F1AEAED [Mecha Man]
+EN No, totally. I was thinking about something else. But yeah. Thanks. |Thank you. Again.
+AR أجل، بالتأكيد. كنت أفكر في شيء آخر. لكن أجل. شكرا. |شكرا مجددا.
+274 101:Line:D23768A75269430ABFF4E3612241892F [Blonde Blazer]
+EN No. This... I’m, I'm... sorry if I gave the wrong impression...
+AR لا. هذا... أنا... آسفة إن أعطيت انطباعا خاطئا...
+275 101:Line:81506ECDD1FA431A984CACD636BC55CE [Blonde Blazer]
+EN Nope. Not a one.
+AR لا. ولا مرة.
+276 101:Line:472EE886A6594FD0895D4A49A821EBA7 [Robert]
+EN Nope. We’re in it now. |Why would I be trying to find the man who killed him if I didn’t love him? |Why would I be doing any of this--
+AR لا. بدأنا الحديث الآن. |لماذا أحاول العثور على قاتله لو لم أكن أحبه؟ |لماذا أفعل كل هذا--
+277 101:Line:B4E071F2ACE64314810A391A0EC78731 [Flambae]
+EN Not anymore, Mecha Dick. |As I literally just said, I am Flambae, a real superhero. |And you are not Mecha Man anymore. |So you need to get the fuck out of here.
+AR لم تعد كذلك يا ميكا تافه. |كما قلت للتو حرفيا، أنا فلامباي، بطل خارق حقيقي. |وأنت لم تعد ميكا مان. |لذا عليك أن تغرب عن هنا بحق الجحيم.
+278 101:Line:C4B9E0615602474CACCADC8DFC0DCFE6 [Mecha Man]
+EN Not true. Whaddaya call this?
+AR غير صحيح. ماذا تسمي هذا؟
+279 101:Line:A4F5C90CC03948CFA03BE49CBC7BB9DC [Blonde Blazer]
+EN Not water.
+AR ليس ماء.
+280 101:Line:6DD35C0FB73F4FFD90E0AC60B17EED4A [Mecha Man]
+EN Not yet.
+AR ليس بعد.
+281 101:Line:788689A322D74742963B0CAD371905A2 [Blonde Blazer]
+EN Noted.
+AR أخذت علما.
+282 101:Line:10C5146092424E258B18ED1C7A6FDB5C [Phenomaman]
+EN Now that at least one hero is being dispatched, it's time to get to work!
+AR الآن وقد أرسل بطل واحد على الأقل، حان وقت العمل!
+283 101:Line:274B836EB1D946D8ACF21FF2BD5BA7F7 [Toxic]
+EN Now!
+AR الآن!
+284 101:Line:EB980EA7A09C4AF8A3BF46E7B2616594 [Blonde Blazer]
+EN Now, that’s a sad sentence.
+AR يا لها من عبارة حزينة.
+285 101:Line:B514E677D8E2428588637A7144C7158E [Blonde Blazer]
+EN Now, that’s a sad sentence. Come on, that can’t be true.
+AR يا لها من عبارة حزينة. هيا، لا يمكن أن تكون صحيحة.
+286 101:Line:A58F1ECDC3BF4C0EB810D37FB7B6CAD0 [Flambae]
+EN Now, we can do this the easy way...
+AR يمكننا فعل هذا بالطريقة السهلة...
+287 101:Line:4A54006101B14477AEC2BD367B004BF8 [Speedster]
+EN Nyooooom.
+AR نيووووم.
+288 101:Line:F61378BF2E2043F3A73FB34301FD9133 [Dopple]
+EN OUT!
+AR اخرج!
+289 101:Line:9C1B9E506E5242A19DE017ABA1738EED [Robert]
+EN Obviously, I love him. He’s my Dad.
+AR من الواضح أنني أحبه. إنه أبي.
+290 101:Line:00459E14AB4A43CE81E5DFBD62C4B769 [Phenoma-Man]
+EN Of course.
+AR بالطبع.
+291 101:Line:34185CEDCF1B4219B2A9D624D220B2EA [Brainbook]
+EN Of course.
+AR بالطبع.
+292 101:Line:2BD471C795B74166AA39AE0C146333A4 [Phenomaman]
+EN Of course. PTO accrues at a regular rate over time. Use it however you like as long as you discuss your schedule with your manager well in advance.
+AR بالطبع. تتراكم الإجازات المدفوعة بمعدل منتظم مع الوقت. استخدمها كما تشاء، ما دمت تناقش جدولك مع مديرك مسبقا بوقت كاف.
+293 101:Line:4E0356EFB0F643F08EE096AB79AD83E3 [Robert]
+EN Oh no.
+AR يا إلهي.
+294 101:Line:2988E8AF10914040A95D7F2E5F04718F [Civilian]
+EN Oh no. Help us. We are being held hostage. Send help. Please.
+AR يا إلهي. ساعدونا. نحن محتجزون رهائن. أرسلوا المساعدة. أرجوكم.
+295 101:Line:57A9BEF5B67E4980B571864E95C55A44 [Phenomaman]
+EN Oh no. It's one of my arch nemesises: El Diablo. That means "The Diablo" in Spanish.
+AR يا إلهي. إنه أحد ألد أعدائي: إل ديابلو. وتعني «الديابلو» بالإسبانية.
+296 101:Line:0A84B91271BA466DAA8CB88C1B1EF3BA [Soothing Goon]
+EN Oh no. It’s over, Shroud!
+AR يا إلهي. انتهى الأمر يا شراود!
+297 101:Line:4960F88837674034814B3AC01F862C4E [Soothing Goon]
+EN Oh no. Should I update my Wikipedia page?
+AR يا إلهي. هل أحدث صفحتي على ويكيبيديا؟
+298 101:Line:D7CB485EFF9F48F7A3FCC1D3362851DE [Blonde Blazer]
+EN Oh shit. They were all skittles colors. I didn’t even realize it.
+AR تبا. كانوا كلهم بألوان سكيتلز. لم أنتبه حتى.
+299 101:Line:349F5ED1CDB240CC970F8E1617D050C8 [Robert]
+EN Oh you mean a name like Robert Robertson the Third?
+AR آه، تقصد اسما مثل روبرت روبرتسون الثالث؟

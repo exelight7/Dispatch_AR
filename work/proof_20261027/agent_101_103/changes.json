@@ -1,0 +1,132 @@
+[
+  {
+    "target": "101",
+    "index": 122,
+    "id": "101:Line:FCBC06138B5243F8A598039E46CA2574",
+    "en": "...and why'd it smell like burnt hair?",
+    "before": "...ولماذا تفوح منه رائحة شعر محترق؟",
+    "after": "...ولماذا كانت تفوح منه رائحة شعر محترق؟",
+    "reason": "تصحيح زمن السؤال إلى الماضي بما يوافق الأصل.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "101",
+    "index": 286,
+    "id": "101:Line:5D8279DB1FA4457ABBB8E9A79CF4AA1F",
+    "en": "I led the goons into a trap while guiding the civilians to safety. The cops'll take it from here.",
+    "before": "قدت البلطجية إلى فخ بينما أرشد المدنيين إلى الأمان. ستتولى الشرطة الباقي.",
+    "after": "قدت البلطجية إلى فخ بينما أرشدت المدنيين إلى الأمان. ستتولى الشرطة الباقي.",
+    "reason": "توحيد زمن الفعل في وصف حدث ماضٍ مكتمل.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "101",
+    "index": 770,
+    "id": "101:NodeTitle:9B32B3E1057C422CAB489077771D757A",
+    "en": "[Kiss Her]",
+    "before": "[قبلها]",
+    "after": "[قبّلها]",
+    "reason": "إضافة الشدة لتمييز فعل الأمر بالتقبيل من حرف الجر قبل.",
+    "category": "Choices"
+  },
+  {
+    "target": "101",
+    "index": 792,
+    "id": "101:WeCanWorkWithThisChoiceStat:50B36F8B447E8B8D110A1EAAC7C35E68",
+    "en": "^You and {Percentage}^ of players ^did not kiss^ Blazer.",
+    "before": "^أنت و{Percentage}^ من اللاعبين ^لم تقبلوا^ بليزر.",
+    "after": "^أنت و{Percentage}^ من اللاعبين ^لم تقبّلوا^ بليزر.",
+    "reason": "إضافة الشدة لتمييز التقبيل من القبول.",
+    "category": "Choices"
+  },
+  {
+    "target": "101",
+    "index": 793,
+    "id": "101:WeCanWorkWithThisChoiceStat:8C6B079244B8AAE672DFC194C473565A",
+    "en": "^You and {Percentage}^ of players ^kissed^ Blazer.",
+    "before": "^أنت و{Percentage}^ من اللاعبين ^قبلتم^ بليزر.",
+    "after": "^أنت و{Percentage}^ من اللاعبين ^قبّلتم^ بليزر.",
+    "reason": "إضافة الشدة لتمييز التقبيل من القبول.",
+    "category": "Choices"
+  },
+  {
+    "target": "103",
+    "index": 411,
+    "id": "103:Line:259A24A18D654E63891CDA2ACFF973E2",
+    "en": "Don't be jealous.",
+    "before": "لا تغر.",
+    "after": "لا تشعر بالغيرة.",
+    "reason": "إزالة التباس الفعل غير المشكول مع الحفاظ على معنى الغيرة.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "103",
+    "index": 570,
+    "id": "103:Line:06B760FE09034EDB9479B7A53BD8BD90",
+    "en": "I told him it was supposed to help with anxiety and he hopped right in.",
+    "before": "أخبرته أن المفترض أن يساعده على القلق، فقفز داخله فورا.",
+    "after": "أخبرته أن من المفترض أن يساعده على تخفيف القلق، فقفز داخله فورا.",
+    "reason": "تصحيح تركيب أن من المفترض وتصحيح معنى مساعدة القلق إلى تخفيفه.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "103",
+    "index": 665,
+    "id": "103:Line:5BBEF756C1074E8388F858AB955BC115",
+    "en": "Match my tempo.",
+    "before": "جار إيقاعي.",
+    "after": "واكب إيقاعي.",
+    "reason": "توضيح فعل الأمر من المجاراة دون التباس مع كلمة جار.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "103",
+    "index": 739,
+    "id": "103:Line:3BCDF4B501C347DBA12CAAE5A3CD7A3F",
+    "en": "Oh, the one in the bullpen? That thing updates every hour. |Invisigal moved up. |Catching Lightningstruck really gave her a huge boost.",
+    "before": "آه، الموجود في القاعة؟ يتحدث كل ساعة. |إنفيزيغال صعدت. |القبض على لايتنينغسترك منحها دفعة هائلة.",
+    "after": "آه، الموجود في القاعة؟ يتم تحديثه كل ساعة. |إنفيزيغال صعدت. |القبض على لايتنينغسترك منحها دفعة هائلة.",
+    "reason": "توضيح المبني للمجهول: تُحدّث لوحة الترتيب، لا تتحدث.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "103",
+    "index": 865,
+    "id": "103:Line:3A7ED24119BF44439834ABAAC3715207",
+    "en": "The dog agrees with me that Coop has rancid vibes.",
+    "before": "الكلب يوافقني أن أجواء كوب عفنة.",
+    "after": "الكلب يوافقني على أن أجواء كوب عفنة.",
+    "reason": "تصحيح تعدية الفعل وافق بحرف الجر على قبل أن.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "103",
+    "index": 916,
+    "id": "103:Line:F7373DA126A84B3D9D0B34EFA6C85AC8",
+    "en": "Uh, also false. |Of course I’m being judged along with the rest of you. |Are you-- Do you not know what a job is? |What the hell is going on?",
+    "before": "هذا خطأ أيضا. |بالطبع أقيم معكم جميعا. |هل... ألا تعرفون ما الوظيفة؟ |ماذا يحدث بحق الجحيم؟",
+    "after": "هذا خطأ أيضا. |بالطبع يجري تقييمي معكم جميعا. |هل... ألا تعرفون ما الوظيفة؟ |ماذا يحدث بحق الجحيم؟",
+    "reason": "توضيح الفعل المبني للمجهول أقيم حتى لا يلتبس بالإقامة.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "103",
+    "index": 924,
+    "id": "103:Line:AF975871CA054D97950C04B098DC5A9D",
+    "en": "Unfortunately, for you it’s a curse |'cause there isn’t a thing in the universe that goes more wasted than potential. |And despite how common it is, no one seems to forget. |It’s what they whisper when you leave the room. |“Oh, so and so had so much potential.” It follows you forever. |I’m here to help you lift the curse of potential... |by getting you to fucking do something with it.",
+    "before": "للأسف، إنها لعنة لكم |لأن لا شيء في الكون يهدر أكثر من الإمكانات. |ورغم شيوع ذلك، يبدو أن أحدا لا ينسى. |هذا ما يتهامسون به حين تغادر الغرفة. |«فلان كانت لديه إمكانات كبيرة». يلاحقك ذلك إلى الأبد. |أنا هنا لأساعدكم على رفع لعنة الإمكانات... |بجعلكم تفعلون شيئا بها بحق الجحيم.",
+    "after": "للأسف، إنها لعنة لكم |لأن لا شيء في الكون يهدر أكثر من الإمكانات. |ورغم شيوع ذلك، يبدو أن أحدا لا ينسى. |هذا ما يتهامسون به حين تغادرون الغرفة. |«فلان كانت لديه إمكانات كبيرة». يلاحقكم ذلك إلى الأبد. |أنا هنا لأساعدكم على رفع لعنة الإمكانات... |بجعلكم تفعلون شيئا بها بحق الجحيم.",
+    "reason": "توحيد ضمائر المخاطبين بالجمع داخل الخطاب نفسه.",
+    "category": "Dialogue/Subtitles"
+  },
+  {
+    "target": "103",
+    "index": 1062,
+    "id": "103:Line:5839C9DDF2EC4D4893B7E3DE0554D821",
+    "en": "You want me to out-talk cultists? Bro, this shit is so easy I could do it in my sleep. Besides, higher consciousness is a key pillar of my thirteen part online course.",
+    "before": "تريدني أن أتفوق بالكلام على أتباع طائفة؟ يا أخي، هذا سهل جدا أفعله وأنا نائم. ثم إن الوعي الأسمى ركيزة أساسية في دورتي الإلكترونية ذات الأجزاء الثلاثة عشر.",
+    "after": "تريدني أن أتفوق بالكلام على أتباع طائفة؟ يا أخي، هذا سهل جدا لدرجة أنني أستطيع فعله وأنا نائم. ثم إن الوعي الأسمى ركيزة أساسية في دورتي الإلكترونية ذات الأجزاء الثلاثة عشر.",
+    "reason": "إكمال تركيب شدة السهولة وربطه بالفعل على نحو سليم.",
+    "category": "Dialogue/Subtitles"
+  }
+]

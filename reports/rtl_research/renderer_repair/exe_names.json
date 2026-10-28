@@ -1,0 +1,305 @@
+{
+ "evidence_class": "CONFIRMED_FROM_BINARY (name presence only; not behavior)",
+ "exe": "Dispatch\\Binaries\\Win64\\Dispatch-Win64-Shipping.exe",
+ "exe_sha256": "365637a77d4b74a61d198a9927e3dcd437bf3be2247b96fcbe5c2e851ac14923",
+ "monolithic_rtti_FStaticallyLinkedModuleRegistrant": 2,
+ "groups": {
+  "stock_umg_classes": {
+   "URichTextBlock": [
+    "0x35bc910"
+   ],
+   "URichTextBlockDecorator": [
+    "0x35becc8"
+   ],
+   "URichTextBlockImageDecorator": [
+    "0x35bf5e8"
+   ],
+   "UTextBlock": [
+    "0x35c0890"
+   ],
+   "URetainerBox": [
+    "0x35b9be8"
+   ],
+   "UInvalidationBox": [
+    "0x35b5ed8"
+   ],
+   "UOverlay": [
+    "0x35baad0"
+   ],
+   "UCanvasPanel": [
+    "0x35ae310"
+   ],
+   "UWidgetSwitcher": [
+    "0x35d6bc0"
+   ],
+   "UImage": [
+    "0x35b3dd0"
+   ],
+   "UMaterialInstanceDynamic": [
+    "0x39c06f0"
+   ],
+   "UMaterialParameterCollection": [
+    "0x39c37e0"
+   ],
+   "UTextureRenderTarget2D": [
+    "0x3a66dd8"
+   ],
+   "UKismetRenderingLibrary": [
+    "0x3986bd0"
+   ],
+   "UKismetMaterialLibrary": [
+    "0x395b090"
+   ],
+   "UKismetInternationalizationLibrary": [
+    "0x395e2b0"
+   ],
+   "UKismetTextLibrary": [
+    "0x399dc50"
+   ]
+  },
+  "stock_structs": {
+   "RichTextStyleRow": [
+    "0x35bb770"
+   ],
+   "TextBlockStyle": [
+    "0x3391d80"
+   ],
+   "SlateFontInfo": [
+    "0x3395480"
+   ],
+   "FontOutlineSettings": [
+    "0x33958a8"
+   ],
+   "FontMaterial": [
+    "0x3395418"
+   ],
+   "OutlineMaterial": [
+    "0x3395898"
+   ],
+   "ColorAndOpacity": [
+    "0x3391270"
+   ],
+   "ShadowColorAndOpacity": [
+    "0x33916b0"
+   ],
+   "ShapedTextOptions": [
+    "0x35b0bd0"
+   ],
+   "TextFlowDirection": [
+    "0x35c0a88"
+   ],
+   "TextShapingMethod": [
+    "0x35c0a70"
+   ],
+   "ETextFlowDirection::RightToLeft": [
+    "0x33b3d08"
+   ],
+   "ETextShapingMethod::FullShaping": [
+    "0x33971b0"
+   ]
+  },
+  "rich_text_functions": {
+   "SetText": [
+    "0x35b0070"
+   ],
+   "SetTextStyleSet": [
+    "0x35bb8e8"
+   ],
+   "SetDefaultTextStyle": [
+    "0x35bb8b8"
+   ],
+   "SetDefaultFont": [
+    "0x35bb858"
+   ],
+   "SetDefaultColorAndOpacity": [
+    "0x35bb838"
+   ],
+   "SetDefaultShadowColorAndOpacity": [
+    "0x35bb868"
+   ],
+   "ClearAllDefaultStyleOverrides": [
+    "0x35bb7f0"
+   ],
+   "GetDecoratorByClass": [
+    "0x35bb810"
+   ],
+   "SetAutoWrapText": [
+    "0x35bb828"
+   ],
+   "SetMinDesiredWidth": [
+    "0x35bb8d0"
+   ],
+   "SetJustification": [
+    "0x35b0058"
+   ],
+   "SetTextTransformPolicy": [
+    "0x35bb8f8"
+   ],
+   "RequestRender": [
+    "0x35b93d8"
+   ],
+   "SetRetainRendering": [
+    "0x35b9440"
+   ],
+   "SetEffectMaterial": [
+    "0x35b93e8"
+   ],
+   "SetRenderOpacity": [
+    "0x35cd2e8"
+   ]
+  },
+  "absent_in_427_expected": {
+   "SetDefaultMaterial": [],
+   "SetFontMaterial": []
+  },
+  "language_functions": {
+   "GetCurrentLanguage": [
+    "0x395d6e8"
+   ],
+   "GetCurrentCulture": [
+    "0x395d6d0"
+   ],
+   "GetCurrentLocale": [
+    "0x395d700"
+   ],
+   "GetNativeCulture": [
+    "0x395d730"
+   ],
+   "GetSuitableCulture": [
+    "0x395d748"
+   ],
+   "SetCurrentLanguage": [
+    "0x395d798"
+   ]
+  },
+  "game_language_setting": {
+   "UDispatchLanguageSetting": [
+    "0x32f2480"
+   ]
+  },
+  "reveal_channel_functions": {
+   "ClearRenderTarget2D": [
+    "0x39851a8"
+   ],
+   "CreateRenderTarget2D": [
+    "0x39851f0"
+   ],
+   "DrawMaterialToRenderTarget": [
+    "0x3985248"
+   ],
+   "SetScalarParameterValue": [
+    "0x395aac8"
+   ],
+   "SetVectorParameterValue": [
+    "0x395aae0"
+   ],
+   "K2_SetTimer": [
+    "0x398d3b8"
+   ],
+   "K2_SetTimerDelegate": [
+    "0x398d3f8"
+   ],
+   "ParseIntoArray": [
+    "0x3987028"
+   ],
+   "Delay": [
+    "0x39029d8"
+   ]
+  },
+  "game_plugin_text_classes": {
+   "UProtoRichTextBlock": [
+    "0x31cb5c8"
+   ],
+   "UProtoRichTextCharColorDecorator": [
+    "0x31cb670"
+   ],
+   "UProtoRichTextImageDecorator": [
+    "0x31c9cb0"
+   ],
+   "UProtoRichTextWidgetDecorator": [
+    "0x31ca258"
+   ],
+   "UCommonRichTextBlock": [
+    "0x3129490"
+   ],
+   "UCommonTextBlock": [
+    "0x312f870"
+   ],
+   "UCommonTextStyle": [
+    "0x312ed90"
+   ]
+  },
+  "plugin_discovery_strings": {
+   "Mods/": [
+    "0x3333b08"
+   ],
+   "PLUGIN=": [
+    "0x333e150"
+   ],
+   "EnablePlugins=": [
+    "0x333e320"
+   ],
+   ".upluginmanifest": [
+    "0x333e238"
+   ],
+   "AdditionalPluginDirectories": [
+    "0x333f338"
+   ],
+   "_P.pak": [
+    "0x3769220"
+   ],
+   "Plugin '{0}' failed to load because module '{1}' could not be found.  Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project.": [
+    "0x333e7a0"
+   ]
+  },
+  "script_runtimes_expected_absent": {
+   "UE4SS": [],
+   "UnLua": [],
+   "PythonScriptPlugin": []
+  }
+ },
+ "missing": {
+  "stock_umg_classes": [],
+  "stock_structs": [],
+  "rich_text_functions": [],
+  "absent_in_427_expected": [
+   "SetDefaultMaterial",
+   "SetFontMaterial"
+  ],
+  "language_functions": [],
+  "game_language_setting": [],
+  "reveal_channel_functions": [],
+  "game_plugin_text_classes": [],
+  "plugin_discovery_strings": [],
+  "script_runtimes_expected_absent": [
+   "UE4SS",
+   "UnLua",
+   "PythonScriptPlugin"
+  ]
+ },
+ "install_binaries_and_descriptors": [
+  "Dispatch.exe",
+  "Dispatch\\Binaries\\Win64\\Dispatch-Win64-Shipping.exe",
+  "Dispatch\\Binaries\\Win64\\steam_api64.dll",
+  "Dispatch\\Plugins\\FMODStudio\\Binaries\\Win64\\fmod.dll",
+  "Dispatch\\Plugins\\FMODStudio\\Binaries\\Win64\\fmodstudio.dll",
+  "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll",
+  "Engine\\Binaries\\ThirdParty\\NVIDIA\\GeForceNOW\\Win64\\GfnRuntimeSdk.dll",
+  "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+  "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll",
+  "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv151\\Win64\\steam_api64.dll",
+  "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+  "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+  "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll",
+  "Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe"
+ ]
+}

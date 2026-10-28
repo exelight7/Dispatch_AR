@@ -1,0 +1,52 @@
+{
+  "source": "extracted/Engine/Content/Localization/Engine/en/Engine.locres",
+  "source_sha256": "06cb30ea757da9e7edc0fa0ea1b500d0c7e311c322fac24e907f00c052ba7e76",
+  "locres_version": 3,
+  "records": 20282,
+  "namespaces": 2195,
+  "candidate_groups": {
+    "A_native_system_candidates": {
+      "total": 67,
+      "namespace_counts": {
+        "Core": 16,
+        "D3D11RHI": 1,
+        "D3D12RHI": 1,
+        "Engine": 16,
+        "EngineInit": 1,
+        "EngineLoop": 1,
+        "GameViewportClient": 5,
+        "Launch": 1,
+        "MessageDialog": 12,
+        "NetworkErrors": 6,
+        "WindowsDynamicRHI": 7
+      }
+    },
+    "C_deferred_diagnostic_or_external_surfaces": {
+      "total": 54,
+      "namespace_counts": {
+        "CrashReportClient": 21,
+        "PreLoadManager.BuildPatchServices": 10,
+        "UnrealEngine": 23
+      }
+    },
+    "B_optional_input_and_common_text": {
+      "total": 393,
+      "namespace_counts": {
+        "EditableTextContextMenu": 1,
+        "FInputChord": 6,
+        "InputKeySelector": 2,
+        "InputKeys": 351,
+        "SlateAccessibility": 15,
+        "UICommands.GenericCommands": 18
+      }
+    }
+  },
+  "remaining_unselected": 19768,
+  "reachability": "NOT PROVEN; static inventory only; game not launched",
+  "engine_translations_written": 460,
+  "online_plugin_translation_counts": {
+    "OnlineSubsystem": 24,
+    "OnlineSubsystemSteam": 2,
+    "OnlineSubsystemUtils": 20
+  }
+}

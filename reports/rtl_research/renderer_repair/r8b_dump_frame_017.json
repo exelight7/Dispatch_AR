@@ -1,0 +1,163 @@
+{
+ "registers": {
+  "Rax": "0x2e064a06280623",
+  "Rcx": "0x5b4a3a2b08280000",
+  "Rdx": "0x3ea1b7d100",
+  "Rbx": "0x3ea1b7d570",
+  "Rsp": "0x3ea1b7d2b0",
+  "Rbp": "0x3ea1b7d550"
+ },
+ "FFrame": "0x3ea1b7d570",
+ "FFrame_Code_field": "0x2e064a06280623",
+ "FFrame_Code_equals_Rax": true,
+ "localsBase": "0x3ea1b7d360",
+ "locals": {
+  "Subtitle Display Info": {
+   "offset": 0,
+   "address": "0x3ea1b7d360"
+  },
+  "CallFunc_GetGameInstanceSubsystem_ReturnValue": {
+   "offset": 184,
+   "address": "0x3ea1b7d418"
+  },
+  "CallFunc_GetCloudSettings_ReturnValue": {
+   "offset": 192,
+   "address": "0x3ea1b7d420"
+  },
+  "CallFunc_Conv_ColorToLinearColor_ReturnValue": {
+   "offset": 200,
+   "address": "0x3ea1b7d428"
+  },
+  "CallFunc_GetOptionValue_ReturnValue": {
+   "offset": 216,
+   "address": "0x3ea1b7d438",
+   "float": 0.5
+  },
+  "CallFunc_Dispatch_Filter_Text_Profanity_Potentially_Censored_Text": {
+   "offset": 224,
+   "address": "0x3ea1b7d440"
+  },
+  "CallFunc_GetOptionValue_ReturnValue_1": {
+   "offset": 248,
+   "address": "0x3ea1b7d458"
+  },
+  "CallFunc_GetGameInstanceSubsystem_ReturnValue_1": {
+   "offset": 256,
+   "address": "0x3ea1b7d460",
+   "qword": "0x0"
+  },
+  "Temp_byte_Variable": {
+   "offset": 264,
+   "address": "0x3ea1b7d468",
+   "byte": 2
+  },
+  "CallFunc_GetCloudSettings_ReturnValue_1": {
+   "offset": 272,
+   "address": "0x3ea1b7d470",
+   "qword": "0x0"
+  },
+  "Temp_byte_Variable_1": {
+   "offset": 280,
+   "address": "0x3ea1b7d478",
+   "byte": 3
+  },
+  "CallFunc_GetOptionValue_ReturnValue_2": {
+   "offset": 281,
+   "address": "0x3ea1b7d479"
+  },
+  "K2Node_CreateDelegate_OutputDelegate": {
+   "offset": 284,
+   "address": "0x3ea1b7d47c"
+  },
+  "CallFunc_ProcessLocalizedTextWithCallback_ReturnValue": {
+   "offset": 304,
+   "address": "0x3ea1b7d490"
+  },
+  "CallFunc_Apply_Speaker_Name_if_Needed_Processed_Text": {
+   "offset": 328,
+   "address": "0x3ea1b7d4a8"
+  },
+  "Temp_bool_Variable": {
+   "offset": 352,
+   "address": "0x3ea1b7d4c0"
+  },
+  "K2Node_Select_Default": {
+   "offset": 353,
+   "address": "0x3ea1b7d4c1"
+  },
+  "ARLanguage": {
+   "offset": 360,
+   "address": "0x3ea1b7d4c8",
+   "fstring": {
+    "data": "0x206dd5428c0",
+    "num": 3,
+    "max": 8
+   }
+  },
+  "ARPlain": {
+   "offset": 376,
+   "address": "0x3ea1b7d4d8",
+   "fstring": {
+    "data": "0x206e99ffac0",
+    "num": 30,
+    "max": 32
+   }
+  },
+  "ARSpeaker": {
+   "offset": 392,
+   "address": "0x3ea1b7d4e8",
+   "fstring": {
+    "data": "0x0",
+    "num": 0,
+    "max": 0
+   }
+  },
+  "ARMarkup": {
+   "offset": 408,
+   "address": "0x3ea1b7d4f8",
+   "fstring": {
+    "data": "0x206ce522360",
+    "num": 72,
+    "max": 80
+   }
+  },
+  "ARLarge": {
+   "offset": 424,
+   "address": "0x3ea1b7d508"
+  },
+  "ARText": {
+   "offset": 432,
+   "address": "0x3ea1b7d510"
+  },
+  "ARForegroundStyle": {
+   "offset": 456,
+   "address": "0x3ea1b7d528"
+  },
+  "ARSpeaker_CallFunc_GetGameInstanceSubsystem_ReturnValue": {
+   "offset": 464,
+   "address": "0x3ea1b7d530"
+  },
+  "ARSpeaker_CallFunc_GetCloudSettings_ReturnValue": {
+   "offset": 472,
+   "address": "0x3ea1b7d538"
+  },
+  "ARSpeaker_CallFunc_GetOptionValue_ReturnValue": {
+   "offset": 480,
+   "address": "0x3ea1b7d540"
+  }
+ },
+ "scratchBuffer": {
+  "address": "0x3ea1b7d2d0",
+  "asFString": {
+   "data": "0x3ea1b7d510",
+   "num": 72,
+   "max": 32759
+  }
+ },
+ "scratchData_equals_ARText": true,
+ "scratchNum_equals_ARMarkupNum": true,
+ "textAtARText": "<u0>من</> <u1>الواضح</> <u2>أنني</> <u3>أحبه.</> <u4>إنه</> <u5>أبي.</>\u0000",
+ "textBytes": 144,
+ "textEnd": "0x3ea1b7d5a0",
+ "overlapsFFrame": true
+}

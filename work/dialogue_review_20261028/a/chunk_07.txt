@@ -1,0 +1,300 @@
+700 104:Line:052F675A51E445F7B9659D5098ACE224 [Invisigal]
+EN Act like you don't know me.
+AR تظاهر بأنك لا تعرفني.
+701 104:Line:23903E83291246D79E666EBE2A2D90EF [Robert]
+EN Actually, it’s illegal for you to be filming. |I don’t need the whole thing, just enough to know what’s going on.
+AR في الواقع، تصويرك مخالف للقانون. |لا أحتاج المقطع كله، فقط ما يكفي لأعرف ما يحدث.
+702 104:Line:1A6F62E185204BB4893FEF748A0DAFE1 [Malevola]
+EN After cutting Sonar? No, you're on your own.
+AR بعد طرد سونار؟ لا، دبر أمرك بنفسك.
+703 104:Line:4893AF2DD77444F6A0746FA0AE78BD2C [Malevola]
+EN After cutting Sonar? You're on your own.
+AR بعد طرد سونار؟ دبر أمرك بنفسك.
+704 104:Line:4C847282BE634EAFAEB62D307CA1331A [Waterboy]
+EN Afternoon.
+AR طاب مساؤك.
+705 104:Line:E448AEB5C4164F029F2DDF28254EC4C2 [Robert]
+EN Agai--
+AR مجد--
+706 104:Line:31B42B4DDB6B4DCBBE271A54E7DDCDBF [Waterboy]
+EN Ah, thanks you s-so very much for that.
+AR آه، أشكرك ج-جزيلا على ذلك.
+707 104:Line:13429240041B4B279A2EB1258C09BD06 [Coupe]
+EN Ah, that's a choice.
+AR آه، إنه اختيار على كل حال.
+708 104:Line:123DF0CF2FAA40B098F69F41EBCD09C3 [Phenoma-Man]
+EN Ah, the familiar sting of disappointment.
+AR آه، لسعة الخيبة المألوفة.
+709 104:Line:4B903F87F9514845B4690FE1876B4BF1 [Phenoma-Man]
+EN Ah, the inevitable betrayal.
+AR آه، الخيانة الحتمية.
+710 104:Line:17F46F18D000493DB7214546ECF6CDDF [Blonde Blazer]
+EN Ah.
+AR آه.
+711 104:Line:055F63D46FED4A1FB0B52C2964B51B12 [Coupe]
+EN Ah. Fascinating.
+AR آه. مذهل.
+712 104:Line:B38908664989476881D2AAFDCE21DB32 [Chase]
+EN Aight. That one stung a little. |Hey, Blazer's looking at backfilling your open spot with Phenomaman or Waterboy. |You should think about who you’d want.
+AR حسنا. هذه جرحتني قليلا. |اسمع، بليزر تفكر في سد الشاغر بفريقك بفينومامان أو ووتربوي. |فكر فيمن تريده.
+713 104:Line:022D47843C854B65B4DDE6A1514A4638 [Prism]
+EN Ain't no way...
+AR مستحيل...
+714 104:Line:D606C5B3D448415F84A2091D7178BFA7 [Robert]
+EN All I’m saying is, |what you need to do is find the next thing for you to be passionate about... |'cause it’s out there. 
+AR كل ما أقوله، |عليك إيجاد الشيء التالي الذي يثير شغفك... |لأنه موجود. 
+715 104:Line:0D4620F8252C46658E0ECE5090D77043 [Waterboy]
+EN All better-- well, not all, but better.
+AR تحسنت تماما-- حسنا، ليس تماما، لكن تحسنت.
+716 104:Line:49DF0839F3EC40999204028DAB1D2BBE [Prism]
+EN All good, baby.
+AR كله تمام يا حبيبي.
+717 104:Line:5AA5E3EE2B4D4983BF969A29EF30A39E [Waterboy]
+EN All in a day's-- Uh, wait no-- shifts. Uh, all in a... work! All in a work! You, uh, you get it right?
+AR كل هذا في يوم-- آه، لا، مناوبات. آه، كله في... عمل! كله في عمل! أنت تفهم، صحيح؟
+718 104:Line:C5B82AE0F9314DC4ADD968244D2A331E [Robert]
+EN All the time, actually. 
+AR طوال الوقت، في الواقع. 
+719 104:Line:6395A543D21E4900A2004777DDBA7DF5 [Robert]
+EN All yours. Take the whole thing if you want. 
+AR كلها لك. خذها كلها إن أردت. 
+720 104:Line:4CDD4FBC993B4273B4AE1D655703D037 [Punch Up]
+EN Alright sonny, let's show em together.
+AR حسنا يا بني، لنُرِهم معا.
+721 104:Line:2B0592B7633F452A873A86CA58DA433C [Punch-Up]
+EN Alright, I'll talk to him.
+AR حسنا، سأتحدث معه.
+722 104:Line:2CBBFD0DC1F643F59718FF6D39CE94E4 [Malevola]
+EN Alright, alright.
+AR حسنا، حسنا.
+723 104:Line:2FB600C390854053A5F77003D7A7408B [Blonde Blazer]
+EN Alright, for real now. How do I look? 
+AR حسنا، بجدية الآن. كيف أبدو؟ 
+724 104:Line:3C936CF9E88F47B3A58A05EFAD6C3064 [Golem]
+EN Alright, hold up... Am I a kaiju?
+AR لحظة... هل أنا كايجو؟
+725 104:Line:1F1F0CA33BBA4BB0BE3D2C551E34DC65 [Robert]
+EN Alright, that's enough. You said you wanted help and I got you one of the best heroes at SDN.
+AR حسنا، كفى. قلت إنك تريد المساعدة، فأحضرت لك أحد أفضل أبطال SDN.
+726 104:Line:1CC35C21C97F4DB1AEA59B24F4284335 [Malevola]
+EN Alright, toodaloo.
+AR حسنا، إلى اللقاء.
+727 104:Line:427F34D31AC44B15AB25C3DF4D4AECB6 [Prism]
+EN Alright.
+AR حسنا.
+728 104:Line:1E9B4FDC409F44F3BC0BD7ABD40DF9E6 [Robert]
+EN Alright. It wasn’t that funny. 
+AR حسنا. لم تكن مضحكة لهذه الدرجة. 
+729 104:Line:3704925B59904E90945810C009FB08F5 [Golem]
+EN Am I fired?
+AR هل أنا مطرود؟
+730 104:Line:F013F599AFFA46D6B59DE105B12B80C1 [Robert]
+EN An actual good person that wants to be a hero?
+AR شخص طيب فعلا يريد أن يصبح بطلا؟
+731 104:Line:248857086BFC4C5283DBB5751602D8E7 [Flambae]
+EN And I've got drunken noodles calling my name.
+AR وتنتظرني نودلز السكران.
+732 104:Line:02302CAD07724829B0BA2C0DFB096B1D [Blonde Blazer]
+EN And a brunette. Come on, it’s-- |Okay, maybe if I wasn’t called Blonde Blazer |I wouldn’t be so self conscious about it.
+AR وشعر بني. هيا، إنه-- |حسنا، ربما لو لم يكن اسمي بلوند بليزر |لما تحرجت من الأمر هكذا.
+733 104:Line:0D690D4CA0BB4EBCB2FAD127B4C13823 [Flambae]
+EN And that's lunch, thank fuck.
+AR وهذا وقت الغداء، أخيرا بحق الجحيم.
+734 104:Line:5F7E3096D62E48BAB3E82F8744C55EE6 [Robert]
+EN And the crowd goes mild.
+AR والجمهور يصفق بفتور.
+735 104:Line:484FE4D7A2C6489F868C8660B7709B87 [Robert]
+EN And these two are my only options?
+AR وهذان خياري الوحيدان؟
+736 104:Line:35340835BC574D39AE721CF56A70E720 [Punch Up]
+EN And they should be. They've got plenty to be ashamed of.
+AR وهذا ما يجب. لديهم الكثير ليخجلوا منه.
+737 104:Line:932430B52F5640D09DA1483D0ADDEC17 [Robert]
+EN And you chose to be here. 
+AR وأنت اخترت أن تكون هنا. 
+738 104:Line:4D14326AB1AD4EB7BB6C4A9DE64FEB09 [Phenomaman]
+EN Another day saved by me, Phenomaman.
+AR يوم آخر ينقذه فينومامان، أنا.
+739 104:Line:9350453E45A34A92A67001FDEDFAFC2A [Robert]
+EN Anytime. Well, actually no, not anytime. |Uh, just, just, sometimes. Occasionally, barely any--
+AR في أي وقت. حسنا، لا، ليس في أي وقت. |آه، فقط أحيانا. بين حين وآخر، نادرا جدا--
+740 104:Line:27E77FE264CF4519B500B3F33EF0E90C [Phenomaman]
+EN Apologies. I thought I saw Blonde Blazer in distress.
+AR المعذرة. ظننت أنني رأيت بلوند بليزر في محنة.
+741 104:Line:2CC3B1E33646450193507CA078E4A750 [Robert]
+EN Are you kidding? I can’t tell if-- are you joking or am I joking?
+AR أتمزحين؟ لا أفهم إن-- هل أنت تمزحين أم أنا؟
+742 104:Line:450BCDC0E54B4492B7F5089D6CFC2792 [Phenomaman]
+EN Are you sure you want me?
+AR أأنت واثق أنك تريدني؟
+743 104:Line:123DA8EFE8B647DAA02C482616821461 [Blonde Blazer]
+EN Are you trying to say I’m fat?  
+AR أتحاول القول إنني سمينة؟  
+744 104:Line:3B02F8EBCB8A4748BC967731F1F26456 [Punch-Up]
+EN Are you trying to tell me something?
+AR أتحاول إخباري بشيء؟
+745 104:Line:8EE7BA3A22CE4BC0857EB09519C99DE0 [Waterboy]
+EN Aren’t these the best? I love the green ones, the green dew. 
+AR أليست هذه الأفضل؟ أحب الخضراء، الندى الأخضر. 
+746 104:Line:0B309DA0051141C7BC150A3AF829C695 [Punch Up]
+EN Argh, feckin' hell!
+AR آخ، اللعنة!
+747 104:Line:3623527FFF0943EFA0BCE4CE70940603 [Phenomaman]
+EN Assistance is on the way!
+AR المساعدة في الطريق!
+748 104:Line:4AEFA6B816374D56B0722571D500B075 [Golem]
+EN At least I'm good at pep talks.
+AR على الأقل أجيد رفع المعنويات.
+749 104:Line:6022EA0378FC4C3393BCFEDBEA29BCBA [Waterboy]
+EN Awes-- my lucky day-- |I know what’s for lunch-- or dinner probably. |Now.  
+AR رائـ-- يا له من يوم سعيد-- |عرفت غدائي-- أو عشائي على الأرجح. |الآن.  
+750 104:Line:5D3B2B4BB6CF41E3B2A444F666D4BB2D [Waterboy]
+EN Aye, aye capt-- leader? Um...
+AR أمرك يا قبـ-- قائد؟ أم...
+751 104:Line:16F209FC97894F0789639160038C0005 [Royd]
+EN Aye, come on. I gotta work on dis.
+AR هيا. علي أن أتدرب على هذا.
+752 104:Line:4B5C707502F442F0BFE3C2BD3740E645 [Flambae]
+EN BYE!
+AR وداعا!
+753 104:Line:1F651F6CB0404E6F846941B9C79FC06B [Prism]
+EN Baby Godzilla looking ass...
+AR تبدو كغودزيلا رضيع...
+754 104:Line:14B2DE823C6741A1BAB88F5950C9CFD0 [Waterboy]
+EN Back in the water-- Ocean for you. Go! Swim-- Uh, splash free!
+AR عد إلى الماء-- إلى المحيط. هيا! اسبح-- آه، انطلق في الماء!
+755 104:Line:04F9DF5483BB40EC8A165FE9D6A944BF [Coupe]
+EN Back to the shadows.
+AR إلى الظلال مجددا.
+756 104:Line:0310A621C73A4778A578941B6105958A [Robert]
+EN Bathrooms are for shitting after your first coffee and picking shrapnel out of your chest... |not for whatever this is.   
+AR الحمامات للتغوط بعد قهوتك الأولى وانتزاع الشظايا من صدرك... |لا لهذا الذي تفعلانه.   
+757 104:Line:210AD021A8B0468EBF99BBB6A8F99F27 [Phenomaman]
+EN Be honest. Do people talk about me behind my back-- never mind. Don't answer that.
+AR كن صريحا. هل يتكلمون عني من وراء ظهري-- انس الأمر. لا تجب.
+758 104:Line:4C89DFA105F6427FAA80809AEFC34677 [Invisigal]
+EN Be honest. You like telling me what to do.
+AR كن صريحا. تحب أن تأمرني.
+759 104:Line:983FA9CB22FC46BC9F72F7AF765BA478 [Blonde Blazer]
+EN Because I like you... and I think you like me. 
+AR لأنني معجبة بك... وأظنك معجبا بي. 
+760 104:Line:05462C96E1424A4B96B41D76146ED576 [Punch-Up]
+EN Before I joined the Z-Team, I didn't have a pot to piss in.
+AR قبل الانضمام إلى فريق Z، لم أكن أملك حتى وعاء أبول فيه.
+761 104:Line:5D9157256D8045A5B3FB780AA3151F63 [Robert]
+EN Before you incinerate me, |it’s worth noting I had no idea she was in a relationship.
+AR قبل أن تحرقني، |أحب أن أوضح أنني لم أكن أعلم أنها مرتبطة.
+762 104:Line:2EF6E8A9793649D4BD3981216B7F4FF8 [Punch Up]
+EN Bet you say that to everybody.
+AR أراهن أنك تقول هذا للجميع.
+763 104:Line:BC248A8737D34133A9F901DBAC706479 [Blonde Blazer]
+EN Better it happen here than on the red carpet. 
+AR أفضل أن يحدث هنا من أن يحدث على السجادة الحمراء. 
+764 104:Line:58CB56A6C0694CA7BB8FC42B7AE599CC [Robert]
+EN Blazer makes her own decisions 'cause that’s what people do. |She’s her own person. |And she decided she doesn’t want to be with you.  
+AR بليزر تتخذ قراراتها بنفسها، كالناس جميعا. |إنها مستقلة بذاتها. |وقد قررت أنها لا تريد البقاء معك.  
+765 104:Line:5E410149DB5E47D1878F8EF8D6CC3419 [Waterboy]
+EN Bless you.
+AR يرحمك الله.
+766 104:Line:18C8052127E4484385802714F114AAE6 [Waterboy]
+EN Blonde-- Miss Blaze she talked to me-- thanks for picking me-- |my I’m really-- jizzed to join you.
+AR بلوند-- الآنسة بليز تحدثت معي-- شكرا لاختياري-- |أنا حقا-- مقذوف من الفرح بالانضمام إليكم.
+767 104:Line:0B8FA10134A64E9295E1016072B5C219 [Phenoma-Man]
+EN Blood is no longer leaving my body, which I prefer.
+AR لم يعد الدم يخرج من جسدي، وهذا ما أفضله.
+768 104:Line:501FE9E927404BE5870A33BAA5E84B06 [Punch-Up]
+EN Bob, I think this is my last stop for the day.
+AR بوب، أظن هذه محطتي الأخيرة اليوم.
+769 104:Line:4F9B943F170243FB8BF74C1687112A9D [Royd]
+EN Brah, what da fuck?
+AR يا أخي، ما هذا بحق اللعنة؟
+770 104:Line:408D928725074447B5BFABCBC30C623E [Malevola]
+EN Break time.
+AR وقت الراحة.
+771 104:Line:0A993BC35E1341299E3B1DF44122B23F [Royd]
+EN Bro...
+AR يا رجل...
+772 104:Line:260546881278413B9DF4AE40B7FB3E5A [Waterboy]
+EN Bullshit!
+AR هراء!
+773 104:Line:39C20ED059C74F6FB7547F8FDCE1E6A2 [Invisigal]
+EN Bullshit. If you think you give off the “I never masturbate” vibes |then you are mistaken.
+AR هراء. إن ظننت أنك تعطي انطباع "أنا لا أستمني أبدا" |فأنت مخطئ.
+774 104:Line:98D66BDFF48D4D9483A3DF09C8E38476 [Invisigal]
+EN But I miss it... I miss popcorn.
+AR لكنني أفتقده... أفتقد الفشار.
+775 104:Line:34B5ACD812BD46B7BF2ED6DD45EA791A [Phenomaman]
+EN But that is... not phenomenal.
+AR لكن هذا... ليس مذهلا.
+776 104:Line:8AA6D719404744FDB1F3636FA3C9AC50 [Phenomaman]
+EN But to do good, you need to be doing good. |That’s what a human person would say.
+AR لكن لتفعل الخير، يجب أن تكون بخير. |هكذا يقول الإنسان البشري.
+777 104:Line:562BE8D3F7B94FCB897119397EC7561C [Waterboy]
+EN Bye.
+AR وداعا.
+778 104:Line:0425B1AD156044FEB9CE567F8B553B7C [Waterboy]
+EN C-can do teammate!
+AR ح-حاضر يا زميلي!
+779 104:Line:0CD5C7E28BB443FAB3FCE730BEB331A0 [Waterboy]
+EN C-cool. N-no follow up questions for me.
+AR ر-رائع. لا أسئلة إضافية ل-لدي.
+780 104:Line:10227463393E424A967EAF52CDE7E6F0 [Punch-Up]
+EN Can it be his last day too?
+AR أيكون يومه الأخير أيضا؟
+781 104:Line:070126053A1E4CD8B6F5626957E4034B [Sonar]
+EN Can we bribe them?
+AR هل نرشيهم؟
+782 104:Line:5E677B0DE4774E2385B920425931442D [Robert]
+EN Can you give her a heads up or something?
+AR أيمكنك تنبيهها أو ما شابه؟
+783 104:Line:289656ABEFAE40DA993112F3B764708A [Royd]
+EN Can you handle dis HR violation some uda place? I got work, yeah?
+AR هلا تنقلان مخالفة الموارد البشرية هذه لمكان آخر؟ لدي عمل، اتفقنا؟
+784 104:Line:898F3C9F93604374B5DDBDE03A21324A [Robert]
+EN Can you just be normal for like, a second? 
+AR أتستطيع التصرف بطبيعية لثانية واحدة؟ 
+785 104:Line:38B52BBB9B3F4AE6A8F36826A104F6B4 [Sonar]
+EN Can you look again?
+AR أيمكنك النظر مجددا؟
+786 104:Line:36BCFB858B4C418FB2A67063A4B6A088 [Punch-Up]
+EN Can't believe Sonar's gone, this is a load of shite.
+AR لا أصدق أن سونار رحل. هذا هراء لعين.
+787 104:Line:3812D34AF1974D738BFA945D14D88D1B [Malevola]
+EN Catch you later mate.
+AR أراك لاحقا يا صاح.
+788 104:Line:36F7C049E49445A3915D28634E640414 [Phenomaman]
+EN Certainly, I will take to the skies with a large banner strapped to my arms.
+AR بالتأكيد، سأحلق وفي ذراعي لافتة ضخمة.
+789 104:Line:27C8988FBC05488498D0B90D26E29290 [Malevola]
+EN Ch'aad, yeah.
+AR تشآد، أجل.
+790 104:Line:2465654A34B1401795878F5527A2DDE8 [Waterboy]
+EN Clocking out.
+AR انتهى دوامي.
+791 104:Line:3E3A35C39C624719B6F9CE822B1F2D3E [Office Worker]
+EN Come on man. Can you not do that like that please?!
+AR هيا يا رجل. هلا توقفت عن فعل ذلك بهذه الطريقة؟!
+792 104:Line:00E096CBA5A847A48665F8AF47ED736D [Robert]
+EN Come on, Chase. It’s harmless. |Who doesn’t love an office prank?
+AR هيا يا تشيس. إنها مزحة بريئة. |من لا يحب مقالب المكتب؟
+793 104:Line:5BE4BA889F3D4785A77E5A145365F2BD [Robert]
+EN Complex locomotion. 
+AR حركة معقدة. 
+794 104:Line:01E4FA6FAC704761B4AB0ED7FF439EB0 [Invisigal]
+EN Cool. Free shit.
+AR رائع. أشياء مجانية.
+795 104:Line:576DE52EB4614CF28FD907028B4DEBC1 [Robert]
+EN Cool. Me too.
+AR رائع. وأنا أيضا.
+796 104:Line:213CFB8720A24486933FEC756B39B14A [Prism]
+EN Coop can I borrow your mask? I got a date tonight at a masquerade thingy.
+AR كوب، أستعير قناعك؟ لدي موعد الليلة في حفلة تنكرية أو شيء كهذا.
+797 104:Line:3BE449785F094329AE0645C4D8C628D8 [Chase]
+EN Coop was a friend of his.  
+AR كانت كوب صديقته.  
+798 104:Line:198D68DC3B694286AFF638D53070E41E [Malevola]
+EN Coop? No fucking way.
+AR كوب؟ مستحيل بحق اللعنة.
+799 104:Line:4FE309A21CA740ECBF6B5C81FBD0F73A [Brainteaser]
+EN Correct! Have you seen 'Standing Alive'? I hear it's playing in theaters again...
+AR صحيح! هل شاهدت "صامد حي"؟ سمعت أنه يعرض في السينما مجددا...

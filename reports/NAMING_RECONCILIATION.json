@@ -1,0 +1,429 @@
+[
+  {
+    "id": "102::8ACFF4284B4F6752D88328A4468EE385",
+    "en": "\"I'm a high ranking Vanderstenker. It would mean a lot.\"",
+    "before": "\"أنا فاندستنكر رفيع الرتبة. سيعني لي ذلك الكثير.\"",
+    "after": "\"أنا فاندرستنكر رفيع الرتبة. سيعني لي ذلك الكثير.\"",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102::415B4C4A4E73E438A1414792674B8E3E",
+    "en": "\"Mr. Vanderstenk is requesting a hero for a very important event.\"",
+    "before": "\"يطلب السيد فاندستنكر بطلا لحدث بالغ الأهمية.\"",
+    "after": "\"يطلب السيد فاندرستنك بطلا لحدث بالغ الأهمية.\"",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102::DFA8FE2B4F0B988649018DA9172A23F8",
+    "en": "\"You must protect Vanderstenk from the \"Vanderstenker\" fanclub.\"",
+    "before": "\"عليكم حماية فاندستنكر من نادي معجبيه «الفاندستنكرز».\"",
+    "after": "\"عليكم حماية فاندرستنك من نادي معجبيه «الفاندرستنكرز».\"",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102::F4DCEF57433191B94B3C3B8A9F81E73E",
+    "en": "^You and {Percentage}^ of players ^didn't let Sonar meet Vanderstenk^.",
+    "before": "^أنت و{Percentage}^ من اللاعبين ^لم تدعوا سونار يقابل فاندستنكر^.",
+    "after": "^أنت و{Percentage}^ من اللاعبين ^لم تدعوا سونار يقابل فاندرستنك^.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102::B71E806D45157410833DBAAFA88CF96A",
+    "en": "^You and {Percentage}^ of players ^let Sonar meet Vanderstenk^ and it went ^great^.",
+    "before": "^أنت و{Percentage}^ من اللاعبين ^سمحتم لسونار بلقاء فاندستنكر^، وسار الأمر ^بروعة^.",
+    "after": "^أنت و{Percentage}^ من اللاعبين ^سمحتم لسونار بلقاء فاندرستنك^، وسار الأمر ^بروعة^.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102::55AC599B4ED7227566A5C68634214F5D",
+    "en": "^You and {Percentage}^ of players ^let Sonar meet Vanderstenk^ and it went ^terrible^.",
+    "before": "^أنت و{Percentage}^ من اللاعبين ^سمحتم لسونار بلقاء فاندستنكر^، وسار الأمر ^بشكل مريع^.",
+    "after": "^أنت و{Percentage}^ من اللاعبين ^سمحتم لسونار بلقاء فاندرستنك^، وسار الأمر ^بشكل مريع^.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:Line:2C6F4F732FF94249BAA90105147EA3C7",
+    "en": "Hey Bobby... I hear Willem Vanderstenk needs a security detail... Is it cool if I go? I've been wanting to pitch him some stuff I've been working on.",
+    "before": "مرحبا بوبي... سمعت أن ويلم فاندستنكر يحتاج إلى حراسة... هل يمكنني الذهاب؟ أردت أن أعرض عليه بعض ما أعمل عليه.",
+    "after": "مرحبا بوبي... سمعت أن ويلم فاندرستنك يحتاج إلى حراسة... هل يمكنني الذهاب؟ أردت أن أعرض عليه بعض ما أعمل عليه.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:Line:31285D393E524AD68A7157C5D7D430BE",
+    "en": "I'm a high ranking Vanderstenker. It would mean a lot.",
+    "before": "أنا فاندستنكر رفيع الرتبة. سيعني لي ذلك الكثير.",
+    "after": "أنا فاندرستنكر رفيع الرتبة. سيعني لي ذلك الكثير.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:Line:08CE6A6AB7084952A53C619571AD5327",
+    "en": "Mr. Vanderstenk is requesting a hero for a very important event.",
+    "before": "يطلب السيد فاندستنكر بطلا لحدث بالغ الأهمية.",
+    "after": "يطلب السيد فاندرستنك بطلا لحدث بالغ الأهمية.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:Line:4BF604FB840F49329973154625F0FDD8",
+    "en": "Vanderstenk thought I was threatening him when I started talking about how I used to eat people, but at least I got to talk to him! I am feeling kinda hungry though... Can I eat somebody? Maybe a cater-waiter or something?",
+    "before": "ظن فاندستنكر أنني أهدده حين بدأت الحديث عن أكلي للناس سابقا، لكنني تمكنت من محادثته على الأقل! أشعر بالجوع قليلا رغم ذلك... أيمكنني أكل أحد؟ ربما نادل ضيافة أو ما شابه؟",
+    "after": "ظن فاندرستنك أنني أهدده حين بدأت الحديث عن أكلي للناس سابقا، لكنني تمكنت من محادثته على الأقل! أشعر بالجوع قليلا رغم ذلك... أيمكنني أكل أحد؟ ربما نادل ضيافة أو ما شابه؟",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:Line:3DD123C1D98449FCB1AAE5C27853D633",
+    "en": "We're going to need you to protect Mr. Vanderstenk from the \"Vanderstenker\" fanclub.",
+    "before": "سنحتاجك لحماية السيد فاندستنكر من نادي معجبيه «الفاندستنكرز».",
+    "after": "سنحتاجك لحماية السيد فاندرستنك من نادي معجبيه «الفاندرستنكرز».",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:Line:1C39CF2DF1774421885B8E9A7C569A91",
+    "en": "Willem Vanderstenk. Certified genius. Literally. He has a certificate.",
+    "before": "ويلم فاندستنكر. عبقري معتمد. حرفيا. لديه شهادة.",
+    "after": "ويلم فاندرستنك. عبقري معتمد. حرفيا. لديه شهادة.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:LV_Shift02.Scenario_MES_SC_Others_Crypto:OutcomeText_1",
+    "en": "Vanderstenk: Guarded",
+    "before": "فاندستنكر: حرس",
+    "after": "فاندرستنك: حرس",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:LV_Shift02.Scenario_MES_SC_Others_Crypto:OutcomeText_2",
+    "en": "Vanderstenk: Swarmed",
+    "before": "فاندستنكر: حوصر بالمعجبين",
+    "after": "فاندرستنك: حوصر بالمعجبين",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:LV_Shift02.Scenario_MES_SC_Others_Crypto:OutcomeText_3",
+    "en": "Vanderstenk: Swarmed",
+    "before": "فاندستنكر: حوصر بالمعجبين",
+    "after": "فاندرستنك: حوصر بالمعجبين",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:LV_Shift02.Scenario_MES_SC_Others_Crypto:ScenarioBulletPoint_0",
+    "en": "• ^Guard^ Vanderstenk at his VAND-GO afterparty",
+    "before": "• ^احرس^ فاندستنكر في حفله اللاحق لافتتاح VAND-GO",
+    "after": "• ^احرس^ فاندرستنك في حفله اللاحق لافتتاح VAND-GO",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "102:LV_Shift02.Scenario_MES_SC_Sonar_CryptoConvention:ScenarioBulletPoint_0",
+    "en": "• Let Sonar meet his ^hero^, Willem Vanderstenk, and ^pitch him ideas^",
+    "before": "• دع سونار يقابل ^بطله^، ويلم فاندستنكر، و^يعرض أفكاره عليه^",
+    "after": "• دع سونار يقابل ^بطله^، ويلم فاندرستنك، و^يعرض أفكاره عليه^",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104::079FA7A740C0BB27D425FB8C8FCFBEEC",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104::2C27B6FE45E2C348DC82BCB02346D737",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104::5EDCC6AF4414E22C64EB689E30AD54AD",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104::9A07AC404FAEA7140F8F4C97233069F1",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104::DC4F5CF046FEC907A0A2C0B66DFAF0A3",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104::F8EF997C42796D4CD5D036BA32B1B088",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104:Line:5BD499718613404198C1F6DC8A440FB6",
+    "en": "Vanderstenk lives to innovate another day.",
+    "before": "عاش فاندرستينك ليبتكر يوما آخر.",
+    "after": "عاش فاندرستنك ليبتكر يوما آخر.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104:Line:044CDE8DCDA44E48922829DE419FD733",
+    "en": "We have reason to believe that Mr. Vanderstenk's life will be in danger at a meeting today.",
+    "before": "لدينا ما يدعو للاعتقاد بأن حياة السيد فاندرستينك مهددة في اجتماع اليوم.",
+    "after": "لدينا ما يدعو للاعتقاد بأن حياة السيد فاندرستنك مهددة في اجتماع اليوم.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104:LV_Shift04b.Scenario_SC_01_:VOTranscription",
+    "en": "\"We have reason to believe that Mr. Vanderstenk's life will be in danger at a meeting today.\"",
+    "before": "\"لدينا ما يدعو للاعتقاد بأن حياة السيد فاندرستينك مهددة في اجتماع اليوم.\"",
+    "after": "\"لدينا ما يدعو للاعتقاد بأن حياة السيد فاندرستنك مهددة في اجتماع اليوم.\"",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104:LV_Shift04b.Scenario_SC_01_:OutcomeText_2",
+    "en": "Vanderstenk: Down",
+    "before": "فاندرستينك: سقط",
+    "after": "فاندرستنك: سقط",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104:LV_Shift04b.Scenario_SC_01_:OutcomeText_3",
+    "en": "Vanderstenk: Down",
+    "before": "فاندرستينك: سقط",
+    "after": "فاندرستنك: سقط",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104:LV_Shift04b.Scenario_SC_01_:OutcomeText_1",
+    "en": "Vanderstenk: Saved",
+    "before": "فاندرستينك: أنقذ",
+    "after": "فاندرستنك: أنقذ",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "104:LV_Shift04b.Scenario_SC_01_:ScenarioBulletPoint_1",
+    "en": "• ^Protect^ Willem Vanderstenk and any others in harm's way",
+    "before": "• ^احم^ ويليم فاندرستينك وكل من يواجه خطرا",
+    "after": "• ^احم^ ويلم فاندرستنك وكل من يواجه خطرا",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "105:Line:41C5944545434B51A460F6EFB7A039EE",
+    "en": "I feel like Vanderstenk is one divorce away from starting a full on robot uprising.",
+    "before": "أشعر أن طلاقا آخر واحدا سيدفع فاندرستينك لإطلاق ثورة آلية شاملة.",
+    "after": "أشعر أن طلاقا آخر واحدا سيدفع فاندرستنك لإطلاق ثورة آلية شاملة.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "105:Line:5AC3BA48D5724D0EBE976C78CD1D6A49",
+    "en": "Mr. Vanderstenk has requested a rescue. VAND-GO workers are trapped after a tunnel collapse at the new station. Get them out safely.. and discreetly.",
+    "before": "طلب السيد فاندرستينك الإنقاذ. عمال فاند-غو محاصرون بانهيار نفق المحطة الجديدة. أخرجوهم بأمان... وبسرية.",
+    "after": "طلب السيد فاندرستنك الإنقاذ. عمال فاند-غو محاصرون بانهيار نفق المحطة الجديدة. أخرجوهم بأمان... وبسرية.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "105:Line:0A10910C7D5F48C8B2C2652D53DC1926",
+    "en": "Vanderstenk is really disrupting the emergency industry.",
+    "before": "فاندرستينك يحدث ثورة في قطاع الطوارئ حقا.",
+    "after": "فاندرستنك يحدث ثورة في قطاع الطوارئ حقا.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106::531F3456425CCF34EB12F1BF181042EC",
+    "en": "\"Mr. Vanderstenk's line of delivery bots appear to have gained sentience and are attacking the city.\"",
+    "before": "\"يبدو أن روبوتات التوصيل للسيد فاندرستينك اكتسبت وعيا وتهاجم المدينة.\"",
+    "after": "\"يبدو أن روبوتات التوصيل للسيد فاندرستنك اكتسبت وعيا وتهاجم المدينة.\"",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106::32438CB943E2830F8E35E9BB38F5E826",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106:Line:31F8AD34058F4E0CA4C012ECDAF4F873",
+    "en": "Finally, I was beginning to believe Vanderstenk's wife lacked both taste and sense.",
+    "before": "أخيرا، بدأت أظن أن زوجة فاندرستينك تفتقر للذوق والعقل معا.",
+    "after": "أخيرا، بدأت أظن أن زوجة فاندرستنك تفتقر للذوق والعقل معا.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106:Line:382838CD92174DFB97DEA2A49C323B03",
+    "en": "Mr. Vanderstenk is requesting assistance. His line of delivery bots appear to have gained sentience and are attacking the city.",
+    "before": "يطلب السيد فاندرستينك المساعدة. يبدو أن روبوتات توصيله اكتسبت وعيا وتهاجم المدينة.",
+    "after": "يطلب السيد فاندرستنك المساعدة. يبدو أن روبوتات توصيله اكتسبت وعيا وتهاجم المدينة.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106:Line:32DA38BCAFC14209A5CA22C81F362984",
+    "en": "Vanderstenk wants them destroyed but... I think there's a way to reprogram them.",
+    "before": "يريد فاندرستينك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.",
+    "after": "يريد فاندرستنك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106:Line:2B2715DBDFCF4BF59BE4D7F87A84B5CA",
+    "en": "Woah, did you guys hear Vanderstenk and his wife got divorced?",
+    "before": "هل سمعتم بطلاق فاندرستينك وزوجته؟",
+    "after": "هل سمعتم بطلاق فاندرستنك وزوجته؟",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106:LV_Shift06.Scenario_SC_07_c:VOTranscription",
+    "en": "\"Vanderstenk wants them destroyed but... I think there's a way to reprogram them.\"",
+    "before": "\"يريد فاندرستينك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.\"",
+    "after": "\"يريد فاندرستنك تدميرها، لكن... أظن هناك طريقة لإعادة برمجتها.\"",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "106:LV_Shift06.Scenario_SC_07_c:OutcomeText_2",
+    "en": "Vanderstenk: Missing",
+    "before": "فاندرستينك: مفقود",
+    "after": "فاندرستنك: مفقود",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "107::DFA74CDE42C1EEBCB1E60D8BEAC8A00F",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "107::E0FA1EAE4F9C4CCF14D52C90C2FDA88A",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108::41018F104D0AD9F3A7502098DEEF80EB",
+    "en": "\"Vanderstenk's girlfriend is demanding a coffee from Santa Monica be brought to VANDCO.\"",
+    "before": "\"تطالب حبيبة فاندرستينك بإحضار قهوة من سانتا مونيكا إلى VANDCO.\"",
+    "after": "\"تطالب حبيبة فاندرستنك بإحضار قهوة من سانتا مونيكا إلى VANDCO.\"",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108::0B306F864F91917DD339AF92EEEFE48C",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108::23F55C6A4D18EB4AC6E624B4FA1C2F6D",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108::2D0F85A44AEA92E5193D81B40D566B58",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108::36C2D6644CE52A9A599186BCF4827176",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108::B2F152904D8ED1AB45D151BC5D245AF9",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108::FED26FF1468A445FAA1A139F5DA155A9",
+    "en": "Galen",
+    "before": "غالين",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108:Line:2002778CD6DA405482A1A8532E5485DC",
+    "en": "Although I understand there are... higher priorities for SDN at this moment, Vanderstenk's girlfriend is demanding a coffee from Santa Monica be brought to VANDCO.",
+    "before": "مع أنني أدرك أن لدى SDN... أولويات أهم الآن، تطالب حبيبة فاندرستينك بإحضار قهوة من سانتا مونيكا إلى VANDCO.",
+    "after": "مع أنني أدرك أن لدى SDN... أولويات أهم الآن، تطالب حبيبة فاندرستنك بإحضار قهوة من سانتا مونيكا إلى VANDCO.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108:Line:5088A7F280AB4DE58C5C71F380C6EB91",
+    "en": "Great. Galen?",
+    "before": "رائع. غالين؟",
+    "after": "رائع. غايلن؟",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108:Line:5BE7D47CF27245D3851A86965B10E0C2",
+    "en": "Holy shit that’s a lot of money. |Look, doesn’t matter, Galen? Can you just help him get into the hero pool.",
+    "before": "يا للهول، هذا مال كثير. |اسمع، لا يهم، غالين؟ هل تساعده على دخول قائمة الأبطال؟",
+    "after": "يا للهول، هذا مال كثير. |اسمع، لا يهم، غايلن؟ هل تساعده على دخول قائمة الأبطال؟",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "108:LV_Shift08b.Scenario_SC_16:ScenarioBulletPoint_0",
+    "en": "• ^Deliver^ a large iced matcha green tea latte with oat milk, 2 pumps vanilla syrup, 1 pump white mocha sauce, strawberry puree, topped with caramel drizzle, light ice for Vanderstenk's girlfriend",
+    "before": "• ^أوصل^ لاتيه شاي أخضر ماتشا مثلجًا كبيرًا بحليب الشوفان و2 ضغطة من شراب الفانيلا و1 ضغطة من صلصة الموكا البيضاء وهريس الفراولة ورشة كراميل وثلج خفيف، لحبيبة فاندرستينك",
+    "after": "• ^أوصل^ لاتيه شاي أخضر ماتشا مثلجًا كبيرًا بحليب الشوفان و2 ضغطة من شراب الفانيلا و1 ضغطة من صلصة الموكا البيضاء وهريس الفراولة ورشة كراميل وثلج خفيف، لحبيبة فاندرستنك",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "Shared::07D17C684D21EA852BA6918F4E4EB7F2",
+    "en": "Galen",
+    "before": "غالن",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "Shared::4C121314462B938F03C45A984AC38E4E",
+    "en": "Lightningstruck Strikes Again",
+    "before": "لايتنينغستراك يضرب مجددًا",
+    "after": "لايتنينغسترك يضرب مجددًا",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "Shared:AdHocStory.Characters:Galen",
+    "en": "Galen",
+    "before": "غالن",
+    "after": "غايلن",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "Shared:Line:1CA4F8FDB72241F98EA4895EE63F961F",
+    "en": "Hey... it's me again, Galen. Blazer told me to show you the ropes so here we are.",
+    "before": "مرحبًا... أنا مجددًا، غالن. طلبت مني بليزر أن أعلّمك أصول العمل، لذا ها نحن ذا.",
+    "after": "مرحبًا... أنا مجددًا، غايلن. طلبت مني بليزر أن أعلّمك أصول العمل، لذا ها نحن ذا.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "Shared:Line:23BF17FBB9434FF58C15DAE550476E3F",
+    "en": "See Galen? I <Italic>can</> remember.",
+    "before": "أرأيت يا غالن؟ أنا <Italic>أستطيع</> التذكر.",
+    "after": "أرأيت يا غايلن؟ أنا <Italic>أستطيع</> التذكر.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "Shared:Line:4B70554CF3864FBFAAC5026CDBE6188D",
+    "en": "Shit, Galen's gonna be pissed. Gotta go to the database.",
+    "before": "تبًا، سيغضب غالن. عليّ الذهاب إلى قاعدة البيانات.",
+    "after": "تبًا، سيغضب غايلن. عليّ الذهاب إلى قاعدة البيانات.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  },
+  {
+    "id": "Shared:TutorialText:FirstTutorial_1",
+    "en": "Hey... it's me again, Galen. Blazer told me to show you the ropes so here we are.",
+    "before": "مرحبًا... أنا مجددًا، غالن. طلبت مني بليزر أن أعلّمك أصول العمل، لذا ها نحن ذا.",
+    "after": "مرحبًا... أنا مجددًا، غايلن. طلبت مني بليزر أن أعلّمك أصول العمل، لذا ها نحن ذا.",
+    "reason": "Canonical proper-name spelling; contextual fan-club suffix retained."
+  }
+]

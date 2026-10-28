@@ -1,0 +1,6 @@
+[2026.10.24-22.31.53:123][  0]LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 345 (34500.00%)
+[2026.10.24-22.31.53:123][  0]LogShaderLibrary: Display: Total Shaders: 3940, Unique Shaders: 3926 (99.64%)
+[2026.10.24-22.32.03:158][  0]LogShaderLibrary: Display: Assets: 102, Unique Shadermaps: 101 (99.02%)
+[2026.10.24-22.32.03:158][  0]LogShaderLibrary: Display: Total Shaders: 1878, Unique Shaders: 1259 (67.04%)
+[2026.10.24-22.32.03:167][  0]LogCook: Display: Packages Cooked: 503, Packages Incrementally Skipped: 0, Packages Skipped by Platform: 7, Total Packages: 510
+[2026.10.24-22.32.03:174][  0]LogInit: Display: Success - 0 error(s), 1 warning(s)

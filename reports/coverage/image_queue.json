@@ -1,0 +1,3145 @@
+{
+ "label": "Production queue, round 008 - static; no image redrawn; delivery needs a 4.27-compatible cooked-texture writer and the L10N/ar AssetRegistry change (round 006)",
+ "count": 180,
+ "by_priority": {
+  "P1": 2,
+  "P2": 8,
+  "P3": 3,
+  "P4": 61,
+  "P5": 106
+ },
+ "queue": [
+  {
+   "priority": "P1",
+   "visibility": "gameplay: cinematics in Chaotic censorship mode",
+   "asset": "Dispatch/Plugins/AdHocPlugin/Content/Story/MediaPlayer/ChaoticCensorTextures/T_ChaoticCensor_SDN-Restricted_01.uasset",
+   "format": "PF_DXT5",
+   "width": 1024,
+   "height": 1024,
+   "power_of_two": true,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT5/BC3)",
+    "MATERIAL_DEPENDENCY_UNKNOWN (MediaPlayer folder; referencers not inspected)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "RESTRICTED",
+    "Please contact your supervisor"
+   ]
+  },
+  {
+   "priority": "P1",
+   "visibility": "gameplay: cinematics in Chaotic censorship mode",
+   "asset": "Dispatch/Plugins/AdHocPlugin/Content/Story/MediaPlayer/ChaoticCensorTextures/T_ChaoticCensor_SDN-Restricted_02.uasset",
+   "format": "PF_DXT5",
+   "width": 1024,
+   "height": 1024,
+   "power_of_two": true,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT5/BC3)",
+    "MATERIAL_DEPENDENCY_UNKNOWN (MediaPlayer folder; referencers not inspected)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "RESTRICTED",
+    "Please contact your",
+    "supervisor"
+   ]
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Coupe.uasset",
+   "format": "PF_BC7",
+   "width": 1024,
+   "height": 432,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Flambae.uasset",
+   "format": "PF_BC7",
+   "width": 1024,
+   "height": 432,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Golem.uasset",
+   "format": "PF_BC7",
+   "width": 1024,
+   "height": 432,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Invisigal.uasset",
+   "format": "PF_BC7",
+   "width": 1024,
+   "height": 432,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Malevola.uasset",
+   "format": "PF_BC7",
+   "width": 2560,
+   "height": 1080,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "[UNAVAILABLE]"
+   ]
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Prism.uasset",
+   "format": "PF_BC7",
+   "width": 1024,
+   "height": 432,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Punch-Up.uasset",
+   "format": "PF_BC7",
+   "width": 1024,
+   "height": 432,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P2",
+   "visibility": "gameplay: hero database",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/Heroes/Dossier_StillFrame/T_UI_Dossier_Still_Sonar.uasset",
+   "format": "PF_BC7",
+   "width": 1024,
+   "height": 432,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "SPECIAL_COMPRESSION (BC7 encode)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P3",
+   "visibility": "tutorial popups (usage unverified, \"Temp\" folder)",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/TutorialTempImages/T_UI_TutorialTemp_Alert.uasset",
+   "format": "PF_DXT1",
+   "width": 1920,
+   "height": 1080,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P3",
+   "visibility": "tutorial popups (usage unverified, \"Temp\" folder)",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/TutorialTempImages/T_UI_TutorialTemp_Dispatch.uasset",
+   "format": "PF_DXT1",
+   "width": 1920,
+   "height": 1080,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "AUDIO LOG",
+    "DETAILS",
+    "PERSONALSECURITY",
+    "tunch with the Governor of"
+   ]
+  },
+  {
+   "priority": "P3",
+   "visibility": "tutorial popups (usage unverified, \"Temp\" folder)",
+   "asset": "Dispatch/Content/Shared/Shifts/Art/UI/T_UI/TutorialTempImages/T_UI_TutorialTemp_Upgrade.uasset",
+   "format": "PF_DXT1",
+   "width": 1920,
+   "height": 1080,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "HEROES",
+    "ASSIGN"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/Assets/Textures/T_ExtrasMenu_ComicsCover.uasset",
+   "format": "PF_B8G8R8A8",
+   "width": 1421,
+   "height": 1538,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (uncompressed BGRA8)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "OCT",
+    "ADHOC",
+    "STUDIO",
+    "SONRR HNO MRLEUO"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/Assets/Textures/T_UI_Comics_0000_Splash+TheLastBender.uasset",
+   "format": "PF_DXT1",
+   "width": 860,
+   "height": 1320,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/Assets/Textures/T_UI_Comics_0001_PasDeDeux+ShellShock.uasset",
+   "format": "PF_DXT1",
+   "width": 860,
+   "height": 1320,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "OCT"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/Assets/Textures/T_UI_Comics_0002_GetUp.uasset",
+   "format": "PF_DXT1",
+   "width": 860,
+   "height": 1320,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "ADHOC",
+    "STUDIO",
+    "NOV"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Content/Shared/Menu/Widgets/ExtrasMenu/Assets/Textures/T_UI_Comics_0003_DeathofMechaMan.uasset",
+   "format": "PF_DXT1",
+   "width": 860,
+   "height": 1320,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "OISPATOH",
+    "ADHOC",
+    "STUDIO",
+    "NOV"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Cover.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "ADHOC"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg01_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "HAHHAA"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg02_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "SPLASH"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg03_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg04_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg05_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_Pg06_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/Splash/T_01a_Splash_credits.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_LastBender_Cover.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "ADHOC",
+    "STUDIO"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_LastBender_credits.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_TheLastBender_p01_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_TheLastBender_p02_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_TheLastBender_p03_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_TheLastBender_p04_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Comic/TheLastBender/T_01B_TheLastBender_p05_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg01.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "ASANASS"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg02.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "SMRLE GTN.",
+    "SEEN.",
+    "YOUREERE",
+    "SUPPOSE"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg03.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg04.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg05.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_Pg06.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_02a_PasDeDeux_credits_03.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/PasDeDeux/T_2a_PasDeDuex_Cover.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "ADHOC"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_ShellShock_Pg01.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_ShellShock_Pg02.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_ShellShock_Pg03.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_ShellShock_Pg04.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_ShellShock_Pg05.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_Shellshock_Cover.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "ADHOC",
+    "STUDIO"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Comic/Shellshock/T_02b_Shellshock_credits.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Cover.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "ADHOC",
+    "NOV"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg01_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "YOUREALY",
+    "SANPEDRO.CALIFORNIA.-IOOO",
+    "SIOIN/P TO HM",
+    "FORWEDKSTO8E"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg02_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "KDSNTHERE",
+    "OEESE ON THE",
+    "YLAH",
+    "YOJSOULDLET THE"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg03_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg04_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg05_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg06_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg07_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg08_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg09_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg10_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_Pg11_Master_V1.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Comic/GetUp/T_03_GetUp_credits.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg01_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "CANCELED",
+    "YOU",
+    "THE VOTE7",
+    "FUCKED UP,ROBBE,"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg02_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "CCNTBEA",
+    "CHALLENGE",
+    "FUCKNS",
+    "THE FUCKS"
+   ]
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg03_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg04_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg05_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg06_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg07_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg08_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg09_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg10_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_Pg11_Master.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMM_credits.uasset",
+   "format": "PF_DXT1",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P4",
+   "visibility": "extras menu: comics (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Comics/DeathOfMechaman/T_04_DeathOfMechaman_Cover.uasset",
+   "format": "PF_DXT5",
+   "width": 4124,
+   "height": 6300,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT5/BC3)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "DISPATCH",
+    "ADHOC",
+    "NOV"
+   ]
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-1.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-10.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-11.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-12.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-13.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-14.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-15.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-16.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-17.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-18.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-19.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-2.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-20.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-21.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-22.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-23.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-24.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-25.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-3.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-4.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-5.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-6.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-7.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-8.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp102/Content/Extras/Artbook/Chapter1/T_DispatchArtBook-Ch1-9.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-1.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-10.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-11.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-12.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-13.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-14.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-15.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-16.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-17.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-18.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-19.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-2.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-20.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-21.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-22.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-23.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-24.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-25.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-3.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-4.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-5.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-6.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-7.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-8.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp104/Content/Extras/Artbook/Chapter2/T_DispatchArtBook-Ch2-9.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-1.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-10.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-11.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-12.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-13.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-14.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-15.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-16.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-17.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-18.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-19.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-2.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-20.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-21.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-22.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-23.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-24.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-25.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-26.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-3.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-4.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-5.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-6.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-7.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-8.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp106/Content/Extras/Artbook/Chapter3/T_DispatchArtBook-Ch3-9.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-1.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-10.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-11.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-12.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-13.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-14.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-15.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-16.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-17.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-18.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-19.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-2.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-20.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-21.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-22.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-23.uasset",
+   "format": "PF_DXT1",
+   "width": 2560,
+   "height": 1440,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-24.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-25.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-26.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-27.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-28.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-3.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-4.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-5.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-6.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-7.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-8.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchEp108/Content/Extras/Artbook/Chapter4/T_DispatchArtBook-Ch4-9.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": []
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchSpecialEditionUncensored/Content/T_DispatchArtBook-Ch2-15-UNCENSORED.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "IFYOU",
+    "DO NOT HAVE",
+    "SUPERPOWERS.",
+    "YOU NEEDA"
+   ]
+  },
+  {
+   "priority": "P5",
+   "visibility": "extras menu: artbook (Deluxe)",
+   "asset": "Dispatch/Plugins/DispatchSpecialEditionUncensored/Content/T_DispatchArtBook-Ch4-9-UNCENSORED.uasset",
+   "format": "PF_DXT1",
+   "width": 6668,
+   "height": 3752,
+   "power_of_two": false,
+   "ubulk_in_pak": false,
+   "mechanism": [
+    "NORMAL_COOKED_TEXTURE (DXT1/BC1, no alpha)",
+    "NON_POWER_OF_TWO (keep dims; no streaming)",
+    "LARGE (>8 MP)"
+   ],
+   "atlas": "none identified",
+   "ocr_sample": [
+    "and has a neal shit attitude to",
+    "T0xoC is made of tcoxic sludpe",
+    "THUMBSTICK doesnTt get",
+    "match. When he transforms, his"
+   ]
+  }
+ ]
+}

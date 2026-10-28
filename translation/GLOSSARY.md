@@ -1,0 +1,187 @@
+# Dispatch Arabic glossary
+
+Canonical names and recurring terms. JSON is the machine-readable reference.
+
+| English | Arabic |
+|---|---|
+| Dispatch | Dispatch |
+| dispatch (verb) | إرسال |
+| dispatcher | منسق العمليات |
+| Robert | روبرت |
+| Robert Robertson | روبرت روبرتسون |
+| Robertson | روبرتسون |
+| Mecha Man | ميكا مان |
+| Mecha Man System | نظام ميكا مان |
+| Blonde Blazer | بلوند بليزر |
+| Invisigal | إنفيزيغال |
+| Chase | تشيس |
+| Shroud | شراود |
+| Flambae | فلامباي |
+| Sonar | سونار |
+| Punch Up | بانش أب |
+| PunchUp | بانش أب |
+| Golem | غولم |
+| Malevola | ماليفولا |
+| Prism | بريزم |
+| Coupé | كوبيه |
+| Coupe | كوبيه |
+| Waterboy | ووتربوي |
+| Phenomaman | فينومامان |
+| Phanomaman | فينومامان |
+| Royd | رويد |
+| Beef | بيف |
+| Mandy | ماندي |
+| Astral | أسترال |
+| Prime | برايم |
+| Brave Brigade | لواء الشجعان |
+| Phoenix Program | برنامج العنقاء |
+| Z-Team | فريق Z |
+| Z Team | فريق Z |
+| SDN | SDN |
+| Superhero Dispatch Network | شبكة تنسيق الأبطال الخارقين |
+| Los Angeles | لوس أنجلوس |
+| Torrance | تورانس |
+| HQ | المقر |
+| hero | بطل |
+| villain | شرير |
+| shift | مناوبة |
+| scenario | بلاغ |
+| synergy | انسجام |
+| combat | قتال |
+| vigor | حيوية |
+| mobility | حركة |
+| charisma | جاذبية |
+| intellect | ذكاء |
+| XP | XP |
+| HP | HP |
+| Red Ring | الحلقة الحمراء |
+| Bone Zone | بون زون |
+| Up-Chuck | أب تشاك |
+| Brainbook | برينبوك |
+| Brickhouse | بريكهاوس |
+| Batboy Conman | المحتال الخفاش |
+| Bat Shit | ذرق الخفافيش |
+| Blazer | بليزر |
+| Amy | إيمي |
+| Anastasiia | أناستاسيا |
+| Andrew | أندرو |
+| Anonymous | مجهول |
+| Ari | آري |
+| Ashley | آشلي |
+| Ashley Rhiness | آشلي راينس |
+| Austen | أوستن |
+| Blob Goon | بلطجي هلامي |
+| Bouncer | حارس الباب |
+| Braindead | برينديد |
+| Brainteaser | برينتيزر |
+| Brenda | بريندا |
+| Brian | برايان |
+| Brina | برينا |
+| Brittany | بريتاني |
+| Bryden | برايدن |
+| Cecil | سيسيل |
+| Charles | تشارلز |
+| Charles Kingsley | تشارلز كينغسلي |
+| Chief | الرئيس |
+| Chris Stratton | كريس ستراتون |
+| Curator | القيّم |
+| Damian | داميان |
+| Dan | دان |
+| Darts Guy | رجل السهام |
+| Donna | دونا |
+| Edna | إدنا |
+| Equilibrium | إيكويليبريوم |
+| Francis | فرانسيس |
+| Frenchpress | فرينش بريس |
+| Galen | غايلن |
+| Gena | جينا |
+| Gerald | جيرالد |
+| Geraldine | جيرالدين |
+| Grace | غريس |
+| Grant | غرانت |
+| Green Ski | ذو قناع التزلج الأخضر |
+| Hannah | هانا |
+| Helena | هيلينا |
+| Holding Cell | زنزانة الحجز |
+| Hunter | هانتر |
+| Ida | آيدا |
+| Iliya | إيليا |
+| James | جيمس |
+| Jerry | جيري |
+| Joe | جو |
+| John | جون |
+| Jordan | جوردان |
+| Josie | جوزي |
+| Karen | كارين |
+| Kevin | كيفن |
+| Kiera | كيرا |
+| Kim | كيم |
+| Lillian | ليليان |
+| Lucas | لوكاس |
+| Mac | ماك |
+| Maria | ماريا |
+| Marshall | مارشال |
+| Mayumi | مايومي |
+| Mia | ميا |
+| Mo | مو |
+| Molly | مولي |
+| Mr Yao | السيد ياو |
+| Natalie | ناتالي |
+| Naysha | نايشا |
+| News Anchor | مذيع الأخبار |
+| Nurse | الممرضة |
+| Officer | الشرطي |
+| Ohara | أوهارا |
+| On Scene Reporter | المراسل الميداني |
+| Orange Ski | ذو قناع التزلج البرتقالي |
+| Other Darts Guy | رجل السهام الآخر |
+| Person On The Street | أحد المارة |
+| Petunia | بيتونيا |
+| Pilot | الطيار |
+| Pom Pom | بوم بوم |
+| Principal Khan | المدير خان |
+| Ramirez | راميريز |
+| Randy | راندي |
+| Ranger | رينجر |
+| Ray | راي |
+| Rebecca | ريبيكا |
+| Red Ski | ذو قناع التزلج الأحمر |
+| Reporter A | المراسل أ |
+| Reporter B | المراسل ب |
+| Reporter C | المراسل ج |
+| Reporter D | المراسل د |
+| Reporter E | المراسل هـ |
+| Ricardo | ريكاردو |
+| Ricky | ريكي |
+| Ronaldo | رونالدو |
+| Ronda | روندا |
+| Rory | روري |
+| Security | الأمن |
+| Sergei | سيرغي |
+| Sfx | مؤثرات صوتية |
+| Soothing Goon | بلطجي هادئ |
+| Soothing Voice | صوت هادئ |
+| Suzee | سوزي |
+| Sweetalker | سويت توكر |
+| Sylvia | سيلفيا |
+| Tay | تاي |
+| Taylor | تايلور |
+| Terrence | تيرنس |
+| Tina | تينا |
+| Toxic | توكسيك |
+| Waitress | النادلة |
+| Wally | والي |
+| Wormheart | وورمهارت |
+| Youtopia | يوتوبيا |
+| Granny | غراني |
+| Willem | ويلم |
+| Lightningstruck | لايتنينغسترك |
+| Vanderstenk | فاندرستنك |
+| Vanderstenker | فاندرستنكر |
+| Vanderstenkers | فاندرستنكرز |
+| Astral Pulse | النبضة النجمية |
+| Proto Pulse | النبضة الأولية |
+| avatar (hacking) | أفاتار |
+| The Sardine (bar) | حانة السردين |
+| Invisibitch | إنفيزيحقيرة |
+| Coop (nickname of Coupe) | كوب |

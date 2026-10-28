@@ -1,0 +1,2279 @@
+[
+  {
+    "alias": "proto_package_registration",
+    "symbol_name_recovered": false,
+    "rva": "0x9a6460",
+    "file_offset": "0x9a5a60",
+    "approximate_end_rva_exclusive": "0x9a648f",
+    "span_sha256": "ec3939927ef852bcce9ed43372d2d07bbf80d4642a14128548e30dafd39abbf8",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a6460",
+        "end_rva": "0x9a648f"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a647e",
+        "operand": "0x14114fef0",
+        "target_rva": "0x114fef0"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cb408",
+      "0x31cb6c8",
+      "0x31cb920",
+      "0x31cc540",
+      "0x31ccdf8",
+      "0x400b050",
+      "0x400b0a0",
+      "0x400b0f0",
+      "0x400b140",
+      "0x400b190",
+      "0x400b1e0",
+      "0x400b230",
+      "0x400b280",
+      "0x400b2d0",
+      "0x400b320",
+      "0x400b370",
+      "0x400b3b0",
+      "0x400b810",
+      "0x400b880",
+      "0x400b8d0",
+      "0x400b920",
+      "0x400b970",
+      "0x400bb70",
+      "0x400bbc0"
+    ],
+    "important_incoming_xrefs": [],
+    "purpose": "proto package registration",
+    "related_fields": []
+  },
+  {
+    "alias": "style_struct_registration",
+    "symbol_name_recovered": false,
+    "rva": "0x9a7460",
+    "file_offset": "0x9a6a60",
+    "approximate_end_rva_exclusive": "0x9a748f",
+    "span_sha256": "2e3a8251eeec0a21b5f2e464f91366deed7eb5274ed75077ccc22eb23fd05166",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a7460",
+        "end_rva": "0x9a748f"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a747e",
+        "operand": "0x141150000",
+        "target_rva": "0x1150000"
+      }
+    ],
+    "incoming_pointer_references": [],
+    "important_incoming_xrefs": [],
+    "purpose": "style struct registration",
+    "related_fields": []
+  },
+  {
+    "alias": "style_struct_ops",
+    "symbol_name_recovered": false,
+    "rva": "0x9a65c0",
+    "file_offset": "0x9a5bc0",
+    "approximate_end_rva_exclusive": "0x9a65f5",
+    "span_sha256": "e2129fe6a5248a6e46eb0d2071c2b08ac2080f712beeed53943557eaa392958f",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a65c0",
+        "end_rva": "0x9a65f5"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a65c9",
+        "operand": "0x140dcceb0",
+        "target_rva": "0xdcceb0"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x400b3c0"
+    ],
+    "important_incoming_xrefs": [],
+    "purpose": "style struct ops",
+    "related_fields": []
+  },
+  {
+    "alias": "block_class_registration",
+    "symbol_name_recovered": false,
+    "rva": "0x9a61c0",
+    "file_offset": "0x9a57c0",
+    "approximate_end_rva_exclusive": "0x9a6272",
+    "span_sha256": "9212f62118fbcaedc125f9ff5686c0f90a8ce1a05ac6900be65a32e686991381",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a61c0",
+        "end_rva": "0x9a6272"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a625e",
+        "operand": "0x140fe07b0",
+        "target_rva": "0xfe07b0"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31ccb60"
+    ],
+    "important_incoming_xrefs": [],
+    "purpose": "block class registration",
+    "related_fields": []
+  },
+  {
+    "alias": "block_constructor",
+    "symbol_name_recovered": false,
+    "rva": "0x99bbc0",
+    "file_offset": "0x99b1c0",
+    "approximate_end_rva_exclusive": "0x99bdc1",
+    "span_sha256": "b43caf132e8305d50f60b9e9478ad1d75d4e694ad3ccbf0b44949bb9dc4c2ccb",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x99bbc0",
+        "end_rva": "0x99bdc1"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x99bbcd",
+        "operand": "0x141e86030",
+        "target_rva": "0x1e86030"
+      },
+      {
+        "rva": "0x99bbd9",
+        "operand": "0x142730130",
+        "target_rva": "0x2730130"
+      },
+      {
+        "rva": "0x99bcf7",
+        "operand": "0x140e744c0",
+        "target_rva": "0xe744c0"
+      }
+    ],
+    "incoming_pointer_references": [],
+    "important_incoming_xrefs": [],
+    "purpose": "block constructor",
+    "related_fields": []
+  },
+  {
+    "alias": "char_decorator_class_registration",
+    "symbol_name_recovered": false,
+    "rva": "0x9a6630",
+    "file_offset": "0x9a5c30",
+    "approximate_end_rva_exclusive": "0x9a66e2",
+    "span_sha256": "14529b7f251f12dc54f87c16576b0ad15d35dc8e4d9e469389d9823d4cd7b9e9",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a6630",
+        "end_rva": "0x9a66e2"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a66ce",
+        "operand": "0x140fe07b0",
+        "target_rva": "0xfe07b0"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cce10"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "direct_call",
+        "from_alias": "rebuild_widget",
+        "rva": "0x9a494a",
+        "file_offset": "0x9a3f4a",
+        "target_rva": "0x9a6630",
+        "evidence": "CONFIRMED_FROM_BINARY"
+      }
+    ],
+    "purpose": "char decorator class registration",
+    "related_fields": []
+  },
+  {
+    "alias": "char_decorator_object_constructor",
+    "symbol_name_recovered": false,
+    "rva": "0x9a6960",
+    "file_offset": "0x9a5f60",
+    "approximate_end_rva_exclusive": "0x9a6989",
+    "span_sha256": "ffb704f41da6e507e121ba34b2e2a89723fcb8eae07df2e3fcace956da29e2f4",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a6960",
+        "end_rva": "0x9a6989"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a6974",
+        "operand": "0x141e86100",
+        "target_rva": "0x1e86100"
+      }
+    ],
+    "incoming_pointer_references": [],
+    "important_incoming_xrefs": [],
+    "purpose": "char decorator object constructor",
+    "related_fields": []
+  },
+  {
+    "alias": "char_decorator_factory",
+    "symbol_name_recovered": false,
+    "rva": "0x99e9f0",
+    "file_offset": "0x99dff0",
+    "approximate_end_rva_exclusive": "0x99ebb9",
+    "span_sha256": "5f9147b65fc0553f4fd61c65729eb85333ee048f62714171c0d49ddf1a44d8ef",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x99e9f0",
+        "end_rva": "0x99ebb9"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x99ea10",
+        "operand": "0x141ead050",
+        "target_rva": "0x1ead050"
+      },
+      {
+        "rva": "0x99ea6e",
+        "operand": "0x141ead050",
+        "target_rva": "0x1ead050"
+      },
+      {
+        "rva": "0x99ea8f",
+        "operand": "0x140dcceb0",
+        "target_rva": "0xdcceb0"
+      },
+      {
+        "rva": "0x99eb15",
+        "operand": "0x14116dea0",
+        "target_rva": "0x116dea0"
+      },
+      {
+        "rva": "0x99eb37",
+        "operand": "0x140dcceb0",
+        "target_rva": "0xdcceb0"
+      },
+      {
+        "rva": "0x99eb72",
+        "operand": "0x1407716f0",
+        "target_rva": "0x7716f0"
+      },
+      {
+        "rva": "0x99eb88",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99eb9b",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cd6a0"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "char decorator factory slot 0x270",
+        "rva": "0x31cd6a0",
+        "file_offset": "0x31cbea0",
+        "target_rva": "0x99e9f0",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "char decorator factory",
+    "related_fields": []
+  },
+  {
+    "alias": "char_decorator_create_run",
+    "symbol_name_recovered": false,
+    "rva": "0x99e130",
+    "file_offset": "0x99d730",
+    "approximate_end_rva_exclusive": "0x99e8cc",
+    "span_sha256": "275d839c7a60ed96b8e9b7d2e3321a573e0a788324575a2b21fd2a10954e0e10",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x99e130",
+        "end_rva": "0x99e8cc"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x99e197",
+        "operand": "0x14076d360",
+        "target_rva": "0x76d360"
+      },
+      {
+        "rva": "0x99e23f",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e49e",
+        "operand": "0x14077bae0",
+        "target_rva": "0x77bae0"
+      },
+      {
+        "rva": "0x99e4c4",
+        "operand": "0x14077b5f0",
+        "target_rva": "0x77b5f0"
+      },
+      {
+        "rva": "0x99e4e3",
+        "operand": "0x140e31ce0",
+        "target_rva": "0xe31ce0"
+      },
+      {
+        "rva": "0x99e503",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e553",
+        "operand": "0x1407832c0",
+        "target_rva": "0x7832c0"
+      },
+      {
+        "rva": "0x99e562",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e573",
+        "operand": "0x1407725c0",
+        "target_rva": "0x7725c0"
+      },
+      {
+        "rva": "0x99e63f",
+        "operand": "0x14077bae0",
+        "target_rva": "0x77bae0"
+      },
+      {
+        "rva": "0x99e663",
+        "operand": "0x14077b5f0",
+        "target_rva": "0x77b5f0"
+      },
+      {
+        "rva": "0x99e67d",
+        "operand": "0x140e31ce0",
+        "target_rva": "0xe31ce0"
+      },
+      {
+        "rva": "0x99e69d",
+        "operand": "0x140e0af70",
+        "target_rva": "0xe0af70"
+      },
+      {
+        "rva": "0x99e6aa",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e6f9",
+        "operand": "0x14099ef30",
+        "target_rva": "0x99ef30"
+      },
+      {
+        "rva": "0x99e71f",
+        "operand": "0x14099d0e0",
+        "target_rva": "0x99d0e0"
+      },
+      {
+        "rva": "0x99e748",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e75b",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e762",
+        "operand": "0x140791c80",
+        "target_rva": "0x791c80"
+      },
+      {
+        "rva": "0x99e77d",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e790",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e7b6",
+        "operand": "0x14077b570",
+        "target_rva": "0x77b570"
+      },
+      {
+        "rva": "0x99e7fc",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e80f",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e81e",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e831",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99e859",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e867",
+        "operand": "0x1407acec0",
+        "target_rva": "0x7acec0"
+      },
+      {
+        "rva": "0x99e878",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e889",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e89a",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x99e8ac",
+        "operand": "0x143059950",
+        "target_rva": "0x3059950"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31caff0"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "decorator create-run slot 0x10",
+        "rva": "0x31caff0",
+        "file_offset": "0x31c97f0",
+        "target_rva": "0x99e130",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "char decorator create run",
+    "related_fields": []
+  },
+  {
+    "alias": "char_run_factory",
+    "symbol_name_recovered": false,
+    "rva": "0x99d0e0",
+    "file_offset": "0x99c6e0",
+    "approximate_end_rva_exclusive": "0x99d39d",
+    "span_sha256": "3efc6a5812dbb5a96609ae607e3041ea8e67249bf6e64a6d8c5441b10b4ef04b",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x99d0e0",
+        "end_rva": "0x99d0ef"
+      },
+      {
+        "start_rva": "0x99d0ef",
+        "end_rva": "0x99d133"
+      },
+      {
+        "start_rva": "0x99d133",
+        "end_rva": "0x99d1ab"
+      },
+      {
+        "start_rva": "0x99d1ab",
+        "end_rva": "0x99d28f"
+      },
+      {
+        "start_rva": "0x99d28f",
+        "end_rva": "0x99d2b0"
+      },
+      {
+        "start_rva": "0x99d2b0",
+        "end_rva": "0x99d2d8"
+      },
+      {
+        "start_rva": "0x99d2d8",
+        "end_rva": "0x99d311"
+      },
+      {
+        "start_rva": "0x99d311",
+        "end_rva": "0x99d39d"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x99d10c",
+        "operand": "0x140dcceb0",
+        "target_rva": "0xdcceb0"
+      },
+      {
+        "rva": "0x99d13e",
+        "operand": "0x14130f7f0",
+        "target_rva": "0x130f7f0"
+      },
+      {
+        "rva": "0x99d19a",
+        "operand": "0x140e364d0",
+        "target_rva": "0xe364d0"
+      },
+      {
+        "rva": "0x99d207",
+        "operand": "0x140e36480",
+        "target_rva": "0xe36480"
+      },
+      {
+        "rva": "0x99d249",
+        "operand": "0x1407e02b0",
+        "target_rva": "0x7e02b0"
+      },
+      {
+        "rva": "0x99d2bb",
+        "operand": "0x140dcceb0",
+        "target_rva": "0xdcceb0"
+      },
+      {
+        "rva": "0x99d35f",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99d377",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99d38a",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      }
+    ],
+    "incoming_pointer_references": [],
+    "important_incoming_xrefs": [
+      {
+        "kind": "direct_call",
+        "from_alias": "char_decorator_create_run",
+        "rva": "0x99e71f",
+        "file_offset": "0x99dd1f",
+        "target_rva": "0x99d0e0",
+        "evidence": "CONFIRMED_FROM_BINARY"
+      }
+    ],
+    "purpose": "char run factory",
+    "related_fields": []
+  },
+  {
+    "alias": "char_run_paint",
+    "symbol_name_recovered": false,
+    "rva": "0x9a2bd0",
+    "file_offset": "0x9a21d0",
+    "approximate_end_rva_exclusive": "0x9a368c",
+    "span_sha256": "9c8c84415b6a9710654e21df57776e0ea13208c79952cc1bf3f918d11abb373a",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a2bd0",
+        "end_rva": "0x9a2bfb"
+      },
+      {
+        "start_rva": "0x9a2bfb",
+        "end_rva": "0x9a2d25"
+      },
+      {
+        "start_rva": "0x9a2d25",
+        "end_rva": "0x9a2dac"
+      },
+      {
+        "start_rva": "0x9a2dac",
+        "end_rva": "0x9a35cd"
+      },
+      {
+        "start_rva": "0x9a35cd",
+        "end_rva": "0x9a3644"
+      },
+      {
+        "start_rva": "0x9a3644",
+        "end_rva": "0x9a368c"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a2cae",
+        "operand": "qword ptr [rax + 0x38]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a2cbc",
+        "operand": "qword ptr [rax + 0x10]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a2cc9",
+        "operand": "qword ptr [rax + 0x20]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a2fbd",
+        "operand": "0x14132ec90",
+        "target_rva": "0x132ec90"
+      },
+      {
+        "rva": "0x9a2fda",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a2fed",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3180",
+        "operand": "0x14132ec90",
+        "target_rva": "0x132ec90"
+      },
+      {
+        "rva": "0x9a31bb",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a31ce",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a31e9",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a31fc",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3210",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3223",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3248",
+        "operand": "qword ptr [rax + 0x38]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3273",
+        "operand": "qword ptr [rax + 0x18]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3397",
+        "operand": "0x141237880",
+        "target_rva": "0x1237880"
+      },
+      {
+        "rva": "0x9a33b1",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a33c4",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a33e6",
+        "operand": "qword ptr [rax + 0x38]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3417",
+        "operand": "qword ptr [rax + 0x18]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a353b",
+        "operand": "0x141237880",
+        "target_rva": "0x1237880"
+      },
+      {
+        "rva": "0x9a3544",
+        "operand": "0x1409ce980",
+        "target_rva": "0x9ce980"
+      },
+      {
+        "rva": "0x9a3575",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3588",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3650",
+        "operand": "qword ptr [r8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3664",
+        "operand": "qword ptr [r8 + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a367d",
+        "operand": "0x143059950",
+        "target_rva": "0x3059950"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cafc8"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "char run paint slot 0x90",
+        "rva": "0x31cafc8",
+        "file_offset": "0x31c97c8",
+        "target_rva": "0x9a2bd0",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "char run paint",
+    "related_fields": []
+  },
+  {
+    "alias": "style_row_to_timing_map",
+    "symbol_name_recovered": false,
+    "rva": "0x9a4270",
+    "file_offset": "0x9a3870",
+    "approximate_end_rva_exclusive": "0x9a48b7",
+    "span_sha256": "b704a99dad302e8d7736fb04e47995474e08472a94faa901800bcccf8a22e569",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a4270",
+        "end_rva": "0x9a4295"
+      },
+      {
+        "start_rva": "0x9a4295",
+        "end_rva": "0x9a42de"
+      },
+      {
+        "start_rva": "0x9a42de",
+        "end_rva": "0x9a48a5"
+      },
+      {
+        "start_rva": "0x9a48a5",
+        "end_rva": "0x9a48ad"
+      },
+      {
+        "start_rva": "0x9a48ad",
+        "end_rva": "0x9a48b7"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a42a1",
+        "operand": "0x1409a71e0",
+        "target_rva": "0x9a71e0"
+      },
+      {
+        "rva": "0x9a4309",
+        "operand": "qword ptr [rax + 0x280]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a45e8",
+        "operand": "0x140789da0",
+        "target_rva": "0x789da0"
+      },
+      {
+        "rva": "0x9a45fb",
+        "operand": "0x140789da0",
+        "target_rva": "0x789da0"
+      },
+      {
+        "rva": "0x9a460e",
+        "operand": "0x140789da0",
+        "target_rva": "0x789da0"
+      },
+      {
+        "rva": "0x9a463b",
+        "operand": "0x14099b510",
+        "target_rva": "0x99b510"
+      },
+      {
+        "rva": "0x9a46e2",
+        "operand": "0x14099b280",
+        "target_rva": "0x99b280"
+      },
+      {
+        "rva": "0x9a46fb",
+        "operand": "0x140f4cfd0",
+        "target_rva": "0xf4cfd0"
+      },
+      {
+        "rva": "0x9a471b",
+        "operand": "0x140795630",
+        "target_rva": "0x795630"
+      },
+      {
+        "rva": "0x9a472b",
+        "operand": "0x1407955a0",
+        "target_rva": "0x7955a0"
+      },
+      {
+        "rva": "0x9a4760",
+        "operand": "0x1407955a0",
+        "target_rva": "0x7955a0"
+      },
+      {
+        "rva": "0x9a477b",
+        "operand": "0x140795490",
+        "target_rva": "0x795490"
+      },
+      {
+        "rva": "0x9a478e",
+        "operand": "0x140795490",
+        "target_rva": "0x795490"
+      },
+      {
+        "rva": "0x9a47a1",
+        "operand": "0x140795490",
+        "target_rva": "0x795490"
+      },
+      {
+        "rva": "0x9a47c9",
+        "operand": "0x140791aa0",
+        "target_rva": "0x791aa0"
+      },
+      {
+        "rva": "0x9a47d5",
+        "operand": "0x140791aa0",
+        "target_rva": "0x791aa0"
+      },
+      {
+        "rva": "0x9a47de",
+        "operand": "0x140791aa0",
+        "target_rva": "0x791aa0"
+      },
+      {
+        "rva": "0x9a47f8",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a480b",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4823",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4836",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a484e",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4861",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4873",
+        "operand": "0x1407725c0",
+        "target_rva": "0x7725c0"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cabd8"
+    ],
+    "important_incoming_xrefs": [],
+    "purpose": "style row to timing map",
+    "related_fields": [
+      "PrintLetterAnimationTime",
+      "PrintLetterInterval",
+      "UseAdvancedPrintIntervals",
+      "CommaInterval",
+      "SentenceInterval",
+      "EllipsisInterval",
+      "MidWordDashInterval",
+      "SpaceInterval"
+    ]
+  },
+  {
+    "alias": "style_timing_to_run_record",
+    "symbol_name_recovered": false,
+    "rva": "0x9a1fd0",
+    "file_offset": "0x9a15d0",
+    "approximate_end_rva_exclusive": "0x9a23a2",
+    "span_sha256": "e81f2da9de5a37dc4ace609eaaca3f105705af30629fefece555f401a0fafa41",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a1fd0",
+        "end_rva": "0x9a2016"
+      },
+      {
+        "start_rva": "0x9a2016",
+        "end_rva": "0x9a203a"
+      },
+      {
+        "start_rva": "0x9a203a",
+        "end_rva": "0x9a22da"
+      },
+      {
+        "start_rva": "0x9a22da",
+        "end_rva": "0x9a236e"
+      },
+      {
+        "start_rva": "0x9a236e",
+        "end_rva": "0x9a237e"
+      },
+      {
+        "start_rva": "0x9a237e",
+        "end_rva": "0x9a2396"
+      },
+      {
+        "start_rva": "0x9a2396",
+        "end_rva": "0x9a23a2"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a2022",
+        "operand": "0x140e3af80",
+        "target_rva": "0xe3af80"
+      },
+      {
+        "rva": "0x9a220d",
+        "operand": "0x140e3af80",
+        "target_rva": "0xe3af80"
+      },
+      {
+        "rva": "0x9a222b",
+        "operand": "0x140e3af80",
+        "target_rva": "0xe3af80"
+      },
+      {
+        "rva": "0x9a2251",
+        "operand": "0x140f4cfd0",
+        "target_rva": "0xf4cfd0"
+      },
+      {
+        "rva": "0x9a2266",
+        "operand": "0x1409a0440",
+        "target_rva": "0x9a0440"
+      },
+      {
+        "rva": "0x9a2280",
+        "operand": "0x1409a0440",
+        "target_rva": "0x9a0440"
+      },
+      {
+        "rva": "0x9a22cc",
+        "operand": "0x1407725c0",
+        "target_rva": "0x7725c0"
+      },
+      {
+        "rva": "0x9a22fa",
+        "operand": "0x140f4cfd0",
+        "target_rva": "0xf4cfd0"
+      },
+      {
+        "rva": "0x9a230f",
+        "operand": "0x1409a0440",
+        "target_rva": "0x9a0440"
+      },
+      {
+        "rva": "0x9a2329",
+        "operand": "0x1409a0440",
+        "target_rva": "0x9a0440"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cac18"
+    ],
+    "important_incoming_xrefs": [],
+    "purpose": "style timing to run record",
+    "related_fields": [
+      "PrintLetterAnimationTime",
+      "PrintLetterInterval",
+      "UseAdvancedPrintIntervals",
+      "CommaInterval",
+      "SentenceInterval",
+      "EllipsisInterval",
+      "MidWordDashInterval",
+      "SpaceInterval"
+    ]
+  },
+  {
+    "alias": "select_print_delay",
+    "symbol_name_recovered": false,
+    "rva": "0x9a0880",
+    "file_offset": "0x99fe80",
+    "approximate_end_rva_exclusive": "0x9a09c8",
+    "span_sha256": "1d754a174d0ebde7e181c4ead33cc87f50bd6a6d1b792b1a7417050f87552339",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a0880",
+        "end_rva": "0x9a08cb"
+      },
+      {
+        "start_rva": "0x9a08cb",
+        "end_rva": "0x9a0997"
+      },
+      {
+        "start_rva": "0x9a0997",
+        "end_rva": "0x9a09a7"
+      },
+      {
+        "start_rva": "0x9a09a7",
+        "end_rva": "0x9a09c8"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a08e5",
+        "operand": "0x14099bac0",
+        "target_rva": "0x99bac0"
+      },
+      {
+        "rva": "0x9a0980",
+        "operand": "0x140791750",
+        "target_rva": "0x791750"
+      },
+      {
+        "rva": "0x9a0997",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a09b2",
+        "operand": "0x143059950",
+        "target_rva": "0x3059950"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cac00"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "block delay slot 0x368",
+        "rva": "0x31cac00",
+        "file_offset": "0x31c9400",
+        "target_rva": "0x9a0880",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "select print delay",
+    "related_fields": [
+      "PrintLetterAnimationTime",
+      "PrintLetterInterval",
+      "UseAdvancedPrintIntervals",
+      "CommaInterval",
+      "SentenceInterval",
+      "EllipsisInterval",
+      "MidWordDashInterval",
+      "SpaceInterval"
+    ]
+  },
+  {
+    "alias": "advance_reveal_index",
+    "symbol_name_recovered": false,
+    "rva": "0x99cdd0",
+    "file_offset": "0x99c3d0",
+    "approximate_end_rva_exclusive": "0x99ced3",
+    "span_sha256": "a0185100a5db7f8216a9b4d09ac4e9ab79e66ccde1c93f24451448de0cb96054",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x99cdd0",
+        "end_rva": "0x99cdeb"
+      },
+      {
+        "start_rva": "0x99cdeb",
+        "end_rva": "0x99cecc"
+      },
+      {
+        "start_rva": "0x99cecc",
+        "end_rva": "0x99ced3"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x99ce40",
+        "operand": "qword ptr [rax + 0x398]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x99ce5a",
+        "operand": "0x140786010",
+        "target_rva": "0x786010"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cac20"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "block index slot 0x388",
+        "rva": "0x31cac20",
+        "file_offset": "0x31c9420",
+        "target_rva": "0x99cdd0",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "advance reveal index",
+    "related_fields": []
+  },
+  {
+    "alias": "process_reveal_budget",
+    "symbol_name_recovered": false,
+    "rva": "0x9a3900",
+    "file_offset": "0x9a2f00",
+    "approximate_end_rva_exclusive": "0x9a3eb2",
+    "span_sha256": "f1ab9862c53b0ea65c05a278f5ff1b9dfd7307b8ccf5eb4ec631c3c904c627ca",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a3900",
+        "end_rva": "0x9a39c6"
+      },
+      {
+        "start_rva": "0x9a39c6",
+        "end_rva": "0x9a39d5"
+      },
+      {
+        "start_rva": "0x9a39d5",
+        "end_rva": "0x9a3bb0"
+      },
+      {
+        "start_rva": "0x9a3bb0",
+        "end_rva": "0x9a3bf3"
+      },
+      {
+        "start_rva": "0x9a3bf3",
+        "end_rva": "0x9a3eb2"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a3948",
+        "operand": "qword ptr [rax + 0x160]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3985",
+        "operand": "0x141eaaac0",
+        "target_rva": "0x1eaaac0"
+      },
+      {
+        "rva": "0x9a39a3",
+        "operand": "0x140786010",
+        "target_rva": "0x786010"
+      },
+      {
+        "rva": "0x9a3a29",
+        "operand": "qword ptr [r8 + 0x388]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3a64",
+        "operand": "qword ptr [rax + 0x390]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3ab8",
+        "operand": "qword ptr [rax + 0x370]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3ac9",
+        "operand": "qword ptr [rbx + 0x290]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3b0b",
+        "operand": "qword ptr [rax + 0x290]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3b26",
+        "operand": "qword ptr [rax + 0x390]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3b49",
+        "operand": "r9",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3b61",
+        "operand": "qword ptr [rax + 0x368]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3b87",
+        "operand": "qword ptr [r8 + 0x360]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3bdd",
+        "operand": "0x140786010",
+        "target_rva": "0x786010"
+      },
+      {
+        "rva": "0x9a3c54",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a3c6f",
+        "operand": "0x140e1ec90",
+        "target_rva": "0xe1ec90"
+      },
+      {
+        "rva": "0x9a3c89",
+        "operand": "0x14116dea0",
+        "target_rva": "0x116dea0"
+      },
+      {
+        "rva": "0x9a3ca1",
+        "operand": "qword ptr [rax + 0x40]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3cac",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3cb6",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a3cc6",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a3cd1",
+        "operand": "qword ptr [rax + 0x160]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3d02",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3d13",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a3d54",
+        "operand": "qword ptr [rax + 0x40]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3d5d",
+        "operand": "0x14116dea0",
+        "target_rva": "0x116dea0"
+      },
+      {
+        "rva": "0x9a3d96",
+        "operand": "0x142739fa0",
+        "target_rva": "0x2739fa0"
+      },
+      {
+        "rva": "0x9a3db4",
+        "operand": "qword ptr [rax + 0x10]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3dd5",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3de5",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a3dfa",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a3e05",
+        "operand": "qword ptr [rax + 0x160]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3e2e",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3e3f",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a3e56",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a3e71",
+        "operand": "0x140786010",
+        "target_rva": "0x786010"
+      },
+      {
+        "rva": "0x9a3e8d",
+        "operand": "0x143059950",
+        "target_rva": "0x3059950"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cabf0"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "block process-budget slot 0x358",
+        "rva": "0x31cabf0",
+        "file_offset": "0x31c93f0",
+        "target_rva": "0x9a3900",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "process reveal budget",
+    "related_fields": []
+  },
+  {
+    "alias": "print_letter_by_letter",
+    "symbol_name_recovered": false,
+    "rva": "0x9a3ec0",
+    "file_offset": "0x9a34c0",
+    "approximate_end_rva_exclusive": "0x9a4261",
+    "span_sha256": "7b59a2cef56a085ff575d638239de80c42cdcd95454f8367022dbc489ebc88bc",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a3ec0",
+        "end_rva": "0x9a401b"
+      },
+      {
+        "start_rva": "0x9a401b",
+        "end_rva": "0x9a40e7"
+      },
+      {
+        "start_rva": "0x9a40e7",
+        "end_rva": "0x9a4144"
+      },
+      {
+        "start_rva": "0x9a4144",
+        "end_rva": "0x9a41e1"
+      },
+      {
+        "start_rva": "0x9a41e1",
+        "end_rva": "0x9a4222"
+      },
+      {
+        "start_rva": "0x9a4222",
+        "end_rva": "0x9a4261"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a3eef",
+        "operand": "qword ptr [rax + 0x160]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3f1b",
+        "operand": "0x142735e80",
+        "target_rva": "0x2735e80"
+      },
+      {
+        "rva": "0x9a3f2f",
+        "operand": "0x142739e80",
+        "target_rva": "0x2739e80"
+      },
+      {
+        "rva": "0x9a3f53",
+        "operand": "0x141eaaac0",
+        "target_rva": "0x1eaaac0"
+      },
+      {
+        "rva": "0x9a3f5e",
+        "operand": "qword ptr [rax + 0x378]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3f6b",
+        "operand": "0x140e94c40",
+        "target_rva": "0xe94c40"
+      },
+      {
+        "rva": "0x9a3f7c",
+        "operand": "qword ptr [r8 + 0x350]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3f88",
+        "operand": "qword ptr [r8 + 0x318]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3f9c",
+        "operand": "qword ptr [rax + 0x160]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3fbd",
+        "operand": "qword ptr [rax + 0x390]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a3fe0",
+        "operand": "r9",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a404b",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a4066",
+        "operand": "0x140e1ec90",
+        "target_rva": "0xe1ec90"
+      },
+      {
+        "rva": "0x9a4080",
+        "operand": "0x14116dea0",
+        "target_rva": "0x116dea0"
+      },
+      {
+        "rva": "0x9a4097",
+        "operand": "qword ptr [rax + 0x40]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a40a2",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a40ac",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a40c0",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a40f3",
+        "operand": "qword ptr [rax + 0x40]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a40fc",
+        "operand": "0x14116dea0",
+        "target_rva": "0x116dea0"
+      },
+      {
+        "rva": "0x9a4131",
+        "operand": "0x142739fa0",
+        "target_rva": "0x2739fa0"
+      },
+      {
+        "rva": "0x9a4156",
+        "operand": "qword ptr [rax + 0x10]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4177",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4187",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a419c",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a41b5",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a41c5",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a41da",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a41fd",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a420d",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a4228",
+        "operand": "qword ptr [rax + 0x358]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4237",
+        "operand": "0x140786010",
+        "target_rva": "0x786010"
+      },
+      {
+        "rva": "0x9a4243",
+        "operand": "0x143059950",
+        "target_rva": "0x3059950"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31caba0"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "block PrintLetterByLetter slot 0x308",
+        "rva": "0x31caba0",
+        "file_offset": "0x31c93a0",
+        "target_rva": "0x9a3ec0",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "print letter by letter",
+    "related_fields": []
+  },
+  {
+    "alias": "exec_PrintLetterByLetter",
+    "symbol_name_recovered": false,
+    "rva": "0x9a78f0",
+    "file_offset": "0x9a6ef0",
+    "approximate_end_rva_exclusive": "0x9a790f",
+    "span_sha256": "2504a4efc967b6082f4dcfd6b7c54f40b39f19af920eb9fb4048604e725662ff",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [],
+    "outgoing_calls": [],
+    "incoming_pointer_references": [
+      "0x31cda88"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "absolute_pointer",
+        "label": "PrintLetterByLetter native registration thunk",
+        "rva": "0x31cda88",
+        "file_offset": "0x31cc288",
+        "target_rva": "0x9a78f0",
+        "evidence": "CONFIRMED_FROM_BINARY",
+        "confidence": "HIGH"
+      }
+    ],
+    "purpose": "exec PrintLetterByLetter",
+    "related_fields": []
+  },
+  {
+    "alias": "rebuild_widget",
+    "symbol_name_recovered": false,
+    "rva": "0x9a48c0",
+    "file_offset": "0x9a3ec0",
+    "approximate_end_rva_exclusive": "0x9a50ff",
+    "span_sha256": "ebc2d443038406721c812b1eef63b7555866ee67e92bec4a5f95b77b4b111330",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x9a48c0",
+        "end_rva": "0x9a50ff"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x9a4912",
+        "operand": "0x1407e0950",
+        "target_rva": "0x7e0950"
+      },
+      {
+        "rva": "0x9a4932",
+        "operand": "qword ptr [rax + 0x2e0]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a494a",
+        "operand": "0x1409a6630",
+        "target_rva": "0x9a6630"
+      },
+      {
+        "rva": "0x9a4961",
+        "operand": "0x140f4fe60",
+        "target_rva": "0xf4fe60"
+      },
+      {
+        "rva": "0x9a497f",
+        "operand": "0x14114b960",
+        "target_rva": "0x114b960"
+      },
+      {
+        "rva": "0x9a498c",
+        "operand": "0x141148720",
+        "target_rva": "0x1148720"
+      },
+      {
+        "rva": "0x9a49b5",
+        "operand": "0x1411614d0",
+        "target_rva": "0x11614d0"
+      },
+      {
+        "rva": "0x9a49d8",
+        "operand": "0x14077b320",
+        "target_rva": "0x77b320"
+      },
+      {
+        "rva": "0x9a49f6",
+        "operand": "0x1409a6030",
+        "target_rva": "0x9a6030"
+      },
+      {
+        "rva": "0x9a4a0d",
+        "operand": "0x140f4fe60",
+        "target_rva": "0xf4fe60"
+      },
+      {
+        "rva": "0x9a4a2b",
+        "operand": "0x14114b960",
+        "target_rva": "0x114b960"
+      },
+      {
+        "rva": "0x9a4a38",
+        "operand": "0x141148720",
+        "target_rva": "0x1148720"
+      },
+      {
+        "rva": "0x9a4a61",
+        "operand": "0x1411614d0",
+        "target_rva": "0x11614d0"
+      },
+      {
+        "rva": "0x9a4a96",
+        "operand": "0x14077b320",
+        "target_rva": "0x77b320"
+      },
+      {
+        "rva": "0x9a4ab4",
+        "operand": "0x1409a6100",
+        "target_rva": "0x9a6100"
+      },
+      {
+        "rva": "0x9a4acb",
+        "operand": "0x140f4fe60",
+        "target_rva": "0xf4fe60"
+      },
+      {
+        "rva": "0x9a4ae9",
+        "operand": "0x14114b960",
+        "target_rva": "0x114b960"
+      },
+      {
+        "rva": "0x9a4af6",
+        "operand": "0x141148720",
+        "target_rva": "0x1148720"
+      },
+      {
+        "rva": "0x9a4b1f",
+        "operand": "0x1411614d0",
+        "target_rva": "0x11614d0"
+      },
+      {
+        "rva": "0x9a4b54",
+        "operand": "0x14077b320",
+        "target_rva": "0x77b320"
+      },
+      {
+        "rva": "0x9a4b75",
+        "operand": "qword ptr [rax + 0x2e8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4ba2",
+        "operand": "0x14077b190",
+        "target_rva": "0x77b190"
+      },
+      {
+        "rva": "0x9a4bf2",
+        "operand": "r8",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4bff",
+        "operand": "rbx",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4c15",
+        "operand": "0x141323620",
+        "target_rva": "0x1323620"
+      },
+      {
+        "rva": "0x9a4c5a",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4c7b",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4c8e",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4ca6",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4cb9",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4cd8",
+        "operand": "0x140dcceb0",
+        "target_rva": "0xdcceb0"
+      },
+      {
+        "rva": "0x9a4d06",
+        "operand": "0x141396970",
+        "target_rva": "0x1396970"
+      },
+      {
+        "rva": "0x9a4d23",
+        "operand": "0x140784790",
+        "target_rva": "0x784790"
+      },
+      {
+        "rva": "0x9a4d48",
+        "operand": "0x141267c30",
+        "target_rva": "0x1267c30"
+      },
+      {
+        "rva": "0x9a4d57",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a4d6e",
+        "operand": "0x140e1ec90",
+        "target_rva": "0xe1ec90"
+      },
+      {
+        "rva": "0x9a4d88",
+        "operand": "0x14116dea0",
+        "target_rva": "0x116dea0"
+      },
+      {
+        "rva": "0x9a4db0",
+        "operand": "0x14099b760",
+        "target_rva": "0x99b760"
+      },
+      {
+        "rva": "0x9a4dca",
+        "operand": "0x14099b760",
+        "target_rva": "0x99b760"
+      },
+      {
+        "rva": "0x9a4e19",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4e2d",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4e41",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4e54",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4e79",
+        "operand": "qword ptr [rax + 0x40]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4e85",
+        "operand": "0x141266e80",
+        "target_rva": "0x1266e80"
+      },
+      {
+        "rva": "0x9a4e90",
+        "operand": "0x1413a3fa0",
+        "target_rva": "0x13a3fa0"
+      },
+      {
+        "rva": "0x9a4ea4",
+        "operand": "qword ptr [rax + 0x228]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4f00",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4f2b",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4f3a",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a4f5f",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4f72",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4f86",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4f99",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4fad",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4fc0",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4fc7",
+        "operand": "0x14099be90",
+        "target_rva": "0x99be90"
+      },
+      {
+        "rva": "0x9a4fd9",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a4fe3",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a5008",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a5017",
+        "operand": "0x140e62880",
+        "target_rva": "0xe62880"
+      },
+      {
+        "rva": "0x9a5027",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a505e",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a5071",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a50a4",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a50b7",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x9a50cd",
+        "operand": "0x140e54390",
+        "target_rva": "0xe54390"
+      },
+      {
+        "rva": "0x9a50df",
+        "operand": "0x143059950",
+        "target_rva": "0x3059950"
+      }
+    ],
+    "incoming_pointer_references": [
+      "0x31cab50"
+    ],
+    "important_incoming_xrefs": [],
+    "purpose": "rebuild widget",
+    "related_fields": []
+  },
+  {
+    "alias": "shaped_range_helper",
+    "symbol_name_recovered": false,
+    "rva": "0x132ec90",
+    "file_offset": "0x132e290",
+    "approximate_end_rva_exclusive": "0x132f096",
+    "span_sha256": "21b87030b9192ec95832aec99e68c81b7dcd3ef54091f6dc0a3d10e6f614e050",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [
+      {
+        "start_rva": "0x132ec90",
+        "end_rva": "0x132eca1"
+      },
+      {
+        "start_rva": "0x132eca1",
+        "end_rva": "0x132edc2"
+      },
+      {
+        "start_rva": "0x132edc2",
+        "end_rva": "0x132efe3"
+      },
+      {
+        "start_rva": "0x132efe3",
+        "end_rva": "0x132f060"
+      },
+      {
+        "start_rva": "0x132f060",
+        "end_rva": "0x132f096"
+      }
+    ],
+    "outgoing_calls": [
+      {
+        "rva": "0x132ecea",
+        "operand": "0x141329ca0",
+        "target_rva": "0x1329ca0"
+      },
+      {
+        "rva": "0x132ed1e",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132ed31",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132eddf",
+        "operand": "0x141330e20",
+        "target_rva": "0x1330e20"
+      },
+      {
+        "rva": "0x132ee51",
+        "operand": "0x141333a60",
+        "target_rva": "0x1333a60"
+      },
+      {
+        "rva": "0x132ee80",
+        "operand": "0x1411d74b0",
+        "target_rva": "0x11d74b0"
+      },
+      {
+        "rva": "0x132eecb",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132eede",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132eef7",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132ef0a",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132ef46",
+        "operand": "0x14130ce50",
+        "target_rva": "0x130ce50"
+      },
+      {
+        "rva": "0x132ef61",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132ef74",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132ef8c",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132ef9f",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132efb3",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132efc6",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132efef",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132f002",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132f01a",
+        "operand": "qword ptr [rax]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132f02d",
+        "operand": "qword ptr [rax + 8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132f070",
+        "operand": "qword ptr [r8]",
+        "target_rva": null
+      },
+      {
+        "rva": "0x132f084",
+        "operand": "qword ptr [r8 + 8]",
+        "target_rva": null
+      }
+    ],
+    "incoming_pointer_references": [],
+    "important_incoming_xrefs": [
+      {
+        "kind": "direct_call",
+        "from_alias": "char_run_paint",
+        "rva": "0x9a2fbd",
+        "file_offset": "0x9a25bd",
+        "target_rva": "0x132ec90",
+        "evidence": "CONFIRMED_FROM_BINARY"
+      },
+      {
+        "kind": "direct_call",
+        "from_alias": "char_run_paint",
+        "rva": "0x9a3180",
+        "file_offset": "0x9a2780",
+        "target_rva": "0x132ec90",
+        "evidence": "CONFIRMED_FROM_BINARY"
+      }
+    ],
+    "purpose": "shaped range helper",
+    "related_fields": []
+  },
+  {
+    "alias": "slice_advance_scalar",
+    "symbol_name_recovered": false,
+    "rva": "0x9ce980",
+    "file_offset": "0x9cdf80",
+    "approximate_end_rva_exclusive": "0x9ce984",
+    "span_sha256": "68b70ba1e6ad2356c69cac8e846649e599945994fa7690a0bf4af28fa25c24a5",
+    "evidence": "CONFIRMED_FROM_BINARY",
+    "confidence": "HIGH",
+    "bounds_note": "logical entry-to-epilogue span; pdata may split it",
+    "pdata_fragments": [],
+    "outgoing_calls": [],
+    "incoming_pointer_references": [
+      "0x31d4680",
+      "0x32b0368",
+      "0x32b03c0",
+      "0x32b0460",
+      "0x32b0498",
+      "0x32d77e8",
+      "0x32d7828",
+      "0x339d5d8",
+      "0x339d658",
+      "0x339d730",
+      "0x339d7b0",
+      "0x339d830",
+      "0x339d8b0",
+      "0x34dd280",
+      "0x351b998",
+      "0x351ba38"
+    ],
+    "important_incoming_xrefs": [
+      {
+        "kind": "direct_call",
+        "from_alias": "char_run_paint",
+        "rva": "0x9a3544",
+        "file_offset": "0x9a2b44",
+        "target_rva": "0x9ce980",
+        "evidence": "CONFIRMED_FROM_BINARY"
+      }
+    ],
+    "purpose": "slice advance scalar",
+    "related_fields": []
+  }
+]

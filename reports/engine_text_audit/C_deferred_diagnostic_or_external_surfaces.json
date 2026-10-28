@@ -1,0 +1,380 @@
+[
+  {
+    "engine_index": 3462,
+    "namespace": "CrashReportClient",
+    "key": "CrashedAppUnreal",
+    "source_hash": 1190534232,
+    "en": "An Unreal process has crashed: "
+  },
+  {
+    "engine_index": 3463,
+    "namespace": "CrashReportClient",
+    "key": "CrashedAppNotFound",
+    "source_hash": 4154740156,
+    "en": "An unknown process has crashed"
+  },
+  {
+    "engine_index": 3464,
+    "namespace": "CrashReportClient",
+    "key": "CloseWithoutSending",
+    "source_hash": 3900774606,
+    "en": "Close Without Sending"
+  },
+  {
+    "engine_index": 3465,
+    "namespace": "CrashReportClient",
+    "key": "CrashReportData",
+    "source_hash": 3250281755,
+    "en": "Crash reports comprise diagnostics files (<a id=\"browser\" href=\"{0}\" style=\"Richtext.Hyperlink\">click here to view directory</>) and the following summary information: "
+  },
+  {
+    "engine_index": 3466,
+    "namespace": "CrashReportClient",
+    "key": "UserCommentTooLongError",
+    "source_hash": 1697992041,
+    "en": "Description may only be a maximum of {0} characters (currently {1})"
+  },
+  {
+    "engine_index": 3467,
+    "namespace": "CrashReportClient",
+    "key": "IAgree",
+    "source_hash": 3516300481,
+    "en": "I agree to be contacted by Epic Games via email if additional information about this crash would help fix it."
+  },
+  {
+    "engine_index": 3468,
+    "namespace": "CrashReportClient",
+    "key": "IncludeLogs",
+    "source_hash": 1293062920,
+    "en": "Include log files with submission. I understand that logs contain some personal information such as my system and user name."
+  },
+  {
+    "engine_index": 3469,
+    "namespace": "CrashReportClient",
+    "key": "CrashReportClientCallstackPattern",
+    "source_hash": 3966504075,
+    "en": "LoginId:{0}\nEpicAccountId:{1}\n\n{2}"
+  },
+  {
+    "engine_index": 3470,
+    "namespace": "CrashReportClient",
+    "key": "MinidumpNotFound",
+    "source_hash": 2677441603,
+    "en": "No minidump found for this crash."
+  },
+  {
+    "engine_index": 3471,
+    "namespace": "CrashReportClient",
+    "key": "PingingServer",
+    "source_hash": 1093984445,
+    "en": "Pinging server"
+  },
+  {
+    "engine_index": 3472,
+    "namespace": "CrashReportClient",
+    "key": "CrashProvide",
+    "source_hash": 403510681,
+    "en": "Please provide detailed information about what you were doing when the crash occurred."
+  },
+  {
+    "engine_index": 3473,
+    "namespace": "CrashReportClient",
+    "key": "ProcessingReport",
+    "source_hash": 333072821,
+    "en": "Processing crash report ..."
+  },
+  {
+    "engine_index": 3474,
+    "namespace": "CrashReportClient",
+    "key": "UploaderReady",
+    "source_hash": 1175528593,
+    "en": "Ready to send to server"
+  },
+  {
+    "engine_index": 3475,
+    "namespace": "CrashReportClient",
+    "key": "Send",
+    "source_hash": 3346214686,
+    "en": "Send and Close"
+  },
+  {
+    "engine_index": 3476,
+    "namespace": "CrashReportClient",
+    "key": "SendAndRestartEditor",
+    "source_hash": 1837137687,
+    "en": "Send and Restart"
+  },
+  {
+    "engine_index": 3477,
+    "namespace": "CrashReportClient",
+    "key": "UnattendedMode",
+    "source_hash": 1652403668,
+    "en": "Sent in the unattended mode"
+  },
+  {
+    "engine_index": 3478,
+    "namespace": "CrashReportClient",
+    "key": "ServerNotAvailable",
+    "source_hash": 4247922276,
+    "en": "Server not available - report will be stored for later upload"
+  },
+  {
+    "engine_index": 3479,
+    "namespace": "CrashReportClient",
+    "key": "NoCallstack",
+    "source_hash": 3023924955,
+    "en": "The system failed to capture the callstack for this crash."
+  },
+  {
+    "engine_index": 3480,
+    "namespace": "CrashReportClient",
+    "key": "CrashReportClientAppName",
+    "source_hash": 2346023838,
+    "en": "Unreal Engine 4 Crash Reporter"
+  },
+  {
+    "engine_index": 3481,
+    "namespace": "CrashReportClient",
+    "key": "CrashDetailed",
+    "source_hash": 1530397760,
+    "en": "We are very sorry that this crash occurred. Our goal is to prevent crashes like this from occurring in the future. Please help us track down and fix this crash by providing detailed information about what you were doing so that we may reproduce the crash and fix it quickly. You can also log a Bug Report with us using the <a id=\"browser\" href=\"https://epicsupport.force.com/unrealengine/s/\" style=\"Hyperlink\">Bug Submission Form</> and work directly with support staff to report this issue.\n\nThanks for your help in improving the Unreal Engine."
+  },
+  {
+    "engine_index": 3482,
+    "namespace": "CrashReportClient",
+    "key": "NoDebuggingSymbols",
+    "source_hash": 544532437,
+    "en": "You do not have any debugging symbols required to display the callstack for this crash."
+  },
+  {
+    "engine_index": 11507,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.CleanUp",
+    "source_hash": 251464846,
+    "en": "Cleaning up"
+  },
+  {
+    "engine_index": 11508,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.Complete",
+    "source_hash": 3498073296,
+    "en": "Complete"
+  },
+  {
+    "engine_index": 11509,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.Downloading",
+    "source_hash": 505240925,
+    "en": "Downloading"
+  },
+  {
+    "engine_index": 11510,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.Initializing",
+    "source_hash": 334361511,
+    "en": "Initializing"
+  },
+  {
+    "engine_index": 11511,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.Installing",
+    "source_hash": 4196217909,
+    "en": "Installing"
+  },
+  {
+    "engine_index": 11512,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.Paused",
+    "source_hash": 1790015347,
+    "en": "Paused"
+  },
+  {
+    "engine_index": 11513,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.PrerequisitesInstall",
+    "source_hash": 802931821,
+    "en": "Prerequisites"
+  },
+  {
+    "engine_index": 11514,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.Queued",
+    "source_hash": 1285933398,
+    "en": "Queued"
+  },
+  {
+    "engine_index": 11515,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.Resuming",
+    "source_hash": 3892764149,
+    "en": "Resuming"
+  },
+  {
+    "engine_index": 11516,
+    "namespace": "PreLoadManager.BuildPatchServices",
+    "key": "StatusText.BuildVerification",
+    "source_hash": 164672136,
+    "en": "Verifying"
+  },
+  {
+    "engine_index": 19627,
+    "namespace": "UnrealEngine",
+    "key": "DisableAllScreenMessagesToSuppress",
+    "source_hash": 3964802802,
+    "en": "'DisableAllScreenMessages' to suppress"
+  },
+  {
+    "engine_index": 19628,
+    "namespace": "UnrealEngine",
+    "key": "BlueprintInLevelHadCompileErrorMessage",
+    "source_hash": 904969563,
+    "en": "BLUEPRINT COMPILE ERROR"
+  },
+  {
+    "engine_index": 19629,
+    "namespace": "UnrealEngine",
+    "key": "CsvProfilerFrameFmt",
+    "source_hash": 1221740856,
+    "en": "CsvProfiler frame: {0}"
+  },
+  {
+    "engine_index": 19630,
+    "namespace": "UnrealEngine",
+    "key": "CsvProfilerWriteFmt",
+    "source_hash": 1517998942,
+    "en": "CsvProfiler, please wait, writing file... Total frames: {0}"
+  },
+  {
+    "engine_index": 19631,
+    "namespace": "UnrealEngine",
+    "key": "FrameProRecording",
+    "source_hash": 3005694493,
+    "en": "FramePro Recording"
+  },
+  {
+    "engine_index": 19632,
+    "namespace": "UnrealEngine",
+    "key": "GRASS_MAPS_NEED_TO_BE_REBUILT_FMT",
+    "source_hash": 2934044198,
+    "en": "GRASS MAPS NEED TO BE REBUILT ({0} {0}|plural(one=object,other=objects))"
+  },
+  {
+    "engine_index": 19633,
+    "namespace": "UnrealEngine",
+    "key": "HLOD_CLUSTERS_NEED_TO_BE_REBUILT_FMT",
+    "source_hash": 1339174036,
+    "en": "HLOD CLUSTERS NEED TO BE REBUILT ({0} unbuilt {0}|plural(one=object,other=objects))"
+  },
+  {
+    "engine_index": 19634,
+    "namespace": "UnrealEngine",
+    "key": "LIGHTING_NEEDS_TO_BE_REBUILT_FMT",
+    "source_hash": 2530197127,
+    "en": "LIGHTING NEEDS TO BE REBUILT ({0} unbuilt {0}|plural(one=object,other=objects))"
+  },
+  {
+    "engine_index": 19635,
+    "namespace": "UnrealEngine",
+    "key": "MEMPROFILINGWARNINGLLM",
+    "source_hash": 2046388800,
+    "en": "LLM enabled without Debug Memory enabled!"
+  },
+  {
+    "engine_index": 19636,
+    "namespace": "UnrealEngine",
+    "key": "Levelstreamingfrozen",
+    "source_hash": 4274960275,
+    "en": "Level streaming frozen..."
+  },
+  {
+    "engine_index": 19637,
+    "namespace": "UnrealEngine",
+    "key": "MULTIPLE_LIGHTING_SCENARIO_LEVELS_ENABLED",
+    "source_hash": 247511704,
+    "en": "MULTIPLE LIGHTING SCENARIO LEVELS ENABLED"
+  },
+  {
+    "engine_index": 19638,
+    "namespace": "UnrealEngine",
+    "key": "NAMEDEVENTSENABLED",
+    "source_hash": 2369010347,
+    "en": "NAMED EVENTS ENABLED"
+  },
+  {
+    "engine_index": 19639,
+    "namespace": "UnrealEngine",
+    "key": "AIPROFILINGWARNING",
+    "source_hash": 4236500803,
+    "en": "PROFILING WITH AI LOGGING ON!"
+  },
+  {
+    "engine_index": 19640,
+    "namespace": "UnrealEngine",
+    "key": "GCPROFILINGWARNING",
+    "source_hash": 2047463953,
+    "en": "PROFILING WITH GC VERIFY ON!"
+  },
+  {
+    "engine_index": 19641,
+    "namespace": "UnrealEngine",
+    "key": "PrepareMapChangeError",
+    "source_hash": 1528428355,
+    "en": "PrepareMapChange had a bad level name! Check the log (tagged with PREPAREMAPCHANGE) for info"
+  },
+  {
+    "engine_index": 19642,
+    "namespace": "UnrealEngine",
+    "key": "OutOfTextureMemory",
+    "source_hash": 3777634177,
+    "en": "RAN OUT OF TEXTURE MEMORY, EXPECT CORRUPTION AND GPU HANGS!"
+  },
+  {
+    "engine_index": 19643,
+    "namespace": "UnrealEngine",
+    "key": "REFLECTION_CAPTURES_NEED_TO_BE_REBUILT_FMT",
+    "source_hash": 3122685085,
+    "en": "REFLECTION CAPTURES NEED TO BE REBUILT ({0} unbuilt)"
+  },
+  {
+    "engine_index": 19644,
+    "namespace": "UnrealEngine",
+    "key": "ShadersCompilingFmt",
+    "source_hash": 105552299,
+    "en": "Shaders Compiling ({0})"
+  },
+  {
+    "engine_index": 19645,
+    "namespace": "UnrealEngine",
+    "key": "TEXTURE_STREAMING_NEEDS_TO_BE_REBUILT_FMT",
+    "source_hash": 856498574,
+    "en": "TEXTURE STREAMING NEEDS TO BE REBUILT ({0} {0}|plural(one=component,other=components), {1} {1}|plural(one=\"resource ref\",other=\"resource refs\"))"
+  },
+  {
+    "engine_index": 19646,
+    "namespace": "UnrealEngine",
+    "key": "TEXTURE_STREAMING_POOL_OVER_BUDGET_FMT",
+    "source_hash": 383826456,
+    "en": "TEXTURE STREAMING POOL OVER {0} BUDGET"
+  },
+  {
+    "engine_index": 19647,
+    "namespace": "UnrealEngine",
+    "key": "TracingProfilerFrameFmt",
+    "source_hash": 2992979853,
+    "en": "TracingProfiler frame: {0}"
+  },
+  {
+    "engine_index": 19648,
+    "namespace": "UnrealEngine",
+    "key": "VisLogRecordingActive",
+    "source_hash": 2438753996,
+    "en": "VisLog recording active"
+  },
+  {
+    "engine_index": 19649,
+    "namespace": "UnrealEngine",
+    "key": "LLMWARNING",
+    "source_hash": 3490550592,
+    "en": "WARNING: Running with Debug Memory Enabled!"
+  }
+]

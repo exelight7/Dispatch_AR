@@ -1,0 +1,90 @@
+{
+  "total": 12973,
+  "translated": 12973,
+  "arabic_changed": 12091,
+  "verbatim_preserved": 882,
+  "reviewed": 12955,
+  "review_breakdown": {
+    "REVIEWED_OK": 12493,
+    "CHANGED_AFTER_REVIEW": 462,
+    "NEEDS_CONTEXT": 18,
+    "BLOCKED": 0
+  },
+  "tested_in_game": 0,
+  "final": 0,
+  "game_launch_prohibited_by_user": true,
+  "targets": [
+    {
+      "target": "101",
+      "total": 797,
+      "completed": 797
+    },
+    {
+      "target": "102",
+      "total": 2192,
+      "completed": 2192
+    },
+    {
+      "target": "103",
+      "total": 1254,
+      "completed": 1254
+    },
+    {
+      "target": "104",
+      "total": 1722,
+      "completed": 1722
+    },
+    {
+      "target": "105",
+      "total": 1098,
+      "completed": 1098
+    },
+    {
+      "target": "106",
+      "total": 865,
+      "completed": 865
+    },
+    {
+      "target": "107",
+      "total": 684,
+      "completed": 684
+    },
+    {
+      "target": "108",
+      "total": 2116,
+      "completed": 2116
+    },
+    {
+      "target": "EngineRuntime",
+      "total": 464,
+      "completed": 464
+    },
+    {
+      "target": "OnlineSubsystem",
+      "total": 24,
+      "completed": 24
+    },
+    {
+      "target": "OnlineSubsystemSteam",
+      "total": 2,
+      "completed": 2
+    },
+    {
+      "target": "OnlineSubsystemUtils",
+      "total": 20,
+      "completed": 20
+    },
+    {
+      "target": "OtherContent",
+      "total": 50,
+      "completed": 50
+    },
+    {
+      "target": "Shared",
+      "total": 1685,
+      "completed": 1685
+    }
+  ],
+  "validation_errors": 0,
+  "validation_warnings": 0
+}

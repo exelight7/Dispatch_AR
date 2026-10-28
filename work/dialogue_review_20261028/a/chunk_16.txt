@@ -1,0 +1,300 @@
+1600 104:Line:3912BF562295451A886C989274C1E0E9 [Waterboy]
+EN W-Waterboy to the- here we go!
+AR و-ووتربوي للـ-- هيا بنا!
+1601 104:Line:30EDF3F8AF69490C8A3ADE638AB4336C [Waterboy]
+EN W-water and fire-- a-- the most-- best combo.
+AR ا-الماء والنار-- أ-- أكثر-- أفضل ثنائي.
+1602 104:Line:49E255CE23854AD0B74E5D926FD16390 [Phenomaman]
+EN Wait, you really want me?
+AR لحظة، تريدني حقا؟
+1603 104:Line:DC061CE41E674DA4BCE449F212A0A03F [Blonde Blazer]
+EN Wait.
+AR انتظر.
+1604 104:Line:556204EA9AB842719AE7C6BD99546DA4 [Waterboy]
+EN Wait... This isn't a dream, right?
+AR لحظة... هذا ليس حلما، صحيح؟
+1605 104:Line:5E18EA73CFC148428D278A44D44E7DE9 [Golem]
+EN Wait... Wasn't the sad dude just with me?
+AR لحظة... ألم يكن الحزين معي للتو؟
+1606 104:Line:4E67F36547A04F958B5824E8BA244B77 [Robert]
+EN Was I? I don't think that's true.
+AR أكنت كذلك؟ لا أظن هذا صحيحا.
+1607 104:Line:50C769D5E4124C61B7B737C72C0A0550 [Phenomaman]
+EN Was it something I said? Or did? Was it perhaps both?
+AR أكان شيئا قلته؟ أم فعلته؟ أم كليهما؟
+1608 104:Line:A5FA0FDFF930407180B06CBA5C9E5801 [Robert]
+EN Was it the one where I have a big dick in it? 
+AR أهو الحلم الذي أملك فيه قضيبا ضخما؟ 
+1609 104:Line:145EA590345645C886127B83DB1828A0 [Robert]
+EN Was that less of a mistake than the first one?
+AR أكان ذلك أقل خطأ من الأول؟
+1610 104:Line:16AC3E741E87476098D808B6EA769D63 [Robert]
+EN Wasn't there a cult of Chad?
+AR ألم تكن هناك طائفة لتشاد؟
+1611 104:Line:3F7B27FA5C4F46649E60E406A6DC0796 [Punch Up]
+EN Watch and learn sonny.
+AR راقب وتعلم يا بني.
+1612 104:Line:1E2C9BF2FB7E4542A2870F93B1631730 [Flambae]
+EN Waterbitch almost took me out back there.
+AR كاد الحقير المائي يقضي علي هناك.
+1613 104:Line:2B456A77169944ABA869AF09D77F41FE [Blazer]
+EN Waterboy is here to help.
+AR ووتربوي هنا للمساعدة.
+1614 104:Line:EEBEE9A1D3D1434F83674427BA3913E8 [Blonde Blazer]
+EN Waterboy, you don’t have to do that anymore.
+AR ووتربوي، لا داعي لفعل هذا بعد الآن.
+1615 104:Line:480B7E029F304FE4BAF7BC838343BD31 [Flambae]
+EN Way ahead of you Bobert.
+AR سبقتك بكثير يا بوبرت.
+1616 104:Line:117743DAAB8F486EA3A63179A2583552 [Punch-Up]
+EN Way ahead of you, Bob.
+AR سبقتك بكثير يا بوب.
+1617 104:Line:513A06451E38444D9E24F1919563BE43 [Phenomaman]
+EN We are off on a journey that will take us to our destination.
+AR ننطلق في رحلة ستوصلنا إلى وجهتنا.
+1618 104:Line:0B0EDC00489C4777AF4DC0D6C2343506 [Phenomaman]
+EN We are only as small as we let ourselves be measured in inches.
+AR لا نصغر إلا بقدر ما نسمح بقياسنا بالبوصات.
+1619 104:Line:044CDE8DCDA44E48922829DE419FD733 [Rebecca]
+EN We have reason to believe that Mr. Vanderstenk's life will be in danger at a meeting today.
+AR لدينا ما يدعو للاعتقاد بأن حياة السيد فاندرستنك مهددة في اجتماع اليوم.
+1620 104:Line:48FF784853A3407AAE0AEF4767F709E8 [Tina]
+EN We need backup at the mall! Dozens of youths just started rushing us and looting the shops!
+AR نحتاج تعزيزات في مركز التسوق! عشرات الشبان هاجمونا وبدؤوا نهب المتاجر!
+1621 104:Line:1279202ABA5149088950D8D749475E1D [Flambae]
+EN We need you to send somebody else. This is too much!
+AR نحتاج أن ترسلوا شخصا آخر. هذا فوق طاقتنا!
+1622 104:Line:1613B5E7640F464AB46716500D6BFD54 [Flambae]
+EN We need you to send somebody else. This is too much!
+AR نحتاج أن ترسلوا شخصا آخر. هذا فوق طاقتنا!
+1623 104:Line:199DFA5EBA0F42C7BEB4D513BF5E7757 [Phenomaman]
+EN We never had intercourse. |My alien genitals were not compatible with hers. 
+AR لم نمارس الجنس قط. |أعضائي الفضائية لم تتوافق مع أعضائها. 
+1624 104:Line:19DD8DF71F044EA08F4290BA2545FBC9 [Tv Anchor]
+EN We now go live to the 405 where an unusual scene is unfolding. |Traffic has come to a complete standstill, not due to an accident or construction, |but because Phenomaman is simply walking in the middle of freeway.
+AR ننقل مباشرة من طريق 405 حيث يتكشف مشهد غير معتاد. |توقفت حركة المرور تماما، ليس لحادث أو إصلاحات، |بل لأن فينومامان يسير ببساطة وسط الطريق السريع.
+1625 104:Line:5CEB6B879FDE4DA481353CC641EB1F35 [Royd]
+EN We take one bad guy stuffs, and use dem for catch uddah bad guy. |Only good ting... lotta upgrade possibilities.
+AR نأخذ أغراض شرير ونستخدمها للإمساك بغيره. |الشيء الجيد الوحيد... فرص تطوير كثيرة.
+1626 104:Line:450D844CF4874411A41973A473B6A37D [Charles]
+EN We tried to do it ourselves but then I remembered my motto in life: why do it when you can make someone else do it for you?
+AR حاولنا فعلها بأنفسنا، ثم تذكرت شعاري في الحياة: لماذا تتعب إن أمكنك تكليف غيرك؟
+1627 104:Line:5D6AD72434AB4E438AD780DE2E656521 [Phenomaman]
+EN We win or we lose... together.
+AR نفوز أو نخسر... معا.
+1628 104:Line:4823E4FD0F5349348069F065E8C4CB01 [Sonar]
+EN We'll get past this.
+AR سنتجاوز هذا.
+1629 104:Line:37640ACC12494E50A228F8261FC650DE [Robert]
+EN We're out of somebodies. You're gonna have to make do.
+AR لم يبق لدينا أحد. عليكم تدبر أمركم.
+1630 104:Line:45AB1A65414E414EA6C8D6483572EE41 [Robert]
+EN We're out of somebodies. You're gonna have to make do.
+AR لم يبق لدينا أحد. عليكم تدبر أمركم.
+1631 104:Line:4EC198F4BB34495CA9F1AA7BE61E4B16 [Golem]
+EN We're still cool though, right?
+AR ما زلنا على وفاق، صحيح؟
+1632 104:Line:45562CC4ED204A14BEFCB21C24748393 [Ricardo]
+EN We've cleared everyone out already but someone called us about a bomb in one of the theaters...
+AR أخلينا الجميع بالفعل، لكن أحدهم اتصل بشأن قنبلة في إحدى الصالات...
+1633 104:Line:5803BE9646684A69ACECEFB44AAE7CC3 [Galen]
+EN We've tracked down the assassin's temporary base of operations.
+AR حددنا مقر عمليات القتلة المؤقت.
+1634 104:Line:4CFCDAE6DF5B4493BF56B3F7AA5BE4BC [Waterboy]
+EN We-- will sweep the floor-- Mop! Mop the floor with them!
+AR سـ-- سنكنس الأرض-- نمسح! نمسح بهم الأرض!
+1635 104:Line:40621BE149F4483B83475B1E8685FE8B [Prism]
+EN We?
+AR نحن؟
+1636 104:Line:5306951B031241DCAC7C13A37C5A3762 [Robert]
+EN Well I got bad news for you--
+AR لدي خبر سيئ لك--
+1637 104:Line:1A762C162D9F4C2C8BC8E9F32343B4BF [Robert]
+EN Well at least he's putting his newfound pain to... use?
+AR على الأقل يستغل ألمه الجديد... بشكل مفيد؟
+1638 104:Line:138CEB6B9A4E47D0B53FBD59E3E8201C [Malevola]
+EN Well have fun without me.
+AR استمتعوا من دوني إذن.
+1639 104:Line:1932B06A4F034F809B5FAD73E7CA55D1 [Punch Up]
+EN Well then how the fuck are we supposed to do this?
+AR إذن كيف يفترض أن نفعل هذا بحق اللعنة؟
+1640 104:Line:257F16B0BDE6401EB3EE728E2C2A14A7 [Robert]
+EN Well, I can’t have a baby in my life. |Even an invisible one. 
+AR حسنا، لا أريد طفلا في حياتي. |حتى لو كان خفيا. 
+1641 104:Line:211584C081984B6EBDB257FE8CAFBD04 [Punch-Up]
+EN Well, I'm glad you're still with us.
+AR أنا سعيد بأنك ما زلت معنا.
+1642 104:Line:0EF9671EB5D74F22BF2DE37E1D7B6937 [Brainteaser]
+EN Well, a deal's a deal, Dispatcher. Come and get me. I've been waiting downstairs in the lobby for at least thirty minutes. 
+AR الاتفاق اتفاق يا منسق العمليات. تعال وخذني. أنتظر في الردهة بالأسفل منذ ثلاثين دقيقة على الأقل. 
+1643 104:Line:262A762F777D411D93258DFDCF420A6A [Robert]
+EN Well, he's not, so we're going to have to go check on the assholes ourselves.
+AR لكنه ليس هنا، لذا علينا تفقد الأوغاد بأنفسنا.
+1644 104:Line:5F00263B6DAA48D28FB7B9F53F481072 [Robert]
+EN Well, if he's so awful, show him the ropes.
+AR إن كان سيئا هكذا، فعلمه أصول العمل.
+1645 104:Line:96D2EA3CD83B4B3CBDC4C888EBF9FEF4 [Blonde Blazer]
+EN Well, if you’re gonna eat it I wish more of it got into your mouth. |Go get cleaned up, then, clean this up, |then pick me up a BLT from Johnny’s and we’ll call it even.
+AR إن كنت ستأكله، ليت مزيدا منه دخل فمك. |اذهب ونظف نفسك، ثم نظف هذا، |ثم أحضر لي شطيرة لحم مقدد وخس وطماطم من جوني وسنتعادل.
+1646 104:Line:00C4814DD6024D7288AD109E7D5E04F2 [Robert]
+EN Well, it’s nice that you do.
+AR من الجميل أنك كذلك.
+1647 104:Line:2876000920A34DBD8E0C8B9BAC20FB6B [Invisigal]
+EN Well, that makes one of us.
+AR إذن أحدنا على الأقل.
+1648 104:Line:0DEF205330F8447B88D928FEB6AE82E7 [Punch Up]
+EN Well, then uh, happy to help.
+AR حسنا، يسعدني أن أساعد.
+1649 104:Line:5F5458695F414B9780E7D45EE8095455 [Blonde Blazer]
+EN Well, you should probably go get cleaned up, |then, you know accident or not, wipe up this mess you made. 
+AR الأفضل أن تذهب لتنظف نفسك، |ثم تمسح الفوضى التي أحدثتها، سواء كان حادثا أم لا. 
+1650 104:Line:828AFEC920454FE3B3ABFFF69DD83B45 [Robert]
+EN Well, you’re second guessing everything. You do it all the time.
+AR أنت تشكك في كل شيء. تفعل ذلك دائما.
+1651 104:Line:0D647F8274904538BCB509713023D65D [Waterboy]
+EN Well... I can try to um, I mean. It's a great service. We-- Yeah. I can do that.
+AR حسنا... أستطيع المحاولة، أعني. إنها خدمة رائعة. نحن-- أجل. يمكنني ذلك.
+1652 104:Line:031625387CF44D74B9597CF5E470076E [Waterboy]
+EN Wetter than ever.
+AR أكثر بللا من أي وقت.
+1653 104:Line:35007EBAC7434380A6BECD49B4C29A29 [Phenomaman]
+EN What a phenomenal duo we make!
+AR يا لنا من ثنائي مذهل!
+1654 104:Line:0AA341E7D23346DF9EAB9B33A0BBE17E [Flambae]
+EN What are you even talking about dude? Huh?
+AR عما تتحدث أصلا يا رجل؟ ها؟
+1655 104:Line:0D5C5C07B1F94446B61DA3ED5711529B [James]
+EN What do you mean he got away?! You better find him, man!
+AR ماذا تقصد بأنه هرب؟ عليك العثور عليه يا رجل!
+1656 104:Line:6960E1D8DD11414F99309EB493D068A4 [Blonde Blazer]
+EN What do you think?
+AR ما رأيك؟
+1657 104:Line:4BD621485FC94365991FC48D11EF3099 [Waterboy]
+EN What does a concussion feel-- bad, right?
+AR ما شعور الارتجاج-- سيئ، صحيح؟
+1658 104:Line:357D1F87228F470A93137313BB84F070 [Blonde Blazer]
+EN What does he think that I could possibly be saying that would-- |that would make him keep going? |You sure you don’t miss the blonde?
+AR ماذا يظنني أقول له حتى-- |حتى يواصل؟ |أأنت واثق أنك لا تفتقد الشقرة؟
+1659 104:Line:09231106F38E4428B6E69FF4FC5BF37D [Waterboy]
+EN What if I just-- did-- helped like a garden?
+AR ماذا لو فقط-- فعلت-- ساعدت حديقة مثلا؟
+1660 104:Line:45988A548A71423E82FBF4C1ECA3AE77 [Robert]
+EN What is happening today...
+AR ماذا يجري اليوم...
+1661 104:Line:1B576CF2CBA14C92886E6CBE753B0980 [Phenomaman]
+EN What is this? Failure? I... don't understand.
+AR ما هذا؟ فشل؟ أنا... لا أفهم.
+1662 104:Line:4C8466D001ED47B5A5618111E1947188 [Malevola]
+EN What pets have good attitudes?
+AR أي حيوان أليف حسن الطباع؟
+1663 104:Line:35F3DD8C6A2246DB892679095A606E77 [Phenomaman]
+EN What rhymes with "the unimaginable pain of being?"
+AR ما الذي يقافي "ألم الوجود الذي لا يتصور"؟
+1664 104:Line:38B3C369BD97400F80024751A9559AF7 [Invisigal]
+EN What the fuck are you talking about? I'm not sad.
+AR عما تتكلم بحق اللعنة؟ لست حزينة.
+1665 104:Line:0BEE899F34BA4862BF9D16FC8C287A21 [Waterboy]
+EN What time is it?
+AR كم الساعة؟
+1666 104:Line:2E26B417B3864922B39BBB94C0940B4E [Robert]
+EN What you need, is to believe in yourself.
+AR ما تحتاج إليه هو أن تؤمن بنفسك.
+1667 104:Line:07D73D99F8BD41119E9FF786FE6C10E0 [Golem]
+EN What's a cult?
+AR ما هي الطائفة؟
+1668 104:Line:5E11FBAFB8FA4CFEB5330D18C2B91A9A [Phenomaman]
+EN What's the point?
+AR ما الجدوى؟
+1669 104:Line:2672C902C75B46D38CAEA03B64DD8FE6 [Waterboy]
+EN What's up?
+AR ما الأمر؟
+1670 104:Line:5CE19D6D46D54E4FB279655765486BEF [Waterboy]
+EN What?
+AR ماذا؟
+1671 104:Line:6DC55CE0A970428CB49CCB1E43F8DC0C [Waterboy]
+EN What?-- Can you not-- it’s happening right-- currently. 
+AR ماذا؟-- ألا ترى-- يحدث الآن-- حاليا. 
+1672 104:Line:FFC950CFB37743B7B372A96B0BE1AE47 [Robert]
+EN Whatcha watching?
+AR ماذا تشاهدين؟
+1673 104:Line:5193A1B137E14388949A95513AFA0C21 [Punch-Up]
+EN Whatever you say.
+AR كما تقول.
+1674 104:Line:3AF1DF062CEA480894DD952E3CF63D80 [Flambae]
+EN Whatever, bro.
+AR كما تريد يا أخي.
+1675 104:Line:43C7569203CA477A8951E41E7B4D1A36 [Waterboy]
+EN Whatever.
+AR لا يهم.
+1676 104:Line:F3D6E8EFB7E14CB282E4862E3A53F270 [Flambae]
+EN Whatever. It was an accident. |Just aim your dick up and water piss it off.
+AR لا يهم. كان حادثا. |وجه قضيبك لأعلى واغسله ببولك المائي.
+1677 104:Line:AB7909D152CA49FF849728BD86B7B24F [Robert]
+EN What’re you afraid of with the Z-Team? |Seriously, what’s the worst that can happen?
+AR مم تخاف مع فريق Z؟ |بجدية، ما أسوأ ما قد يحدث؟
+1678 104:Line:5F1E67452C9E4A369373CFE74C763E5C [Flambae]
+EN What’re you gonna snitch on me? 
+AR ماذا، ستشي بي؟ 
+1679 104:Line:356AC878C4544BBD89DD1E52232AD44C [Robert]
+EN What’s happening today? The thing you’re going to. 
+AR ما المناسبة اليوم؟ التي ستذهبين إليها. 
+1680 104:Line:3A74C3FA87184EB7BCC5D645301DF8FE [Waterboy]
+EN When's lunch?
+AR متى الغداء؟
+1681 104:Line:1FAC158BB0FA45D286775639226B1797 [Charles]
+EN Where the hell'd you go? Job's not finished, dude! We need you to bring everything up to our new place.
+AR أين اختفيت بحق الجحيم؟ لم ينته العمل يا صاح! عليكم نقل كل شيء إلى منزلنا الجديد.
+1682 104:Line:2820D0C186DB4D3DB261F4E10AE112C7 [Robert]
+EN Where was it?
+AR أين كانت؟
+1683 104:Line:763282F3332D4655926E81F328EC13DF [Invisigal]
+EN Where was the shootout? 
+AR أين كان إطلاق النار؟ 
+1684 104:Line:2F9B4AEA690E4AE9AB2E2927B2F55947 [Flambae]
+EN Who wants fried fish?
+AR من يريد سمكا مقليا؟
+1685 104:Line:E0A770A4DAA44512BA07CAA40121E5C4 [Robert]
+EN Whoa. 
+AR واو. 
+1686 104:Line:6D58793C0AE246FE8EE72977C81D0EE1 [Robert]
+EN Whoa. What’re you doing?
+AR مهلا. ماذا تفعلين؟
+1687 104:Line:18C0B330CD95449C85AB15F43CB8412B [Royd]
+EN Whole network expect me for process all dey confiscated stuffs. |Cus we da bottom branch fo SDN, we catch all kine shit work brah.
+AR الشبكة كلها تتوقع مني معالجة مصادراتها. |لأننا أدنى فرع في SDN، يرمون علينا كل الأعمال اللعينة يا أخي.
+1688 104:Line:014310AEF50541F68AFB5355D3925E5D [Phenomaman]
+EN Why do we live... just to suffer?
+AR لماذا نحيا... لنعاني فقط؟
+1689 104:Line:167CCF5DDFEB4DBBB694E3091C463793 [Robert]
+EN Why do you care what I think?
+AR لماذا يهمك رأيي؟
+1690 104:Line:4DEFE774854E40C4BF5E28702DBFF4F9 [Robert]
+EN Why do you care what I think?
+AR لماذا يهمك رأيي؟
+1691 104:Line:2B4847D569BD4ADCA805C4F2CE84126F [Robert]
+EN Why do you need it? You're in the field.
+AR لماذا تحتاجها؟ أنت في الميدان.
+1692 104:Line:7D252BD928844D8E81B73ECCD63429E1 [Robert]
+EN Why does that sound like a propaganda rally. There. 
+AR لماذا يبدو كأنه مهرجان دعائي؟ هاك. 
+1693 104:Line:C629350DF6774CB0B9731503ECAD5B87 [Blonde Blazer]
+EN Why is he here so late?
+AR لماذا هو هنا في هذا الوقت المتأخر؟
+1694 104:Line:64D5DC99B9AF4BA5893D935EA9AD5CCA [Phenomaman]
+EN Why is that cool?
+AR لماذا هذا رائع؟
+1695 104:Line:2FE3CE4F2C074645ACDCA6F8D021E459 [Flambae]
+EN Why the FUCK am I all wet?
+AR لماذا أنا مبلل بحق اللعنة؟
+1696 104:Line:2AFEE06DF26C4D2BACA70DCC40B950BA [Robert]
+EN Why would I need to steal your stapler? I already have a stapler.
+AR لماذا أسرق دباستك؟ لدي دباسة بالفعل.
+1697 104:Line:A10ED81DDBD1484C93F444417C8D8EC1 [Robert]
+EN Why? Do you want us to be friends?
+AR لماذا؟ أتريدنا أن نصبح صديقين؟
+1698 104:Line:2B82468C219D4E8887D08083EAD72549 [Phenoma-Man]
+EN With perseverence we can continue.
+AR بالمثابرة نستطيع الاستمرار.
+1699 104:Line:3ACEB6E5D09547489E2F2841CF3EB302 [Sonar]
+EN Woah, woah, woah. Where's my backup?
+AR مهلا، مهلا، مهلا. أين تعزيزاتي؟
